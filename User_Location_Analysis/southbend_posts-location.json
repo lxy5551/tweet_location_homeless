@@ -1,0 +1,47 @@
+{
+  "1351221982671593472": {
+    "username": "Bazzedv2",
+    "location": "Mishawaka, IN",
+    "raw_location": "United States",
+    "source": "geo-tagged",
+    "confidence": "high",
+    "followers_count": 1509,
+    "following_count": 1733
+  },
+  "559167668": {
+    "username": "swiftlysober",
+    "location": "South Bend, Indiana",
+    "raw_location": "Indiana, USA",
+    "source": "network",
+    "confidence": "medium",
+    "followers_count": 1376,
+    "following_count": 911
+  },
+  "1492188959153209349": {
+    "username": "8mbx7x7btm",
+    "location": "West Virginia",
+    "raw_location": null,
+    "source": "network",
+    "confidence": "medium",
+    "followers_count": 331,
+    "following_count": 334
+  },
+  "1620149834131841043": {
+    "username": "HalseyxtB",
+    "location": "Washington, D.C.",
+    "raw_location": "USA ",
+    "source": "network",
+    "confidence": "medium",
+    "followers_count": 1346,
+    "following_count": 1812
+  },
+  "2334725995": {
+    "username": "AraquelBloss",
+    "location": "Seattle, WA",
+    "raw_location": "United States",
+    "source": "network",
+    "confidence": "medium",
+    "followers_count": 21883,
+    "following_count": 7366
+  }
+}

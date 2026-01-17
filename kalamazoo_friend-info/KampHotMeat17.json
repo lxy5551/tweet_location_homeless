@@ -1,0 +1,2973 @@
+{
+  "ihyomeo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "469774093",
+      "name": "omeo 𖤐",
+      "userName": "ihyomeo",
+      "location": "",
+      "url": "https://t.co/QX6RP45A2b",
+      "description": "DO OR DIE OUT NOW, link below ⟡ sponsored by @rainbetcom",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                45,
+                56
+              ],
+              "name": "",
+              "screen_name": "rainbetcom"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/ihyomeo",
+              "expanded_url": "https://linktr.ee/ihyomeo",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QX6RP45A2b"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 222448,
+      "following": 25750,
+      "favouritesCount": 1137879,
+      "statusesCount": 5444,
+      "mediaCount": 1196,
+      "createdAt": "2012-01-20T23:53:26.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/469774093/1515419968",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1483998522210988033/TIGViIQi_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009744804997927309"
+      ]
+    }
+  },
+  "TSweeze88": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1620714900589871105",
+      "name": "Sweeze",
+      "userName": "TSweeze88",
+      "location": "Screwston, TX",
+      "url": "https://t.co/X7HzQStMUw",
+      "description": "Hip-Hop, Wrestling, NBA and Comedy Podcast fan. Sweeze and Swizzle’s Podcast. The Texas Tornado of Twitter.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@sweezeandswiz…",
+              "expanded_url": "https://youtube.com/@sweezeandswizzlepodcast?si=i-JSL0J_XdvOtWS0",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/X7HzQStMUw"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 522,
+      "following": 1011,
+      "favouritesCount": 22050,
+      "statusesCount": 10967,
+      "mediaCount": 2859,
+      "createdAt": "2023-02-01T09:25:51.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1620714900589871105/1767931363",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2011757902592364544/dwmiy-UG_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TheWooDeeWoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1030935520099090432",
+      "name": "WooDeeWoo ¹",
+      "userName": "TheWooDeeWoo",
+      "location": "⚛🃏2007🔱🪐",
+      "url": "https://t.co/OiK4IxtySO",
+      "description": "Tikisequitured_Juggalocam_33_|~$WDWget Good Burger 3.wmv+UFOpticon Sutekhosphere.wav+The R0$t@c0$t That Invultuated Voodooland.warc+SpongeBob IRC FlowChart.wdp",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "dsc.gg/2-thousand-7",
+              "expanded_url": "https://dsc.gg/2-thousand-7",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OiK4IxtySO"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 222,
+      "following": 321,
+      "favouritesCount": 4941,
+      "statusesCount": 1425,
+      "mediaCount": 934,
+      "createdAt": "2018-08-18T21:52:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1030935520099090432/1766651328",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1918543189880803329/rfxos5E6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1939913423870923143"
+      ]
+    }
+  },
+  "HatchetRyda302": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "584641129",
+      "name": "Rob Hosier",
+      "userName": "HatchetRyda302",
+      "location": "Salisbury, MD",
+      "url": "https://t.co/GTo6FH03S1",
+      "description": "📍Maryland\nHusband & Father\n🤡Juggalo 🤡\n🍃$toner🍃\n🎮PSN: KarmaKazi410420\nAsshole with a smartphone and an Internet connection",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "DeezNutz.com",
+              "expanded_url": "http://DeezNutz.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GTo6FH03S1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 256,
+      "following": 1828,
+      "favouritesCount": 555,
+      "statusesCount": 2293,
+      "mediaCount": 28,
+      "createdAt": "2012-05-19T10:32:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/584641129/1762515399",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1986759702294736896/5tmATGQ3_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "FlatLincoln": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1993442350576934912",
+      "name": "Flat Lincoln",
+      "userName": "FlatLincoln",
+      "location": "United States",
+      "url": "https://t.co/QSCpTg2daN",
+      "description": "Living my best life on a stick.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/flat.lincoln/",
+              "expanded_url": "https://www.instagram.com/flat.lincoln/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QSCpTg2daN"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 12,
+      "following": 13,
+      "favouritesCount": 8,
+      "statusesCount": 20,
+      "mediaCount": 19,
+      "createdAt": "2025-11-25T22:11:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1993442350576934912/1764109377",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1993498939312558080/brr_ylAy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1993472158283239586"
+      ]
+    }
+  },
+  "FaxShepard": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1694159208491384833",
+      "name": "GrOoL~uNiT",
+      "userName": "FaxShepard",
+      "location": "New Jersey, USA",
+      "url": "",
+      "description": "Lemme hold a follow #LFGM🍎",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                20,
+                25
+              ],
+              "text": "LFGM"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 381,
+      "following": 563,
+      "favouritesCount": 12945,
+      "statusesCount": 8037,
+      "mediaCount": 2152,
+      "createdAt": "2023-08-23T01:27:05.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1694159208491384833/1749188965",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2008801150770761728/uCzmwJdl_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1948776451538342099"
+      ]
+    }
+  },
+  "NoBonesRasslin": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1536511025939357697",
+      "name": "NoBonesAboutWrestling ☠️",
+      "userName": "NoBonesRasslin",
+      "location": "NC, USA",
+      "url": "https://t.co/PTKSh9WdSA",
+      "description": "Asa, Kay Fabulous, Switch, & Wolf love wrestling!! We cover AEW, JCW, RoH, retro wrestling, & more! MATURE ONLY—FOR 18+ who can deal with profanity.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "YouTube.com/@NoBonesAboutW…",
+              "expanded_url": "http://www.YouTube.com/@NoBonesAboutWrestling/streams/live",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PTKSh9WdSA"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 2784,
+      "following": 5816,
+      "favouritesCount": 12580,
+      "statusesCount": 9208,
+      "mediaCount": 1210,
+      "createdAt": "2022-06-14T00:49:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1536511025939357697/1768352862",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1934230290005716992/FK6agg-W_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2011243652899639639"
+      ]
+    }
+  },
+  "Jimbojizm665": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1661159562643136512",
+      "name": "Mr. Jack",
+      "userName": "Jimbojizm665",
+      "location": "Chicago, Il",
+      "url": "",
+      "description": "What's up, family! Love movies, especially horror. ❤️ hockey, and wrestling. Im also a Juggalo,",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 587,
+      "following": 1098,
+      "favouritesCount": 13915,
+      "statusesCount": 14830,
+      "mediaCount": 5748,
+      "createdAt": "2023-05-24T00:00:38.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1661159562643136512/1698612877",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1780434696570093568/sHIO1FYA_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1762723324252065882"
+      ]
+    }
+  },
+  "acetoneb00gie": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1916948999422308353",
+      "name": "BOBBYDOESNOTEXIST",
+      "userName": "acetoneb00gie",
+      "location": "",
+      "url": "",
+      "description": "Gloom unit (OLD ACCOUNT GOT DELETED)",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 153,
+      "following": 134,
+      "favouritesCount": 5318,
+      "statusesCount": 1715,
+      "mediaCount": 158,
+      "createdAt": "2025-04-28T20:14:14.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1916949283112386560/iRhcWKCW_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1958181469320249495"
+      ]
+    }
+  },
+  "boss_on_here": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1107337087202848768",
+      "name": "boss",
+      "userName": "boss_on_here",
+      "location": "my ass! ",
+      "url": "",
+      "description": "Your digital master",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 23934,
+      "following": 1763,
+      "favouritesCount": 420337,
+      "statusesCount": 48210,
+      "mediaCount": 5514,
+      "createdAt": "2019-03-17T17:45:09.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1107337087202848768/1666805718",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2006394042096001024/woOXOQW9_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1224903089787998210"
+      ]
+    }
+  },
+  "RADIOBOSSFM899": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1808482396653625344",
+      "name": "RadioBoss98.9FM OWERRI",
+      "userName": "RADIOBOSSFM899",
+      "location": "Owerri, Nigeria",
+      "url": "https://t.co/G9YpHO5Kul",
+      "description": "we are here for music News broadcast RadioBoss98.9FM OWERRI for artist promotion, kindly dm us for the promotion of your song here emai\nhttps://t.co/nBvlaSsVKc",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "RADIOBOSSFM899OWERRI.com",
+              "expanded_url": "http://RADIOBOSSFM899OWERRI.com",
+              "indices": [
+                136,
+                159
+              ],
+              "url": "https://t.co/nBvlaSsVKc"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "boss989fm.com",
+              "expanded_url": "https://boss989fm.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/G9YpHO5Kul"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 283,
+      "following": 1041,
+      "favouritesCount": 5377,
+      "statusesCount": 4712,
+      "mediaCount": 113,
+      "createdAt": "2024-07-03T12:46:35.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1808482396653625344/1735391079",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1881520650805751808/4PpU8zYt_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1872990051749249178"
+      ]
+    }
+  },
+  "MissE_515": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1752844226004447232",
+      "name": "Miss E",
+      "userName": "MissE_515",
+      "location": "Iowa, USA",
+      "url": "",
+      "description": "country widow",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 821,
+      "following": 428,
+      "favouritesCount": 79136,
+      "statusesCount": 6323,
+      "mediaCount": 339,
+      "createdAt": "2024-02-01T00:00:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1752844226004447232/1706830785",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1889449387249614848/4r_-bo5E_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "xmj498j79q": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1864812434310983680",
+      "name": "ChrisVworld",
+      "userName": "xmj498j79q",
+      "location": "USA",
+      "url": "",
+      "description": "Gardening lover sharing tips & harvests, 3D Printing, Model Train enthusiast, Natural Photography, sometimes tasteful...",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10887,
+      "following": 12110,
+      "favouritesCount": 105941,
+      "statusesCount": 62420,
+      "mediaCount": 4443,
+      "createdAt": "2024-12-05T23:22:04.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1864812434310983680/1759965242",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1940616937093865472/-OPfT4gN_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1980378872274395196"
+      ]
+    }
+  },
+  "likekoolaid": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "42086464",
+      "name": "miguel gibson",
+      "userName": "likekoolaid",
+      "location": "",
+      "url": "https://t.co/xjGdKfYf3x",
+      "description": "dork court is back and it’s better than never",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/likekoolaid",
+              "expanded_url": "https://linktr.ee/likekoolaid",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xjGdKfYf3x"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1016,
+      "following": 556,
+      "favouritesCount": 28385,
+      "statusesCount": 27634,
+      "mediaCount": 2525,
+      "createdAt": "2009-05-23T19:53:10.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/42086464/1755915763",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1959078083941548032/PGTEJav6_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "4dots899721": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1676409973604077568",
+      "name": "4dots",
+      "userName": "4dots899721",
+      "location": "",
+      "url": "https://t.co/98vi3lwT2a",
+      "description": "Dart addict CONNECTING THE DOTS",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "4dots.ca",
+              "expanded_url": "http://4dots.ca",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/98vi3lwT2a"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1483,
+      "following": 6297,
+      "favouritesCount": 31708,
+      "statusesCount": 31067,
+      "mediaCount": 4222,
+      "createdAt": "2023-07-05T01:58:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1676409973604077568/1700062354",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1676410801320521728/sbsaxlDW_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1724645210397794512"
+      ]
+    }
+  },
+  "PYROWORLD420": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1519010054359371776",
+      "name": "PYRO",
+      "userName": "PYROWORLD420",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4397,
+      "following": 1531,
+      "favouritesCount": 5790,
+      "statusesCount": 4374,
+      "mediaCount": 2144,
+      "createdAt": "2022-04-26T17:46:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1519010054359371776/1652632026",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1901265013689724928/HC3CLAo0_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1897962898065850478"
+      ]
+    }
+  },
+  "JaymoneyGso": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1729125557827141632",
+      "name": "Jaymoney",
+      "userName": "JaymoneyGso",
+      "location": "",
+      "url": "",
+      "description": "Artist musician and real cool",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 33,
+      "following": 483,
+      "favouritesCount": 274,
+      "statusesCount": 464,
+      "mediaCount": 22,
+      "createdAt": "2023-11-27T13:10:52.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1729125739553792000/EH-ZRunB_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "dedmanshank": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "811427901123989504",
+      "name": "Brian McNeal",
+      "userName": "dedmanshank",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 57,
+      "following": 149,
+      "favouritesCount": 183,
+      "statusesCount": 129,
+      "mediaCount": 11,
+      "createdAt": "2016-12-21T04:27:42.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/811427901123989504/1491348434",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1333838820740042754/fowcAYJr_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jbh2175": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "25186557",
+      "name": "Josh (Not Joshy)",
+      "userName": "jbh2175",
+      "location": "Jersey Shore",
+      "url": "",
+      "description": "Cats and BS. Elmo lover too.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 769,
+      "following": 254,
+      "favouritesCount": 60214,
+      "statusesCount": 57349,
+      "mediaCount": 14200,
+      "createdAt": "2009-03-18T23:43:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/25186557/1711134563",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2008594341258792960/PfMO3Why_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1952763301391118412"
+      ]
+    }
+  },
+  "MilenkoXIII": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1890134349439217664",
+      "name": "Paullie DonAtari",
+      "userName": "MilenkoXIII",
+      "location": "Cincinnati, OH",
+      "url": "",
+      "description": "The Carnival Provides 🪓🌙",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 76,
+      "following": 130,
+      "favouritesCount": 4013,
+      "statusesCount": 485,
+      "mediaCount": 31,
+      "createdAt": "2025-02-13T20:22:05.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1890134349439217664/1764199493",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1993823024915578880/PLUkuF1O_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "JokerzGallery": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "869115732562518016",
+      "name": "JokerzGallery",
+      "userName": "JokerzGallery",
+      "location": "",
+      "url": "https://t.co/DtroVppxjN",
+      "description": "Faygoluvers Documentary Maker: 20in17, HW25, Gen TwiZtiD, 20in19, Dirtumentary, Bizkitmentary, UK96, Snoopumentary, Sugamentary, & Smeshumentary",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@JokerzGallery",
+              "expanded_url": "https://www.youtube.com/@JokerzGallery",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DtroVppxjN"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1594,
+      "following": 559,
+      "favouritesCount": 14157,
+      "statusesCount": 7496,
+      "mediaCount": 1252,
+      "createdAt": "2017-05-29T08:58:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/869115732562518016/1756953096",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2001454018363523072/i4H1a-V5_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1440471988623921161"
+      ]
+    }
+  },
+  "MasSexy_Dankind": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1874314941064224768",
+      "name": "dan_kind",
+      "userName": "MasSexy_Dankind",
+      "location": "Uso Penitentiary ",
+      "url": "",
+      "description": "professional wrestling noise core for the masses.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10,
+      "following": 117,
+      "favouritesCount": 144,
+      "statusesCount": 45,
+      "mediaCount": 5,
+      "createdAt": "2025-01-01T04:41:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1874314941064224768/1735706755",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1874326057043513344/P3Eyf9tO_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DoubleDose2winn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "779036729856491520",
+      "name": "Double Do$e 2winn",
+      "userName": "DoubleDose2winn",
+      "location": "COLUMBUS,MS TO ATLANTA,GA",
+      "url": "https://t.co/lVnBF3gsUS",
+      "description": "2winn is tha realest from tha 'Ssipp. The Columbus Kid hails from tha Golden Triange. Tatted up,pierced up, n' ready for lyrical warfare you cant stop it!",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "iRiotMusic.com",
+              "expanded_url": "http://iRiotMusic.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lVnBF3gsUS"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 51,
+      "following": 507,
+      "favouritesCount": 180,
+      "statusesCount": 368,
+      "mediaCount": 11,
+      "createdAt": "2016-09-22T19:16:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/779036729856491520/1611168622",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1351965303945748488/zFJMC4DU_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "saturns_eyes": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1445649589143420929",
+      "name": "🪐👽Ash🛸🪐",
+      "userName": "saturns_eyes",
+      "location": "31 | hell mostly ",
+      "url": "https://t.co/ToUjSZhA40",
+      "description": "♑️♍️♒️\nmy brain is chaos honestly 🙃",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "anomalousobscura.myshopify.com",
+              "expanded_url": "https://anomalousobscura.myshopify.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ToUjSZhA40"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 146,
+      "following": 509,
+      "favouritesCount": 448,
+      "statusesCount": 257,
+      "mediaCount": 46,
+      "createdAt": "2021-10-06T07:18:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1445649589143420929/1741884251",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1923399634837262336/I9JUyn-W_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Grav3yardSmash": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1675763089113792513",
+      "name": "Tokahontas The DeadHead Hippie🐻",
+      "userName": "Grav3yardSmash",
+      "location": "Michigan, USA",
+      "url": "",
+      "description": "33 Roller Derby 👑 Dead Head 🐻🍄⚡47 tattoos Horror Junkie Stoner 5'11 mmfwcl 🤡🪓 Boyfriend taken don't bother 😘Hell Betty Georgia 🍑 ,🪦 yard baby 🍼 MAGA✝️",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2148,
+      "following": 4166,
+      "favouritesCount": 20567,
+      "statusesCount": 16167,
+      "mediaCount": 2365,
+      "createdAt": "2023-07-03T07:07:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1675763089113792513/1768259175",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2010214541951406080/Xj7YnN64_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1965981116097233113"
+      ]
+    }
+  },
+  "Itz__Swifty": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3373314249",
+      "name": "Itz Swifty (Da Music Man)",
+      "userName": "Itz__Swifty",
+      "location": "Philadelphia, PA",
+      "url": "https://t.co/Q2k3sI3VPa",
+      "description": "🎶  💯 ℍ𝕚𝕥 𝕥𝕙𝕒𝕥 𝔽𝕠𝕝𝕝𝕠𝕨. I  post NEW and UNDERRATED 𝕞𝕦𝕤𝕚𝕔!! Retweet if you enjoy .\n T̷h̷i̷s̷ I̷S̷ t̷h̷e̷ p̷l̷a̷y̷l̷i̷s̷t̷ o̷f̷ m̷y̷ l̷i̷f̷e̷👍",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ww.NewClassicsDailyNoGenre.com",
+              "expanded_url": "http://ww.NewClassicsDailyNoGenre.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Q2k3sI3VPa"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1243,
+      "following": 3606,
+      "favouritesCount": 16164,
+      "statusesCount": 7975,
+      "mediaCount": 530,
+      "createdAt": "2015-07-13T03:27:42.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3373314249/1643594773",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1233200111947264000/tX9GW0dL_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1996245995626053748"
+      ]
+    }
+  },
+  "w_blevins": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1160128890922328064",
+      "name": "Kristal Blevins",
+      "userName": "w_blevins",
+      "location": "Virginia, USA",
+      "url": "",
+      "description": "SW VA SAHM to 3 boys and 1 girl. Married, metalhead, and obsessed with '90s rap, R&B, and nu-metal. Parkway Drive & Alex Terrible are my vibe!",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 71,
+      "following": 635,
+      "favouritesCount": 40,
+      "statusesCount": 81,
+      "mediaCount": 6,
+      "createdAt": "2019-08-10T10:00:56.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1160128890922328064/1579934147",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1220958419676467200/mzLF_tMU_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "juggalowindu918": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1927447955180605440",
+      "name": "Juggalo Windu",
+      "userName": "juggalowindu918",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 127,
+      "following": 726,
+      "favouritesCount": 2281,
+      "statusesCount": 839,
+      "mediaCount": 29,
+      "createdAt": "2025-05-27T19:33:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1927447955180605440/1768485506",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2011549528680267777/KctPt58l_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "wiccitfx": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1917760467881320449",
+      "name": "Rissa | Fx.",
+      "userName": "wiccitfx",
+      "location": "",
+      "url": "",
+      "description": "Juggalette 🤡 | C17 🌙 | 710 🍯  | BL ❤️ | RI | 🔞",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 61,
+      "following": 82,
+      "favouritesCount": 1184,
+      "statusesCount": 360,
+      "mediaCount": 12,
+      "createdAt": "2025-05-01T01:58:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1917760467881320449/1747350964",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1923155844184539137/DCn5iw76_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TWEETMYWECKORDS": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1836569815",
+      "name": "THiSiSMYWoRLD",
+      "userName": "TWEETMYWECKORDS",
+      "location": "Everywhere",
+      "url": "https://t.co/cvamjC2e9p",
+      "description": "The Official Twitter/X for MY WORLD  \n\nA FAILED DREAMER \n\nVEGAN Juggalo\n\nYou can't go forward if you're always looking back ~ WiKiT",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/WiKiTWoNKaWeCK…",
+              "expanded_url": "https://www.facebook.com/WiKiTWoNKaWeCKoRDSLLC",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/cvamjC2e9p"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 263,
+      "following": 761,
+      "favouritesCount": 5174,
+      "statusesCount": 4792,
+      "mediaCount": 255,
+      "createdAt": "2013-09-09T00:15:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1836569815/1388212054",
+      "profilePicture": "https://pbs.twimg.com/profile_images/378800000448915984/d470bc6daed63f2aab1bb7ca7c5e6695_normal.jpeg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1655196417810415616"
+      ]
+    }
+  },
+  "MaryNedell": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1518716010269974531",
+      "name": "UNFUCKWITHABLE Mary Watters",
+      "userName": "MaryNedell",
+      "location": "here and now",
+      "url": "https://t.co/2cItxpcr9t",
+      "description": "Life enthusiast, truth seeker, cloud eraser, healer, catalyst, ordained minister, FE since 1967.\n\nTIME IS MAN MADE\nit matters not. \n\nhttps://t.co/2cItxpcr9t",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "marywatters.com",
+              "expanded_url": "http://www.marywatters.com",
+              "indices": [
+                133,
+                156
+              ],
+              "url": "https://t.co/2cItxpcr9t"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "marywatters.com",
+              "expanded_url": "http://www.marywatters.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2cItxpcr9t"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1156,
+      "following": 2157,
+      "favouritesCount": 42277,
+      "statusesCount": 10262,
+      "mediaCount": 427,
+      "createdAt": "2022-04-25T22:18:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1518716010269974531/1737257683",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1518716147729932291/SDAdledp_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Lishawrld4200": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1284356198859452418",
+      "name": "Alisha Mixed Tatted Up Curvy Mixed Chick",
+      "userName": "Lishawrld4200",
+      "location": "Better and stronger",
+      "url": "",
+      "description": "momma to the 3 greatest kiddos                      a tattoo apprentice and piercer",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1192,
+      "following": 4163,
+      "favouritesCount": 780,
+      "statusesCount": 4863,
+      "mediaCount": 2972,
+      "createdAt": "2020-07-18T05:16:20.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1284356198859452418/1767335349",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2006975991436992512/G8JvC0HM_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1999226032155689040"
+      ]
+    }
+  },
+  "Secureei": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1569236387899097091",
+      "name": "?",
+      "userName": "Secureei",
+      "location": "",
+      "url": "",
+      "description": "?",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 177,
+      "following": 212,
+      "favouritesCount": 11385,
+      "statusesCount": 9272,
+      "mediaCount": 2544,
+      "createdAt": "2022-09-12T08:08:29.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2003463294011555840/1SwIL0kD_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1771208370587893876"
+      ]
+    }
+  },
+  "yahweh83enigma": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1942376178398158850",
+      "name": "Yahweh",
+      "userName": "yahweh83enigma",
+      "location": "Oregon, USA",
+      "url": "https://t.co/VS5w46Toh6",
+      "description": "Conspiracy theorist🐇 collector of true knowledge🐇 Christ is King 💚 Homeopathic 🌱🌿 Flat earther Qtard",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "tiktok.com/@yahweh941?_t=…",
+              "expanded_url": "https://www.tiktok.com/@yahweh941?_t=ZT-8ynmXDtX1Xj&_r=1",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VS5w46Toh6"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1741,
+      "following": 1376,
+      "favouritesCount": 16813,
+      "statusesCount": 12238,
+      "mediaCount": 2897,
+      "createdAt": "2025-07-08T00:12:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1942376178398158850/1755138753",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1963390278636900352/ktx3NlN7_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1969591658498179383"
+      ]
+    }
+  },
+  "JohnParanormal2": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1753311165634211840",
+      "name": "John; (4/20UFO - Paranormal Witness)",
+      "userName": "JohnParanormal2",
+      "location": "Los Angeles, CA",
+      "url": "",
+      "description": "Investigated On My own, FromChicago Sighting of Glowing Red Eyes Inside My Home which led me on a journey of UFOs. (CannabisUFOWitness) Florissant, CO 9/26/16",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 69,
+      "following": 1081,
+      "favouritesCount": 2250,
+      "statusesCount": 44,
+      "mediaCount": 10,
+      "createdAt": "2024-02-02T06:55:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1753311165634211840/1706858922",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1785372558860374016/fHNXmq0p_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KenyanSuns_Fan": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1438918913371344896",
+      "name": "Siro",
+      "userName": "KenyanSuns_Fan",
+      "location": "🏜️",
+      "url": "",
+      "description": "Biggest Phoenix Suns Fan in Kenya 💜🧡🏀🇰🇪 | #WeAreTheValley #SunsUp | AZ Sports: #Birdgang  #Dbacks MERCURY #phxrising\n\nBELIEVE! IT'S POSSIBLE💯💪🏾",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                42,
+                57
+              ],
+              "text": "WeAreTheValley"
+            },
+            {
+              "indices": [
+                58,
+                65
+              ],
+              "text": "SunsUp"
+            },
+            {
+              "indices": [
+                79,
+                88
+              ],
+              "text": "Birdgang"
+            },
+            {
+              "indices": [
+                90,
+                97
+              ],
+              "text": "Dbacks"
+            },
+            {
+              "indices": [
+                106,
+                116
+              ],
+              "text": "phxrising"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2399,
+      "following": 1838,
+      "favouritesCount": 43825,
+      "statusesCount": 5311,
+      "mediaCount": 500,
+      "createdAt": "2021-09-17T17:33:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1438918913371344896/1714622676",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1858727076762632192/oS2LKVNF_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1849269020794454140"
+      ]
+    }
+  },
+  "OraclesStar": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1128109890",
+      "name": "ORACLES STAR ⭐️🧘🏾‍♂️",
+      "userName": "OraclesStar",
+      "location": "Meditation center ",
+      "url": "",
+      "description": "🔮 Mystic Reader 🔮 | Unlocking the secrets of the universe and revealing your path forward 🧘🏾‍♂️✨💞🇩🇪🇳🇬🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1333,
+      "following": 4850,
+      "favouritesCount": 27,
+      "statusesCount": 93,
+      "mediaCount": 3,
+      "createdAt": "2013-01-28T13:47:15.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1128109890/1746652968",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1920227724666294272/BnrFlHo-_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "xaiominw64": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1788587313448239104",
+      "name": "Ego",
+      "userName": "xaiominw64",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 198,
+      "following": 5248,
+      "favouritesCount": 357,
+      "statusesCount": 4906,
+      "mediaCount": 629,
+      "createdAt": "2024-05-09T15:10:44.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1922145252166557696/Fc_YJyWt_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "A_A_Ron740": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "766399564437942272",
+      "name": "🪓Aaron Banks🔪",
+      "userName": "A_A_Ron740",
+      "location": "Woods of Legend Valley OH",
+      "url": "https://t.co/aoHFWEuZNo",
+      "description": "Pug dad, Horror, WWE, Juggalo, Simpsons, Gamer, 50s-60s sci-fi \nMay the Schwartz be with you!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/aaron.banks.98…",
+              "expanded_url": "https://www.instagram.com/aaron.banks.9809?igsh=MWk5ajkyOWYxZThhNg==",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aoHFWEuZNo"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 157,
+      "following": 326,
+      "favouritesCount": 8762,
+      "statusesCount": 4522,
+      "mediaCount": 1536,
+      "createdAt": "2016-08-18T22:21:10.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/766399564437942272/1762106141",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1982908003398373376/wv2XRWgR_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KharnijFrom2001": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1829593334412656654",
+      "name": "Kharnij",
+      "userName": "KharnijFrom2001",
+      "location": "",
+      "url": "",
+      "description": "Kharnij from 2001 (I came back)",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 18,
+      "following": 60,
+      "favouritesCount": 210,
+      "statusesCount": 167,
+      "mediaCount": 23,
+      "createdAt": "2024-08-30T18:53:46.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1829593334412656654/1726096355",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1829593576868544512/Stm5fF2c_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1874996459168465040"
+      ]
+    }
+  },
+  "Raintheplug1": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1912707434243846146",
+      "name": "Rain The Plug",
+      "userName": "Raintheplug1",
+      "location": "",
+      "url": "",
+      "description": "Content Creator Extraordinaire, main: @raindropsmedia1",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                54
+              ],
+              "name": "",
+              "screen_name": "raindropsmedia1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 4966,
+      "following": 253,
+      "favouritesCount": 429,
+      "statusesCount": 741,
+      "mediaCount": 728,
+      "createdAt": "2025-04-17T03:19:37.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1912707434243846146/1747126569",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1942268891503235072/Cby0Xdyz_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "celestialareola": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1442945074875219968",
+      "name": "▞ 𝒫𝓇𝒾𝓃𝒸𝑒𝓈𝓈 𝒫𝒶𝓁𝓈𝓎 ▞",
+      "userName": "celestialareola",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4406,
+      "following": 2865,
+      "favouritesCount": 429,
+      "statusesCount": 93,
+      "mediaCount": 14,
+      "createdAt": "2021-09-28T20:12:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1442945074875219968/1767920075",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1939006466796478464/SpbscbbZ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "J_JSTiN0": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1565879531696791552",
+      "name": "𝓅𝓈𝓎𝒸𝒽❀𝓅𝒶𝓉𝒽𝑒𝓉𝒾𝒸𝒸¹⁷҉",
+      "userName": "J_JSTiN0",
+      "location": "Denver, CO",
+      "url": "",
+      "description": "L̷o̷s̷t̷ ̷S̷o̷u̷l̷ ̷•̷ ̷K̷i̷l̷l̷ ̷M̷e̷ ̷ₑ𝘴𝚝. ₁₉₈₄•нє/нίϻ•₄₂₀•𝟰𝟭▪︎ραɳ▪︎𝟏8+ 𝔦'𝔪 𝔥𝔢𝔯𝔢 𝔣𝔬𝔯 ⱼᵤggₐᄂₒ 𝘴𝓱ᵢ𝚝•𝓱ₒᵣᵣₒᵣ ᗰₒᵥᵢₑ𝘴•𝐩𝓱y𝘴ᵢ𝚌ₐᄂ ᗰₑ𝚍ᵢₐ•ɖʍ'ֆ օӄ",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 472,
+      "following": 737,
+      "favouritesCount": 87672,
+      "statusesCount": 12542,
+      "mediaCount": 890,
+      "createdAt": "2022-09-03T01:49:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1565879531696791552/1761345336",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2005426619599785984/FCbagBPL_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1981968752842527091"
+      ]
+    }
+  },
+  "MicHELLaware": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1474161894",
+      "name": "Mï¢HÈLLåwårê: Mï§†rê§§ ð£ Gåñjå ☕️🍃🧟‍♀️🎥😶‍🌫️",
+      "userName": "MicHELLaware",
+      "location": "A Little Lost In The Clouds",
+      "url": "https://t.co/gODOO5LDIn",
+      "description": "CannaChef for #MysteryHorrorTheatre’s 420Friendly #DemonicDiner & #StonerSoiree! HORROR420: 10% off @cannabisinfuse @_galactic_budz @OolvvToe! 👀 in Highlights",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                14,
+                35
+              ],
+              "text": "MysteryHorrorTheatre"
+            },
+            {
+              "indices": [
+                50,
+                63
+              ],
+              "text": "DemonicDiner"
+            },
+            {
+              "indices": [
+                66,
+                79
+              ],
+              "text": "StonerSoiree"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                100,
+                115
+              ],
+              "name": "",
+              "screen_name": "cannabisinfuse"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                116,
+                131
+              ],
+              "name": "",
+              "screen_name": "_galactic_budz"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                132,
+                141
+              ],
+              "name": "",
+              "screen_name": "OolvvToe"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cash.app/$MicHELLaware4…",
+              "expanded_url": "https://cash.app/$MicHELLaware420",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gODOO5LDIn"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 6302,
+      "following": 7023,
+      "favouritesCount": 288476,
+      "statusesCount": 215953,
+      "mediaCount": 43553,
+      "createdAt": "2013-06-01T08:44:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1474161894/1737826301",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1788049365736501248/hJafISje_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1984383458425323557"
+      ]
+    }
+  },
+  "deadairradi0": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1950213465362079744",
+      "name": "Invaliduser",
+      "userName": "deadairradi0",
+      "location": "",
+      "url": "",
+      "description": "No Longer Posting Here",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 29,
+      "following": 237,
+      "favouritesCount": 34,
+      "statusesCount": 1,
+      "mediaCount": 1,
+      "createdAt": "2025-07-29T15:15:19.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1998457764062904321/6rP1IdX6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "snarkyjenn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1870614688569896960",
+      "name": "SnarkyJenn",
+      "userName": "snarkyjenn",
+      "location": "United States",
+      "url": "",
+      "description": "Snarky Gen X, Aries & Proud Patriot 🇺🇸❤️🤍💙🇺🇸Sarcasm is my love language and coffee makes everyday brighter ☕️💜",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 3628,
+      "following": 3610,
+      "favouritesCount": 37304,
+      "statusesCount": 7461,
+      "mediaCount": 3250,
+      "createdAt": "2024-12-21T23:38:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1870614688569896960/1760910444",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2009027331524866048/Qw-bTyCG_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1870620235134615960"
+      ]
+    }
+  },
+  "wv_ninja67": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "169805233",
+      "name": "DudLee DewWrite",
+      "userName": "wv_ninja67",
+      "location": "USA",
+      "url": "",
+      "description": "I’m doing great so far",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 72,
+      "following": 196,
+      "favouritesCount": 4793,
+      "statusesCount": 3869,
+      "mediaCount": 107,
+      "createdAt": "2010-07-23T05:53:04.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/169805233/1591234845",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1196869278533746688/Rn0r8_vq_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Beuford2Beuford": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1906743283",
+      "name": "Beuford",
+      "userName": "Beuford2Beuford",
+      "location": "Pennsylvania",
+      "url": "",
+      "description": "I stay stoned to the finish cause I smokes me spinach. I'm Beuford the Stoner Man.\n\nCannabis Connoisseur. Cartoon Enthusiast. Comic Book Nerd.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1561,
+      "following": 2761,
+      "favouritesCount": 39673,
+      "statusesCount": 33887,
+      "mediaCount": 8326,
+      "createdAt": "2013-09-26T05:11:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1906743283/1698374472",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1819034048808767488/L8vO8-RN_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1717734707956252935"
+      ]
+    }
+  },
+  "KreyzMcKormik": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "114465838",
+      "name": "Kreyz McKormik",
+      "userName": "KreyzMcKormik",
+      "location": "Gun Ru, Murderous",
+      "url": "https://t.co/nV0DPBYFW2",
+      "description": "2-Time #YouTubePartner, 3-Time #TwitchAffiliate, Video Game Nerd and Juggalo. I also do React Videos.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                7,
+                22
+              ],
+              "text": "YouTubePartner"
+            },
+            {
+              "indices": [
+                31,
+                47
+              ],
+              "text": "TwitchAffiliate"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@kreyzmckormik",
+              "expanded_url": "https://www.youtube.com/@kreyzmckormik",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nV0DPBYFW2"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 493,
+      "following": 321,
+      "favouritesCount": 392,
+      "statusesCount": 2491,
+      "mediaCount": 535,
+      "createdAt": "2010-02-15T14:17:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/114465838/1578477023",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1747451763299405824/o5q_nBe6_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "michiganjamomma": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1023613569462665216",
+      "name": "Hillydoe",
+      "userName": "michiganjamomma",
+      "location": "Michigan, USA",
+      "url": "",
+      "description": "Wife. Ring leader of my little🍓Michigan native. Lover of adventuring. Crafty. Metal. 420 friendly. Doodle mom. Green-ish thumb. Theferalhillydoe@yahoo.com",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 15137,
+      "following": 5256,
+      "favouritesCount": 138897,
+      "statusesCount": 44263,
+      "mediaCount": 7221,
+      "createdAt": "2018-07-29T16:57:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1023613569462665216/1756004617",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1886956585034878976/cZJhNO2T_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009072739609702742"
+      ]
+    }
+  },
+  "knoc2407": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "986847276",
+      "name": "WileEPeyote",
+      "userName": "knoc2407",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 41,
+      "following": 177,
+      "favouritesCount": 1266,
+      "statusesCount": 601,
+      "mediaCount": 6,
+      "createdAt": "2012-12-03T15:34:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/986847276/1725497806",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1831496613891657728/t-Q05Jbp_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "sanity669": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1477687268273901570",
+      "name": "Heihachi Mishima",
+      "userName": "sanity669",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 40,
+      "following": 135,
+      "favouritesCount": 1087,
+      "statusesCount": 592,
+      "mediaCount": 108,
+      "createdAt": "2022-01-02T17:05:05.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1477687404412559360/RAoxvoVA_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "505juggalo420": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "928693645",
+      "name": "Troy T. Acree",
+      "userName": "505juggalo420",
+      "location": "The 505 Albuquerque,New Mexico",
+      "url": "https://t.co/b65ZvUQeq3",
+      "description": "1st off Im A Juggalo If you Don't Like That Fuck Off Immediately!I'm a down to Earth Layed back Guy who Enjoys Marijuana and great Music! I'm not a gang member!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/channel/UCLmg7…",
+              "expanded_url": "https://youtube.com/channel/UCLmg7DpW5usE2amgspEi2kQ",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/b65ZvUQeq3"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 290,
+      "following": 1640,
+      "favouritesCount": 664,
+      "statusesCount": 5627,
+      "mediaCount": 672,
+      "createdAt": "2012-11-06T00:29:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/928693645/1546625173",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1016935812141740032/QEuhrei8_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "HighgradeSnoopy": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1718349979654279168",
+      "name": "snoopy Highgrade",
+      "userName": "HighgradeSnoopy",
+      "location": "",
+      "url": "",
+      "description": "I am a content creator",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 24,
+      "following": 374,
+      "favouritesCount": 661,
+      "statusesCount": 42,
+      "mediaCount": 4,
+      "createdAt": "2023-10-28T19:32:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1718349979654279168/1762041124",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1984770395287748608/oydlIJPx_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Effulx3": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1300242990217277441",
+      "name": "Ashley Aponte",
+      "userName": "Effulx3",
+      "location": "Ronks, PA",
+      "url": "",
+      "description": "in case yu are following please do not intend to use my precious jewels as yr belligerent options to fight with us lol fun",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 82,
+      "following": 297,
+      "favouritesCount": 1431,
+      "statusesCount": 803,
+      "mediaCount": 46,
+      "createdAt": "2020-08-31T01:24:37.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1300242990217277441/1661636603",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1563643308240429056/O4J4TOGC_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1577325167931531269"
+      ]
+    }
+  },
+  "JoshuaDangerExp": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "46992330",
+      "name": "☠Joshua Danger On Youtube☠",
+      "userName": "JoshuaDangerExp",
+      "location": "Davison, MI",
+      "url": "https://t.co/fK1EMw1NV2",
+      "description": "Joshua Danger Experience On  @Youtube with @Juggalettesrus! Check me out! #Juggalo #Metalhead #Punk #Rocker #Musician #Vlogger #VinylCollector #ComicGeek #Gamer",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                74,
+                82
+              ],
+              "text": "Juggalo"
+            },
+            {
+              "indices": [
+                83,
+                93
+              ],
+              "text": "Metalhead"
+            },
+            {
+              "indices": [
+                94,
+                99
+              ],
+              "text": "Punk"
+            },
+            {
+              "indices": [
+                100,
+                107
+              ],
+              "text": "Rocker"
+            },
+            {
+              "indices": [
+                108,
+                117
+              ],
+              "text": "Musician"
+            },
+            {
+              "indices": [
+                118,
+                126
+              ],
+              "text": "Vlogger"
+            },
+            {
+              "indices": [
+                127,
+                142
+              ],
+              "text": "VinylCollector"
+            },
+            {
+              "indices": [
+                143,
+                153
+              ],
+              "text": "ComicGeek"
+            },
+            {
+              "indices": [
+                154,
+                160
+              ],
+              "text": "Gamer"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                29,
+                37
+              ],
+              "name": "",
+              "screen_name": "Youtube"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                43,
+                58
+              ],
+              "name": "",
+              "screen_name": "Juggalettesrus"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/ytjoshuadanger…",
+              "expanded_url": "https://linktr.ee/ytjoshuadangerexp",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fK1EMw1NV2"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 790,
+      "following": 2786,
+      "favouritesCount": 161,
+      "statusesCount": 7975,
+      "mediaCount": 4562,
+      "createdAt": "2009-06-14T00:07:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/46992330/1556739360",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1885059078499553280/lYG9z4Tx_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "oghaloninja04": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1683764390204416000",
+      "name": "Joey LaFontaine",
+      "userName": "oghaloninja04",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 8,
+      "following": 41,
+      "favouritesCount": 62,
+      "statusesCount": 117,
+      "mediaCount": 15,
+      "createdAt": "2023-07-25T09:03:46.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1956221914868858880/FgwdzP0w_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "hipp3don": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1829256292680052736",
+      "name": "Hipp3don",
+      "userName": "hipp3don",
+      "location": "",
+      "url": "",
+      "description": "Ghost Hunter 👻 Storm Chaser 🌪️ Retired Pro Wrestler 🤼 Former Child Star ⭐️ I want to believe 👽 🛸",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 63,
+      "following": 385,
+      "favouritesCount": 1579,
+      "statusesCount": 388,
+      "mediaCount": 56,
+      "createdAt": "2024-08-29T20:34:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1829256292680052736/1757613221",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1986158548745654272/od6A-c75_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Joker331988": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1559460589641932801",
+      "name": "Zack gilley",
+      "userName": "Joker331988",
+      "location": "",
+      "url": "",
+      "description": "I'm a juggalo wiccan gamer who likes anime and kpop and horror movies",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 727,
+      "following": 5860,
+      "favouritesCount": 3,
+      "statusesCount": 25,
+      "mediaCount": 6,
+      "createdAt": "2022-08-16T08:42:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1559460589641932801/1668848489",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1559460841065369600/V-_1u8ut_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AaronRomero262": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1756473875682951168",
+      "name": "I am the GOD of Fxck",
+      "userName": "AaronRomero262",
+      "location": "Wisconsin",
+      "url": "",
+      "description": "🎂 & 👅",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 115,
+      "following": 288,
+      "favouritesCount": 805,
+      "statusesCount": 2078,
+      "mediaCount": 753,
+      "createdAt": "2024-02-11T00:23:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1756473875682951168/1766544397",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1989022935420391424/M8OrSa_u_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Down2Clown636": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1688614808545845248",
+      "name": "Down2Clown636",
+      "userName": "Down2Clown636",
+      "location": "Detroit, MI",
+      "url": "",
+      "description": "#Hep #DCF Dark Carnival Family #FuckHorseradish",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                4
+              ],
+              "text": "Hep"
+            },
+            {
+              "indices": [
+                5,
+                9
+              ],
+              "text": "DCF"
+            },
+            {
+              "indices": [
+                31,
+                47
+              ],
+              "text": "FuckHorseradish"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 71,
+      "following": 133,
+      "favouritesCount": 1261,
+      "statusesCount": 969,
+      "mediaCount": 187,
+      "createdAt": "2023-08-07T18:16:13.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1688614808545845248/1757380198",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2002510572282138624/_bdoHqjp_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "rob_bohanan": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1985464213280792576",
+      "name": "Rasslin Rob",
+      "userName": "rob_bohanan",
+      "location": "",
+      "url": "",
+      "description": "@rasslinrob (former)  Wrestling Content  cohost of @fightfactorynj and @prowtv @mlw podcaster NJ 732",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "",
+              "screen_name": "rasslinrob"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                51,
+                66
+              ],
+              "name": "",
+              "screen_name": "fightfactorynj"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                78
+              ],
+              "name": "",
+              "screen_name": "prowtv"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                79,
+                83
+              ],
+              "name": "",
+              "screen_name": "mlw"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 434,
+      "following": 1555,
+      "favouritesCount": 4028,
+      "statusesCount": 5655,
+      "mediaCount": 851,
+      "createdAt": "2025-11-03T21:49:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1985464213280792576/1766243754",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2000961983722438657/cOXapYAK_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1999209339945369764"
+      ]
+    }
+  },
+  "Arbitersfeet": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1696471512767967232",
+      "name": "Kitty Sunderland",
+      "userName": "Arbitersfeet",
+      "location": "",
+      "url": "",
+      "description": "A parody of my former self, I like seals and ships. 🪡🎹🎨🤡7/17💌 @V01d3y3z",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                62,
+                71
+              ],
+              "name": "",
+              "screen_name": "V01d3y3z"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 76,
+      "following": 228,
+      "favouritesCount": 4789,
+      "statusesCount": 3290,
+      "mediaCount": 746,
+      "createdAt": "2023-08-29T10:35:22.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1696471512767967232/1765260575",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1983011909629882368/Jj0UlrFo_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1949831898324447596"
+      ]
+    }
+  },
+  "YFIHQ": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1525413153818955776",
+      "name": "YFI 𝕏",
+      "userName": "YFIHQ",
+      "location": "Midguard",
+      "url": "",
+      "description": "Viral Videos.  \nCome here for a chuckle and leave the drama outside.\nDM for removals/credit.\nThey're not all idiots.\nCheck the Highlights.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 69003,
+      "following": 8829,
+      "favouritesCount": 82865,
+      "statusesCount": 43842,
+      "mediaCount": 30429,
+      "createdAt": "2022-05-14T09:50:23.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1525413153818955776/1766946730",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2008585609112096768/_3Hl-mqZ_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2011796007642939483"
+      ]
+    }
+  },
+  "TheRealDoenut": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "979625292695199744",
+      "name": "DOENUT",
+      "userName": "TheRealDoenut",
+      "location": "",
+      "url": "https://t.co/9qzb41fnpd",
+      "description": "Yo What's Up It's DoeNut! https://t.co/ViA2PEvezy",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "rumble.com/c/DOENUT",
+              "expanded_url": "https://rumble.com/c/DOENUT",
+              "indices": [
+                26,
+                49
+              ],
+              "url": "https://t.co/ViA2PEvezy"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "doe-nut.com",
+              "expanded_url": "http://www.doe-nut.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9qzb41fnpd"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 28452,
+      "following": 426,
+      "favouritesCount": 19524,
+      "statusesCount": 4257,
+      "mediaCount": 1676,
+      "createdAt": "2018-03-30T07:44:05.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/979625292695199744/1608271959",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2011925933842972675/OM9UTD7V_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1907302285706993883"
+      ]
+    }
+  },
+  "juggalo_apathy": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2338674482",
+      "name": "📙📕📗📓",
+      "userName": "juggalo_apathy",
+      "location": "On your head. 🎯",
+      "url": "https://t.co/rmBjyxYMey",
+      "description": "That's Not Me Bro.\nFUCK YOU. PAY ME.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "shopeldiablo.com",
+              "expanded_url": "http://shopeldiablo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rmBjyxYMey"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 87,
+      "following": 300,
+      "favouritesCount": 11033,
+      "statusesCount": 137037,
+      "mediaCount": 8379,
+      "createdAt": "2014-02-11T16:53:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2338674482/1765891132",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2000918181716656131/bngM37Rw_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1926792579112198523"
+      ]
+    }
+  },
+  "MyNameIsMud449": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1470108841086013447",
+      "name": "Mud",
+      "userName": "MyNameIsMud449",
+      "location": "",
+      "url": "",
+      "description": "bc1qhgj73pu6lxvkrhlatup879zdys7hntcnz22s2m",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 544,
+      "following": 206,
+      "favouritesCount": 53989,
+      "statusesCount": 10088,
+      "mediaCount": 797,
+      "createdAt": "2021-12-12T19:10:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1470108841086013447/1643566059",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1530929395388534784/hq_ao8TA_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "big_dmk": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2744163235",
+      "name": "Big DMK",
+      "userName": "big_dmk",
+      "location": "",
+      "url": "",
+      "description": "Big DMK of Massachusetts underground rap groups Worm City Syndicate and NFG",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 364,
+      "following": 1467,
+      "favouritesCount": 3238,
+      "statusesCount": 1157,
+      "mediaCount": 309,
+      "createdAt": "2014-08-19T06:17:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2744163235/1408510260",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1508713084763971588/mI32Umn7_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Tug27350675": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1533558953086427136",
+      "name": "Tug",
+      "userName": "Tug27350675",
+      "location": "",
+      "url": "",
+      "description": "My goal is to make the kinder voices toward short guys louder, fend off those who bully short guys, destigmatize tall girl x short guy relationships, and more!",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1309,
+      "following": 6497,
+      "favouritesCount": 5387,
+      "statusesCount": 2535,
+      "mediaCount": 44,
+      "createdAt": "2022-06-05T21:18:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1533558953086427136/1719448167",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1969891090426671105/f3aVs6E2_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1991163728067256461"
+      ]
+    }
+  },
+  "Jdoggshep": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "475299001",
+      "name": "DOGG / #DCF",
+      "userName": "Jdoggshep",
+      "location": "6 Feet under the MurderMitten",
+      "url": "",
+      "description": "#DCF -_-",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                4
+              ],
+              "text": "DCF"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1149,
+      "following": 831,
+      "favouritesCount": 11790,
+      "statusesCount": 24184,
+      "mediaCount": 654,
+      "createdAt": "2012-01-26T22:20:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/475299001/1430364593",
+      "profilePicture": "https://pbs.twimg.com/profile_images/824516268128661504/bGWS92_Z_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

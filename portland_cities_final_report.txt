@@ -1,0 +1,65 @@
+====================================================================================================
+PORTLAND OTHER CITIES - FINAL DATA CLEANING REPORT
+====================================================================================================
+
+EXECUTIVE SUMMARY:
+----------------------------------------------------------------------------------------------------
+  Original dataset: 1323 unique locations, 2886 tweets
+  Successfully cleaned: 741 locations (56.0%)
+  Standardized to: 563 unique cities
+  Data quality: 44.6% of tweets have valid city-level data
+
+====================================================================================================
+
+TOP 50 STANDARDIZED CITIES:
+----------------------------------------------------------------------------------------------------
+1    New York, NY                                44 tweets ( 3.42%)  Ex: New York, USA, Manhattan, NY
+2    San Francisco, CA                           43 tweets ( 3.34%)  Ex: San Francisco, CA, Coit Tower, S...
+3    Washington, DC                              35 tweets ( 2.72%)  Ex: Washington, USA,  Washington
+4    Jaipur, India                               33 tweets ( 2.56%)  Ex: PNW, PNW 
+5    Los Angeles, CA                             26 tweets ( 2.02%)  Ex: Los Angeles, CA, Los Angeles
+6    Seattle, WA                                 25 tweets ( 1.94%)  Ex: Seattle, WA, Seattle
+7    Vancouver, WA                               20 tweets ( 1.55%)  Ex: Vancouver, WA, Vancouver, WA USA
+8    San Antonio, TX                             19 tweets ( 1.48%)  Ex: San Antonio,Republic of Texas , ...
+9    Earth, TX                                   17 tweets ( 1.32%)  Ex: Earth, EARTH
+10   Houston, TX                                 16 tweets ( 1.24%)  Ex: Houston, TX, Houston
+11   Portland, OR                                14 tweets ( 1.09%)  Ex: PDX, somewhere, USA
+12   Toronto, Canada                             14 tweets ( 1.09%)  Ex: Toronto, Ontario, Toronto, Canada
+13   San Diego, CA                               14 tweets ( 1.09%)  Ex: San Diego, CA, La Jolla, CA
+14   Las Vegas, NV                               13 tweets ( 1.01%)  Ex: Las Vegas, NV, Las Vegas 
+15   Chicago, IL                                 13 tweets ( 1.01%)  Ex: Chicago, IL, Chicago
+16   København, Danmark                          12 tweets ( 0.93%)  Ex: Global
+17   Anchorage, AK                               12 tweets ( 0.93%)  Ex: A rainy place
+18   Miami, FL                                   11 tweets ( 0.85%)  Ex: Miami, FL, Miami, Florida
+19   Oakville, Canada                            10 tweets ( 0.78%)  Ex: Oakville, Ontario
+20   Yakima County, WA                           10 tweets ( 0.78%)  Ex: Pacific Northwest, Pacific North...
+21   Dallas, TX                                   9 tweets ( 0.70%)  Ex: Dallas, TX, DFW
+22   Bend, OR                                     9 tweets ( 0.70%)  Ex: Bend, Oregon, Bend, OR
+23   Atlanta, GA                                  9 tweets ( 0.70%)  Ex: Atlanta, Atlanta, GA
+24   Coffs Harbour, Australia                     8 tweets ( 0.62%)  Ex: NW  North America
+25   Westland District, New Zealand / Aotearoa     8 tweets ( 0.62%)  Ex: Cesspool
+26   Austin, TX                                   8 tweets ( 0.62%)  Ex: Austin, TX, Austin, Texas
+27   Orlando, FL                                  8 tweets ( 0.62%)  Ex: Orlando, FL, Orlando
+28   Greater London, United Kingdom               8 tweets ( 0.62%)  Ex: London, England, London
+29   Sublimity, OR                                7 tweets ( 0.54%)  Ex: Sublimity, OR
+30   Lesachtal, Österreich                        7 tweets ( 0.54%)  Ex: OreGONE
+31   Olympia, WA                                  7 tweets ( 0.54%)  Ex: Olympia, WA, Olympia USA
+32   City of Olean, NY                            7 tweets ( 0.54%)  Ex: Southern, Oregon 🌲, Southern Oregon
+33   Saint Louis, MO                              6 tweets ( 0.47%)  Ex: St. Louis, MO , St. Louis, MO
+34   Pensacola, FL                                6 tweets ( 0.47%)  Ex: Pensacola, FL, Pensacola, Florida
+35   Imus, Philippines                            6 tweets ( 0.47%)  Ex: U.S.A, U.S.A.
+36   Phoenix, AZ                                  6 tweets ( 0.47%)  Ex: Phoenix, AZ, Phoenix, Arizona
+37   North Warwickshire, United Kingdom           5 tweets ( 0.39%)  Ex: North Georgia
+38   Beaverton, OR                                5 tweets ( 0.39%)  Ex: Beaverton, OR, Beaverton, Oregon
+39   Oneida County, NY                            5 tweets ( 0.39%)  Ex: Western USA, Western New York 
+40   Walla Walla County, WA                       5 tweets ( 0.39%)  Ex: Walla Walla, WA , Walla Walla, WA
+41   Philadelphia, PA                             5 tweets ( 0.39%)  Ex: Philadelphia, PA, Philadelphia, ...
+42   Ottawa, Canada                               5 tweets ( 0.39%)  Ex: Floating on a river , Ottawa, On...
+43   Saint Paul, MN                               4 tweets ( 0.31%)  Ex: St Paul, MN
+44   Mount Etna, IN                               4 tweets ( 0.31%)  Ex: Mount Etna
+45   Siberia, Italia                              4 tweets ( 0.31%)  Ex: Siberia
+46   Denver, CO                                   4 tweets ( 0.31%)  Ex: Denver, CO
+47   宇佐市, 日本                                      4 tweets ( 0.31%)  Ex: USA ! USA! USA!
+48   Wilsonville, OR                              4 tweets ( 0.31%)  Ex: Wilsonville, Or.
+49   Odessa, FL                                   4 tweets ( 0.31%)  Ex: Odessa, FL
+50   Calgary, Canada                              4 tweets ( 0.31%)  Ex: Calgary, Alberta

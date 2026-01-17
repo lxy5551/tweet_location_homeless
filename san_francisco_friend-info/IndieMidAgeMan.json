@@ -1,0 +1,24 @@
+{
+  "DofFunk": {
+    "id": "1331439228421435392",
+    "name": "PHDofFunk",
+    "screen_name": "DofFunk",
+    "userName": "DofFunk",
+    "location": "",
+    "url": null,
+    "description": "The real DocLock. Street dance helped save my life.",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 242,
+    "following_count": 916,
+    "friends_count": 916,
+    "favourites_count": 33863,
+    "statuses_count": 805,
+    "media_tweets_count": 6,
+    "created_at": "Wed Nov 25 03:30:13 +0000 2020",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1331439228421435392/1651549376",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521332235982438401/QrSJIn48_normal.jpg",
+    "can_dm": false
+  }
+}

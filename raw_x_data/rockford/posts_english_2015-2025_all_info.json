@@ -1,0 +1,4721 @@
+[
+  {
+    "tweet": {
+      "id": "1873488292018290935",
+      "text": "@VirgisViews @TheBlackestJ @mvinwst @himbojedi @mamasathome_ @AtlasVerge @eternalcumslime I was elected to my city council &amp; the only CITY EMPLOYEE who volunteered at our shelter. I worked with Rockford gov because they ENDED homelessness. 1 of a couple cities in US to do so. Rehabs &amp; mental break facilities are tax funded private corps that don't address homelessness",
+      "created_at": "2024-12-29T21:56:31.000Z",
+      "author_id": "4494325640",
+      "conversation_id": "1873193185104851408",
+      "in_reply_to_user_id": "1518918307365023744",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 31
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "VirgisViews",
+          "id": "1518918307365023744"
+        },
+        {
+          "start": 13,
+          "end": 26,
+          "username": "TheBlackestJ",
+          "id": "1615049628860153856"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "username": "mvinwst",
+          "id": "792069130065154048"
+        },
+        {
+          "start": 61,
+          "end": 72,
+          "username": "AtlasVerge",
+          "id": "2480815337"
+        },
+        {
+          "start": 73,
+          "end": 89,
+          "username": "eternalcumslime",
+          "id": "1662475876301250561"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 143,
+          "end": 150,
+          "probability": 0.336,
+          "type": "Other",
+          "normalized_text": "EMPLOYEE"
+        },
+        {
+          "start": 198,
+          "end": 205,
+          "probability": 0.8667,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        },
+        {
+          "start": 268,
+          "end": 269,
+          "probability": 0.9352,
+          "type": "Place",
+          "normalized_text": "US"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1873485980289888423",
+        "tweet_data": {
+          "entities": {
+            "mentions": [
+              {
+                "start": 0,
+                "end": 13,
+                "username": "ProPeacePunk",
+                "id": "4494325640"
+              },
+              {
+                "start": 14,
+                "end": 27,
+                "username": "TheBlackestJ",
+                "id": "1615049628860153856"
+              },
+              {
+                "start": 28,
+                "end": 36,
+                "username": "mvinwst",
+                "id": "792069130065154048"
+              },
+              {
+                "start": 62,
+                "end": 73,
+                "username": "AtlasVerge",
+                "id": "2480815337"
+              },
+              {
+                "start": 74,
+                "end": 90,
+                "username": "eternalcumslime",
+                "id": "1662475876301250561"
+              }
+            ]
+          },
+          "in_reply_to_user_id": "4494325640",
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 19
+          },
+          "conversation_id": "1873193185104851408",
+          "edit_history_tweet_ids": [
+            "1873485980289888423"
+          ],
+          "id": "1873485980289888423",
+          "reply_settings": "everyone",
+          "text": "@ProPeacePunk @TheBlackestJ @mvinwst @himbojedi @mamasathome_ @AtlasVerge @eternalcumslime So you’ve read all the research, worked with the homeless, and seen how providing free housing is working out, and you’re still on board with that? I’d rather pay for housing in mental break facilities &amp; drug rehabs 🤷🏻‍♀️\n\nAlso I definitely wasn’t talking about the homeless lol I",
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "1873484766991020162"
+            }
+          ],
+          "possibly_sensitive": false,
+          "author_id": "1518918307365023744",
+          "created_at": "2024-12-29T21:47:20.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2015-12-08T07:16:17.000Z",
+      "id": "4494325640",
+      "username": "ProPeacePunk",
+      "pinned_tweet_id": "1975305985523962149",
+      "verified": false,
+      "location": "next to the capital of Chicago",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/869017613510352897/16MkRoy-_normal.jpg",
+      "public_metrics": {
+        "followers_count": 2514,
+        "following_count": 5789,
+        "tweet_count": 34591,
+        "listed_count": 23,
+        "like_count": 196765,
+        "media_count": 4242
+      },
+      "name": "Brandon A",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 2514,
+      "following_count": 5789,
+      "tweet_count": 34591,
+      "listed_count": 23,
+      "like_count": 196765,
+      "media_count": 4242
+    },
+    "location_signals": {
+      "user_profile_location": "next to the capital of Chicago",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Rockford",
+          "probability": 0.8667
+        },
+        {
+          "text": "US",
+          "probability": 0.9352
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "VirgisViews",
+          "location": "Oregon, USA"
+        },
+        {
+          "username": "mvinwst",
+          "location": "NYC"
+        },
+        {
+          "username": "AtlasVerge",
+          "location": "MD"
+        }
+      ],
+      "replied_to_user_location": "Oregon, USA",
+      "network_location_summary": {
+        "cities": {
+          "Oregon": 2,
+          "NYC": 1,
+          "MD": 1
+        },
+        "countries": {
+          "USA": 2
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1872990381404819884",
+      "text": "@BobbyReader2 You should see downtown rockford. Oh boy. You got the trap store (Jumpin' Joe's) across the street from the jail/court houses. The homeless shelter is on the next block. They are selling right there on the street.",
+      "created_at": "2024-12-28T12:58:00.000Z",
+      "author_id": "1816497489739935744",
+      "conversation_id": "1872970322661786067",
+      "in_reply_to_user_id": "823188989934993408",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 13,
+          "username": "BobbyReader2",
+          "id": "823188989934993408"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 38,
+          "end": 45,
+          "probability": 0.6873,
+          "type": "Place",
+          "normalized_text": "rockford"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "probability": 0.4552,
+          "type": "Other",
+          "normalized_text": "Joe"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1872988508929065269",
+        "tweet_data": {
+          "entities": {
+            "mentions": [
+              {
+                "start": 0,
+                "end": 16,
+                "username": "RoachHeath47462",
+                "id": "1816497489739935744"
+              }
+            ]
+          },
+          "in_reply_to_user_id": "1816497489739935744",
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 12
+          },
+          "conversation_id": "1872970322661786067",
+          "edit_history_tweet_ids": [
+            "1872988508929065269"
+          ],
+          "id": "1872988508929065269",
+          "reply_settings": "everyone",
+          "text": "@RoachHeath47462 Not my little town 🤣",
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "1872986701800587504"
+            }
+          ],
+          "possibly_sensitive": false,
+          "author_id": "823188989934993408",
+          "created_at": "2024-12-28T12:50:33.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2024-07-25T15:35:38.000Z",
+      "id": "1816497489739935744",
+      "username": "RoachHeath47462",
+      "pinned_tweet_id": "1966503593684451599",
+      "verified": false,
+      "location": "Illinois, USA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1996920277834305536/DC9gcVeQ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 5965,
+        "following_count": 4147,
+        "tweet_count": 14074,
+        "listed_count": 0,
+        "like_count": 14602,
+        "media_count": 1363
+      },
+      "name": "Heather Roach",
+      "protected": false,
+      "description": "I am a mom, I am a daughter, I am a sister, I am an aunt to 8, I am a niece, I am one unselfish person,head strong woman! I am stronger and tougher than I look!"
+    },
+    "author_metrics": {
+      "followers_count": 5965,
+      "following_count": 4147,
+      "tweet_count": 14074,
+      "listed_count": 0,
+      "like_count": 14602,
+      "media_count": 1363
+    },
+    "location_signals": {
+      "user_profile_location": "Illinois, USA",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "rockford",
+          "probability": 0.6873
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1872604643513291140",
+      "text": "Perhaps where homeless, illegals, homicide freedom cause Kamala loss. Stockton Detroit Chicago Lansing MI Baltimore MD Albuquerque NM Flint Rockford IL Oakland Minneapolis MN San Bernardino CA Bakersfield #bansoffourbodies Corpus Christi Springfield MO Cleveland Atlanta Memphis https://t.co/VHcLmEh3K8 https://t.co/fQlcv7oEKA",
+      "created_at": "2024-12-27T11:25:12.000Z",
+      "author_id": "1660233055477350402",
+      "conversation_id": "1872604643513291140",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 206
+    },
+    "tweet_entities": {
+      "hashtags": [
+        {
+          "start": 205,
+          "end": 222,
+          "tag": "bansoffourbodies"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 57,
+          "end": 62,
+          "probability": 0.6023,
+          "type": "Person",
+          "normalized_text": "Kamala"
+        },
+        {
+          "start": 79,
+          "end": 85,
+          "probability": 0.7627,
+          "type": "Place",
+          "normalized_text": "Detroit"
+        },
+        {
+          "start": 87,
+          "end": 93,
+          "probability": 0.8427,
+          "type": "Place",
+          "normalized_text": "Chicago"
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "probability": 0.8137,
+          "type": "Place",
+          "normalized_text": "Baltimore"
+        },
+        {
+          "start": 119,
+          "end": 129,
+          "probability": 0.5203,
+          "type": "Place",
+          "normalized_text": "Albuquerque"
+        },
+        {
+          "start": 134,
+          "end": 138,
+          "probability": 0.4834,
+          "type": "Place",
+          "normalized_text": "Flint"
+        },
+        {
+          "start": 140,
+          "end": 147,
+          "probability": 0.6286,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        },
+        {
+          "start": 152,
+          "end": 158,
+          "probability": 0.5585,
+          "type": "Place",
+          "normalized_text": "Oakland"
+        },
+        {
+          "start": 160,
+          "end": 170,
+          "probability": 0.6659,
+          "type": "Place",
+          "normalized_text": "Minneapolis"
+        },
+        {
+          "start": 175,
+          "end": 177,
+          "probability": 0.6591,
+          "type": "Place",
+          "normalized_text": "San"
+        },
+        {
+          "start": 190,
+          "end": 191,
+          "probability": 0.6327,
+          "type": "Place",
+          "normalized_text": "CA"
+        },
+        {
+          "start": 193,
+          "end": 203,
+          "probability": 0.8906,
+          "type": "Place",
+          "normalized_text": "Bakersfield"
+        },
+        {
+          "start": 238,
+          "end": 248,
+          "probability": 0.7155,
+          "type": "Place",
+          "normalized_text": "Springfield"
+        },
+        {
+          "start": 250,
+          "end": 251,
+          "probability": 0.4752,
+          "type": "Place",
+          "normalized_text": "MO"
+        },
+        {
+          "start": 253,
+          "end": 261,
+          "probability": 0.7678,
+          "type": "Place",
+          "normalized_text": "Cleveland"
+        },
+        {
+          "start": 263,
+          "end": 269,
+          "probability": 0.8842,
+          "type": "Place",
+          "normalized_text": "Atlanta"
+        },
+        {
+          "start": 271,
+          "end": 277,
+          "probability": 0.9483,
+          "type": "Place",
+          "normalized_text": "Memphis"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VHcLmEh3K8",
+          "expanded_url": "https://x.com/TimsUnk/status/1872604643513291140/photo/1",
+          "display_url": "pic.x.com/VHcLmEh3K8",
+          "media_key": "3_1872601934521155584"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/VHcLmEh3K8",
+          "expanded_url": "https://x.com/TimsUnk/status/1872604643513291140/photo/1",
+          "display_url": "pic.x.com/VHcLmEh3K8",
+          "media_key": "3_1872603534819987456"
+        },
+        {
+          "start": 303,
+          "end": 326,
+          "url": "https://t.co/fQlcv7oEKA",
+          "expanded_url": "https://twitter.com/offbeatorbit/status/1870965439519654295",
+          "display_url": "x.com/offbeatorbit/s…"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "875006493984149509",
+          "name": "Kamala Harris",
+          "description": "US Senator Kamala Harris (CA)"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1815488280093245440",
+          "name": "2024 Democratic National Convention"
+        }
+      },
+      {
+        "domain": {
+          "id": "35",
+          "name": "Politician",
+          "description": "Politicians in the world, like Joe Biden"
+        },
+        "entity": {
+          "id": "875006493984149509",
+          "name": "Kamala Harris",
+          "description": "US Senator Kamala Harris (CA)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "875006493984149509",
+          "name": "Kamala Harris",
+          "description": "US Senator Kamala Harris (CA)"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1070032753834438656",
+          "name": "Political figures",
+          "description": "Politician"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "156",
+          "name": "Cities",
+          "description": "Cities around the world"
+        },
+        "entity": {
+          "id": "1012378946615181312",
+          "name": "Chicago",
+          "description": "Chicago"
+        }
+      },
+      {
+        "domain": {
+          "id": "156",
+          "name": "Cities",
+          "description": "Cities around the world"
+        },
+        "entity": {
+          "id": "908360693363105792",
+          "name": "Atlanta",
+          "description": "Atlanta"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1870965439519654295",
+        "tweet_data": {
+          "public_metrics": {
+            "retweet_count": 16817,
+            "reply_count": 1072,
+            "like_count": 395930,
+            "quote_count": 507,
+            "bookmark_count": 21466,
+            "impression_count": 15887123
+          },
+          "conversation_id": "1870965439519654295",
+          "edit_history_tweet_ids": [
+            "1870965439519654295"
+          ],
+          "id": "1870965439519654295",
+          "entities": {
+            "urls": [
+              {
+                "start": 15,
+                "end": 38,
+                "url": "https://t.co/zhpcaS6Dk8",
+                "expanded_url": "https://twitter.com/Acyn/status/1870899088633610384",
+                "display_url": "x.com/Acyn/status/18…"
+              }
+            ]
+          },
+          "reply_settings": "everyone",
+          "text": "It’s starting… https://t.co/zhpcaS6Dk8",
+          "referenced_tweets": [
+            {
+              "type": "quoted",
+              "id": "1870899088633610384"
+            }
+          ],
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "29",
+                "name": "Events [Entity Service]",
+                "description": "Real world events. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            },
+            {
+              "domain": {
+                "id": "35",
+                "name": "Politician",
+                "description": "Politicians in the world, like Joe Biden"
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            },
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557697333571112960",
+                "name": "Technology Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "847878884917886977",
+                "name": "Politics",
+                "description": "Politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1070032753834438656",
+                "name": "Political figures",
+                "description": "Politician"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1291447199595782144",
+                "name": "United States politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            },
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "808713037230157824",
+                "name": "Elon Musk",
+                "description": "Elon Musk"
+              }
+            },
+            {
+              "domain": {
+                "id": "65",
+                "name": "Interests and Hobbies Vertical",
+                "description": "Top level interests and hobbies groupings, like Food or Travel"
+              },
+              "entity": {
+                "id": "781974596148793345",
+                "name": "Business & finance"
+              }
+            },
+            {
+              "domain": {
+                "id": "66",
+                "name": "Interests and Hobbies Category",
+                "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+              },
+              "entity": {
+                "id": "857878777191211008",
+                "name": "Leadership",
+                "description": "Leadership"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "808713037230157824",
+                "name": "Elon Musk",
+                "description": "Elon Musk"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1091420346660470784",
+                "name": "Tech personalities",
+                "description": "Tech Professionals"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1166406108623163392",
+                "name": "Business personalities"
+              }
+            },
+            {
+              "domain": {
+                "id": "29",
+                "name": "Events [Entity Service]",
+                "description": "Real world events. "
+              },
+              "entity": {
+                "id": "1836137739353292800",
+                "name": "2024 US Election",
+                "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n"
+              }
+            }
+          ],
+          "author_id": "20325951",
+          "created_at": "2024-12-22T22:51:36.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2023-05-21T10:37:51.000Z",
+      "id": "1660233055477350402",
+      "username": "TimsUnk",
+      "verified": false,
+      "location": "St Charles",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1922264743437344768/P1sUo1MQ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 133,
+        "following_count": 484,
+        "tweet_count": 445,
+        "listed_count": 0,
+        "like_count": 77,
+        "media_count": 165
+      },
+      "name": "Don Francois",
+      "protected": false,
+      "description": "Old"
+    },
+    "author_metrics": {
+      "followers_count": 133,
+      "following_count": 484,
+      "tweet_count": 445,
+      "listed_count": 0,
+      "like_count": 77,
+      "media_count": 165
+    },
+    "location_signals": {
+      "user_profile_location": "St Charles",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [
+        "Atlanta",
+        "Chicago"
+      ],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Detroit",
+          "probability": 0.7627
+        },
+        {
+          "text": "Chicago",
+          "probability": 0.8427
+        },
+        {
+          "text": "Baltimore",
+          "probability": 0.8137
+        },
+        {
+          "text": "Albuquerque",
+          "probability": 0.5203
+        },
+        {
+          "text": "Flint",
+          "probability": 0.4834
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.6286
+        },
+        {
+          "text": "Oakland",
+          "probability": 0.5585
+        },
+        {
+          "text": "Minneapolis",
+          "probability": 0.6659
+        },
+        {
+          "text": "San",
+          "probability": 0.6591
+        },
+        {
+          "text": "CA",
+          "probability": 0.6327
+        },
+        {
+          "text": "Bakersfield",
+          "probability": 0.8906
+        },
+        {
+          "text": "Springfield",
+          "probability": 0.7155
+        },
+        {
+          "text": "MO",
+          "probability": 0.4752
+        },
+        {
+          "text": "Cleveland",
+          "probability": 0.7678
+        },
+        {
+          "text": "Atlanta",
+          "probability": 0.8842
+        },
+        {
+          "text": "Memphis",
+          "probability": 0.9483
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1872138584142315948",
+      "text": "@elonmusk https://t.co/mMvlCwVYfC plz help our homeless if you can.",
+      "created_at": "2024-12-26T04:33:15.000Z",
+      "author_id": "1107362254389952512",
+      "conversation_id": "1872138584142315948",
+      "in_reply_to_user_id": "44196397",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 2
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 9,
+          "username": "elonmusk",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "start": 10,
+          "end": 33,
+          "url": "https://t.co/mMvlCwVYfC",
+          "expanded_url": "https://www.mystateline.com/news/rockford-rescue-mission-seeks-financial-support-to-care-for-the-homeless/",
+          "display_url": "mystateline.com/news/rockford-…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/rockford-rescue-mission-seeks-financial-support-to-care-for-the-homeless/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697333571112960",
+          "name": "Technology Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "808713037230157824",
+          "name": "Elon Musk",
+          "description": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "857878777191211008",
+          "name": "Leadership",
+          "description": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "808713037230157824",
+          "name": "Elon Musk",
+          "description": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1091420346660470784",
+          "name": "Tech personalities",
+          "description": "Tech Professionals"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "0",
+        "tweet_data": {}
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2019-03-17T19:25:10.000Z",
+      "id": "1107362254389952512",
+      "username": "JustinW3335",
+      "pinned_tweet_id": "1683562806057005059",
+      "verified": false,
+      "location": "We Are Everywhere",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875457458107207680/nwgLETov_normal.jpg",
+      "public_metrics": {
+        "followers_count": 77,
+        "following_count": 94,
+        "tweet_count": 5448,
+        "listed_count": 0,
+        "like_count": 452,
+        "media_count": 708
+      },
+      "name": "US Patriot",
+      "protected": false,
+      "description": "Gamer. Gun lover. Animal Lover. Anti-Woke."
+    },
+    "author_metrics": {
+      "followers_count": 77,
+      "following_count": 94,
+      "tweet_count": 5448,
+      "listed_count": 0,
+      "like_count": 452,
+      "media_count": 708
+    },
+    "location_signals": {
+      "user_profile_location": "We Are Everywhere",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1871353693200953621",
+      "text": "Blackhawks should do SOMETHING with Kurashev. Rockford. Vacation. Rehab. Come to jesus moment on a remote island.\nBootcamp in Antartica. SOMETHING. I get not wanting him on the ice but what a waste of everything to make him homeless.",
+      "created_at": "2024-12-24T00:34:23.000Z",
+      "author_id": "1678392370906144771",
+      "conversation_id": "1871353693200953621",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 34
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 9,
+          "probability": 0.9558,
+          "type": "Organization",
+          "normalized_text": "Blackhawks"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "probability": 0.7211,
+          "type": "Person",
+          "normalized_text": "Kurashev"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "probability": 0.7199,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        },
+        {
+          "start": 126,
+          "end": 134,
+          "probability": 0.6951,
+          "type": "Place",
+          "normalized_text": "Antartica"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10000467383",
+          "name": "NHL Hockey",
+          "description": "The latest hockey action from across the NHL."
+        }
+      },
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1830035844314329089",
+          "name": "Blackhawks at Wild"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "id": "12",
+          "name": "Sports Team",
+          "description": "A sports team organization, like Arsenal and the Boston Celtics"
+        },
+        "entity": {
+          "id": "829003700391727107",
+          "name": "Chicago Blackhawks"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "829003697749258240",
+          "name": "NHL",
+          "description": "Photo via @GettyImages"
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1830035844314329089",
+          "name": "Blackhawks at Wild"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels"
+        }
+      },
+      {
+        "domain": {
+          "id": "68",
+          "name": "Hockey Game",
+          "description": "Sports Event specific to Hockey games"
+        },
+        "entity": {
+          "id": "1830035844314329089",
+          "name": "Blackhawks at Wild"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "829003678765821984",
+          "name": "Hockey"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "829003697749258240",
+          "name": "NHL",
+          "description": "Photo via @GettyImages"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "829003700391727107",
+          "name": "Chicago Blackhawks"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "839159814991167489",
+          "name": "Travel",
+          "description": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "id": "67",
+          "name": "Interests and Hobbies",
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+        },
+        "entity": {
+          "id": "839161975712067584",
+          "name": "Travel Actions",
+          "description": "This entity includes all conversations about travel and vacation."
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2023-07-10T13:15:05.000Z",
+      "id": "1678392370906144771",
+      "username": "JesusS84048",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1678392556827148289/jhrWjn_L_normal.jpg",
+      "public_metrics": {
+        "followers_count": 26,
+        "following_count": 28,
+        "tweet_count": 3232,
+        "listed_count": 0,
+        "like_count": 16040,
+        "media_count": 373
+      },
+      "name": "Jesus of Suburbia",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 26,
+      "following_count": 28,
+      "tweet_count": 3232,
+      "listed_count": 0,
+      "like_count": 16040,
+      "media_count": 373
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Rockford",
+          "probability": 0.7199
+        },
+        {
+          "text": "Antartica",
+          "probability": 0.6951
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870972453436182982",
+      "text": "@rockford_pi @TylerBoliver They tried it but stopped, I believe. They have had some success in reducing homelessness but Housing First isn’t why. They also have some challenges.",
+      "created_at": "2024-12-22T23:19:28.000Z",
+      "author_id": "1759181",
+      "conversation_id": "1870966669914657279",
+      "in_reply_to_user_id": "209292457",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 56
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 12,
+          "username": "rockford_pi",
+          "id": "209292457"
+        },
+        {
+          "start": 13,
+          "end": 26,
+          "username": "TylerBoliver",
+          "id": "4906932874"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "1054479981009559553",
+          "name": "Matt Mackowiak",
+          "description": "Matt Mackowiak"
+        }
+      },
+      {
+        "domain": {
+          "id": "94",
+          "name": "Journalist",
+          "description": "A journalist like 'Anderson Cooper'"
+        },
+        "entity": {
+          "id": "1054479981009559553",
+          "name": "Matt Mackowiak",
+          "description": "Matt Mackowiak"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1046545033657081857",
+          "name": "News",
+          "description": "News"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1054479981009559553",
+          "name": "Matt Mackowiak",
+          "description": "Matt Mackowiak"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1074755369530880001",
+          "name": "Journalists",
+          "description": "Journalism"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1870969108780724674",
+        "tweet_data": {
+          "entities": {
+            "mentions": [
+              {
+                "start": 0,
+                "end": 14,
+                "username": "MattMackowiak",
+                "id": "1759181"
+              },
+              {
+                "start": 15,
+                "end": 28,
+                "username": "TylerBoliver",
+                "id": "4906932874"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 39,
+                "end": 45,
+                "probability": 0.3804,
+                "type": "Person",
+                "normalized_text": "houston"
+              }
+            ]
+          },
+          "in_reply_to_user_id": "1759181",
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 57
+          },
+          "conversation_id": "1870966669914657279",
+          "edit_history_tweet_ids": [
+            "1870969108780724674"
+          ],
+          "id": "1870969108780724674",
+          "reply_settings": "everyone",
+          "text": "@MattMackowiak @TylerBoliver i thought houston had some success? or was that fleeting?",
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "1870966669914657279"
+            }
+          ],
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "1054479981009559553",
+                "name": "Matt Mackowiak",
+                "description": "Matt Mackowiak"
+              }
+            },
+            {
+              "domain": {
+                "id": "94",
+                "name": "Journalist",
+                "description": "A journalist like 'Anderson Cooper'"
+              },
+              "entity": {
+                "id": "1054479981009559553",
+                "name": "Matt Mackowiak",
+                "description": "Matt Mackowiak"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1046545033657081857",
+                "name": "News",
+                "description": "News"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1054479981009559553",
+                "name": "Matt Mackowiak",
+                "description": "Matt Mackowiak"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1074755369530880001",
+                "name": "Journalists",
+                "description": "Journalism"
+              }
+            },
+            {
+              "domain": {
+                "id": "156",
+                "name": "Cities",
+                "description": "Cities around the world"
+              },
+              "entity": {
+                "id": "855432474960121856",
+                "name": "Houston",
+                "description": "Houston"
+              }
+            }
+          ],
+          "author_id": "209292457",
+          "created_at": "2024-12-22T23:06:11.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2007-03-21T15:32:12.000Z",
+      "id": "1759181",
+      "username": "MattMackowiak",
+      "pinned_tweet_id": "1996747336010104994",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/nTnpuzEISL",
+              "expanded_url": "http://www.PotomacStrategyGroup.com",
+              "display_url": "PotomacStrategyGroup.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 64,
+              "end": 87,
+              "url": "https://t.co/07Li3FFtNq",
+              "expanded_url": "http://ATXMLB.com",
+              "display_url": "ATXMLB.com"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 47,
+              "end": 61,
+              "username": "SaveAustinNow"
+            },
+            {
+              "start": 89,
+              "end": 100,
+              "username": "TeamCornyn"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Austin, TX",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2005306338226679808/bf-57pyX_normal.jpg",
+      "public_metrics": {
+        "followers_count": 37273,
+        "following_count": 13392,
+        "tweet_count": 304975,
+        "listed_count": 783,
+        "like_count": 354238,
+        "media_count": 7795
+      },
+      "name": "Matt Mackowiak",
+      "url": "https://t.co/nTnpuzEISL",
+      "protected": false,
+      "description": "Operative, problem solver, run PSG. Co-founder @SaveAustinNow & https://t.co/07Li3FFtNq. @TeamCornyn Comms Dir. Steelers/Horns. The most committed always wins. ♥️Amy"
+    },
+    "author_metrics": {
+      "followers_count": 37273,
+      "following_count": 13392,
+      "tweet_count": 304975,
+      "listed_count": 783,
+      "like_count": 354238,
+      "media_count": 7795
+    },
+    "location_signals": {
+      "user_profile_location": "Austin, TX",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870334652277219589",
+      "text": "“These people are just like everyone else and they deserve to be remembered.” https://t.co/RCFzggptao",
+      "created_at": "2024-12-21T05:05:04.000Z",
+      "author_id": "33988019",
+      "conversation_id": "1870334652277219589",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 224
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 78,
+          "end": 101,
+          "url": "https://t.co/RCFzggptao",
+          "expanded_url": "https://www.wifr.com/2024/12/21/community-remembers-rockford-area-homeless-people-lost-last-year/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr",
+          "display_url": "wifr.com/2024/12/21/com…",
+          "status": 200,
+          "unwound_url": "https://www.wifr.com/2024/12/21/community-remembers-rockford-area-homeless-people-lost-last-year/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2009-04-21T18:18:11.000Z",
+      "id": "33988019",
+      "username": "WIFRTV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/R7RvGgFIHY",
+              "expanded_url": "https://www.wifr.com/",
+              "display_url": "wifr.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1816242672627015680/lYcc5OVM_normal.jpg",
+      "public_metrics": {
+        "followers_count": 15387,
+        "following_count": 2255,
+        "tweet_count": 122480,
+        "listed_count": 283,
+        "like_count": 724,
+        "media_count": 12010
+      },
+      "name": "WIFR",
+      "url": "https://t.co/R7RvGgFIHY",
+      "protected": false,
+      "description": "Official account for WIFR. \nWatch us in the mornings at 4:30-7 & 9 AM, Noon & evenings at 4, 5, 6, & 10 PM"
+    },
+    "author_metrics": {
+      "followers_count": 15387,
+      "following_count": 2255,
+      "tweet_count": 122480,
+      "listed_count": 283,
+      "like_count": 724,
+      "media_count": 12010
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870164482237808700",
+      "text": "RT @ellieschumann15: I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the communit…",
+      "created_at": "2024-12-20T17:48:53.000Z",
+      "author_id": "1325000900",
+      "conversation_id": "1870164482237808700",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "ellieschumann15",
+          "id": "1799616234016694272"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1865475059889930349",
+        "tweet_data": {
+          "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 1038
+          },
+          "conversation_id": "1865475059889930349",
+          "entities": {
+            "annotations": [
+              {
+                "start": 173,
+                "end": 180,
+                "probability": 0.9697,
+                "type": "Place",
+                "normalized_text": "Rockford"
+              }
+            ],
+            "urls": [
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398919680"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398899200"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052394651648"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052407267328"
+              }
+            ]
+          },
+          "edit_history_tweet_ids": [
+            "1865475059889930349"
+          ],
+          "id": "1865475059889930349",
+          "reply_settings": "everyone",
+          "text": "I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the community. My mom put together a group and we were in downtown Rockford putting out warm gear for the homeless. Have a great day and so excited to play again next week! https://t.co/GtFqJ7ovIq",
+          "attachments": {
+            "media_keys": [
+              "3_1865475052398919680",
+              "3_1865475052398899200",
+              "3_1865475052394651648",
+              "3_1865475052407267328"
+            ]
+          },
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696888568045569",
+                "name": "Food & Beverage Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+              }
+            }
+          ],
+          "author_id": "1799616234016694272",
+          "created_at": "2024-12-07T19:14:47.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2013-04-03T16:47:28.000Z",
+      "id": "1325000900",
+      "username": "SunilSportsNews",
+      "pinned_tweet_id": "1481448587330564100",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/ZRnj6Bap9A",
+              "expanded_url": "http://newjerseysportsnews.com",
+              "display_url": "newjerseysportsnews.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 125,
+              "end": 148,
+              "url": "https://t.co/TvqeZjpHwt",
+              "expanded_url": "https://venmo.com/Sunil-SunderRaj",
+              "display_url": "venmo.com/Sunil-SunderRaj"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 33,
+              "end": 42,
+              "username": "TopPreps"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "New Jersey, USA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1940021517883944960/M_D5M7o4_normal.jpg",
+      "public_metrics": {
+        "followers_count": 37420,
+        "following_count": 36777,
+        "tweet_count": 479782,
+        "listed_count": 118,
+        "like_count": 713914,
+        "media_count": 21416
+      },
+      "name": "Sports News By Sunil Sunder Raj",
+      "url": "https://t.co/ZRnj6Bap9A",
+      "protected": false,
+      "description": "Sports News Reporter/Interviewer @TopPreps Uncommitted High School, JUCO, Post-Grad and Transfer Portal. IG sunil_sunderraj3 https://t.co/TvqeZjpHwt"
+    },
+    "author_metrics": {
+      "followers_count": 37420,
+      "following_count": 36777,
+      "tweet_count": 479782,
+      "listed_count": 118,
+      "like_count": 713914,
+      "media_count": 21416
+    },
+    "location_signals": {
+      "user_profile_location": "New Jersey, USA",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "ellieschumann15",
+          "location": "Rockford, IL"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Rockford": 1
+        },
+        "countries": {
+          "IL": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870137392968949887",
+      "text": "Rockford Rescue Mission seeks funds to assist growing homeless population in 2025. https://t.co/yQVGbzcwWp",
+      "created_at": "2024-12-20T16:01:14.000Z",
+      "author_id": "15357578",
+      "conversation_id": "1870137392968949887",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 193
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 22,
+          "probability": 0.647,
+          "type": "Other",
+          "normalized_text": "Rockford Rescue Mission"
+        }
+      ],
+      "urls": [
+        {
+          "start": 83,
+          "end": 106,
+          "url": "https://t.co/yQVGbzcwWp",
+          "expanded_url": "https://www.wrex.com/news/rockford-rescue-mission-asking-for-financial-support-to-help-the-homeless-in-2025/article_d5f5056c-beea-11ef-bea6-130c4ba08cdf.html?utm_medium=social&utm_source=twitter_13WREX",
+          "display_url": "wrex.com/news/rockford-…",
+          "status": 200,
+          "unwound_url": "https://www.wrex.com/news/rockford-rescue-mission-asking-for-financial-support-to-help-the-homeless-in-2025/article_d5f5056c-beea-11ef-bea6-130c4ba08cdf.html?utm_medium=social&utm_source=twitter_13WREX"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2008-07-08T20:10:16.000Z",
+      "id": "15357578",
+      "username": "13WREX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/T38TjaFWkJ",
+              "expanded_url": "http://wrex.com",
+              "display_url": "wrex.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889718610437758976/XWFTsiOm_normal.jpg",
+      "public_metrics": {
+        "followers_count": 14472,
+        "following_count": 249,
+        "tweet_count": 83983,
+        "listed_count": 336,
+        "like_count": 815,
+        "media_count": 11437
+      },
+      "name": "13 WREX",
+      "url": "https://t.co/T38TjaFWkJ",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 14472,
+      "following_count": 249,
+      "tweet_count": 83983,
+      "listed_count": 336,
+      "like_count": 815,
+      "media_count": 11437
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1869874747502125119",
+      "text": "Rockford Rescue Mission seeks financial support to care for the homeless https://t.co/VoYBfOvEF3 https://t.co/qWWO6sHANU",
+      "created_at": "2024-12-19T22:37:35.000Z",
+      "author_id": "73127403",
+      "conversation_id": "1869874747502125119",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 247
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 0,
+          "end": 22,
+          "probability": 0.752,
+          "type": "Other",
+          "normalized_text": "Rockford Rescue Mission"
+        }
+      ],
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/VoYBfOvEF3",
+          "expanded_url": "https://trib.al/ovT1Wkm",
+          "display_url": "trib.al/ovT1Wkm",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/rockford-rescue-mission-seeks-financial-support-to-care-for-the-homeless/?utm_medium=referral&utm_source=t.co&utm_campaign=socialflow"
+        },
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/qWWO6sHANU",
+          "expanded_url": "https://x.com/MyStateline/status/1869874747502125119/photo/1",
+          "display_url": "pic.x.com/qWWO6sHANU",
+          "media_key": "3_1869874739369410560"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2009-09-10T14:24:30.000Z",
+      "id": "73127403",
+      "username": "MyStateline",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/wo4cHbKtIP",
+              "expanded_url": "http://www.mystateline.com",
+              "display_url": "mystateline.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, Illinois",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1121466952868859904/rLkve-vk_normal.png",
+      "public_metrics": {
+        "followers_count": 17300,
+        "following_count": 311,
+        "tweet_count": 110028,
+        "listed_count": 301,
+        "like_count": 408,
+        "media_count": 37656
+      },
+      "name": "Eyewitness News WTVO/WQRF",
+      "url": "https://t.co/wo4cHbKtIP",
+      "protected": false,
+      "description": "Website of WTVO-TV and WQRF-TV in Rockford, Illinois - bringing you news, weather and sports headlines.  Serving Northern Illinois and Southern Wisconsin."
+    },
+    "author_metrics": {
+      "followers_count": 17300,
+      "following_count": 311,
+      "tweet_count": 110028,
+      "listed_count": 301,
+      "like_count": 408,
+      "media_count": 37656
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, Illinois",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868134397532348701",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/YaaWT0pHFV",
+      "created_at": "2024-12-15T03:22:03.000Z",
+      "author_id": "921863767700492288",
+      "conversation_id": "1868134397532348701",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 18
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/YaaWT0pHFV",
+          "expanded_url": "https://www.aol.com/affordable-housing-state-budget-deficit-221639270.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+          "display_url": "aol.com/affordable-hou…",
+          "status": 200,
+          "unwound_url": "https://www.aol.com/affordable-housing-state-budget-deficit-221639270.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2017-10-21T22:20:24.000Z",
+      "id": "921863767700492288",
+      "username": "catspudschicken",
+      "verified": false,
+      "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "public_metrics": {
+        "followers_count": 0,
+        "following_count": 12,
+        "tweet_count": 64,
+        "listed_count": 0,
+        "like_count": 19,
+        "media_count": 0
+      },
+      "name": "joseph j.windland",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 0,
+      "following_count": 12,
+      "tweet_count": 64,
+      "listed_count": 0,
+      "like_count": 19,
+      "media_count": 0
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867185011381637366",
+      "text": "Annual Memorial Service for the Homeless in Rockford to honor those who passed away, highlighting Homeless Persons' Memorial Day. https://t.co/VpEQjSsJ59",
+      "created_at": "2024-12-12T12:29:31.000Z",
+      "author_id": "15357578",
+      "conversation_id": "1867185011381637366",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 160
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 44,
+          "end": 51,
+          "probability": 0.9806,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 130,
+          "end": 153,
+          "url": "https://t.co/VpEQjSsJ59",
+          "expanded_url": "https://www.wrex.com/news/rockford-community-to-hold-annual-memorial-ceremony-for-the-homeless/article_926329a4-b87e-11ef-a538-dfd6a30770ce.html?utm_medium=social&utm_source=twitter_13WREX",
+          "display_url": "wrex.com/news/rockford-…",
+          "status": 200,
+          "unwound_url": "https://www.wrex.com/news/rockford-community-to-hold-annual-memorial-ceremony-for-the-homeless/article_926329a4-b87e-11ef-a538-dfd6a30770ce.html?utm_medium=social&utm_source=twitter_13WREX"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1240941899902357510",
+          "name": "Memorial Day ",
+          "description": "This entity for Memorial day for all years"
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1240941899902357510",
+          "name": "Memorial Day ",
+          "description": "This entity for Memorial day for all years"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847548225712119808",
+          "name": "Holidays",
+          "description": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2008-07-08T20:10:16.000Z",
+      "id": "15357578",
+      "username": "13WREX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/T38TjaFWkJ",
+              "expanded_url": "http://wrex.com",
+              "display_url": "wrex.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889718610437758976/XWFTsiOm_normal.jpg",
+      "public_metrics": {
+        "followers_count": 14472,
+        "following_count": 249,
+        "tweet_count": 83983,
+        "listed_count": 336,
+        "like_count": 815,
+        "media_count": 11437
+      },
+      "name": "13 WREX",
+      "url": "https://t.co/T38TjaFWkJ",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 14472,
+      "following_count": 249,
+      "tweet_count": 83983,
+      "listed_count": 336,
+      "like_count": 815,
+      "media_count": 11437
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Rockford",
+          "probability": 0.9806
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866972896028999984",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/bAOzb88l9v",
+      "created_at": "2024-12-11T22:26:39.000Z",
+      "author_id": "738825665684897792",
+      "conversation_id": "1866972896028999984",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 36
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/bAOzb88l9v",
+          "expanded_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/",
+          "display_url": "mystateline.com/news/local-new…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2016-06-03T20:12:20.000Z",
+      "id": "738825665684897792",
+      "username": "working4il",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/tKKWQgWSlY",
+              "expanded_url": "https://working4ilcaucus.com/",
+              "display_url": "working4ilcaucus.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Illinois, USA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1120515324082831360/6CyMqG86_normal.png",
+      "public_metrics": {
+        "followers_count": 605,
+        "following_count": 4530,
+        "tweet_count": 1818,
+        "listed_count": 1,
+        "like_count": 2,
+        "media_count": 36
+      },
+      "name": "Working 4 IL Caucus",
+      "url": "https://t.co/tKKWQgWSlY",
+      "protected": false,
+      "description": "Illinois House Downstate Democrats are the Working for Illinois Caucus."
+    },
+    "author_metrics": {
+      "followers_count": 605,
+      "following_count": 4530,
+      "tweet_count": 1818,
+      "listed_count": 1,
+      "like_count": 2,
+      "media_count": 36
+    },
+    "location_signals": {
+      "user_profile_location": "Illinois, USA",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866972842601947167",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/nyqZrt2P7W",
+      "created_at": "2024-12-11T22:26:27.000Z",
+      "author_id": "905463594069893120",
+      "conversation_id": "1866972842601947167",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 26
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/nyqZrt2P7W",
+          "expanded_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/",
+          "display_url": "mystateline.com/news/local-new…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2017-09-06T16:11:58.000Z",
+      "id": "905463594069893120",
+      "username": "rockbulletin1",
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/907050299369639938/9-OUHLWZ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 123,
+        "following_count": 4466,
+        "tweet_count": 37814,
+        "listed_count": 4,
+        "like_count": 0,
+        "media_count": 266
+      },
+      "name": "Rockford Bulletin",
+      "protected": false,
+      "description": "Your news connection for Rockford."
+    },
+    "author_metrics": {
+      "followers_count": 123,
+      "following_count": 4466,
+      "tweet_count": 37814,
+      "listed_count": 4,
+      "like_count": 0,
+      "media_count": 266
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866972835115073555",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/eSrHYtPZHq",
+      "created_at": "2024-12-11T22:26:25.000Z",
+      "author_id": "721498809969152000",
+      "conversation_id": "1866972835115073555",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 54
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/eSrHYtPZHq",
+          "expanded_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/",
+          "display_url": "mystateline.com/news/local-new…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2016-04-17T00:41:35.000Z",
+      "id": "721498809969152000",
+      "username": "rkprsheadlines",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/uDzUzvNowt",
+              "expanded_url": "http://www.rkprsolutions.com/",
+              "display_url": "rkprsolutions.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Illinois",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1022516848410218496/x3_4nG1o_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1077,
+        "following_count": 4520,
+        "tweet_count": 51517,
+        "listed_count": 20,
+        "like_count": 2,
+        "media_count": 508
+      },
+      "name": "RK PR Solutions",
+      "url": "https://t.co/uDzUzvNowt",
+      "protected": false,
+      "description": "Top news from around Illinois"
+    },
+    "author_metrics": {
+      "followers_count": 1077,
+      "following_count": 4520,
+      "tweet_count": 51517,
+      "listed_count": 20,
+      "like_count": 2,
+      "media_count": 508
+    },
+    "location_signals": {
+      "user_profile_location": "Illinois",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866972774129889647",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/XQ6Iy5lgSH",
+      "created_at": "2024-12-11T22:26:10.000Z",
+      "author_id": "2203301089",
+      "conversation_id": "1866972774129889647",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 75
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/XQ6Iy5lgSH",
+          "expanded_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/",
+          "display_url": "mystateline.com/news/local-new…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2013-11-19T15:34:59.000Z",
+      "id": "2203301089",
+      "username": "ILGAConnected",
+      "verified": false,
+      "location": "Springfield",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1120512139427553280/lbKuPwGj_normal.png",
+      "public_metrics": {
+        "followers_count": 3035,
+        "following_count": 4520,
+        "tweet_count": 121248,
+        "listed_count": 126,
+        "like_count": 5,
+        "media_count": 2394
+      },
+      "name": "ILGA Connected",
+      "protected": false,
+      "description": "Your legislative news and updates as they happen."
+    },
+    "author_metrics": {
+      "followers_count": 3035,
+      "following_count": 4520,
+      "tweet_count": 121248,
+      "listed_count": 126,
+      "like_count": 5,
+      "media_count": 2394
+    },
+    "location_signals": {
+      "user_profile_location": "Springfield",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866972723986968719",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/2N4gdlL0yH",
+      "created_at": "2024-12-11T22:25:58.000Z",
+      "author_id": "1370433114",
+      "conversation_id": "1866972723986968719",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 61
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6826,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9414,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/2N4gdlL0yH",
+          "expanded_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/",
+          "display_url": "mystateline.com/news/local-new…",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2013-04-21T19:58:41.000Z",
+      "id": "1370433114",
+      "username": "ILPolitihub",
+      "verified": false,
+      "location": "Illinois",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1146959319881179137/5ljxfxiO_normal.png",
+      "public_metrics": {
+        "followers_count": 3091,
+        "following_count": 4497,
+        "tweet_count": 112164,
+        "listed_count": 102,
+        "like_count": 26,
+        "media_count": 1759
+      },
+      "name": "IL Politihub",
+      "protected": false,
+      "description": "Politics. Policy. Illinois. This should be fun."
+    },
+    "author_metrics": {
+      "followers_count": 3091,
+      "following_count": 4497,
+      "tweet_count": 112164,
+      "listed_count": 102,
+      "like_count": 26,
+      "media_count": 1759
+    },
+    "location_signals": {
+      "user_profile_location": "Illinois",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6826
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9414
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866971019623215293",
+      "text": "Affordable housing, state budget deficit at issue as Northern Illinois lawmakers meet with Rockford-area leaders https://t.co/9cjeOZlSH4 https://t.co/P0mEcZ1ptR",
+      "created_at": "2024-12-11T22:19:12.000Z",
+      "author_id": "73127403",
+      "conversation_id": "1866971019623215293",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 397
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 53,
+          "end": 69,
+          "probability": 0.6945,
+          "type": "Place",
+          "normalized_text": "Northern Illinois"
+        },
+        {
+          "start": 91,
+          "end": 98,
+          "probability": 0.9454,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/9cjeOZlSH4",
+          "expanded_url": "https://trib.al/ES1TjdG",
+          "display_url": "trib.al/ES1TjdG",
+          "status": 200,
+          "unwound_url": "https://www.mystateline.com/news/local-news/affordable-housing-state-budget-deficit-at-issue-as-northern-illinois-lawmakers-meet-with-rockford-area-leaders/?utm_campaign=socialflow&utm_source=t.co&utm_medium=referral"
+        },
+        {
+          "start": 137,
+          "end": 160,
+          "url": "https://t.co/P0mEcZ1ptR",
+          "expanded_url": "https://x.com/MyStateline/status/1866971019623215293/photo/1",
+          "display_url": "pic.x.com/P0mEcZ1ptR",
+          "media_key": "3_1866971017345630208"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847511168268644352",
+          "name": "Global Economy",
+          "description": "Conversation about global finance and economies."
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004437399626080256",
+          "name": "Illinois",
+          "description": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2009-09-10T14:24:30.000Z",
+      "id": "73127403",
+      "username": "MyStateline",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/wo4cHbKtIP",
+              "expanded_url": "http://www.mystateline.com",
+              "display_url": "mystateline.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, Illinois",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1121466952868859904/rLkve-vk_normal.png",
+      "public_metrics": {
+        "followers_count": 17300,
+        "following_count": 311,
+        "tweet_count": 110028,
+        "listed_count": 301,
+        "like_count": 408,
+        "media_count": 37656
+      },
+      "name": "Eyewitness News WTVO/WQRF",
+      "url": "https://t.co/wo4cHbKtIP",
+      "protected": false,
+      "description": "Website of WTVO-TV and WQRF-TV in Rockford, Illinois - bringing you news, weather and sports headlines.  Serving Northern Illinois and Southern Wisconsin."
+    },
+    "author_metrics": {
+      "followers_count": 17300,
+      "following_count": 311,
+      "tweet_count": 110028,
+      "listed_count": 301,
+      "like_count": 408,
+      "media_count": 37656
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, Illinois",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Illinois"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northern Illinois",
+          "probability": 0.6945
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.9454
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866378309103235544",
+      "text": "RT @ellieschumann15: I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the communit…",
+      "created_at": "2024-12-10T07:03:59.000Z",
+      "author_id": "1279101749824012296",
+      "conversation_id": "1866378309103235544",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "ellieschumann15",
+          "id": "1799616234016694272"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1865475059889930349",
+        "tweet_data": {
+          "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 1038
+          },
+          "conversation_id": "1865475059889930349",
+          "entities": {
+            "annotations": [
+              {
+                "start": 173,
+                "end": 180,
+                "probability": 0.9697,
+                "type": "Place",
+                "normalized_text": "Rockford"
+              }
+            ],
+            "urls": [
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398919680"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398899200"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052394651648"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052407267328"
+              }
+            ]
+          },
+          "edit_history_tweet_ids": [
+            "1865475059889930349"
+          ],
+          "id": "1865475059889930349",
+          "reply_settings": "everyone",
+          "text": "I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the community. My mom put together a group and we were in downtown Rockford putting out warm gear for the homeless. Have a great day and so excited to play again next week! https://t.co/GtFqJ7ovIq",
+          "attachments": {
+            "media_keys": [
+              "3_1865475052398919680",
+              "3_1865475052398899200",
+              "3_1865475052394651648",
+              "3_1865475052407267328"
+            ]
+          },
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696888568045569",
+                "name": "Food & Beverage Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+              }
+            }
+          ],
+          "author_id": "1799616234016694272",
+          "created_at": "2024-12-07T19:14:47.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2020-07-03T17:16:50.000Z",
+      "id": "1279101749824012296",
+      "username": "th_softball",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/icLQY034dd",
+              "expanded_url": "http://www.teamheatsportsacademy.com",
+              "display_url": "teamheatsportsacademy.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Janesville and Platteville WI",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1930778530457030656/b-C1HnKo_normal.jpg",
+      "public_metrics": {
+        "followers_count": 679,
+        "following_count": 1389,
+        "tweet_count": 2138,
+        "listed_count": 1,
+        "like_count": 2430,
+        "media_count": 477
+      },
+      "name": "THSoftball",
+      "url": "https://t.co/icLQY034dd",
+      "protected": false,
+      "description": "WI Elite Travel Softball Program \nJanesville and Platteville WI"
+    },
+    "author_metrics": {
+      "followers_count": 679,
+      "following_count": 1389,
+      "tweet_count": 2138,
+      "listed_count": 1,
+      "like_count": 2430,
+      "media_count": 477
+    },
+    "location_signals": {
+      "user_profile_location": "Janesville and Platteville WI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "ellieschumann15",
+          "location": "Rockford, IL"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Rockford": 1
+        },
+        "countries": {
+          "IL": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866153881140375965",
+      "text": "Thank you, GPS Faith Community Church in Machesney Park, for bringing the cheer to our residents at LSSI’s Spring Ridge Senior Living in Rockford with the donation of these festive wreaths and door decorations. https://t.co/PINvZKCF8c https://t.co/UBSH1K02QP",
+      "created_at": "2024-12-09T16:12:11.000Z",
+      "author_id": "1630336724",
+      "conversation_id": "1866153881140375965",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 68
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 11,
+          "end": 36,
+          "probability": 0.5504,
+          "type": "Other",
+          "normalized_text": "GPS Faith Community Church"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "probability": 0.8748,
+          "type": "Place",
+          "normalized_text": "Machesney Park"
+        },
+        {
+          "start": 100,
+          "end": 103,
+          "probability": 0.4304,
+          "type": "Organization",
+          "normalized_text": "LSSI"
+        },
+        {
+          "start": 107,
+          "end": 118,
+          "probability": 0.6977,
+          "type": "Other",
+          "normalized_text": "Spring Ridge"
+        },
+        {
+          "start": 137,
+          "end": 144,
+          "probability": 0.967,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 211,
+          "end": 234,
+          "url": "https://t.co/PINvZKCF8c",
+          "expanded_url": "http://bit.ly/3AOlYl7",
+          "display_url": "bit.ly/3AOlYl7"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/UBSH1K02QP",
+          "expanded_url": "https://x.com/MeetLSSI/status/1866153881140375965/photo/1",
+          "display_url": "pic.x.com/UBSH1K02QP",
+          "media_key": "3_1866153776777682944"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/UBSH1K02QP",
+          "expanded_url": "https://x.com/MeetLSSI/status/1866153881140375965/photo/1",
+          "display_url": "pic.x.com/UBSH1K02QP",
+          "media_key": "3_1866153776836497408"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/UBSH1K02QP",
+          "expanded_url": "https://x.com/MeetLSSI/status/1866153881140375965/photo/1",
+          "display_url": "pic.x.com/UBSH1K02QP",
+          "media_key": "3_1866153776890978306"
+        },
+        {
+          "start": 235,
+          "end": 258,
+          "url": "https://t.co/UBSH1K02QP",
+          "expanded_url": "https://x.com/MeetLSSI/status/1866153881140375965/photo/1",
+          "display_url": "pic.x.com/UBSH1K02QP",
+          "media_key": "3_1866153776932921345"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697218248773632",
+          "name": "Retail Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps"
+        }
+      },
+      {
+        "domain": {
+          "id": "67",
+          "name": "Interests and Hobbies",
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+        },
+        "entity": {
+          "id": "1037076248877395968",
+          "name": "GPS and maps",
+          "description": "GPS & Maps"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2013-07-29T13:13:13.000Z",
+      "id": "1630336724",
+      "username": "MeetLSSI",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/9wiRssCpnY",
+              "expanded_url": "http://www.LSSI.org",
+              "display_url": "LSSI.org"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Des Plaines, IL USA",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1011631056687128576/4sSQ_3t6_normal.jpg",
+      "public_metrics": {
+        "followers_count": 243,
+        "following_count": 253,
+        "tweet_count": 1784,
+        "listed_count": 6,
+        "like_count": 204,
+        "media_count": 1379
+      },
+      "name": "Lutheran Social Services of Illinois",
+      "url": "https://t.co/9wiRssCpnY",
+      "protected": false,
+      "description": "Responding to the Gospel, Lutheran Social Services of Illinois brings healing, justice, and wholeness to people and communities."
+    },
+    "author_metrics": {
+      "followers_count": 243,
+      "following_count": 253,
+      "tweet_count": 1784,
+      "listed_count": 6,
+      "like_count": 204,
+      "media_count": 1379
+    },
+    "location_signals": {
+      "user_profile_location": "Des Plaines, IL USA",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Machesney Park",
+          "probability": 0.8748
+        },
+        {
+          "text": "Rockford",
+          "probability": 0.967
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866106191845486742",
+      "text": "RT @ellieschumann15: I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the communit…",
+      "created_at": "2024-12-09T13:02:41.000Z",
+      "author_id": "1698690460187791360",
+      "conversation_id": "1866106191845486742",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 3,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 19,
+          "username": "ellieschumann15",
+          "id": "1799616234016694272"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1865475059889930349",
+        "tweet_data": {
+          "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 24,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 1038
+          },
+          "conversation_id": "1865475059889930349",
+          "entities": {
+            "annotations": [
+              {
+                "start": 173,
+                "end": 180,
+                "probability": 0.9697,
+                "type": "Place",
+                "normalized_text": "Rockford"
+              }
+            ],
+            "urls": [
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398919680"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052398899200"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052394651648"
+              },
+              {
+                "start": 279,
+                "end": 302,
+                "url": "https://t.co/GtFqJ7ovIq",
+                "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+                "display_url": "pic.x.com/GtFqJ7ovIq",
+                "media_key": "3_1865475052407267328"
+              }
+            ]
+          },
+          "edit_history_tweet_ids": [
+            "1865475059889930349"
+          ],
+          "id": "1865475059889930349",
+          "reply_settings": "everyone",
+          "text": "I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the community. My mom put together a group and we were in downtown Rockford putting out warm gear for the homeless. Have a great day and so excited to play again next week! https://t.co/GtFqJ7ovIq",
+          "attachments": {
+            "media_keys": [
+              "3_1865475052398919680",
+              "3_1865475052398899200",
+              "3_1865475052394651648",
+              "3_1865475052407267328"
+            ]
+          },
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696888568045569",
+                "name": "Food & Beverage Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+              }
+            }
+          ],
+          "author_id": "1799616234016694272",
+          "created_at": "2024-12-07T19:14:47.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2023-09-04T13:32:51.000Z",
+      "id": "1698690460187791360",
+      "username": "th_softball2010",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1869919811880284165/sZvc5E-R_normal.jpg",
+      "public_metrics": {
+        "followers_count": 45,
+        "following_count": 119,
+        "tweet_count": 63,
+        "listed_count": 0,
+        "like_count": 76,
+        "media_count": 27
+      },
+      "name": "Team Heat 2010",
+      "protected": false,
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 45,
+      "following_count": 119,
+      "tweet_count": 63,
+      "listed_count": 0,
+      "like_count": 76,
+      "media_count": 27
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "ellieschumann15",
+          "location": "Rockford, IL"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Rockford": 1
+        },
+        "countries": {
+          "IL": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1865475059889930349",
+      "text": "I know this isn’t what I normally post, but since I had this weekend off, we spent the day giving back to the community. My mom put together a group and we were in downtown Rockford putting out warm gear for the homeless. Have a great day and so excited to play again next week! https://t.co/GtFqJ7ovIq",
+      "created_at": "2024-12-07T19:14:47.000Z",
+      "author_id": "1799616234016694272",
+      "conversation_id": "1865475059889930349",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 3,
+      "reply_count": 1,
+      "like_count": 24,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 1038
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 173,
+          "end": 180,
+          "probability": 0.9697,
+          "type": "Place",
+          "normalized_text": "Rockford"
+        }
+      ],
+      "urls": [
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GtFqJ7ovIq",
+          "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+          "display_url": "pic.x.com/GtFqJ7ovIq",
+          "media_key": "3_1865475052398919680"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GtFqJ7ovIq",
+          "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+          "display_url": "pic.x.com/GtFqJ7ovIq",
+          "media_key": "3_1865475052398899200"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GtFqJ7ovIq",
+          "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+          "display_url": "pic.x.com/GtFqJ7ovIq",
+          "media_key": "3_1865475052394651648"
+        },
+        {
+          "start": 279,
+          "end": 302,
+          "url": "https://t.co/GtFqJ7ovIq",
+          "expanded_url": "https://x.com/ellieschumann15/status/1865475059889930349/photo/1",
+          "display_url": "pic.x.com/GtFqJ7ovIq",
+          "media_key": "3_1865475052407267328"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2024-06-09T01:35:32.000Z",
+      "id": "1799616234016694272",
+      "username": "ellieschumann15",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/orR6rVtS3d",
+              "expanded_url": "https://www.instagram.com/ellieschumann_5?igsh=MXhhaTVhYWd0Zml3dg%3D%3D&utm_source=qr",
+              "display_url": "instagram.com/ellieschumann_…"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1987948796907606016/ZFQoJ72t_normal.jpg",
+      "public_metrics": {
+        "followers_count": 306,
+        "following_count": 569,
+        "tweet_count": 111,
+        "listed_count": 0,
+        "like_count": 375,
+        "media_count": 53
+      },
+      "name": "Elizah (Ellie) Schumann 2029",
+      "url": "https://t.co/orR6rVtS3d",
+      "protected": false,
+      "description": "|#5| |5”3| |2029| |🥎🏐| |Tennessee Mojo 14u-Saftig| |SS-3B-OF| |IL| |Harlem Highschool| |4.0 GPA| |Email: ellieschumann707@gmail.com | Philippians 4:13 |"
+    },
+    "author_metrics": {
+      "followers_count": 306,
+      "following_count": 569,
+      "tweet_count": 111,
+      "listed_count": 0,
+      "like_count": 375,
+      "media_count": 53
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Rockford",
+          "probability": 0.9697
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864879572841308362",
+      "text": "RT @WIFRTV: As warming centers protect those without a stable shelter, there is one big challenge: reduced capacity.  https://t.co/pzyqr02k…",
+      "created_at": "2024-12-06T03:48:32.000Z",
+      "author_id": "1087776208484552704",
+      "conversation_id": "1864879572841308362",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 10,
+          "username": "WIFRTV",
+          "id": "33988019"
+        }
+      ],
+      "urls": [
+        {
+          "start": 118,
+          "end": 139,
+          "url": "https://t.co/pzyqr02k",
+          "display_url": "t.co/pzyqr02k"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1864874952987439108",
+        "tweet_data": {
+          "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 234
+          },
+          "conversation_id": "1864874952987439108",
+          "edit_history_tweet_ids": [
+            "1864874952987439108"
+          ],
+          "id": "1864874952987439108",
+          "entities": {
+            "urls": [
+              {
+                "start": 106,
+                "end": 129,
+                "url": "https://t.co/pzyqr02kob",
+                "expanded_url": "https://www.wifr.com/2024/12/06/rockford-leaders-prepare-busy-winter-with-smaller-warming-centers-homeless/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr",
+                "display_url": "wifr.com/2024/12/06/roc…",
+                "status": 200,
+                "unwound_url": "https://www.wifr.com/2024/12/06/rockford-leaders-prepare-busy-winter-with-smaller-warming-centers-homeless/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr"
+              }
+            ]
+          },
+          "reply_settings": "everyone",
+          "text": "As warming centers protect those without a stable shelter, there is one big challenge: reduced capacity.  https://t.co/pzyqr02kob",
+          "possibly_sensitive": false,
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1260018010951016451",
+                "name": "Illinois"
+              }
+            },
+            {
+              "domain": {
+                "id": "171",
+                "name": "Local News",
+                "description": "For local-level news entities"
+              },
+              "entity": {
+                "id": "1260018010951016451",
+                "name": "Illinois"
+              }
+            }
+          ],
+          "author_id": "33988019",
+          "created_at": "2024-12-06T03:30:11.000Z",
+          "lang": "en"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2019-01-22T18:17:12.000Z",
+      "id": "1087776208484552704",
+      "username": "chicagobori_7",
+      "verified": false,
+      "location": "Chicago, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1897140916944769025/b2l3uciB_normal.jpg",
+      "public_metrics": {
+        "followers_count": 459,
+        "following_count": 1449,
+        "tweet_count": 80646,
+        "listed_count": 0,
+        "like_count": 412797,
+        "media_count": 229
+      },
+      "name": "Nemesis",
+      "protected": false,
+      "description": "🇵🇷 🇺🇸Naturally Unbothered😘🖕🏼"
+    },
+    "author_metrics": {
+      "followers_count": 459,
+      "following_count": 1449,
+      "tweet_count": 80646,
+      "listed_count": 0,
+      "like_count": 412797,
+      "media_count": 229
+    },
+    "location_signals": {
+      "user_profile_location": "Chicago, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "WIFRTV",
+          "location": "Rockford, IL"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Rockford": 1
+        },
+        "countries": {
+          "IL": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864874952987439108",
+      "text": "As warming centers protect those without a stable shelter, there is one big challenge: reduced capacity.  https://t.co/pzyqr02kob",
+      "created_at": "2024-12-06T03:30:11.000Z",
+      "author_id": "33988019",
+      "conversation_id": "1864874952987439108",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 234
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 106,
+          "end": 129,
+          "url": "https://t.co/pzyqr02kob",
+          "expanded_url": "https://www.wifr.com/2024/12/06/rockford-leaders-prepare-busy-winter-with-smaller-warming-centers-homeless/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr",
+          "display_url": "wifr.com/2024/12/06/roc…",
+          "status": 200,
+          "unwound_url": "https://www.wifr.com/2024/12/06/rockford-leaders-prepare-busy-winter-with-smaller-warming-centers-homeless/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=wifr"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1260018010951016451",
+          "name": "Illinois"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "created_at": "2009-04-21T18:18:11.000Z",
+      "id": "33988019",
+      "username": "WIFRTV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/R7RvGgFIHY",
+              "expanded_url": "https://www.wifr.com/",
+              "display_url": "wifr.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "location": "Rockford, IL",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1816242672627015680/lYcc5OVM_normal.jpg",
+      "public_metrics": {
+        "followers_count": 15387,
+        "following_count": 2255,
+        "tweet_count": 122480,
+        "listed_count": 283,
+        "like_count": 724,
+        "media_count": 12010
+      },
+      "name": "WIFR",
+      "url": "https://t.co/R7RvGgFIHY",
+      "protected": false,
+      "description": "Official account for WIFR. \nWatch us in the mornings at 4:30-7 & 9 AM, Noon & evenings at 4, 5, 6, & 10 PM"
+    },
+    "author_metrics": {
+      "followers_count": 15387,
+      "following_count": 2255,
+      "tweet_count": 122480,
+      "listed_count": 283,
+      "like_count": 724,
+      "media_count": 12010
+    },
+    "location_signals": {
+      "user_profile_location": "Rockford, IL",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  }
+]

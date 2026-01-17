@@ -1,0 +1,24 @@
+{
+  "Cartel_Cal": {
+    "id": "1573087373193158656",
+    "name": "Cartel California 🇺🇸",
+    "screen_name": "Cartel_Cal",
+    "userName": "Cartel_Cal",
+    "location": "California",
+    "url": "https://t.co/8R9BdJKDAA",
+    "description": "\"Welcome to the Cartel California. Such a lovely place\".",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 32456,
+    "following_count": 11251,
+    "friends_count": 11251,
+    "favourites_count": 27129,
+    "statuses_count": 46603,
+    "media_tweets_count": 6709,
+    "created_at": "Thu Sep 22 23:10:41 +0000 2022",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573087373193158656/1763860990",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1992379696433254400/wUkhBR3R_normal.jpg",
+    "can_dm": false
+  }
+}

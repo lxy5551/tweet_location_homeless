@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Large data files (>100MB)
+raw_x_data/*/follower_*.json
+raw_x_data/*/following_*.json
+
+# Cache files
+geocode_cache*.json
+*.cache
+
+# Backup directories
+_backup_*/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

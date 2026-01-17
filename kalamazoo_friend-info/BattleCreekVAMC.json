@@ -1,0 +1,278 @@
+{
+  "vasaginaw": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1281309622234681344",
+      "name": "VA Saginaw Healthcare System",
+      "userName": "vasaginaw",
+      "location": "Saginaw, Michigan",
+      "url": "https://t.co/74G5qjm77K",
+      "description": "Providing Veterans health care in Central & Northern Michigan. Following a Twitter user does not signify VA endorsement. https://t.co/x2Tfff4s1G",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "display_url": "go.usa.gov/y7l",
+              "expanded_url": "http://go.usa.gov/y7l",
+              "indices": [
+                121,
+                144
+              ],
+              "url": "https://t.co/x2Tfff4s1G"
+            }
+          ],
+          "user_mentions": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "saginaw.va.gov",
+              "expanded_url": "https://www.saginaw.va.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/74G5qjm77K"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Government",
+      "followers": 139,
+      "following": 145,
+      "favouritesCount": 302,
+      "statusesCount": 3802,
+      "mediaCount": 2466,
+      "createdAt": "2020-07-09T19:31:38.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1283812569485053952/o-1NmQ5g_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "VASouthOregon": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "200206883",
+      "name": "VASouthernOregon",
+      "userName": "VASouthOregon",
+      "location": "White City, Oregon",
+      "url": "http://t.co/JjcDFUnSiN",
+      "description": "Following a Twitter user does not signify VA endorsement. SORCC is VA’s only free standing Rehab Center. Our Twitter Policy http://t.co/9gSWjA3U9z",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ow.ly/jDf6O",
+              "expanded_url": "http://ow.ly/jDf6O",
+              "indices": [
+                124,
+                146
+              ],
+              "url": "http://t.co/9gSWjA3U9z"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "southernoregon.va.gov",
+              "expanded_url": "http://www.southernoregon.va.gov/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/JjcDFUnSiN"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Government",
+      "followers": 1229,
+      "following": 81,
+      "favouritesCount": 23,
+      "statusesCount": 532,
+      "mediaCount": 92,
+      "createdAt": "2010-10-08T18:22:16.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/200206883/1617662825",
+      "profilePicture": "https://pbs.twimg.com/profile_images/378800000260432447/3dd35f07cc91e27c37b183fb9e4e6576_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1382087218471215105"
+      ]
+    }
+  },
+  "VANewMexico": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "196782554",
+      "name": "VANewMexico",
+      "userName": "VANewMexico",
+      "location": "New Mexico",
+      "url": "https://t.co/oAkouGiNdX",
+      "description": "Providing primary and specialty health services for New Mexico and Colorado Veterans, their families and caregivers. Follows, shares, likes, links ≠ endorsement",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "va.gov/new-mexico-hea…",
+              "expanded_url": "https://www.va.gov/new-mexico-health-care/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/oAkouGiNdX"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Government",
+      "followers": 1792,
+      "following": 370,
+      "favouritesCount": 505,
+      "statusesCount": 8347,
+      "mediaCount": 5352,
+      "createdAt": "2010-09-29T22:17:49.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/196782554/1670280504",
+      "profilePicture": "https://pbs.twimg.com/profile_images/378800000040196289/6e587805e89b82ecf41c40375e28db37_normal.png",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "VAIndyHealth": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "707643205",
+      "name": "VA Indiana Healthcare System",
+      "userName": "VAIndyHealth",
+      "location": "Indianapolis IN",
+      "url": "https://t.co/3Tf89KAXb1",
+      "description": "VA Indiana Healthcare System is part of the U.S. Department of Veterans Affairs. Following an X user does not imply endorsement. https://t.co/xrVUVYsYHU",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/VAdiscl",
+              "expanded_url": "http://bit.ly/VAdiscl",
+              "indices": [
+                129,
+                152
+              ],
+              "url": "https://t.co/xrVUVYsYHU"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "va.gov/indiana-health…",
+              "expanded_url": "http://www.va.gov/indiana-health-care/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3Tf89KAXb1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Government",
+      "followers": 1129,
+      "following": 152,
+      "favouritesCount": 48,
+      "statusesCount": 3468,
+      "mediaCount": 2840,
+      "createdAt": "2012-07-20T19:10:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/707643205/1698152162",
+      "profilePicture": "https://pbs.twimg.com/profile_images/590478786132475904/VipCE_Be_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DoleFoundation": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "891532531",
+      "name": "Elizabeth Dole Foundation",
+      "userName": "DoleFoundation",
+      "location": "Washington, DC",
+      "url": "https://t.co/vwh9lES3F1",
+      "description": "Empowering, supporting, and honoring military and veteran caregivers, our nation’s #hiddenheroes.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                83,
+                96
+              ],
+              "text": "hiddenheroes"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "elizabethdolefoundation.org",
+              "expanded_url": "http://elizabethdolefoundation.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vwh9lES3F1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 31733,
+      "following": 22978,
+      "favouritesCount": 17112,
+      "statusesCount": 19032,
+      "mediaCount": 8690,
+      "createdAt": "2012-10-19T18:17:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/891532531/1548260392",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1882519388172980224/M_ySwDn7_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

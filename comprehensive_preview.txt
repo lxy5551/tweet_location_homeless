@@ -1,0 +1,152 @@
+====================================================================================================
+SHEET 1: DEFINITIONS
+====================================================================================================
+
+City                 | The city folder name (tweets mentioning this city)
+Total Tweets         | Total number of tweets in this dataset
+In This City         | User profile location matches this city (e.g., Baltimore, Buffalo)
+In Other Cities      | User profile location is a different specific city/county (e.g., Los Angeles, Seattle)
+Top 3 Other Cities   | The 3 most common other cities where users are located
+Vague Info           | User profile location is too broad (e.g., USA, California, Texas)
+No Info              | User profile has no location information at all
+Data Quality         | Percentage of tweets with specific city-level location (In This City + In Other Cities)
+
+
+====================================================================================================
+SHEET 2: SUMMARY TABLE
+====================================================================================================
+
+City: Baltimore
+  Total Tweets:        428
+  In This City:        126 (29.4%)
+  In Other Cities:     151 (35.3%)
+  Top 3 Other Cities:  Washington, DC (5) | Silver Spring, MD (3) | Wakanda (3)
+  Vague Info:          52 (12.1%)
+  No Info:             99 (23.1%)
+  Data Quality:        64.7%
+
+City: Buffalo
+  Total Tweets:        638
+  In This City:        59 (9.2%)
+  In Other Cities:     271 (42.5%)
+  Top 3 Other Cities:  Rochester, NY (9) | Hastings, Kearney, & GI, NE (6) | Louisville, KY (5)
+  Vague Info:          74 (11.6%)
+  No Info:             234 (36.7%)
+  Data Quality:        51.7%
+
+City: El Paso
+  Total Tweets:        79
+  In This City:        20 (25.3%)
+  In Other Cities:     25 (31.6%)
+  Top 3 Other Cities:  San Antonio, TX (3) | Austin, TX (2) | Kansas City, Missouri U.S.A. (1)
+  Vague Info:          20 (25.3%)
+  No Info:             14 (17.7%)
+  Data Quality:        57.0%
+
+City: Fayetteville
+  Total Tweets:        14
+  In This City:        3 (21.4%)
+  In Other Cities:     6 (42.9%)
+  Top 3 Other Cities:  Northwest Arkansas (2) | Ur moms streched out pussy (1) | West Palm Beach, FL (1)
+  Vague Info:          0 (0.0%)
+  No Info:             5 (35.7%)
+  Data Quality:        64.3%
+
+City: Kalamazoo
+  Total Tweets:        24
+  In This City:        6 (25.0%)
+  In Other Cities:     10 (41.7%)
+  Top 3 Other Cities:  NYC (1) | Louisville, KY (1) | Tuscaloosa (1)
+  Vague Info:          5 (20.8%)
+  No Info:             3 (12.5%)
+  Data Quality:        66.7%
+
+City: Portland
+  Total Tweets:        5406
+  In This City:        359 (6.6%)
+  In Other Cities:     1842 (34.1%)
+  Top 3 Other Cities:  Seattle, WA (17) | San Francisco, CA (15) | San Antonio,Republic of Texas  (15)
+  Vague Info:          1043 (19.3%)
+  No Info:             2162 (40.0%)
+  Data Quality:        40.7%
+
+City: Rockford
+  Total Tweets:        24
+  In This City:        8 (33.3%)
+  In Other Cities:     8 (33.3%)
+  Top 3 Other Cities:  next to the capital of Chicago (1) | St Charles (1) | We Are Everywhere (1)
+  Vague Info:          5 (20.8%)
+  No Info:             3 (12.5%)
+  Data Quality:        66.7%
+
+City: San Francisco
+  Total Tweets:        7168
+  In This City:        649 (9.1%)
+  In Other Cities:     2576 (35.9%)
+  Top 3 Other Cities:  Los Angeles, CA (106) | San Diego, CA (39) | Oakland, CA (27)
+  Vague Info:          1093 (15.2%)
+  No Info:             2850 (39.8%)
+  Data Quality:        45.0%
+
+City: Scranton
+  Total Tweets:        14
+  In This City:        0 (0.0%)
+  In Other Cities:     3 (21.4%)
+  Top 3 Other Cities:  Somewhere I don't want to be (1) | Space Coast, FL USA Earth (1) | Northeast PA (1)
+  Vague Info:          3 (21.4%)
+  No Info:             8 (57.1%)
+  Data Quality:        21.4%
+
+City: Southbend
+  Total Tweets:        43
+  In This City:        10 (23.3%)
+  In Other Cities:     13 (30.2%)
+  Top 3 Other Cities:  The Goat House (1) | Granger, IN (1) | Bristol, IN. (1)
+  Vague Info:          7 (16.3%)
+  No Info:             13 (30.2%)
+  Data Quality:        53.5%
+
+City: TOTAL
+  Total Tweets:        13838
+  In This City:        1240 (9.0%)
+  In Other Cities:     4905 (35.4%)
+  Top 3 Other Cities:  -
+  Vague Info:          2302 (16.6%)
+  No Info:             5391 (39.0%)
+  Data Quality:        44.4%
+
+
+====================================================================================================
+SHEET 3: TOP 10 OTHER CITIES (First 30 rows as sample)
+====================================================================================================
+
+Baltimore            | Rank 1  | Washington, DC                           | 5    (3.3%)
+Baltimore            | Rank 2  | Silver Spring, MD                        | 3    (2.0%)
+Baltimore            | Rank 3  | Wakanda                                  | 3    (2.0%)
+Baltimore            | Rank 4  | Philadelphia, PA                         | 3    (2.0%)
+Baltimore            | Rank 5  | Nashville, TN                            | 2    (1.3%)
+Baltimore            | Rank 6  | 410                                      | 2    (1.3%)
+Baltimore            | Rank 7  | DMV                                      | 2    (1.3%)
+Baltimore            | Rank 8  | Annapolis, MD                            | 2    (1.3%)
+Baltimore            | Rank 9  | Home 😊.                                  | 2    (1.3%)
+Baltimore            | Rank 10 | Gag City                                 | 2    (1.3%)
+Buffalo              | Rank 1  | Rochester, NY                            | 9    (3.3%)
+Buffalo              | Rank 2  | Hastings, Kearney, & GI, NE              | 6    (2.2%)
+Buffalo              | Rank 3  | Louisville, KY                           | 5    (1.8%)
+Buffalo              | Rank 4  | New York, NY                             | 4    (1.5%)
+Buffalo              | Rank 5  | Tampa, FL                                | 4    (1.5%)
+Buffalo              | Rank 6  | Los Angeles                              | 3    (1.1%)
+Buffalo              | Rank 7  | 716                                      | 3    (1.1%)
+Buffalo              | Rank 8  | Lexington, KY                            | 3    (1.1%)
+Buffalo              | Rank 9  | Kenmore, NY                              | 2    (0.7%)
+Buffalo              | Rank 10 | Neptune, NJ                              | 2    (0.7%)
+El Paso              | Rank 1  | San Antonio, TX                          | 3    (12.0%)
+El Paso              | Rank 2  | Austin, TX                               | 2    (8.0%)
+El Paso              | Rank 3  | Kansas City, Missouri U.S.A.             | 1    (4.0%)
+El Paso              | Rank 4  | Jonesborough,Tennessee                   | 1    (4.0%)
+El Paso              | Rank 5  | Kenya                                    | 1    (4.0%)
+El Paso              | Rank 6  | Houston, Texas, USA                      | 1    (4.0%)
+El Paso              | Rank 7  | Somewhere down in Texas                  | 1    (4.0%)
+El Paso              | Rank 8  | Democrats still torture slaves           | 1    (4.0%)
+El Paso              | Rank 9  | Cabot, AR                                | 1    (4.0%)
+El Paso              | Rank 10 | In a Van Down by the River               | 1    (4.0%)

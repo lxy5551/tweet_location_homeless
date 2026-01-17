@@ -1,0 +1,939 @@
+{
+  "LeftOfLansing": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1087067870591356928",
+      "name": "LeftOfLansing",
+      "userName": "LeftOfLansing",
+      "location": "Michigan, USA",
+      "url": "https://t.co/q4Kyo5Tjks",
+      "description": "Pat Johnston's Progressive Podcast covering Michigan politics and pop culture!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "leftoflansing.com",
+              "expanded_url": "http://leftoflansing.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/q4Kyo5Tjks"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1054,
+      "following": 3221,
+      "favouritesCount": 80643,
+      "statusesCount": 15074,
+      "mediaCount": 279,
+      "createdAt": "2019-01-20T19:22:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1087067870591356928/1549822722",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1094661838892163072/SatqwFIu_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009621224092319803"
+      ]
+    }
+  },
+  "beyond_process": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1178020431992770560",
+      "name": "Joe F Spaulding 🦉",
+      "userName": "beyond_process",
+      "location": "Michigan, USA",
+      "url": "",
+      "description": "please don't be glazin' me here\n\nMy words and clicks on this account represent me (sometimes) and no one else (always)",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 5924,
+      "following": 3828,
+      "favouritesCount": 116559,
+      "statusesCount": 85566,
+      "mediaCount": 12085,
+      "createdAt": "2019-09-28T18:55:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1178020431992770560/1760638601",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1941959717711974400/7p84R583_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1990416577464857087"
+      ]
+    }
+  },
+  "oshima9": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "414239235",
+      "name": "🔻Richard Estes, \"From the River to the Sea\" 🍉",
+      "userName": "oshima9",
+      "location": "",
+      "url": "https://t.co/jMqJ1VJMfm",
+      "description": "\"One must always try to be as radical as reality itself”- Lenin\n\nBackup: @rwf1969",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                73,
+                81
+              ],
+              "name": "",
+              "screen_name": "rwf1969"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amleft.blogspot.com",
+              "expanded_url": "http://www.amleft.blogspot.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jMqJ1VJMfm"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1775,
+      "following": 2429,
+      "favouritesCount": 35442,
+      "statusesCount": 149284,
+      "mediaCount": 133,
+      "createdAt": "2011-11-16T20:17:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/414239235/1539843480",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1833093939/Fassbinder2_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1781394871275913252"
+      ]
+    }
+  },
+  "sdfahrenthold": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "383764819",
+      "name": "Stacy Fahrenthold",
+      "userName": "sdfahrenthold",
+      "location": "",
+      "url": "https://t.co/HNINcXFJX0",
+      "description": "historian of Middle Eastern migration | not active on X, visit me here https://t.co/HNINcXFJX0",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/sfahre…",
+              "expanded_url": "https://bsky.app/profile/sfahrenthold.bsky.social",
+              "indices": [
+                71,
+                94
+              ],
+              "url": "https://t.co/HNINcXFJX0"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/sfahre…",
+              "expanded_url": "https://bsky.app/profile/sfahrenthold.bsky.social",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HNINcXFJX0"
+            }
+          ]
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 7427,
+      "following": 3653,
+      "favouritesCount": 25015,
+      "statusesCount": 2738,
+      "mediaCount": 243,
+      "createdAt": "2011-10-02T13:38:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/383764819/1634931282",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1390343821859332096/NF7Hm8Gv_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Brian_guti14": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2225310024",
+      "name": "Brian Gutierrez",
+      "userName": "Brian_guti14",
+      "location": "Lisbon, Portugal",
+      "url": "",
+      "description": "Revolutionary 🚩 | A better world is possible 🌎",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 377,
+      "following": 387,
+      "favouritesCount": 71365,
+      "statusesCount": 5686,
+      "mediaCount": 46,
+      "createdAt": "2013-12-01T17:29:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2225310024/1618798619",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913063071599181824/4jA6X5uz_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1454979249698447361"
+      ]
+    }
+  },
+  "DiazForMichigan": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1952889060470538240",
+      "name": "Ivan Diaz For Michigan Senate District 29",
+      "userName": "DiazForMichigan",
+      "location": "Grand Rapids, MI",
+      "url": "https://t.co/P450RVsnnl",
+      "description": "Democratic Candidate for Michigan’s 29th State Senate District Official Campaign Account; Former Kent County Commissioner #DiazForANewDay",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                122,
+                137
+              ],
+              "text": "DiazForANewDay"
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "voteivandiaz.com",
+              "expanded_url": "http://voteivandiaz.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/P450RVsnnl"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 56,
+      "following": 221,
+      "favouritesCount": 30,
+      "statusesCount": 198,
+      "mediaCount": 31,
+      "createdAt": "2025-08-06T00:26:56.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1952889060470538240/1754440412",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952890504590352384/INrQ5E7O_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1974856773317353972"
+      ]
+    }
+  },
+  "Press4BC": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1768071899651670016",
+      "name": "Mason Pressler",
+      "userName": "Press4BC",
+      "location": "The Banks, Bay City, MI",
+      "url": "",
+      "description": "19 y/o School Board Member for BCPS | @TheOutrunCo, SBDSA Electoral Chair, Nat. Committeeman for @YoungdemsMI, Youngest elected official in MI (Personal Acct)",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                50
+              ],
+              "name": "",
+              "screen_name": "TheOutrunCo"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                97,
+                109
+              ],
+              "name": "",
+              "screen_name": "YoungdemsMI"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2130,
+      "following": 1257,
+      "favouritesCount": 36554,
+      "statusesCount": 9682,
+      "mediaCount": 878,
+      "createdAt": "2024-03-14T00:29:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1768071899651670016/1739547225",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1971252832700399616/Ixmtinv__normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1997023107341864988"
+      ]
+    }
+  },
+  "aeconwright": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "884746988276908033",
+      "name": "Anthony Conwright",
+      "userName": "aeconwright",
+      "location": "New York, NY",
+      "url": "",
+      "description": "I condense & integrate history into essays about contemporary issues w/o revising history: @nytopinion @newrepublic @MotherJones @thenation",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                91,
+                102
+              ],
+              "name": "",
+              "screen_name": "nytopinion"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                103,
+                115
+              ],
+              "name": "",
+              "screen_name": "newrepublic"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                116,
+                128
+              ],
+              "name": "",
+              "screen_name": "MotherJones"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                129,
+                139
+              ],
+              "name": "",
+              "screen_name": "thenation"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1302,
+      "following": 3615,
+      "favouritesCount": 2703,
+      "statusesCount": 2060,
+      "mediaCount": 124,
+      "createdAt": "2017-07-11T12:11:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/884746988276908033/1628769013",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1625056504561692672/oNjryG-T_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1994786005476323347"
+      ]
+    }
+  },
+  "BobbyJoe1974": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "23652137",
+      "name": "Joe B. 🇵🇸",
+      "userName": "BobbyJoe1974",
+      "location": "so called \"Kalamazoo\"",
+      "url": "",
+      "description": "Nurse, dog dad, aspiring Golden Girl (the slutty one), animal rights, 🌈, tree hugging commie. Water is life. I say fuck a fuck ton.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1407,
+      "following": 857,
+      "favouritesCount": 116464,
+      "statusesCount": 41461,
+      "mediaCount": 4088,
+      "createdAt": "2009-03-10T20:40:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/23652137/1765202329",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1907561789153304576/VZ5vckj1_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1785843975695286745"
+      ]
+    }
+  },
+  "ChiefLinwoodAYE": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1198300917898063874",
+      "name": "Chief.",
+      "userName": "ChiefLinwoodAYE",
+      "location": "Linwood, Westside Detroit, MI",
+      "url": "https://t.co/C9SZMLCCov",
+      "description": "#AfricansForever 🇳🇬❤️✊🏿💚🔥",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                16
+              ],
+              "text": "AfricansForever"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LinwoodAllDay.com",
+              "expanded_url": "http://LinwoodAllDay.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/C9SZMLCCov"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 279,
+      "following": 1127,
+      "favouritesCount": 5292,
+      "statusesCount": 22238,
+      "mediaCount": 678,
+      "createdAt": "2019-11-23T18:03:04.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1198300917898063874/1604854100",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1818388652327686144/DjhzumWP_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1863954840335855713"
+      ]
+    }
+  },
+  "KellyBreenMI": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "838495411065270275",
+      "name": "Kelly Breen",
+      "userName": "KellyBreenMI",
+      "location": "Novi, MI",
+      "url": "https://t.co/Gue5xn4D6o",
+      "description": "Proud Momma | MI State Rep HD21 | Former City Council Member | Attorney | Proficient in sarcasm & policy | #SpartanStrong | #Michigander | Personal Account",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                107,
+                121
+              ],
+              "text": "SpartanStrong"
+            },
+            {
+              "indices": [
+                124,
+                136
+              ],
+              "text": "Michigander"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kellybreen.com",
+              "expanded_url": "https://kellybreen.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Gue5xn4D6o"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4296,
+      "following": 4921,
+      "favouritesCount": 26655,
+      "statusesCount": 7319,
+      "mediaCount": 1588,
+      "createdAt": "2017-03-05T21:04:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/838495411065270275/1663940828",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1456973641288228870/huL5FVVj_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1699084972013838363"
+      ]
+    }
+  },
+  "lounovak": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "14219176",
+      "name": "lou novak",
+      "userName": "lounovak",
+      "location": "Detroit MI",
+      "url": "",
+      "description": "\"Be careful what you're told\"\n\n - Samara Cyn",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1055,
+      "following": 2075,
+      "favouritesCount": 35458,
+      "statusesCount": 21357,
+      "mediaCount": 1142,
+      "createdAt": "2008-03-25T20:43:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/14219176/1767460528",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1983859195796463616/EirLzhby_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1821725093451489531"
+      ]
+    }
+  },
+  "l3vi_k11": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3229205508",
+      "name": "levi",
+      "userName": "l3vi_k11",
+      "location": "",
+      "url": "https://t.co/EI9gW0otXW",
+      "description": "Free Palestine 🇵🇸 while there is a lower class, I am in it, while there is a criminal element, I am of it, and while there is a soul in prison, I am not free",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "mobile.twitter.com/l3vi_k11",
+              "expanded_url": "https://mobile.twitter.com/l3vi_k11",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EI9gW0otXW"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 194,
+      "following": 788,
+      "favouritesCount": 5560,
+      "statusesCount": 1997,
+      "mediaCount": 58,
+      "createdAt": "2015-05-29T00:38:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3229205508/1761161234",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1882525626407505920/mVOSHPKU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1280609849013940226"
+      ]
+    }
+  },
+  "hadi33761": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "45730220",
+      "name": "rhonda kranz walker",
+      "userName": "hadi33761",
+      "location": "Palestine ",
+      "url": "",
+      "description": "Palestinian 🇵🇸 journalist 📍Gazal 📄📺🎙️📝 Reporting for aljazeeraenglish Content Producer",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 728,
+      "following": 7477,
+      "favouritesCount": 9,
+      "statusesCount": 285,
+      "mediaCount": 1,
+      "createdAt": "2009-06-09T01:36:02.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/45730220/1755547550",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1957534343103926278/tczMEZEs_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Zack_James94": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1601019474232107010",
+      "name": "Zack James",
+      "userName": "Zack_James94",
+      "location": "Massachusetts, USA",
+      "url": "",
+      "description": "31 year old socialist who grew up in a conservative family. Everyone deserves healthcare, food, shelter, education, a living wage, and freedom from oppression.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10487,
+      "following": 7297,
+      "favouritesCount": 12116,
+      "statusesCount": 13768,
+      "mediaCount": 1120,
+      "createdAt": "2022-12-09T01:03:04.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1601019474232107010/1752726641",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1948924864821104640/LAQiRz9k_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KarthikForTexas": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1635466678233440259",
+      "name": "Karthik",
+      "userName": "KarthikForTexas",
+      "location": "Houston, TX",
+      "url": "https://t.co/4uUe72Upnj",
+      "description": "Texan, clean energy leader & former public school teacher dedicated to fighting for political reform, public schools, and Texas’s working class",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "houstonprogressives.com",
+              "expanded_url": "http://www.houstonprogressives.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4uUe72Upnj"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 6820,
+      "following": 7507,
+      "favouritesCount": 80347,
+      "statusesCount": 26960,
+      "mediaCount": 2401,
+      "createdAt": "2023-03-14T02:23:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1635466678233440259/1681131747",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1645409218504032256/9DgQ2Lno_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2000414772433723430"
+      ]
+    }
+  },
+  "JuniorMinton": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "392354211",
+      "name": "Kyle Minton",
+      "userName": "JuniorMinton",
+      "location": "Rochester Hills, MI",
+      "url": "https://t.co/06IPK31B4g",
+      "description": "Single-payer healthcare advocate. I write about every book I read.\n\nSubstack: https://t.co/mUJcwwE8Hc",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "kyleminton.substack.com",
+              "expanded_url": "http://kyleminton.substack.com",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/mUJcwwE8Hc"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kyminton.wixsite.com/website",
+              "expanded_url": "https://kyminton.wixsite.com/website",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/06IPK31B4g"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1198,
+      "following": 2580,
+      "favouritesCount": 124973,
+      "statusesCount": 16962,
+      "mediaCount": 1175,
+      "createdAt": "2011-10-16T22:20:38.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/392354211/1546878646",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1129343627019325446/Skx_0rGR_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1781336118568312933"
+      ]
+    }
+  },
+  "sujitdasesq": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3022363067",
+      "name": "Sujit Das",
+      "userName": "sujitdasesq",
+      "location": "Ann Arbor, MI",
+      "url": "",
+      "description": "I hope the future sounds like Kraftwerk.\n\nAlso, ICE must be abolished.\nhe/him\n@sujitdas.bsky.social",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                78,
+                87
+              ],
+              "name": "",
+              "screen_name": "sujitdas"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1172,
+      "following": 7473,
+      "favouritesCount": 388333,
+      "statusesCount": 68735,
+      "mediaCount": 1793,
+      "createdAt": "2015-02-06T23:10:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3022363067/1582434583",
+      "profilePicture": "https://pbs.twimg.com/profile_images/708706525121028096/dlUl7By4_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1538876420574806020"
+      ]
+    }
+  },
+  "doaa__mohammad": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "516999404",
+      "name": "Doaa Albaz",
+      "userName": "doaa__mohammad",
+      "location": "Gaza",
+      "url": "",
+      "description": "A Palestinian journalist from the Gaza Strip 🇵🇸",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 893,
+      "following": 6845,
+      "favouritesCount": 1452,
+      "statusesCount": 116,
+      "mediaCount": 114,
+      "createdAt": "2012-03-06T23:30:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/516999404/1753068735",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1947137468647559168/Shzr4kUQ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "steve78333": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "874472582",
+      "name": "Steve of Detroit 🇺🇲",
+      "userName": "steve78333",
+      "location": "Michigan",
+      "url": "",
+      "description": "Pro-worker, Pro-union, Pro-public transit.\n\nFormer member of UAW Local 51 & UAW Local 869. 🇺🇲",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 922,
+      "following": 1316,
+      "favouritesCount": 43350,
+      "statusesCount": 30437,
+      "mediaCount": 176,
+      "createdAt": "2012-10-11T22:56:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/874472582/1457467938",
+      "profilePicture": "https://pbs.twimg.com/profile_images/708029940638167040/ADRJVjCl_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1888686848027046241"
+      ]
+    }
+  }
+}

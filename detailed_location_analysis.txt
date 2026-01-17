@@ -1,0 +1,80 @@
+DETAILED USER LOCATION ANALYSIS
+======================================================================================================================================================
+
+Baltimore            | Total:    428
+  User in City:       126 (29.4%)         
+  User in Other City: 153 (35.7%)         
+    -> Top 3: Washington, DC (5) | Silver Spring, MD (3) | Wakanda (3)
+  Vague Location:     50 (11.7%)           (USA, California, etc.)
+  No Location:        99 (23.1%)          
+
+Buffalo              | Total:    638
+  User in City:       59 (9.2%)           
+  User in Other City: 272 (42.6%)         
+    -> Top 3: Rochester, NY (9) | Hastings, Kearney, & GI, NE (6) | Louisville, KY (5)
+  Vague Location:     73 (11.4%)           (USA, California, etc.)
+  No Location:        234 (36.7%)         
+
+El Paso              | Total:     79
+  User in City:       20 (25.3%)          
+  User in Other City: 26 (32.9%)          
+    -> Top 3: San Antonio, TX (3) | Austin, TX (2) | Kansas City, Missouri U.S.A. (1)
+  Vague Location:     19 (24.1%)           (USA, California, etc.)
+  No Location:        14 (17.7%)          
+
+Fayetteville         | Total:     14
+  User in City:       3 (21.4%)           
+  User in Other City: 6 (42.9%)           
+    -> Top 3: Northwest Arkansas (2) | Ur moms streched out pussy (1) | West Palm Beach, FL (1)
+  Vague Location:     0 (0.0%)             (USA, California, etc.)
+  No Location:        5 (35.7%)           
+
+Kalamazoo            | Total:     24
+  User in City:       6 (25.0%)           
+  User in Other City: 10 (41.7%)          
+    -> Top 3: NYC (1) | Louisville, KY (1) | Tuscaloosa (1)
+  Vague Location:     5 (20.8%)            (USA, California, etc.)
+  No Location:        3 (12.5%)           
+
+Portland             | Total:   5406
+  User in City:       359 (6.6%)          
+  User in Other City: 1867 (34.5%)        
+    -> Top 3: Idaho, USA (19) | Seattle, WA (17) | San Francisco, CA (15)
+  Vague Location:     1018 (18.8%)         (USA, California, etc.)
+  No Location:        2162 (40.0%)        
+
+Rockford             | Total:     24
+  User in City:       8 (33.3%)           
+  User in Other City: 8 (33.3%)           
+    -> Top 3: next to the capital of Chicago (1) | St Charles (1) | We Are Everywhere (1)
+  Vague Location:     5 (20.8%)            (USA, California, etc.)
+  No Location:        3 (12.5%)           
+
+San Francisco        | Total:   7168
+  User in City:       649 (9.1%)          
+  User in Other City: 2594 (36.2%)        
+    -> Top 3: Los Angeles, CA (106) | San Diego, CA (39) | Oakland, CA (27)
+  Vague Location:     1075 (15.0%)         (USA, California, etc.)
+  No Location:        2850 (39.8%)        
+
+Scranton             | Total:     14
+  User in City:       0 (0.0%)            
+  User in Other City: 3 (21.4%)           
+    -> Top 3: Somewhere I don't want to be (1) | Space Coast, FL USA Earth (1) | Northeast PA (1)
+  Vague Location:     3 (21.4%)            (USA, California, etc.)
+  No Location:        8 (57.1%)           
+
+Southbend            | Total:     43
+  User in City:       10 (23.3%)          
+  User in Other City: 13 (30.2%)          
+    -> Top 3: The Goat House (1) | Granger, IN (1) | Bristol, IN. (1)
+  Vague Location:     7 (16.3%)            (USA, California, etc.)
+  No Location:        13 (30.2%)          
+
+TOTAL                | Total:  13838
+  User in City:       1240 (9.0%)         
+  User in Other City: 4952 (35.8%)        
+    -> Top 3: (See individual cities)
+  Vague Location:     2255 (16.3%)         (USA, California, etc.)
+  No Location:        5391 (39.0%)        
+

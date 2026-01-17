@@ -1,0 +1,3797 @@
+[
+  {
+    "tweet": {
+      "id": "1873917530118799513",
+      "text": "RT @BaptismUSA: God bless @SeelyeAutoGroup for making a cash donation to @GodsKitchenofMI. Their tireless effort to fight hunger in Kalamaz…",
+      "created_at": "2024-12-31T02:22:09.000Z",
+      "author_id": "1427605515182518277",
+      "conversation_id": "1873917530118799513",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 14,
+          "username": "BaptismUSA",
+          "id": "1819288297232834560"
+        },
+        {
+          "start": 26,
+          "end": 42,
+          "username": "SeelyeAutoGroup",
+          "id": "2985010467"
+        },
+        {
+          "start": 73,
+          "end": 89,
+          "username": "GodsKitchenofMI",
+          "id": "247367686"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 132,
+          "end": 138,
+          "probability": 0.9233,
+          "type": "Place",
+          "normalized_text": "Kalamaz"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1873810868099834017",
+        "tweet_data": {
+          "created_at": "2024-12-30T19:18:19.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 277,
+                "end": 300,
+                "url": "https://t.co/HI9LxUqkZX",
+                "expanded_url": "https://x.com/BaptismUSA/status/1873810868099834017/photo/1",
+                "display_url": "pic.x.com/HI9LxUqkZX",
+                "media_key": "3_1873809731212500992"
+              }
+            ],
+            "mentions": [
+              {
+                "start": 10,
+                "end": 26,
+                "username": "SeelyeAutoGroup",
+                "id": "2985010467"
+              },
+              {
+                "start": 57,
+                "end": 73,
+                "username": "GodsKitchenofMI",
+                "id": "247367686"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 116,
+                "end": 124,
+                "probability": 0.5339,
+                "type": "Place",
+                "normalized_text": "Kalamazoo"
+              },
+              {
+                "start": 130,
+                "end": 141,
+                "probability": 0.6183,
+                "type": "Place",
+                "normalized_text": "Battle Creek"
+              },
+              {
+                "start": 228,
+                "end": 233,
+                "probability": 0.6224,
+                "type": "Other",
+                "normalized_text": "Mickey"
+              },
+              {
+                "start": 248,
+                "end": 258,
+                "probability": 0.7975,
+                "type": "Other",
+                "normalized_text": "Lexy Seelye"
+              },
+              {
+                "start": 265,
+                "end": 274,
+                "probability": 0.5783,
+                "type": "Other",
+                "normalized_text": "Rev. Stein"
+              }
+            ]
+          },
+          "id": "1873810868099834017",
+          "attachments": {
+            "media_keys": [
+              "3_1873809731212500992"
+            ]
+          },
+          "edit_history_tweet_ids": [
+            "1873810868099834017"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "God bless @SeelyeAutoGroup for making a cash donation to @GodsKitchenofMI. Their tireless effort to fight hunger in Kalamazoo and Battle Creek will provide free dinners for the homeless and other needy souls in 2025. Thank you. Mickey and Daughter Lexy Seelye with Rev. Stein. https://t.co/HI9LxUqkZX",
+          "conversation_id": "1873810868099834017",
+          "reply_settings": "everyone",
+          "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 61
+          },
+          "author_id": "1819288297232834560"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 78,
+        "following_count": 292,
+        "tweet_count": 482,
+        "listed_count": 0,
+        "like_count": 798,
+        "media_count": 149
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1427605667284668417/7sAVDK-r_normal.jpg",
+      "id": "1427605515182518277",
+      "description": "Broncos Kitchen Foundation is a 501(c)(3) nonprofit corporation providing financial support to food-insecure college students.",
+      "created_at": "2021-08-17T12:17:46.000Z",
+      "username": "BroncosKitFound",
+      "url": "https://t.co/RIoERNSI6V",
+      "location": "Kalamazoo, Michigan",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/RIoERNSI6V",
+              "expanded_url": "http://www.broncoskitchen.org",
+              "display_url": "broncoskitchen.org"
+            }
+          ]
+        }
+      },
+      "name": "Broncos Kitchen Foundation"
+    },
+    "author_metrics": {
+      "followers_count": 78,
+      "following_count": 292,
+      "tweet_count": 482,
+      "listed_count": 0,
+      "like_count": 798,
+      "media_count": 149
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, Michigan",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Kalamaz",
+          "probability": 0.9233
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "BaptismUSA",
+          "location": "Kalamazoo, Michigan"
+        },
+        {
+          "username": "SeelyeAutoGroup",
+          "location": "Kalamazoo MI"
+        },
+        {
+          "username": "GodsKitchenofMI",
+          "location": "Kalamazoo, MI"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Kalamazoo": 2,
+          "Kalamazoo MI": 1
+        },
+        "countries": {
+          "Michigan": 1,
+          "MI": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1873815851037843523",
+      "text": "Stan Qualls &amp; Kim Hoeksema, Thanks for your generous donation to @GodsKitchenofMI. Your Love Gift will provide free dinners for the homeless and other needy souls in Kalamazoo in 2025. God bless you. https://t.co/EiljTpXtKI",
+      "created_at": "2024-12-30T19:38:07.000Z",
+      "author_id": "247367686",
+      "conversation_id": "1873815851037843523",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 17
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/EiljTpXtKI",
+          "expanded_url": "https://x.com/GodsKitchenofMI/status/1873815851037843523/photo/1",
+          "display_url": "pic.x.com/EiljTpXtKI",
+          "media_key": "3_1873815093114269697"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 69,
+          "end": 85,
+          "username": "GodsKitchenofMI",
+          "id": "247367686"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 10,
+          "probability": 0.8075,
+          "type": "Person",
+          "normalized_text": "Stan Qualls"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "probability": 0.8293,
+          "type": "Person",
+          "normalized_text": "Kim Hoeksema"
+        },
+        {
+          "start": 170,
+          "end": 178,
+          "probability": 0.6843,
+          "type": "Place",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 300,
+        "following_count": 1208,
+        "tweet_count": 2854,
+        "listed_count": 5,
+        "like_count": 1472,
+        "media_count": 1000
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/862995486562824193/1_Jfz1UT_normal.jpg",
+      "id": "247367686",
+      "description": "God's Kitchen of Michigan is a faith-based soup kitchen. Our mission is to fulfill Jesus Christ's edict to prepare a feast for the poor. Luke 14:12-14 (NKJV)",
+      "created_at": "2011-02-04T17:08:43.000Z",
+      "username": "GodsKitchenofMI",
+      "url": "https://t.co/S1td9zGuiA",
+      "location": "Kalamazoo, MI",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/S1td9zGuiA",
+              "expanded_url": "http://www.godskitchenofmichigan.org",
+              "display_url": "godskitchenofmichigan.org"
+            }
+          ]
+        }
+      },
+      "name": "God's Kitchen of Michigan"
+    },
+    "author_metrics": {
+      "followers_count": 300,
+      "following_count": 1208,
+      "tweet_count": 2854,
+      "listed_count": 5,
+      "like_count": 1472,
+      "media_count": 1000
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Kalamazoo",
+          "probability": 0.6843
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "GodsKitchenofMI",
+          "location": "Kalamazoo, MI"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Kalamazoo": 1
+        },
+        "countries": {
+          "MI": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1873813553985315032",
+      "text": "@SeelyeAutoGroup, Thanks for making a cash donation to @GodsKitchenofMI. Your tireless effort to fight hunger in Kalamazoo and Battle Creek will provide free dinners for the homeless and other needy souls in 2025. God bless you. Mickey and Daughter Lexy Seelye with Rev. Stein. https://t.co/uu9h0tqtWZ",
+      "created_at": "2024-12-30T19:28:59.000Z",
+      "author_id": "247367686",
+      "conversation_id": "1873813553985315032",
+      "in_reply_to_user_id": "2985010467",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 20
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 278,
+          "end": 301,
+          "url": "https://t.co/uu9h0tqtWZ",
+          "expanded_url": "https://x.com/GodsKitchenofMI/status/1873813553985315032/photo/1",
+          "display_url": "pic.x.com/uu9h0tqtWZ",
+          "media_key": "3_1873813104951181312"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 0,
+          "end": 16,
+          "username": "SeelyeAutoGroup",
+          "id": "2985010467"
+        },
+        {
+          "start": 55,
+          "end": 71,
+          "username": "GodsKitchenofMI",
+          "id": "247367686"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 113,
+          "end": 121,
+          "probability": 0.5403,
+          "type": "Place",
+          "normalized_text": "Kalamazoo"
+        },
+        {
+          "start": 127,
+          "end": 138,
+          "probability": 0.6209,
+          "type": "Place",
+          "normalized_text": "Battle Creek"
+        },
+        {
+          "start": 229,
+          "end": 234,
+          "probability": 0.6145,
+          "type": "Other",
+          "normalized_text": "Mickey"
+        },
+        {
+          "start": 249,
+          "end": 259,
+          "probability": 0.7958,
+          "type": "Other",
+          "normalized_text": "Lexy Seelye"
+        },
+        {
+          "start": 266,
+          "end": 275,
+          "probability": 0.5641,
+          "type": "Other",
+          "normalized_text": "Rev. Stein"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "0",
+        "tweet_data": {}
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 300,
+        "following_count": 1208,
+        "tweet_count": 2854,
+        "listed_count": 5,
+        "like_count": 1472,
+        "media_count": 1000
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/862995486562824193/1_Jfz1UT_normal.jpg",
+      "id": "247367686",
+      "description": "God's Kitchen of Michigan is a faith-based soup kitchen. Our mission is to fulfill Jesus Christ's edict to prepare a feast for the poor. Luke 14:12-14 (NKJV)",
+      "created_at": "2011-02-04T17:08:43.000Z",
+      "username": "GodsKitchenofMI",
+      "url": "https://t.co/S1td9zGuiA",
+      "location": "Kalamazoo, MI",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/S1td9zGuiA",
+              "expanded_url": "http://www.godskitchenofmichigan.org",
+              "display_url": "godskitchenofmichigan.org"
+            }
+          ]
+        }
+      },
+      "name": "God's Kitchen of Michigan"
+    },
+    "author_metrics": {
+      "followers_count": 300,
+      "following_count": 1208,
+      "tweet_count": 2854,
+      "listed_count": 5,
+      "like_count": 1472,
+      "media_count": 1000
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Kalamazoo",
+          "probability": 0.5403
+        },
+        {
+          "text": "Battle Creek",
+          "probability": 0.6209
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "SeelyeAutoGroup",
+          "location": "Kalamazoo MI"
+        },
+        {
+          "username": "GodsKitchenofMI",
+          "location": "Kalamazoo, MI"
+        }
+      ],
+      "replied_to_user_location": "Kalamazoo MI",
+      "network_location_summary": {
+        "cities": {
+          "Kalamazoo MI": 2,
+          "Kalamazoo": 1
+        },
+        "countries": {
+          "MI": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1873810868099834017",
+      "text": "God bless @SeelyeAutoGroup for making a cash donation to @GodsKitchenofMI. Their tireless effort to fight hunger in Kalamazoo and Battle Creek will provide free dinners for the homeless and other needy souls in 2025. Thank you. Mickey and Daughter Lexy Seelye with Rev. Stein. https://t.co/HI9LxUqkZX",
+      "created_at": "2024-12-30T19:18:19.000Z",
+      "author_id": "1819288297232834560",
+      "conversation_id": "1873810868099834017",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 61
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/HI9LxUqkZX",
+          "expanded_url": "https://x.com/BaptismUSA/status/1873810868099834017/photo/1",
+          "display_url": "pic.x.com/HI9LxUqkZX",
+          "media_key": "3_1873809731212500992"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 10,
+          "end": 26,
+          "username": "SeelyeAutoGroup",
+          "id": "2985010467"
+        },
+        {
+          "start": 57,
+          "end": 73,
+          "username": "GodsKitchenofMI",
+          "id": "247367686"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 116,
+          "end": 124,
+          "probability": 0.5339,
+          "type": "Place",
+          "normalized_text": "Kalamazoo"
+        },
+        {
+          "start": 130,
+          "end": 141,
+          "probability": 0.6183,
+          "type": "Place",
+          "normalized_text": "Battle Creek"
+        },
+        {
+          "start": 228,
+          "end": 233,
+          "probability": 0.6224,
+          "type": "Other",
+          "normalized_text": "Mickey"
+        },
+        {
+          "start": 248,
+          "end": 258,
+          "probability": 0.7975,
+          "type": "Other",
+          "normalized_text": "Lexy Seelye"
+        },
+        {
+          "start": 265,
+          "end": 274,
+          "probability": 0.5783,
+          "type": "Other",
+          "normalized_text": "Rev. Stein"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 51,
+        "following_count": 234,
+        "tweet_count": 1020,
+        "listed_count": 0,
+        "like_count": 1425,
+        "media_count": 135
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1819288881348386817/S9pL9FJy_normal.jpg",
+      "id": "1819288297232834560",
+      "description": "Baptism USA Ministries is a Baptist church based in Kalamazoo, Michigan. Our mission is to teach the gospel of God and Jesus Christ according to the Holy Bible.",
+      "created_at": "2024-08-02T08:25:50.000Z",
+      "username": "BaptismUSA",
+      "location": "Kalamazoo, Michigan",
+      "protected": false,
+      "name": "Baptism USA Ministries"
+    },
+    "author_metrics": {
+      "followers_count": 51,
+      "following_count": 234,
+      "tweet_count": 1020,
+      "listed_count": 0,
+      "like_count": 1425,
+      "media_count": 135
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, Michigan",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Kalamazoo",
+          "probability": 0.5339
+        },
+        {
+          "text": "Battle Creek",
+          "probability": 0.6183
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "SeelyeAutoGroup",
+          "location": "Kalamazoo MI"
+        },
+        {
+          "username": "GodsKitchenofMI",
+          "location": "Kalamazoo, MI"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Kalamazoo MI": 1,
+          "Kalamazoo": 1
+        },
+        "countries": {
+          "MI": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1871769012222493077",
+      "text": "\"100 people in need find shelter &amp; community this Christmas thanks to Kalamazoo Together for the Unhoused #HomeForTheHolidays\"\n\nhttps://t.co/M6Uru3jQxZ",
+      "created_at": "2024-12-25T04:04:42.000Z",
+      "author_id": "2375663556",
+      "conversation_id": "1871769012222493077",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 6
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 132,
+          "end": 155,
+          "url": "https://t.co/M6Uru3jQxZ",
+          "expanded_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan",
+          "display_url": "wwmt.com/news/local/kal…",
+          "status": 200,
+          "unwound_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 110,
+          "end": 129,
+          "tag": "HomeForTheHolidays"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 74,
+          "end": 82,
+          "probability": 0.6175,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847548225712119808",
+          "name": "Holidays",
+          "description": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 99,
+        "following_count": 128,
+        "tweet_count": 1406,
+        "listed_count": 1,
+        "like_count": 1296,
+        "media_count": 25
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1790751034840629249/Cv_9DxXI_normal.jpg",
+      "id": "2375663556",
+      "description": "EfficiencyExpert",
+      "created_at": "2014-03-06T17:20:34.000Z",
+      "username": "TiaraxNicole",
+      "protected": false,
+      "name": "FocusWizard"
+    },
+    "author_metrics": {
+      "followers_count": 99,
+      "following_count": 128,
+      "tweet_count": 1406,
+      "listed_count": 1,
+      "like_count": 1296,
+      "media_count": 25
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1871703311189160361",
+      "text": "\"Kalamazoo org provides hotel rooms, meals &amp; clothing to 100 unhoused individuals for Christmas, offering a sense of community &amp; comfort #HomelessnessAwareness\"\n\nhttps://t.co/i7GYVyv3Vk",
+      "created_at": "2024-12-24T23:43:38.000Z",
+      "author_id": "919683290013061123",
+      "conversation_id": "1871703311189160361",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 9
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 170,
+          "end": 193,
+          "url": "https://t.co/i7GYVyv3Vk",
+          "expanded_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan",
+          "display_url": "wwmt.com/news/local/kal…",
+          "status": 200,
+          "unwound_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 145,
+          "end": 167,
+          "tag": "HomelessnessAwareness"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 1,
+          "end": 9,
+          "probability": 0.6107,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "825047692124442624",
+          "name": "Food",
+          "description": "Food"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "1034860760093024257",
+          "name": "Meals",
+          "description": "Meals"
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "119",
+          "name": "Holiday",
+          "description": "Holidays like Christmas or Halloween"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847548225712119808",
+          "name": "Holidays",
+          "description": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1250078501849280512",
+          "name": "Christmas",
+          "description": "This entity includes all conversations for Christmas for all years."
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 1,
+        "following_count": 102,
+        "tweet_count": 319,
+        "listed_count": 0,
+        "like_count": 185,
+        "media_count": 0
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1804065356987719680/0PJWdljQ_normal.jpg",
+      "id": "919683290013061123",
+      "description": "",
+      "created_at": "2017-10-15T21:55:58.000Z",
+      "username": "BalikanouYarga",
+      "protected": false,
+      "name": "Balikanou YARGA"
+    },
+    "author_metrics": {
+      "followers_count": 1,
+      "following_count": 102,
+      "tweet_count": 319,
+      "listed_count": 0,
+      "like_count": 185,
+      "media_count": 0
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1871553722494734477",
+      "text": "RT @wwmtnews: The organization aims to ensure that everybody is surrounded by comfort and joy this holiday season, according to Lowery.\nhtt…",
+      "created_at": "2024-12-24T13:49:13.000Z",
+      "author_id": "18220712",
+      "conversation_id": "1871553722494734477",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "wwmtnews",
+          "id": "15631338"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 128,
+          "end": 133,
+          "probability": 0.4315,
+          "type": "Other",
+          "normalized_text": "Lowery"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1871337506999816657",
+        "tweet_data": {
+          "created_at": "2024-12-23T23:30:04.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 122,
+                "end": 145,
+                "url": "https://t.co/EiwdWEznIz",
+                "expanded_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan",
+                "display_url": "wwmt.com/news/local/kal…",
+                "status": 200,
+                "unwound_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 114,
+                "end": 119,
+                "probability": 0.4393,
+                "type": "Other",
+                "normalized_text": "Lowery"
+              }
+            ]
+          },
+          "id": "1871337506999816657",
+          "edit_history_tweet_ids": [
+            "1871337506999816657"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "The organization aims to ensure that everybody is surrounded by comfort and joy this holiday season, according to Lowery.\nhttps://t.co/EiwdWEznIz",
+          "conversation_id": "1871337506999816657",
+          "reply_settings": "everyone",
+          "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 522
+          },
+          "author_id": "15631338"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 5453,
+        "following_count": 3407,
+        "tweet_count": 212664,
+        "listed_count": 44,
+        "like_count": 196741,
+        "media_count": 50876
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1515498199259258887/zu-b-7Ar_normal.jpg",
+      "id": "18220712",
+      "description": "Marketing/Event Guru...New Phlebotomist..Mom/Grandma... Hockey Mom-Gurls can play hockey too! Daughter to BEST folks on planet...MAGA Conservative & God Loving",
+      "created_at": "2008-12-18T18:12:52.000Z",
+      "username": "martincynthia",
+      "location": "Midwest",
+      "protected": false,
+      "name": "Cyndi"
+    },
+    "author_metrics": {
+      "followers_count": 5453,
+      "following_count": 3407,
+      "tweet_count": 212664,
+      "listed_count": 44,
+      "like_count": 196741,
+      "media_count": 50876
+    },
+    "location_signals": {
+      "user_profile_location": "Midwest",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "wwmtnews",
+          "location": "West Michigan"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "West Michigan": 1
+        },
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1871337506999816657",
+      "text": "The organization aims to ensure that everybody is surrounded by comfort and joy this holiday season, according to Lowery.\nhttps://t.co/EiwdWEznIz",
+      "created_at": "2024-12-23T23:30:04.000Z",
+      "author_id": "15631338",
+      "conversation_id": "1871337506999816657",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 522
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 122,
+          "end": 145,
+          "url": "https://t.co/EiwdWEznIz",
+          "expanded_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan",
+          "display_url": "wwmt.com/news/local/kal…",
+          "status": 200,
+          "unwound_url": "https://wwmt.com/news/local/kalamazoo-together-unhoused-shelter-100-people-christmas-heads-beds-hotels-michigan"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 114,
+          "end": 119,
+          "probability": 0.4393,
+          "type": "Other",
+          "normalized_text": "Lowery"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 60152,
+        "following_count": 347,
+        "tweet_count": 187611,
+        "listed_count": 586,
+        "like_count": 2512,
+        "media_count": 23083
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1998787890940096512/kqCYB4po_normal.jpg",
+      "id": "15631338",
+      "description": "News Channel 3, WWMT-TV provides live, local, breaking news in West Michigan.",
+      "created_at": "2008-07-28T13:01:42.000Z",
+      "username": "wwmtnews",
+      "url": "https://t.co/j52igw9Acl",
+      "location": "West Michigan",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/j52igw9Acl",
+              "expanded_url": "http://WWMT.com",
+              "display_url": "WWMT.com"
+            }
+          ]
+        }
+      },
+      "name": "News Channel 3 WWMT-TV"
+    },
+    "author_metrics": {
+      "followers_count": 60152,
+      "following_count": 347,
+      "tweet_count": 187611,
+      "listed_count": 586,
+      "like_count": 2512,
+      "media_count": 23083
+    },
+    "location_signals": {
+      "user_profile_location": "West Michigan",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870858748589494629",
+      "text": "RT @NewUrbanism: Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle…",
+      "created_at": "2024-12-22T15:47:39.000Z",
+      "author_id": "5839882",
+      "conversation_id": "1870858748589494629",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "NewUrbanism",
+          "id": "17560195"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 56,
+          "probability": 0.3303,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1870167428845445134",
+        "tweet_data": {
+          "created_at": "2024-12-20T18:00:35.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 175,
+                "end": 198,
+                "url": "https://t.co/OE8pdHzYs0",
+                "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+                "display_url": "cnu.org/publicsquare/2…",
+                "status": 200,
+                "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 31,
+                "end": 39,
+                "probability": 0.3328,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1870167428845445134",
+          "edit_history_tweet_ids": [
+            "1870167428845445134"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+          "conversation_id": "1870167428845445134",
+          "reply_settings": "everyone",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            }
+          ],
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 2060
+          },
+          "author_id": "17560195"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 9041,
+        "following_count": 8224,
+        "tweet_count": 41861,
+        "listed_count": 127,
+        "like_count": 122952,
+        "media_count": 1560
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1864303342786068480/ltRkU_Me_normal.jpg",
+      "id": "5839882",
+      "description": "Exec. Director, @transalt | Formerly: @Cornell, @NYCMayorsOffice | The greatest city in the world should have the greatest streets in the world. Views mine.🗽🚲",
+      "created_at": "2007-05-07T18:13:40.000Z",
+      "username": "bfurnas",
+      "url": "https://t.co/zyHgIBa39W",
+      "location": "NYC",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/zyHgIBa39W",
+              "expanded_url": "https://transalt.org/membership",
+              "display_url": "transalt.org/membership"
+            }
+          ]
+        },
+        "description": {
+          "mentions": [
+            {
+              "start": 16,
+              "end": 25,
+              "username": "transalt"
+            },
+            {
+              "start": 38,
+              "end": 46,
+              "username": "Cornell"
+            },
+            {
+              "start": 48,
+              "end": 64,
+              "username": "NYCMayorsOffice"
+            }
+          ]
+        }
+      },
+      "pinned_tweet_id": "1866135169771651499",
+      "name": "Ben Furnas"
+    },
+    "author_metrics": {
+      "followers_count": 9041,
+      "following_count": 8224,
+      "tweet_count": 41861,
+      "listed_count": 127,
+      "like_count": 122952,
+      "media_count": 1560
+    },
+    "location_signals": {
+      "user_profile_location": "NYC",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "NewUrbanism",
+          "location": "DC, USA & worldwide"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "DC": 1
+        },
+        "countries": {
+          "USA & worldwide": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870858296183406793",
+      "text": "RT @NewUrbanism: Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle…",
+      "created_at": "2024-12-22T15:45:51.000Z",
+      "author_id": "581176662",
+      "conversation_id": "1870858296183406793",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "NewUrbanism",
+          "id": "17560195"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 56,
+          "probability": 0.3303,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1870167428845445134",
+        "tweet_data": {
+          "created_at": "2024-12-20T18:00:35.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 175,
+                "end": 198,
+                "url": "https://t.co/OE8pdHzYs0",
+                "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+                "display_url": "cnu.org/publicsquare/2…",
+                "status": 200,
+                "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 31,
+                "end": 39,
+                "probability": 0.3328,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1870167428845445134",
+          "edit_history_tweet_ids": [
+            "1870167428845445134"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+          "conversation_id": "1870167428845445134",
+          "reply_settings": "everyone",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            }
+          ],
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 2060
+          },
+          "author_id": "17560195"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 1812,
+        "following_count": 4429,
+        "tweet_count": 26967,
+        "listed_count": 17,
+        "like_count": 105672,
+        "media_count": 785
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1902857342280216576/YASq0fIT_normal.jpg",
+      "id": "581176662",
+      "description": "Diner and Tavern owner. I bring worn out commercial property back to life. The Louisville Historic District is awesome. 15 minute city.",
+      "created_at": "2012-05-15T17:40:28.000Z",
+      "username": "DanBorsch",
+      "url": "https://t.co/0E9G3o4ULA",
+      "location": "Louisville, KY",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/0E9G3o4ULA",
+              "expanded_url": "http://burgergirldiner.com",
+              "display_url": "burgergirldiner.com"
+            }
+          ]
+        }
+      },
+      "name": "Dan Borsch"
+    },
+    "author_metrics": {
+      "followers_count": 1812,
+      "following_count": 4429,
+      "tweet_count": 26967,
+      "listed_count": 17,
+      "like_count": 105672,
+      "media_count": 785
+    },
+    "location_signals": {
+      "user_profile_location": "Louisville, KY",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "NewUrbanism",
+          "location": "DC, USA & worldwide"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "DC": 1
+        },
+        "countries": {
+          "USA & worldwide": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870857002836263031",
+      "text": "RT @NewUrbanism: Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle…",
+      "created_at": "2024-12-22T15:40:42.000Z",
+      "author_id": "17617492",
+      "conversation_id": "1870857002836263031",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "NewUrbanism",
+          "id": "17560195"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 56,
+          "probability": 0.3303,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1870167428845445134",
+        "tweet_data": {
+          "created_at": "2024-12-20T18:00:35.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 175,
+                "end": 198,
+                "url": "https://t.co/OE8pdHzYs0",
+                "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+                "display_url": "cnu.org/publicsquare/2…",
+                "status": 200,
+                "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 31,
+                "end": 39,
+                "probability": 0.3328,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1870167428845445134",
+          "edit_history_tweet_ids": [
+            "1870167428845445134"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+          "conversation_id": "1870167428845445134",
+          "reply_settings": "everyone",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            }
+          ],
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 2060
+          },
+          "author_id": "17560195"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 17447,
+        "following_count": 708,
+        "tweet_count": 59922,
+        "listed_count": 548,
+        "like_count": 29238,
+        "media_count": 5453
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1315370893/Steve_cropped_normal.jpg",
+      "id": "17617492",
+      "description": "architect, author, blogger, & curious. https://t.co/GKoBwmD8tg",
+      "created_at": "2008-11-25T11:32:02.000Z",
+      "username": "stevemouzon",
+      "url": "https://t.co/pumfH0E9ki",
+      "location": "Tuscaloosa",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/pumfH0E9ki",
+              "expanded_url": "http://www.originalgreen.org/blog",
+              "display_url": "originalgreen.org/blog"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 39,
+              "end": 62,
+              "url": "https://t.co/GKoBwmD8tg",
+              "expanded_url": "http://instagram.com/the.originalgreen",
+              "display_url": "instagram.com/the.originalgr…"
+            }
+          ]
+        }
+      },
+      "pinned_tweet_id": "939479844684992512",
+      "name": "Steve Mouzon"
+    },
+    "author_metrics": {
+      "followers_count": 17447,
+      "following_count": 708,
+      "tweet_count": 59922,
+      "listed_count": 548,
+      "like_count": 29238,
+      "media_count": 5453
+    },
+    "location_signals": {
+      "user_profile_location": "Tuscaloosa",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "NewUrbanism",
+          "location": "DC, USA & worldwide"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "DC": 1
+        },
+        "countries": {
+          "USA & worldwide": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870217271332770189",
+      "text": "RT @NewUrbanism: Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle…",
+      "created_at": "2024-12-20T21:18:39.000Z",
+      "author_id": "40243541",
+      "conversation_id": "1870217271332770189",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "NewUrbanism",
+          "id": "17560195"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 56,
+          "probability": 0.3303,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1870167428845445134",
+        "tweet_data": {
+          "created_at": "2024-12-20T18:00:35.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 175,
+                "end": 198,
+                "url": "https://t.co/OE8pdHzYs0",
+                "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+                "display_url": "cnu.org/publicsquare/2…",
+                "status": 200,
+                "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 31,
+                "end": 39,
+                "probability": 0.3328,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1870167428845445134",
+          "edit_history_tweet_ids": [
+            "1870167428845445134"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+          "conversation_id": "1870167428845445134",
+          "reply_settings": "everyone",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            }
+          ],
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 2060
+          },
+          "author_id": "17560195"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 2498,
+        "following_count": 1182,
+        "tweet_count": 7307,
+        "listed_count": 118,
+        "like_count": 1548,
+        "media_count": 1643
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2008215132598321152/U2NPowIF_normal.jpg",
+      "id": "40243541",
+      "description": "Our mission is to improve the communities of Ohio through smart growth strategies and research.",
+      "created_at": "2009-05-15T13:52:50.000Z",
+      "username": "GreaterOhio",
+      "url": "https://t.co/qGkCMYquh6",
+      "location": "Columbus, OH",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/qGkCMYquh6",
+              "expanded_url": "http://greaterohio.org/",
+              "display_url": "greaterohio.org"
+            }
+          ]
+        }
+      },
+      "pinned_tweet_id": "1986086722321498247",
+      "name": "Greater Ohio Policy Center"
+    },
+    "author_metrics": {
+      "followers_count": 2498,
+      "following_count": 1182,
+      "tweet_count": 7307,
+      "listed_count": 118,
+      "like_count": 1548,
+      "media_count": 1643
+    },
+    "location_signals": {
+      "user_profile_location": "Columbus, OH",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "NewUrbanism",
+          "location": "DC, USA & worldwide"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "DC": 1
+        },
+        "countries": {
+          "USA & worldwide": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870169746597130616",
+      "text": "RT @NewUrbanism: Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle…",
+      "created_at": "2024-12-20T18:09:48.000Z",
+      "author_id": "18901892",
+      "conversation_id": "1870169746597130616",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "NewUrbanism",
+          "id": "17560195"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 56,
+          "probability": 0.3303,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1870167428845445134",
+        "tweet_data": {
+          "created_at": "2024-12-20T18:00:35.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 175,
+                "end": 198,
+                "url": "https://t.co/OE8pdHzYs0",
+                "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+                "display_url": "cnu.org/publicsquare/2…",
+                "status": 200,
+                "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 31,
+                "end": 39,
+                "probability": 0.3328,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1870167428845445134",
+          "edit_history_tweet_ids": [
+            "1870167428845445134"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+          "conversation_id": "1870167428845445134",
+          "reply_settings": "everyone",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696848252391426",
+                "name": "Financial Services Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+              }
+            }
+          ],
+          "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 2060
+          },
+          "author_id": "17560195"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 766,
+        "following_count": 1920,
+        "tweet_count": 24913,
+        "listed_count": 43,
+        "like_count": 150791,
+        "media_count": 237
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1796372437921062912/PB76K_TB_normal.jpg",
+      "id": "18901892",
+      "description": "Certified urban planner. Letter \"B\" love: Books, Bikes, Beer, Bowling, Bocce. Malort. @kurtisp@cityofchicago.live @kpozsgay.bsky.social",
+      "created_at": "2009-01-12T14:34:18.000Z",
+      "username": "kpozsgay",
+      "location": "Chicago",
+      "protected": false,
+      "entities": {
+        "description": {
+          "mentions": [
+            {
+              "start": 114,
+              "end": 123,
+              "username": "kpozsgay"
+            }
+          ]
+        }
+      },
+      "name": "Kurtis Pozsgay"
+    },
+    "author_metrics": {
+      "followers_count": 766,
+      "following_count": 1920,
+      "tweet_count": 24913,
+      "listed_count": 43,
+      "like_count": 150791,
+      "media_count": 237
+    },
+    "location_signals": {
+      "user_profile_location": "Chicago",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "NewUrbanism",
+          "location": "DC, USA & worldwide"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "DC": 1
+        },
+        "countries": {
+          "USA & worldwide": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870167428845445134",
+      "text": "Pre-approved plans are part of Kalamazoo’s effort to promote affordable housing through regulatory reform, missing middle housing types, and financial support and incentives. https://t.co/OE8pdHzYs0",
+      "created_at": "2024-12-20T18:00:35.000Z",
+      "author_id": "17560195",
+      "conversation_id": "1870167428845445134",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 5,
+      "reply_count": 0,
+      "like_count": 8,
+      "quote_count": 1,
+      "bookmark_count": 0,
+      "impression_count": 2060
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 175,
+          "end": 198,
+          "url": "https://t.co/OE8pdHzYs0",
+          "expanded_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages",
+          "display_url": "cnu.org/publicsquare/2…",
+          "status": 200,
+          "unwound_url": "https://www.cnu.org/publicsquare/2024/12/19/kalamazoo-build-pre-approved-cottages"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 31,
+          "end": 39,
+          "probability": 0.3328,
+          "type": "Other",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696848252391426",
+          "name": "Financial Services Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks "
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 89010,
+        "following_count": 2053,
+        "tweet_count": 21787,
+        "listed_count": 2723,
+        "like_count": 3052,
+        "media_count": 4650
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1587529423913353223/V5AB5JEa_normal.jpg",
+      "id": "17560195",
+      "description": "Envisioning a world where places are designed to foster community, preserve the natural environment & improve lives.",
+      "created_at": "2008-11-22T17:43:11.000Z",
+      "username": "NewUrbanism",
+      "url": "https://t.co/53SaO9VAMb",
+      "location": "DC, USA & worldwide",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/53SaO9VAMb",
+              "expanded_url": "http://cnu.org",
+              "display_url": "cnu.org"
+            }
+          ]
+        }
+      },
+      "name": "Congress for the New Urbanism"
+    },
+    "author_metrics": {
+      "followers_count": 89010,
+      "following_count": 2053,
+      "tweet_count": 21787,
+      "listed_count": 2723,
+      "like_count": 3052,
+      "media_count": 4650
+    },
+    "location_signals": {
+      "user_profile_location": "DC, USA & worldwide",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868760954898726932",
+      "text": "Seeking to end homelessness among jail inmates, Kalamazoo Jail Ministry (KJM) receives $20K grant! Praise Jesus! https://t.co/JYojBAFwdV",
+      "created_at": "2024-12-16T20:51:46.000Z",
+      "author_id": "1253862549835206657",
+      "conversation_id": "1868760954898726932",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 16
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 113,
+          "end": 136,
+          "url": "https://t.co/JYojBAFwdV",
+          "expanded_url": "https://x.com/GruppJeff/status/1868760954898726932/video/1",
+          "display_url": "pic.x.com/JYojBAFwdV",
+          "media_key": "7_1868760886308921344"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 48,
+          "end": 70,
+          "probability": 0.676,
+          "type": "Other",
+          "normalized_text": "Kalamazoo Jail Ministry"
+        },
+        {
+          "start": 73,
+          "end": 75,
+          "probability": 0.4972,
+          "type": "Organization",
+          "normalized_text": "KJM"
+        },
+        {
+          "start": 106,
+          "end": 110,
+          "probability": 0.8445,
+          "type": "Person",
+          "normalized_text": "Jesus"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 24,
+        "following_count": 20,
+        "tweet_count": 131,
+        "listed_count": 0,
+        "like_count": 141,
+        "media_count": 70
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1791902030249758721/xpIol_Br_normal.jpg",
+      "id": "1253862549835206657",
+      "description": "Founder and Lead Chaplain, Kalamazoo Jail Ministry (KJM)",
+      "created_at": "2020-04-25T01:45:16.000Z",
+      "username": "GruppJeff",
+      "url": "https://t.co/rlDH0kNs6z",
+      "location": "Kalamazoo, MI",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/rlDH0kNs6z",
+              "expanded_url": "http://kalamazoojailministry.org",
+              "display_url": "kalamazoojailministry.org"
+            }
+          ]
+        }
+      },
+      "name": "Jeff Grupp"
+    },
+    "author_metrics": {
+      "followers_count": 24,
+      "following_count": 20,
+      "tweet_count": 131,
+      "listed_count": 0,
+      "like_count": 141,
+      "media_count": 70
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868475307016990878",
+      "text": "We need more of this across the country. Help end homeless, and encourage responsibility.\n\nhttps://t.co/HLTmlHyRiJ",
+      "created_at": "2024-12-16T01:56:42.000Z",
+      "author_id": "1671241052953427968",
+      "conversation_id": "1868475307016990878",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 4,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 126
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 91,
+          "end": 114,
+          "url": "https://t.co/HLTmlHyRiJ",
+          "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/construction-finishes-on-trio-of-tiny-homes-in-kalamazoo.html",
+          "display_url": "mlive.com/news/kalamazoo…",
+          "status": 200,
+          "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/construction-finishes-on-trio-of-tiny-homes-in-kalamazoo.html"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 876,
+        "following_count": 776,
+        "tweet_count": 31221,
+        "listed_count": 2,
+        "like_count": 62434,
+        "media_count": 4448
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1961803774873243648/843j-xvB_normal.jpg",
+      "id": "1671241052953427968",
+      "description": "FaygoWarrior AKA Vladimir Boofin AKA 'Why Do You Like Him' AKA Johnny 665 AKA That Guy Over There. \n#KampHotMeat #DabRanger #DCF",
+      "created_at": "2023-06-20T19:38:27.000Z",
+      "username": "KampHotMeat17",
+      "location": "A Deluxe Apartment In The Sky.",
+      "protected": false,
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "start": 100,
+              "end": 112,
+              "tag": "KampHotMeat"
+            },
+            {
+              "start": 113,
+              "end": 123,
+              "tag": "DabRanger"
+            },
+            {
+              "start": 124,
+              "end": 128,
+              "tag": "DCF"
+            }
+          ]
+        }
+      },
+      "name": "El Guerrero Faygo"
+    },
+    "author_metrics": {
+      "followers_count": 876,
+      "following_count": 776,
+      "tweet_count": 31221,
+      "listed_count": 2,
+      "like_count": 62434,
+      "media_count": 4448
+    },
+    "location_signals": {
+      "user_profile_location": "A Deluxe Apartment In The Sky.",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867361546558451924",
+      "text": "RT @wwmtnews: The tiny houses were built for people turned away by landlords due to their past convictions or substance use disorders.\nhttp…",
+      "created_at": "2024-12-13T00:11:01.000Z",
+      "author_id": "4010101109",
+      "conversation_id": "1867361546558451924",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 12,
+          "username": "wwmtnews",
+          "id": "15631338"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1867351244492124340",
+        "tweet_data": {
+          "created_at": "2024-12-12T23:30:05.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 121,
+                "end": 144,
+                "url": "https://t.co/643fYKlia5",
+                "expanded_url": "https://wwmt.com/news/local/tiny-houses-kalamazoo-rentals-wwmt-applications-open-substance-use-disorders-north-street-affordable-housing",
+                "display_url": "wwmt.com/news/local/tin…",
+                "status": 200,
+                "unwound_url": "https://wwmt.com/news/local/tiny-houses-kalamazoo-rentals-wwmt-applications-open-substance-use-disorders-north-street-affordable-housing"
+              }
+            ]
+          },
+          "id": "1867351244492124340",
+          "edit_history_tweet_ids": [
+            "1867351244492124340"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "The tiny houses were built for people turned away by landlords due to their past convictions or substance use disorders.\nhttps://t.co/643fYKlia5",
+          "conversation_id": "1867351244492124340",
+          "reply_settings": "everyone",
+          "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 648
+          },
+          "author_id": "15631338"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 193,
+        "following_count": 647,
+        "tweet_count": 5625,
+        "listed_count": 0,
+        "like_count": 5833,
+        "media_count": 90
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/718135505565691904/staLNsDj_normal.jpg",
+      "id": "4010101109",
+      "description": "",
+      "created_at": "2015-10-21T14:43:48.000Z",
+      "username": "KingsmenPsc",
+      "url": "https://t.co/YdRmQBkfK5",
+      "location": "Mason, MI",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/YdRmQBkfK5",
+              "expanded_url": "http://www.kingsmenpsc.com",
+              "display_url": "kingsmenpsc.com"
+            }
+          ]
+        }
+      },
+      "pinned_tweet_id": "1916188034262827031",
+      "name": "Kingsmen PSC"
+    },
+    "author_metrics": {
+      "followers_count": 193,
+      "following_count": 647,
+      "tweet_count": 5625,
+      "listed_count": 0,
+      "like_count": 5833,
+      "media_count": 90
+    },
+    "location_signals": {
+      "user_profile_location": "Mason, MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "wwmtnews",
+          "location": "West Michigan"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "West Michigan": 1
+        },
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867351244492124340",
+      "text": "The tiny houses were built for people turned away by landlords due to their past convictions or substance use disorders.\nhttps://t.co/643fYKlia5",
+      "created_at": "2024-12-12T23:30:05.000Z",
+      "author_id": "15631338",
+      "conversation_id": "1867351244492124340",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 648
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 121,
+          "end": 144,
+          "url": "https://t.co/643fYKlia5",
+          "expanded_url": "https://wwmt.com/news/local/tiny-houses-kalamazoo-rentals-wwmt-applications-open-substance-use-disorders-north-street-affordable-housing",
+          "display_url": "wwmt.com/news/local/tin…",
+          "status": 200,
+          "unwound_url": "https://wwmt.com/news/local/tiny-houses-kalamazoo-rentals-wwmt-applications-open-substance-use-disorders-north-street-affordable-housing"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 60152,
+        "following_count": 347,
+        "tweet_count": 187611,
+        "listed_count": 586,
+        "like_count": 2512,
+        "media_count": 23083
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1998787890940096512/kqCYB4po_normal.jpg",
+      "id": "15631338",
+      "description": "News Channel 3, WWMT-TV provides live, local, breaking news in West Michigan.",
+      "created_at": "2008-07-28T13:01:42.000Z",
+      "username": "wwmtnews",
+      "url": "https://t.co/j52igw9Acl",
+      "location": "West Michigan",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/j52igw9Acl",
+              "expanded_url": "http://WWMT.com",
+              "display_url": "WWMT.com"
+            }
+          ]
+        }
+      },
+      "name": "News Channel 3 WWMT-TV"
+    },
+    "author_metrics": {
+      "followers_count": 60152,
+      "following_count": 347,
+      "tweet_count": 187611,
+      "listed_count": 586,
+      "like_count": 2512,
+      "media_count": 23083
+    },
+    "location_signals": {
+      "user_profile_location": "West Michigan",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1865078847353307470",
+      "text": "https://t.co/d4yTgtaly4 As student homelessness rises, program aims to house 150 families by summer",
+      "created_at": "2024-12-06T17:00:23.000Z",
+      "author_id": "72944953",
+      "conversation_id": "1865078847353307470",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 1
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "https://t.co/d4yTgtaly4",
+          "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?lctg=5eea0390369e1a1b5d403907&utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter_morning_briefing%202024-12-06&utm_term=Newsletter_morning_briefing",
+          "display_url": "mlive.com/news/kalamazoo…",
+          "status": 200,
+          "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?lctg=5eea0390369e1a1b5d403907&utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter_morning_briefing%202024-12-06&utm_term=Newsletter_morning_briefing"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 443,
+        "following_count": 433,
+        "tweet_count": 16075,
+        "listed_count": 15,
+        "like_count": 118,
+        "media_count": 6352
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1898083487153782784/c5cob-_f_normal.jpg",
+      "id": "72944953",
+      "description": "Serving West Michigan since 1920",
+      "created_at": "2009-09-09T20:39:00.000Z",
+      "username": "bhhsHendrick",
+      "url": "https://t.co/GAhKhoI1m6",
+      "location": "Grand Haven & Muskegon",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/GAhKhoI1m6",
+              "expanded_url": "https://www.bhhsclydehendrick.com/",
+              "display_url": "bhhsclydehendrick.com"
+            }
+          ]
+        }
+      },
+      "name": "bhhsClydeHendrick"
+    },
+    "author_metrics": {
+      "followers_count": 443,
+      "following_count": 433,
+      "tweet_count": 16075,
+      "listed_count": 15,
+      "like_count": 118,
+      "media_count": 6352
+    },
+    "location_signals": {
+      "user_profile_location": "Grand Haven & Muskegon",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1865041206884941869",
+      "text": "👇🏽 @LINCrev @naacpgr @DavidLagrand @marshallkilgore @KentDems @RepKristianG @ivandiazbotello \nAs student homelessness rises, program aims to house 150 families by summer https://t.co/POH0GkkXMz",
+      "created_at": "2024-12-06T14:30:49.000Z",
+      "author_id": "1466847118476431366",
+      "conversation_id": "1865041206884941869",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 26
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 170,
+          "end": 193,
+          "url": "https://t.co/POH0GkkXMz",
+          "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html",
+          "display_url": "mlive.com/news/kalamazoo…",
+          "status": 200,
+          "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 3,
+          "end": 11,
+          "username": "LINCrev",
+          "id": "247354000"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "username": "naacpgr",
+          "id": "2436395466"
+        },
+        {
+          "start": 21,
+          "end": 34,
+          "username": "DavidLagrand",
+          "id": "35697338"
+        },
+        {
+          "start": 35,
+          "end": 51,
+          "username": "marshallkilgore",
+          "id": "2236779793"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "username": "KentDems",
+          "id": "952738229912039429"
+        },
+        {
+          "start": 62,
+          "end": 75,
+          "username": "RepKristianG",
+          "id": "1601250790009700353"
+        },
+        {
+          "start": 76,
+          "end": 92,
+          "username": "ivandiazbotello",
+          "id": "1347355945895133186"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 279,
+        "following_count": 1046,
+        "tweet_count": 87160,
+        "listed_count": 1,
+        "like_count": 14271,
+        "media_count": 414
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1466850223662186502/Kqe_M3OI_normal.jpg",
+      "id": "1466847118476431366",
+      "description": "Marxian political theorist, ex-professor & union rep, cook. 2 dogs & 1 cat. Worried about US democracy, inequality, racism, exploitation, climate, covid.",
+      "created_at": "2021-12-03T19:10:07.000Z",
+      "username": "jmsbadkittybeer",
+      "location": "settler colonial land in MI",
+      "protected": false,
+      "pinned_tweet_id": "1516352094114037762",
+      "name": "jmsbkb"
+    },
+    "author_metrics": {
+      "followers_count": 279,
+      "following_count": 1046,
+      "tweet_count": 87160,
+      "listed_count": 1,
+      "like_count": 14271,
+      "media_count": 414
+    },
+    "location_signals": {
+      "user_profile_location": "settler colonial land in MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "LINCrev",
+          "location": "Grand Rapids, MI"
+        },
+        {
+          "username": "naacpgr",
+          "location": "Grand Rapids, MI"
+        },
+        {
+          "username": "DavidLagrand",
+          "location": "Grand Rapids, MI"
+        },
+        {
+          "username": "marshallkilgore",
+          "location": "Grand Rapids, MI"
+        },
+        {
+          "username": "KentDems",
+          "location": "Kent County, Michigan"
+        },
+        {
+          "username": "RepKristianG",
+          "location": "West side, the best side 👐🏾"
+        },
+        {
+          "username": "ivandiazbotello",
+          "location": "Grand Rapids, MI"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Grand Rapids": 5,
+          "Kent County": 1,
+          "West side": 1
+        },
+        "countries": {
+          "MI": 5,
+          "Michigan": 1,
+          "the best side 👐🏾": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864649180418859368",
+      "text": "As student homelessness rises, program aims to house 150 families by summer https://t.co/hyzfODQ9Sj",
+      "created_at": "2024-12-05T12:33:02.000Z",
+      "author_id": "13482642",
+      "conversation_id": "1864649180418859368",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 262
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/hyzfODQ9Sj",
+          "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?utm_campaign=kzoogazette_sf&utm_medium=social&utm_source=twitter",
+          "display_url": "mlive.com/news/kalamazoo…",
+          "status": 200,
+          "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?utm_campaign=kzoogazette_sf&utm_medium=social&utm_source=twitter"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 34993,
+        "following_count": 45,
+        "tweet_count": 168266,
+        "listed_count": 493,
+        "like_count": 72,
+        "media_count": 839
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/961623716336676864/Hl9YYZVs_normal.jpg",
+      "id": "13482642",
+      "description": "Local news provider for Southwest Michigan",
+      "created_at": "2008-02-14T18:38:02.000Z",
+      "username": "Kzoo_Gazette",
+      "url": "http://t.co/axkmKOcsRP",
+      "location": "Kalamazoo, MI",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 22,
+              "url": "http://t.co/axkmKOcsRP",
+              "expanded_url": "http://www.mlive.com/kalamazoo",
+              "display_url": "mlive.com/kalamazoo"
+            }
+          ]
+        }
+      },
+      "name": "Kalamazoo Gazette"
+    },
+    "author_metrics": {
+      "followers_count": 34993,
+      "following_count": 45,
+      "tweet_count": 168266,
+      "listed_count": 493,
+      "like_count": 72,
+      "media_count": 839
+    },
+    "location_signals": {
+      "user_profile_location": "Kalamazoo, MI",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864645909910319536",
+      "text": "As student homelessness rises, program aims to house 150 families by summer https://t.co/sO0uLFnOGI",
+      "created_at": "2024-12-05T12:20:03.000Z",
+      "author_id": "14323188",
+      "conversation_id": "1864645909910319536",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 229
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 76,
+          "end": 99,
+          "url": "https://t.co/sO0uLFnOGI",
+          "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?utm_campaign=mlivenews_sf&utm_medium=social&utm_source=twitter",
+          "display_url": "mlive.com/news/kalamazoo…",
+          "status": 200,
+          "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/as-student-homelessness-rises-program-aims-to-house-150-families-by-summer.html?utm_campaign=mlivenews_sf&utm_medium=social&utm_source=twitter"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 53012,
+        "following_count": 3618,
+        "tweet_count": 230063,
+        "listed_count": 575,
+        "like_count": 0,
+        "media_count": 7
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2576922188/5g01k5d6u4fl3g1l3ffi_normal.jpeg",
+      "id": "14323188",
+      "description": "Michigan statewide news",
+      "created_at": "2008-04-07T14:19:50.000Z",
+      "username": "michigannews",
+      "url": "http://t.co/xBYyjqpwSC",
+      "location": "Michigan",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 22,
+              "url": "http://t.co/xBYyjqpwSC",
+              "expanded_url": "http://www.mlive.com/news/",
+              "display_url": "mlive.com/news/"
+            }
+          ]
+        }
+      },
+      "name": "MLive.com News"
+    },
+    "author_metrics": {
+      "followers_count": 53012,
+      "following_count": 3618,
+      "tweet_count": 230063,
+      "listed_count": 575,
+      "like_count": 0,
+      "media_count": 7
+    },
+    "location_signals": {
+      "user_profile_location": "Michigan",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1863982328554361171",
+      "text": "@MLive Can we do something about reducing homelessness especially right in the middle of downtown Kalamazoo? If I was a business owner down there, I would be so mad I would pack up and leave.",
+      "created_at": "2024-12-03T16:23:12.000Z",
+      "author_id": "1566988074487349250",
+      "conversation_id": "1863980275329363975",
+      "in_reply_to_user_id": "12952842",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 10
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 6,
+          "username": "MLive",
+          "id": "12952842"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 98,
+          "end": 106,
+          "probability": 0.872,
+          "type": "Place",
+          "normalized_text": "Kalamazoo"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1863980275329363975",
+        "tweet_data": {
+          "created_at": "2024-12-03T16:15:03.000Z",
+          "entities": {
+            "urls": [
+              {
+                "start": 55,
+                "end": 78,
+                "url": "https://t.co/R6HNCksnhv",
+                "expanded_url": "https://www.mlive.com/news/kalamazoo/2024/12/kalamazoo-gets-125m-to-use-for-reducing-gun-violence.html?utm_campaign=mlive_sf&utm_medium=social&utm_source=twitter",
+                "display_url": "mlive.com/news/kalamazoo…",
+                "status": 200,
+                "unwound_url": "https://www.mlive.com/news/kalamazoo/2024/12/kalamazoo-gets-125m-to-use-for-reducing-gun-violence.html?utm_campaign=mlive_sf&utm_medium=social&utm_source=twitter"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 0,
+                "end": 8,
+                "probability": 0.4485,
+                "type": "Other",
+                "normalized_text": "Kalamazoo"
+              }
+            ]
+          },
+          "id": "1863980275329363975",
+          "edit_history_tweet_ids": [
+            "1863980275329363975"
+          ],
+          "possibly_sensitive": false,
+          "lang": "en",
+          "text": "Kalamazoo gets $1.25M to use for reducing gun violence https://t.co/R6HNCksnhv",
+          "conversation_id": "1863980275329363975",
+          "reply_settings": "everyone",
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1348
+          },
+          "author_id": "12952842"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": false,
+      "public_metrics": {
+        "followers_count": 612,
+        "following_count": 777,
+        "tweet_count": 13995,
+        "listed_count": 15,
+        "like_count": 15954,
+        "media_count": 581
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1880378131644571648/pr3jdZPh_normal.jpg",
+      "id": "1566988074487349250",
+      "description": "Small Business Owner, Sports & Politics Junkie... Michigan State University grad.. I bleed Green",
+      "created_at": "2022-09-06T03:14:30.000Z",
+      "username": "RS_Tweets123",
+      "location": "United States",
+      "protected": false,
+      "pinned_tweet_id": "1888768670198890743",
+      "name": "RS"
+    },
+    "author_metrics": {
+      "followers_count": 612,
+      "following_count": 777,
+      "tweet_count": 13995,
+      "listed_count": 15,
+      "like_count": 15954,
+      "media_count": 581
+    },
+    "location_signals": {
+      "user_profile_location": "United States",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Kalamazoo",
+          "probability": 0.872
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "MLive",
+          "location": "Michigan"
+        }
+      ],
+      "replied_to_user_location": "Michigan",
+      "network_location_summary": {
+        "cities": {
+          "Michigan": 2
+        },
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1863584136364978514",
+      "text": "VA is dedicated to ending Veteran Homelessness, and to help Veterans, we bring the resources to them. Every second Thursday, VA and our partners come to Ministry with Community at 500 N. Edwards Street, Kalamazoo, MI, from 1:00 p.m. to 3:00 p.m.\n#VA #EndingVeteranHomelessness https://t.co/e6QCT9xWVT",
+      "created_at": "2024-12-02T14:00:56.000Z",
+      "author_id": "2308629338",
+      "conversation_id": "1863584136364978514",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 45
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 277,
+          "end": 300,
+          "url": "https://t.co/e6QCT9xWVT",
+          "expanded_url": "https://x.com/BattleCreekVAMC/status/1863584136364978514/photo/1",
+          "display_url": "pic.x.com/e6QCT9xWVT",
+          "media_key": "3_1863584134116868096"
+        }
+      ],
+      "hashtags": [
+        {
+          "start": 246,
+          "end": 249,
+          "tag": "VA"
+        },
+        {
+          "start": 250,
+          "end": 276,
+          "tag": "EndingVeteranHomelessness"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 26,
+          "end": 45,
+          "probability": 0.7113,
+          "type": "Other",
+          "normalized_text": "Veteran Homelessness"
+        },
+        {
+          "start": 125,
+          "end": 126,
+          "probability": 0.7579,
+          "type": "Place",
+          "normalized_text": "VA"
+        },
+        {
+          "start": 187,
+          "end": 200,
+          "probability": 0.3717,
+          "type": "Other",
+          "normalized_text": "Edwards Street"
+        },
+        {
+          "start": 203,
+          "end": 211,
+          "probability": 0.6926,
+          "type": "Place",
+          "normalized_text": "Kalamazoo"
+        },
+        {
+          "start": 214,
+          "end": 215,
+          "probability": 0.8739,
+          "type": "Place",
+          "normalized_text": "MI"
+        },
+        {
+          "start": 247,
+          "end": 248,
+          "probability": 0.5786,
+          "type": "Place",
+          "normalized_text": "VA"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "65",
+          "name": "Interests and Hobbies Vertical",
+          "description": "Top level interests and hobbies groupings, like Food or Travel"
+        },
+        "entity": {
+          "id": "864925500627484672",
+          "name": "Family and life stages",
+          "description": "Family and Life Stages"
+        }
+      },
+      {
+        "domain": {
+          "id": "66",
+          "name": "Interests and Hobbies Category",
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+        },
+        "entity": {
+          "id": "847546079042093056",
+          "name": "Veterans",
+          "description": "Veterans"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "verified": true,
+      "public_metrics": {
+        "followers_count": 796,
+        "following_count": 279,
+        "tweet_count": 6501,
+        "listed_count": 26,
+        "like_count": 753,
+        "media_count": 3568
+      },
+      "profile_image_url": "https://pbs.twimg.com/profile_images/426758056823623680/mJY71Cgm_normal.png",
+      "id": "2308629338",
+      "description": "Official Twitter of the Battle Creek VA Medical Center. Following, retweets, and mentions do not signify VA endorsement.",
+      "created_at": "2014-01-24T16:35:48.000Z",
+      "username": "BattleCreekVAMC",
+      "url": "http://t.co/ZpVmGsSr08",
+      "protected": false,
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 22,
+              "url": "http://t.co/ZpVmGsSr08",
+              "expanded_url": "http://www.battlecreek.va.gov/",
+              "display_url": "battlecreek.va.gov"
+            }
+          ]
+        }
+      },
+      "name": "Battle Creek VAMC"
+    },
+    "author_metrics": {
+      "followers_count": 796,
+      "following_count": 279,
+      "tweet_count": 6501,
+      "listed_count": 26,
+      "like_count": 753,
+      "media_count": 3568
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "VA",
+          "probability": 0.7579
+        },
+        {
+          "text": "Kalamazoo",
+          "probability": 0.6926
+        },
+        {
+          "text": "MI",
+          "probability": 0.8739
+        },
+        {
+          "text": "VA",
+          "probability": 0.5786
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  }
+]

@@ -1,0 +1,152 @@
+====================================================================================================
+SAN FRANCISCO OTHER CITIES - FINAL DATA CLEANING REPORT
+====================================================================================================
+
+EXECUTIVE SUMMARY:
+----------------------------------------------------------------------------------------------------
+  Original dataset: 1631 unique locations, 2404 tweets
+  Successfully cleaned: 991 locations (60.8%)
+  Standardized to: 709 unique cities
+  Data quality: 66.9% of tweets have valid city-level data
+
+====================================================================================================
+
+TOP 100 STANDARDIZED CITIES:
+----------------------------------------------------------------------------------------------------
+1    Los Angeles, CA                             71 tweets ( 4.42%)  Ex: Los Angeles, Los Angeles
+2    New York, NY                                58 tweets ( 3.61%)  Ex: New York, NY, New York City
+3    Dallas, TX                                  40 tweets ( 2.49%)  Ex: Dallas, TX, Dallas
+4    Chicago, IL                                 32 tweets ( 1.99%)  Ex: Chicago, IL, Chicago
+5    Sacramento, CA                              30 tweets ( 1.87%)  Ex: Sacramento, CA, Berkeley, CA ↔️ Sacra...
+6    Las Vegas, NV                               27 tweets ( 1.68%)  Ex: Las Vegas, NV, Las Vegas
+7    Houston, TX                                 23 tweets ( 1.43%)  Ex: Houston, TX, Houston
+8    Austin, TX                                  19 tweets ( 1.18%)  Ex: Austin, TX, Austin, Texas
+9    San Diego, CA                               19 tweets ( 1.18%)  Ex: USA  San Diego, San Diego, California
+10   Palo Alto, CA                               17 tweets ( 1.06%)  Ex: Silicon Valley, Palo Alto, CA
+11   Oakland, CA                                 16 tweets ( 1.00%)  Ex: 1114 Peralta St, Oakland, CA, Oakland
+12   South Gate, CA                              15 tweets ( 0.93%)  Ex: Southern California, Southern California
+13   Washington, DC                              15 tweets ( 0.93%)  Ex: Washington, DC, Washington, D.C. & TE...
+14   Orange County, CA                           15 tweets ( 0.93%)  Ex: Orange County, CA, Orange County, Ca.
+15   Denver, CO                                  14 tweets ( 0.87%)  Ex: Denver, CO, Denver
+16   Toronto, Canada                             14 tweets ( 0.87%)  Ex: Toronto, Ontario, Raccoon City
+17   San Jose, CA                                14 tweets ( 0.87%)  Ex: San Jose, CA, San Jose, CA
+18   Phoenix, AZ                                 13 tweets ( 0.81%)  Ex: Phoenix, AZ, Carolina’s  🏝️ 🌞 🏖️
+19   Philadelphia, PA                            13 tweets ( 0.81%)  Ex: Philadelphia, PA, Philadelphia, PA
+20   Sydney, Australia                           13 tweets ( 0.81%)  Ex: Sydney, New South Wales, So Cal
+21   Greater London, United Kingdom              13 tweets ( 0.81%)  Ex: London, England, London, United Kingdom
+22   San Francisco, CA                           13 tweets ( 0.81%)  Ex: ohlone land, Ohlone Land / FRISCO
+23   Seattle, WA                                 12 tweets ( 0.75%)  Ex: Seattle, WA, Seattle
+24   Singapore, Singapore                        12 tweets ( 0.75%)  Ex: Planet Earth, planet earth
+25   Portland, OR                                11 tweets ( 0.68%)  Ex: Portland, OR, somewhere USA
+26   Napa County, CA                             11 tweets ( 0.68%)  Ex: Northern California, Napa, CA
+27   Santa Cruz, CA                              10 tweets ( 0.62%)  Ex: Santa Cruz, CA
+28   Berkeley, CA                                10 tweets ( 0.62%)  Ex: Berkeley, CA, Berkeley
+29   Atlanta, GA                                  9 tweets ( 0.56%)  Ex: Atlanta, GA, ATL
+30   Vancouver, Canada                            9 tweets ( 0.56%)  Ex: Vancouver, Vancouver BC Canada
+31   Chesnee, SC                                  8 tweets ( 0.50%)  Ex: South Florida, U.S.A. 🌴🏖️🌊
+32   Detroit, MI                                  8 tweets ( 0.50%)  Ex: Detroit, MI, Waawiyaataanong, Detroit...
+33   Eagle, ID                                    7 tweets ( 0.44%)  Ex: Eagle, ID
+34   Soquel, CA                                   7 tweets ( 0.44%)  Ex: Soquel, California, USA
+35   Irvine, CA                                   7 tweets ( 0.44%)  Ex: Irvine, CA, Irvine, California
+36   Rancho Cucamonga, CA                         7 tweets ( 0.44%)  Ex: Rancho Cucamonga, CA, RANCHO CUCAMONG...
+37   New Orleans, LA                              7 tweets ( 0.44%)  Ex: New Orleans, LA, New Orleans
+38   Boston, MA                                   7 tweets ( 0.44%)  Ex: Boston, MA, Boston
+39   Miami, FL                                    7 tweets ( 0.44%)  Ex: Miami, FL, Miami, Florida
+40   San Antonio, TX                              6 tweets ( 0.37%)  Ex: San Antonio, TX, Great Northwest
+41   Boise, ID                                    6 tweets ( 0.37%)  Ex: Boise, ID, Boise
+42   Honolulu, HI                                 6 tweets ( 0.37%)  Ex: Honolulu, HI, Honolulu
+43   West Covina, CA                              6 tweets ( 0.37%)  Ex: Hawaii & California, Los Angeles, New...
+44   Emeryville, CA                               6 tweets ( 0.37%)  Ex: Emeryville, CA, Emeryville, California
+45   Saint Louis, MO                              6 tweets ( 0.37%)  Ex: St Louis, MO, Arlington, VA & St Loui...
+46   Lafayette, CA                                5 tweets ( 0.31%)  Ex: Reasonable, CA
+47   Warszawa, Polska                             5 tweets ( 0.31%)  Ex: NorCal
+48   Newport Beach, CA                            5 tweets ( 0.31%)  Ex: Newport Beach, CA
+49   Lincoln, NE                                  5 tweets ( 0.31%)  Ex: Lincoln, NE
+50   Shelter Cove, CA                             5 tweets ( 0.31%)  Ex: The Lost Coast
+51   Nashville, TN                                5 tweets ( 0.31%)  Ex: Nashville, TN, Nashville,Tennessee
+52   Stockholm, Sverige                           5 tweets ( 0.31%)  Ex: SE Asia, Stockholm
+53   Montréal, Canada                             5 tweets ( 0.31%)  Ex: Montréal, Québec, Montréal
+54   Santa Clara, CA                              5 tweets ( 0.31%)  Ex: Santa Clara, CA, Cali, USA
+55   Los Angeles County, CA                       5 tweets ( 0.31%)  Ex: East Los Angeles, CA, San Gabriel Mou...
+56   San Rafael, CA                               4 tweets ( 0.25%)  Ex: San Rafael, CA
+57   Mill Valley, CA                              4 tweets ( 0.25%)  Ex: Mill Valley
+58   Petaluma, CA                                 4 tweets ( 0.25%)  Ex: Petaluma, CA
+59   Charlotte, NC                                4 tweets ( 0.25%)  Ex: Charlotte, NC
+60   Registro, Brasil                             4 tweets ( 0.25%)  Ex: SoCal
+61   Flower Mound, TX                             4 tweets ( 0.25%)  Ex: Flower Mound, TX
+62   Oklahoma City, OK                            4 tweets ( 0.25%)  Ex: Oklahoma City, OK, Oklahoma City,Okla...
+63   Tampa, FL                                    4 tweets ( 0.25%)  Ex: Tampa, FL, Lutz, FL
+64   Saint Paul, MN                               4 tweets ( 0.25%)  Ex: St Paul, MN, Under the same 🌙
+65   Long Beach, CA                               4 tweets ( 0.25%)  Ex: Long Beach, CA, Long Beach, CA.
+66   Paris, France                                4 tweets ( 0.25%)  Ex: Paris, France, Paris
+67   San Luis Obispo, CA                          4 tweets ( 0.25%)  Ex: Central Coast CA, USA, SoCal, CA
+68   San Bernardino County, CA                    4 tweets ( 0.25%)  Ex: San Bernardino, CA, Muscle Beach, CA
+69   Minneapolis, MN                              4 tweets ( 0.25%)  Ex: Minneapolis, MN, Northeast USA
+70   València, España                             4 tweets ( 0.25%)  Ex: Valencia, Valencia, Regne de Valencia
+71   Scottsdale, AZ                               4 tweets ( 0.25%)  Ex: Scottsdale, AZ, Scottsdale, Arizona
+72   Ottawa, Canada                               4 tweets ( 0.25%)  Ex: Ottawa, Ontario, HELLA, CA
+73   Orlando, FL                                  4 tweets ( 0.25%)  Ex: Orlando, FL, VA- FL
+74   Indianapolis, IN                             4 tweets ( 0.25%)  Ex: Indianapolis, Indiana, Indy/LA
+75   Anaheim, CA                                  4 tweets ( 0.25%)  Ex: Anaheim, CA 🍊, Anaheim, CA
+76   Richmond, Canada                             3 tweets ( 0.19%)  Ex: Richmond, CA
+77   Fresno, CA                                   3 tweets ( 0.19%)  Ex: Fresno, CA
+78   Clearwater, FL                               3 tweets ( 0.19%)  Ex: Clearwater, FL
+79   Rothenburg ob der Tauber, Deutschland        3 tweets ( 0.19%)  Ex: Free, Earth
+80   Kirklees, United Kingdom                     3 tweets ( 0.19%)  Ex: The OC
+81   Modesto, CA                                  3 tweets ( 0.19%)  Ex: Modesto, CA
+82   Santa Cruz de Tenerife, España               3 tweets ( 0.19%)  Ex: Santa Cruz
+83   Yorba Linda, CA                              3 tweets ( 0.19%)  Ex: Yorba Linda, CA
+84   Henderson, NV                                3 tweets ( 0.19%)  Ex: Henderson, NV
+85   Saint Johns County, FL                       3 tweets ( 0.19%)  Ex: Squirrel Hill
+86   Nairobi, Kenya                               3 tweets ( 0.19%)  Ex: Nairobi, Kenya
+87   Μπενίτσες, Ελλάς                             3 tweets ( 0.19%)  Ex: The ether
+88   Boulder, CO                                  3 tweets ( 0.19%)  Ex: Boulder, CO
+89   Walnut Creek, CA                             3 tweets ( 0.19%)  Ex: Walnut Creek, CA
+90   Arlington County, VA                         3 tweets ( 0.19%)  Ex: Arlington, VA
+91   Manchester, United Kingdom                   3 tweets ( 0.19%)  Ex: Manchester, England
+92   Kampala Capital City, Uganda                 3 tweets ( 0.19%)  Ex: Galaxy Trading
+93   Sarasota, FL                                 3 tweets ( 0.19%)  Ex: Sarasota, FL, Sarasota,FL
+94   Salt Lake City, UT                           3 tweets ( 0.19%)  Ex: Salt Lake City, UT, Salt Lake City, Utah
+95   Buffalo, NY                                  3 tweets ( 0.19%)  Ex: Buffalo, NY, Buffalo, NY USA
+96   Santa Barbara, CA                            3 tweets ( 0.19%)  Ex: Santa Barbara, CA, Santa Barbara, CA
+97   Menifee, CA                                  3 tweets ( 0.19%)  Ex: Menifee, CA, Romoland, CA
+98   Santa Clarita, CA                            3 tweets ( 0.19%)  Ex: Santa Clarita, CA, Valencia, California
+99   Irving, TX                                   3 tweets ( 0.19%)  Ex: Dallas TX area, Irving, Texas
+100  Melbourne, Australia                         3 tweets ( 0.19%)  Ex: Melbourne, Victoria, Melbourne
+
+====================================================================================================
+
+FILTERED LOCATIONS (JUNK): {len(junk)} locations, {junk_tweets} tweets
+
+  1. Gotham by the Bay                                            (11)
+  2. stolen land                                                  (5)
+  3. 🪐                                                            (5)
+  4. Occupied Brentwood, CA                                       (4)
+  5. Hell                                                         (3)
+  6. Milky Way Galaxy                                             (3)
+  7. Stolen Land, Colorado                                        (3)
+  8. Andromeda                                                    (3)
+  9. Anywhere USA                                                 (3)
+ 10. Earth, Solar System                                          (2)
+ 11. Legal adult she/her                                          (2)
+ 12. Lurking in your head                                         (2)
+ 13. 🇺🇸                                                           (2)
+ 14. 🇺🇸🇬🇧🇬🇭                                                       (2)
+ 15. Mars                                                         (2)
+ 16. Dystopia USA                                                 (2)
+ 17. Hamsterdam                                                   (2)
+ 18. Here                                                         (2)
+ 19. Pluto                                                        (2)
+ 20. Occupied Yelamu Territory                                    (2)
+ 21. https://x.com/Truth2Everyone/s                               (1)
+ 22. www.robrogoff.com                                            (1)
+ 23. 𒉣𒆠                                                           (1)
+ 24. 🌍                                                            (1)
+ 25. 美国                                                           (1)
+ 26. Banana Republic                                              (1)
+ 27. 🇺🇸 🇺🇸 🇺🇸                                                     (1)
+ 28. @ THE BEACH                                                  (1)
+ 29. Heaven                                                       (1)
+ 30. 📍                                                            (1)
+
+====================================================================================================

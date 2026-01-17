@@ -1,0 +1,143 @@
+Analyzing actual location fields (not profile location)
+======================================================================
+
+Record 1: @J20391636
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': []}
+network_locations: {'mentioned_users_locations': [{'username': 'brownsmets', 'location': 'Marana AZ'}, {'username': 'tha_buffalo', 'location': 'Cleveland, OH'}], 'replied_to_user_location': 'Marana AZ', 'network_location_summary': {'cities': {'Marana AZ': 2, 'Cleveland': 1}, 'countries': {'OH': 1}}}
+
+Record 2: @OURCITYbflo
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Buffalo, NY', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.4873}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 3: @alexandrariostv
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Buffalo, NY', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.8169}]}
+network_locations: {'mentioned_users_locations': [{'username': 'WGRZ', 'location': 'Buffalo, NY'}], 'replied_to_user_location': None, 'network_location_summary': {'cities': {'Buffalo': 1}, 'countries': {'NY': 1}}}
+
+Record 4: @alexandrariostv
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Buffalo, NY', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.9678}]}
+network_locations: {'mentioned_users_locations': [{'username': 'WGRZ', 'location': 'Buffalo, NY'}], 'replied_to_user_location': None, 'network_location_summary': {'cities': {'Buffalo': 1}, 'countries': {'NY': 1}}}
+
+Record 5: @d_folmar
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.8199}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 6: @Smoothsailin3
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.866}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 7: @JerseyVegas369
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'E2W', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': ['San Francisco'], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'San Fran', 'probability': 0.8579}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': 'E2W', 'network_location_summary': {'cities': {'E2W': 1}, 'countries': {}}}
+
+Record 8: @tmvande_h2o
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Amherst Stre', 'probability': 0.584}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 9: @DWF92997512
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Barbados', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'buffalo ny', 'probability': 0.7606}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 10: @RortyWitt
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Nonlocality', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'LA', 'probability': 0.9767}, {'text': 'Buffalo', 'probability': 0.4638}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 11: @teresab06264778
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.3687}, {'text': 'NY', 'probability': 0.7552}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 12: @teresab06264778
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'NYC', 'probability': 0.9577}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 13: @BT03492538
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'buffalo', 'probability': 0.9073}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 14: @JustLogicalMM
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.907}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 15: @news4buffalo
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Buffalo, NY', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': []}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 16: @burner199020
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': None, 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Buffalo', 'probability': 0.844}]}
+network_locations: {'mentioned_users_locations': [{'username': 'StewMama71', 'location': 'California, USA'}, {'username': 'briebriejoy', 'location': 'Manhattan, NY'}], 'replied_to_user_location': None, 'network_location_summary': {'cities': {'California': 1, 'Manhattan': 1}, 'countries': {'USA': 1, 'NY': 1}}}
+
+Record 17: @ConservativeKER
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'United States', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'NY', 'probability': 0.9528}, {'text': 'Buffalo', 'probability': 0.9691}, {'text': 'NY', 'probability': 0.9779}, {'text': 'Manhattan', 'probability': 0.9726}]}
+network_locations: {'mentioned_users_locations': [{'username': 'RonWechsler', 'location': 'ÜT: 40.939343,-73.753415'}, {'username': 'Z_o_y_a__', 'location': 'USA'}, {'username': 'benryanwriter', 'location': 'New York City'}, {'username': 'NateSilver538', 'location': 'New York'}], 'replied_to_user_location': 'ÜT: 40.939343,-73.753415', 'network_location_summary': {'cities': {'ÜT: 40.939343': 2, 'USA': 1, 'New York City': 1, 'New York': 1}, 'countries': {'-73.753415': 2}}}
+
+Record 18: @NYSHCR
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'New York', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'NY', 'probability': 0.9409}, {'text': 'Staten Island', 'probability': 0.9462}, {'text': 'Brooklyn', 'probability': 0.657}, {'text': 'Rochester', 'probability': 0.9234}, {'text': 'Buffalo', 'probability': 0.9568}, {'text': 'Albany', 'probability': 0.9737}, {'text': 'NYC', 'probability': 0.9495}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 19: @desota
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'USA, Germany, Okinawa ', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': ['San Jose'], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': [{'text': 'Pittsburgh', 'probability': 0.9843}, {'text': 'Buffalo', 'probability': 0.9758}, {'text': 'Cleveland', 'probability': 0.9881}, {'text': 'SanJose', 'probability': 0.9594}, {'text': 'Austin', 'probability': 0.9541}, {'text': 'Denver', 'probability': 0.9764}]}
+network_locations: {'mentioned_users_locations': [], 'replied_to_user_location': None, 'network_location_summary': {'cities': {}, 'countries': {}}}
+
+Record 20: @BBBSLA
+----------------------------------------------------------------------
+geo: {}
+place: {}
+location_signals: {'user_profile_location': 'Greater Los Angeles', 'tweet_geo_tagged': False, 'tweet_place_name': None, 'tweet_place_country': None, 'tweet_place_country_code': None, 'tweet_place_type': None, 'tweet_geo_coordinates': None, 'mentioned_cities': [], 'mentioned_states': [], 'mentioned_countries': [], 'text_annotated_places': []}
+network_locations: {'mentioned_users_locations': [{'username': 'CBSEveningNews', 'location': '📺 6:30 p.m. ET'}], 'replied_to_user_location': None, 'network_location_summary': {'cities': {'📺 6:30 p.m. ET': 1}, 'countries': {}}}
+

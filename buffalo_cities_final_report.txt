@@ -1,0 +1,65 @@
+====================================================================================================
+BUFFALO OTHER CITIES - FINAL DATA CLEANING REPORT
+====================================================================================================
+
+EXECUTIVE SUMMARY:
+----------------------------------------------------------------------------------------------------
+  Original dataset: 264 unique locations, 345 tweets
+  Successfully cleaned: 182 locations (68.9%)
+  Standardized to: 147 unique cities
+  Data quality: 66.7% of tweets have valid city-level data
+
+====================================================================================================
+
+TOP 50 STANDARDIZED CITIES:
+----------------------------------------------------------------------------------------------------
+1    New York, NY                                29 tweets (12.61%)  Ex: New York, New York, USA
+2    City of Rochester, NY                       11 tweets ( 4.78%)  Ex: Rochester, NY, Rochester NY
+3    Louisville, KY                               7 tweets ( 3.04%)  Ex: Louisville, KY, Louisville Kentucky
+4    Lexington, KY                                7 tweets ( 3.04%)  Ex: Lexington, KY, Lexington, Kentucky
+5    Washington, DC                               5 tweets ( 2.17%)  Ex: Washington, D.C., Washington, DC
+6    Tampa, FL                                    4 tweets ( 1.74%)  Ex: Tampa, FL
+7    Los Angeles, CA                              4 tweets ( 1.74%)  Ex: Los Angeles, Greater Los Angeles
+8    San Francisco, CA                            4 tweets ( 1.74%)  Ex: San Francisco, California, Twitter
+9    Houston, TX                                  3 tweets ( 1.30%)  Ex: Houston, TX, Houston
+10   Saint Louis, MO                              3 tweets ( 1.30%)  Ex: St. Louis, Missouri, St. Louis, MO 
+11   Village of Kenmore, NY                       2 tweets ( 0.87%)  Ex: Kenmore, NY
+12   Upper Township, NJ                           2 tweets ( 0.87%)  Ex: Neptune, NJ
+13   Κυνοπιάστες, Ελλάς                           2 tweets ( 0.87%)  Ex: WNY
+14   Village of Brockport, NY                     2 tweets ( 0.87%)  Ex: Brockport, NY
+15   Boston, MA                                   2 tweets ( 0.87%)  Ex: Boston, MA
+16   Charlotte, NC                                2 tweets ( 0.87%)  Ex: Charlotte, NC
+17   San Diego, CA                                2 tweets ( 0.87%)  Ex: San Diego, CA
+18   Town of Amherst, NY                          2 tweets ( 0.87%)  Ex: Amherst, NY
+19   Earth, TX                                    2 tweets ( 0.87%)  Ex: Earth
+20   Perth, Australia                             2 tweets ( 0.87%)  Ex: Perth WA Australia
+21   Cleveland, OH                                2 tweets ( 0.87%)  Ex: Cleveland, OH, cleveland, ohio
+22   Toronto, Canada                              2 tweets ( 0.87%)  Ex: Toronto Ontario , Toronto
+23   Atlanta, GA                                  2 tweets ( 0.87%)  Ex: Atlanta, GA., Atlanta
+24   Chicago, IL                                  2 tweets ( 0.87%)  Ex: Chicago, IL, Chicago
+25   Saint Petersburg, FL                         2 tweets ( 0.87%)  Ex: Saint Petersburg, FL, St Petersb...
+26   Greensboro, NC                               2 tweets ( 0.87%)  Ex: parts unknown, Parts Unknown
+27   Center Point                                 1 tweets ( 0.43%)  Ex: E2W
+28   Middle Township, NJ                          1 tweets ( 0.43%)  Ex: Mid-South
+29   Town of Guilderland, NY                      1 tweets ( 0.43%)  Ex: Albany NY, USA
+30   City of Tonawanda, NY                        1 tweets ( 0.43%)  Ex: Tonawanda, NY
+31   Kennett Square, PA                           1 tweets ( 0.43%)  Ex: Kennett Square, PA
+32   Calabash, NC                                 1 tweets ( 0.43%)  Ex: Calabash, NC
+33   Town of Lancaster, NY                        1 tweets ( 0.43%)  Ex: Lancaster, NY
+34   Мінск, Беларусь                              1 tweets ( 0.43%)  Ex: Prague / Minsk
+35   Pittsburg, KS                                1 tweets ( 0.43%)  Ex: Pittsburg, KS
+36   Hillsborough County, FL                      1 tweets ( 0.43%)  Ex: Northwest Florida
+37   Rancho Palos Verdes, CA                      1 tweets ( 0.43%)  Ex: Rancho Palos Verdes, CA
+38   Town of Vestal, NY                           1 tweets ( 0.43%)  Ex: Vestal, N.Y.
+39   Village of Woodbury, NY                      1 tweets ( 0.43%)  Ex: Adirondacks
+40   Phoenix, AZ                                  1 tweets ( 0.43%)  Ex: Phoenix, AZ
+41   Edina, MN                                    1 tweets ( 0.43%)  Ex: Edina, MN
+42   Lewes, DE                                    1 tweets ( 0.43%)  Ex: Lewes, Delaware, USA
+43   Okeechobee County, FL                        1 tweets ( 0.43%)  Ex: Okeechobee, FL
+44   中央区, 日本                                      1 tweets ( 0.43%)  Ex: Living in Tokyo (東京都八王子市)
+45   Newport News, VA                             1 tweets ( 0.43%)  Ex: Hampton Roads 
+46   Sutton, MA                                   1 tweets ( 0.43%)  Ex: Sutton, MA
+47   Chennai Corporation, India                   1 tweets ( 0.43%)  Ex: Tamilnadu. Union of India
+48   Apodaca, México                              1 tweets ( 0.43%)  Ex: MTY
+49   Livingston, NJ                               1 tweets ( 0.43%)  Ex: Livingston, NJ
+50   Ontario County, NY                           1 tweets ( 0.43%)  Ex: Farmington, NY

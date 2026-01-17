@@ -1,0 +1,53 @@
+Step 2: Geocoding top 50 valid locations (out of 1504)
+[1/50] Chicago, IL
+[2/50] Los Angeles
+[3/50] Sacramento, CA
+[4/50] Dallas, TX
+[5/50] Dallas
+[6/50] Las Vegas, NV
+[7/50] Austin, TX
+[8/50] Houston, TX
+[9/50] Denver, CO
+[10/50] Portland, OR
+[11/50] Los Angeles
+[12/50] Southern California
+[13/50] Toronto, Ontario
+[14/50] Santa Cruz, CA
+[15/50] Phoenix, AZ
+[16/50] San Jose, CA
+[17/50] Catatonic State
+[18/50] Seattle, WA
+[19/50] United States of America
+[20/50] Canada
+[21/50] New York, NY
+[22/50] Atlanta, GA
+[23/50] Washington, DC
+[24/50] South Florida, U.S.A.
+[25/50] Philadelphia, PA
+[26/50] Berkeley, CA
+[27/50] 1114 Peralta St, Oakland, CA
+[28/50] New York City
+[29/50] Manhattan, NY
+[30/50] Northern California
+[31/50] Silicon Valley
+[32/50] Eagle, ID
+[33/50] Soquel, California, USA
+[34/50] Venice, Los Angeles
+[35/50] 4th World Apokolips
+[36/50] USA  San Diego
+[37/50] Vancouver
+[38/50] Palo Alto, CA
+[39/50] Planet Earth
+[40/50] NYC
+[41/50] Sydney, New South Wales
+[42/50] Irvine, CA
+[43/50] San Diego, California
+[44/50] Rancho Cucamonga, CA
+[45/50] Berkeley, CA ↔ Sacramento, CA
+[46/50] Los Angeles, USA
+[47/50] Utah
+[48/50] India
+[49/50] Reasonable, CA
+[50/50] NorCal
+
+Successfully geocoded: 44/50

@@ -1,0 +1,1406 @@
+{
+  "Mkrafcik": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "40996723",
+      "name": "Mike Krafcik",
+      "userName": "Mkrafcik",
+      "location": "Kalamazoo, MI",
+      "url": "",
+      "description": "Communications- Michigan Department of Labor and Economic Opportunity. Former TV News Reporter. \n\n@NewhouseSU alum",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                98,
+                109
+              ],
+              "name": "",
+              "screen_name": "NewhouseSU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1538,
+      "following": 4093,
+      "favouritesCount": 792,
+      "statusesCount": 3321,
+      "mediaCount": 1370,
+      "createdAt": "2009-05-18T23:17:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/40996723/1698434314",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1717984194238783489/Ry5G2HLt_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "melaninflicks": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1534373473468002309",
+      "name": "Melaninflicks",
+      "userName": "melaninflicks",
+      "location": "",
+      "url": "https://t.co/t5CYhE4t5W",
+      "description": "A black-owned streaming platform specifically for black filmmakers to showcase their movies to a larger audience.\n#blackfilms",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                114,
+                125
+              ],
+              "text": "blackfilms"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "melaninflicks.com",
+              "expanded_url": "https://melaninflicks.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/t5CYhE4t5W"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 26,
+      "following": 134,
+      "favouritesCount": 8,
+      "statusesCount": 64,
+      "mediaCount": 7,
+      "createdAt": "2022-06-08T03:15:28.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1534373473468002309/1659193863",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1553397599130079238/ubJnRoHr_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CALTRANMichigan": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1133010968068448257",
+      "name": "CALTRAN Michigan",
+      "userName": "CALTRANMichigan",
+      "location": "Kalamazoo, MI",
+      "url": "https://t.co/eotAWKwPyn",
+      "description": "CALTRAN is a 501(c)(3) nonprofit hunger-relief charity located in Michigan.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/CALTRANMichigan",
+              "expanded_url": "http://www.facebook.com/CALTRANMichigan",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eotAWKwPyn"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 29,
+      "following": 257,
+      "favouritesCount": 82,
+      "statusesCount": 66,
+      "mediaCount": 13,
+      "createdAt": "2019-05-27T14:03:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1133010968068448257/1560224833",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1138291911628906497/G38YF4V5_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AndreaBitely": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "17513576",
+      "name": "Andrea Bitely",
+      "userName": "AndreaBitely",
+      "location": "Lansing, Michigan",
+      "url": "https://t.co/CcGOOJ6G9L",
+      "description": "@mikeeduggan. @BitelyPR. Old fashioned Republican. Alum of: @politico @uschamber @miattygen @truscottrossman @westernmichu @michretail",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "",
+              "screen_name": "mikeeduggan"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                14,
+                23
+              ],
+              "name": "",
+              "screen_name": "BitelyPR"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                60,
+                69
+              ],
+              "name": "",
+              "screen_name": "politico"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                70,
+                80
+              ],
+              "name": "",
+              "screen_name": "uschamber"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                81,
+                91
+              ],
+              "name": "",
+              "screen_name": "miattygen"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                92,
+                108
+              ],
+              "name": "",
+              "screen_name": "truscottrossman"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                109,
+                122
+              ],
+              "name": "",
+              "screen_name": "westernmichu"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                123,
+                134
+              ],
+              "name": "",
+              "screen_name": "michretail"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BitelyPR.com",
+              "expanded_url": "http://BitelyPR.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CcGOOJ6G9L"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4552,
+      "following": 4516,
+      "favouritesCount": 26120,
+      "statusesCount": 41550,
+      "mediaCount": 3237,
+      "createdAt": "2008-11-20T15:39:30.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/17513576/1670910068",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2007694675142971392/Rx_-TT8e_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1792568770268905888"
+      ]
+    }
+  },
+  "ellenrbg": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3248394498",
+      "name": "EBG",
+      "userName": "ellenrbg",
+      "location": "",
+      "url": "https://t.co/ohh35swdMC",
+      "description": "Associate professor of Clarinet; Western Michigan University. Clarinet @amwildensemble. Interests: good reeds, good books, and good coffee.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                86
+              ],
+              "name": "",
+              "screen_name": "amwildensemble"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ellenbreakfieldglick.com",
+              "expanded_url": "http://ellenbreakfieldglick.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ohh35swdMC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 37,
+      "following": 145,
+      "favouritesCount": 908,
+      "statusesCount": 181,
+      "mediaCount": 31,
+      "createdAt": "2015-06-18T06:01:53.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3248394498/1584747499",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1241147083752701952/B6uaTfO__normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "David_Benac": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "825717580337905665",
+      "name": "David Benac",
+      "userName": "David_Benac",
+      "location": "Kalamazoo, Michigan",
+      "url": "",
+      "description": "History professor, environmentalist, former union representative. Doing what I can to reduce suffering for all of Gaia's children.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1972,
+      "following": 2867,
+      "favouritesCount": 21036,
+      "statusesCount": 4709,
+      "mediaCount": 496,
+      "createdAt": "2017-01-29T14:49:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/825717580337905665/1573748402",
+      "profilePicture": "https://pbs.twimg.com/profile_images/966726334595698689/MP5xFtNx_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1625281400797806593"
+      ]
+    }
+  },
+  "joshroe": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "28818629",
+      "name": "Josh Roe NC9",
+      "userName": "joshroe",
+      "location": "Chattanooga, TN",
+      "url": "https://t.co/EpnInhcfUH",
+      "description": "Professional learner - Evening News & Sports Anchor @ NewsChannel 9 & Fox Chattanooga - podcaster - USMC",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "art19.com/shows/tomorrow…",
+              "expanded_url": "https://art19.com/shows/tomorrow-town-tennessee",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EpnInhcfUH"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 8656,
+      "following": 7468,
+      "favouritesCount": 4901,
+      "statusesCount": 13238,
+      "mediaCount": 2055,
+      "createdAt": "2009-04-04T16:09:07.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/28818629/1614483586",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1147912333840257026/D7bjstnM_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1677870895132491777"
+      ]
+    }
+  },
+  "SolidarityWMU": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1256395366519451648",
+      "name": "Solidarity Fund for WMU Employees and Students",
+      "userName": "SolidarityWMU",
+      "location": "Kalamazoo, MI",
+      "url": "https://t.co/rFKNAQSRIM",
+      "description": "Faculty, staff, students, alumni, retirees, and friends of the Western Michigan University community helping one another in times of need. #WeAreWestern ❤️",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                139,
+                152
+              ],
+              "text": "WeAreWestern"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "solidarityfundwmu.org",
+              "expanded_url": "http://solidarityfundwmu.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rFKNAQSRIM"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 131,
+      "following": 315,
+      "favouritesCount": 258,
+      "statusesCount": 133,
+      "mediaCount": 0,
+      "createdAt": "2020-05-02T01:32:10.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1256395366519451648/1588386246",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1256411581887496194/XrxMkCuJ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1256421933211684864"
+      ]
+    }
+  },
+  "BroncoBarn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1617378330830946304",
+      "name": "The Bronco Barn 🐴",
+      "userName": "BroncoBarn",
+      "location": "KalamaZOO, MI",
+      "url": "https://t.co/8Nknu1hBWC",
+      "description": "Proudly supporting WMU Students, Athletics, and the Community! | F/W NCAA D1 Athletics Record: 80-60-5-0 | RIP, Marshawn Kneeland #94/#99",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "broncobarnwmu.com",
+              "expanded_url": "https://broncobarnwmu.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8Nknu1hBWC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1272,
+      "following": 597,
+      "favouritesCount": 14514,
+      "statusesCount": 20468,
+      "mediaCount": 4360,
+      "createdAt": "2023-01-23T04:27:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1617378330830946304/1768496934",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2007149189331890176/NdUVVWEk_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TRIO_FESP": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2892048975",
+      "name": "TRIO FESP WMU",
+      "userName": "TRIO_FESP",
+      "location": "3530 Sangren Hall",
+      "url": "https://t.co/tEssZ6ODKH",
+      "description": "🍎 Learner Centered | Discovery Driven | Globally Engaged 🍎",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "wmich.edu/trio-future-ed…",
+              "expanded_url": "http://www.wmich.edu/trio-future-educators",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tEssZ6ODKH"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 36,
+      "following": 41,
+      "favouritesCount": 41,
+      "statusesCount": 732,
+      "mediaCount": 324,
+      "createdAt": "2014-11-25T15:01:37.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2892048975/1562774200",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1392593429926920192/CIiK8G8z_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "gordoevans": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "144946784",
+      "name": "Gordon Evans",
+      "userName": "gordoevans",
+      "location": "Kalamazoo, Mi",
+      "url": "",
+      "description": "Director of Content, WMUK, public radio in Kalamazoo",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 722,
+      "following": 1472,
+      "favouritesCount": 27,
+      "statusesCount": 1407,
+      "mediaCount": 13,
+      "createdAt": "2010-05-17T18:44:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/144946784/1408829508",
+      "profilePicture": "https://pbs.twimg.com/profile_images/916412269/profile_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "LaurenEdwardsTV": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "28597919",
+      "name": "Lauren Edwards",
+      "userName": "LaurenEdwardsTV",
+      "location": "Heart in CHGO / Feet in MICH",
+      "url": "https://t.co/qRGvsxlAte",
+      "description": "My street name is StuLo, short for Student Loans // Emmy-nom’d, AP/MAB 🏆winning Journ-nerd 🕵🏽‍♀️ at @FOX2News // Love: Chi🧦 + Hoop earrings + Holy Spirit",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                100,
+                109
+              ],
+              "name": "",
+              "screen_name": "FOX2News"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fox2detroit.com",
+              "expanded_url": "https://www.fox2detroit.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qRGvsxlAte"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1356,
+      "following": 2677,
+      "favouritesCount": 76203,
+      "statusesCount": 30428,
+      "mediaCount": 1966,
+      "createdAt": "2009-04-03T16:31:38.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/28597919/1761969677",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1769576629343326209/03UljCCU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BaptismUSA": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1819288297232834560",
+      "name": "Baptism USA Ministries",
+      "userName": "BaptismUSA",
+      "location": "Kalamazoo, Michigan",
+      "url": "",
+      "description": "Baptism USA Ministries is a Baptist church based in Kalamazoo, Michigan. Our mission is to teach the gospel of God and Jesus Christ according to the Holy Bible.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 49,
+      "following": 234,
+      "favouritesCount": 1445,
+      "statusesCount": 1032,
+      "mediaCount": 135,
+      "createdAt": "2024-08-02T08:25:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1819288297232834560/1756943549",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1819288881348386817/S9pL9FJy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "randalpinkett": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "23754278",
+      "name": "Dr. Randal Pinkett",
+      "userName": "randalpinkett",
+      "location": "",
+      "url": "https://t.co/4fJmabDAAx",
+      "description": "Chairman & CEO, BCT Partners / Entrepreneur / Speaker & Author / Tech & Data Innovator / Former Athlete / Media Personality (MSNBC, CNN, Fox) / ΑΦΑ",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=PMhA0_…",
+              "expanded_url": "https://www.youtube.com/watch?v=PMhA0_4wqyU",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4fJmabDAAx"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 12912,
+      "following": 10211,
+      "favouritesCount": 14689,
+      "statusesCount": 16514,
+      "mediaCount": 272,
+      "createdAt": "2009-03-11T12:24:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/23754278/1642553839",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1483604444583497730/CCrADVJ9_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "wmutriossp": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1354900318157328384",
+      "name": "wmutriossp",
+      "userName": "wmutriossp",
+      "location": "Kalmazoo, MI",
+      "url": "https://t.co/EqFZUIWpAe",
+      "description": "Western Michigan University’s TRIO SSP. #wmu #wmubroncos #triossp",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                40,
+                44
+              ],
+              "text": "wmu"
+            },
+            {
+              "indices": [
+                45,
+                56
+              ],
+              "text": "wmubroncos"
+            },
+            {
+              "indices": [
+                57,
+                65
+              ],
+              "text": "triossp"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/wmutriossp",
+              "expanded_url": "https://linktr.ee/wmutriossp",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EqFZUIWpAe"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 25,
+      "following": 100,
+      "favouritesCount": 12,
+      "statusesCount": 405,
+      "mediaCount": 378,
+      "createdAt": "2021-01-28T21:13:24.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1354900318157328384/1616770210",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1375460261411258368/_1dBDiY9_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "FeedingBroncos": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1883610918455492608",
+      "name": "FeedingBroncos",
+      "userName": "FeedingBroncos",
+      "location": "Western Michigan University",
+      "url": "https://t.co/xpevGqrcYU",
+      "description": "A Free RSO Dinner Service for Food-Insecure Students at Western Michigan University.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "feedingbroncos.org",
+              "expanded_url": "http://feedingbroncos.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xpevGqrcYU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 27,
+      "following": 139,
+      "favouritesCount": 405,
+      "statusesCount": 262,
+      "mediaCount": 97,
+      "createdAt": "2025-01-26T20:20:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1883610918455492608/1756918942",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1883611097132892160/xW9KD-g6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Isa_Di1": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1933283897925566464",
+      "name": "Olatunji crowdsupport",
+      "userName": "Isa_Di1",
+      "location": "",
+      "url": "",
+      "description": "Act like you expect to get into the end zone",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 453,
+      "following": 6385,
+      "favouritesCount": 7501,
+      "statusesCount": 8236,
+      "mediaCount": 1,
+      "createdAt": "2025-06-12T22:03:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1933283897925566464/1764599233",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1995499939195928576/aoH3LOnJ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1998249048193765613"
+      ]
+    }
+  },
+  "Mr_Dr_Q_Sizzle": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "15990041",
+      "name": "Mr. Dr. The Q!",
+      "userName": "Mr_Dr_Q_Sizzle",
+      "location": "your dreams, take a left.",
+      "url": "",
+      "description": "A Writer and Practitioner @kcollege. My Black Magic matters and my Words are my own.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                26,
+                35
+              ],
+              "name": "",
+              "screen_name": "kcollege"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 646,
+      "following": 1903,
+      "favouritesCount": 6056,
+      "statusesCount": 50799,
+      "mediaCount": 1359,
+      "createdAt": "2008-08-26T00:41:44.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/15990041/1590962140",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1402413564011368451/V9JuLy4w_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TrishaMTweets": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "885107065",
+      "name": "Trisha McCauley",
+      "userName": "TrishaMTweets",
+      "location": "Kalamazoo, MI",
+      "url": "",
+      "description": "I do everything with a smile and a little bit of sass ✨",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1091,
+      "following": 960,
+      "favouritesCount": 43690,
+      "statusesCount": 6365,
+      "mediaCount": 1406,
+      "createdAt": "2012-10-16T19:16:02.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/885107065/1662054662",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1565396781571211264/edxMOrzT_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "LakersKitchen": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1472613305831280644",
+      "name": "Lakers Kitchen",
+      "userName": "LakersKitchen",
+      "location": "Allendale, Michigan",
+      "url": "",
+      "description": "Lakers Kitchen is a nonprofit charity that provides free dinners to food-insecure students attending Grand Valley State University. Not affiliated with GVSU.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 7,
+      "following": 138,
+      "favouritesCount": 12,
+      "statusesCount": 8,
+      "mediaCount": 2,
+      "createdAt": "2021-12-19T17:02:46.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1472613305831280644/1639935619",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1472613505018875907/oXTEDYIU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ClarkPerryman": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "997607259051053056",
+      "name": "Dr. Staci M. Perryman-Clark",
+      "userName": "ClarkPerryman",
+      "location": "Oshtemo, MI",
+      "url": "",
+      "description": "Director, Professor of English and African American and African Studies; Chair, Conference on College Composition and Communication",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1160,
+      "following": 1195,
+      "favouritesCount": 3347,
+      "statusesCount": 504,
+      "mediaCount": 158,
+      "createdAt": "2018-05-18T22:37:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/997607259051053056/1695504975",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1705697563196657665/jG0lm4fc_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Christina4casts": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "822346615",
+      "name": "Tina",
+      "userName": "Christina4casts",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5936,
+      "following": 2051,
+      "favouritesCount": 26526,
+      "statusesCount": 31129,
+      "mediaCount": 15275,
+      "createdAt": "2012-09-13T23:25:27.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/822346615/1618177588",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1820173872504709121/dSZiRrjW_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "WMUGhostBronco": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1314665465604644864",
+      "name": "Ghost Bronco™",
+      "userName": "WMUGhostBronco",
+      "location": "Kalamazoo, MI",
+      "url": "https://t.co/7fTjff6Cly",
+      "description": "Visit our site and sign the petition at https://t.co/DMxh0j7POz. Fight On against this rebrand at WMU.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ghostbronco.com",
+              "expanded_url": "http://ghostbronco.com",
+              "indices": [
+                40,
+                63
+              ],
+              "url": "https://t.co/DMxh0j7POz"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/wmughostbronco",
+              "expanded_url": "https://linktr.ee/wmughostbronco",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7fTjff6Cly"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 701,
+      "following": 411,
+      "favouritesCount": 3820,
+      "statusesCount": 1817,
+      "mediaCount": 565,
+      "createdAt": "2020-10-09T20:34:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1314665465604644864/1628028936",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1422682587898826756/_WwagydL_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1483906254082695168"
+      ]
+    }
+  },
+  "NancyEditor8": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3296894841",
+      "name": "Nancy the Retired Editor",
+      "userName": "NancyEditor8",
+      "location": "Grand Rapids, MI",
+      "url": "",
+      "description": "Retired Newsie, WOODTV- The next adventure begins.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1196,
+      "following": 1930,
+      "favouritesCount": 32646,
+      "statusesCount": 38913,
+      "mediaCount": 575,
+      "createdAt": "2015-05-24T19:18:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3296894841/1557444798",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1047648636014878720/AWkZRKLb_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "terrideboer": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "21083589",
+      "name": "Terri DeBoer",
+      "userName": "terrideboer",
+      "location": "Grand Rapids, MI",
+      "url": "https://t.co/vZqTHMhbKp",
+      "description": "Wife, Mom, Grandmother Meteorologist   (AMS Seal #862)",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "terrideboer.com",
+              "expanded_url": "http://terrideboer.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vZqTHMhbKp"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 11459,
+      "following": 8082,
+      "favouritesCount": 20152,
+      "statusesCount": 18774,
+      "mediaCount": 3863,
+      "createdAt": "2009-02-17T12:11:09.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/21083589/1667563394",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1097514981489369088/_8XoFBu0_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "sherylunderwood": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "34047021",
+      "name": "Sheryl Underwood",
+      "userName": "sherylunderwood",
+      "location": "where love is...",
+      "url": "http://t.co/f19yjEwLve",
+      "description": "Co-host:The Talk on CBS, host: Sheryl Underwood Radio, CEO of Pack Rat Production & Foundation Inc. & 23rd International President of Zeta Phi Beta Sorority.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "packratproductionsinc.com",
+              "expanded_url": "http://www.packratproductionsinc.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/f19yjEwLve"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1361603,
+      "following": 1404626,
+      "favouritesCount": 80,
+      "statusesCount": 141460,
+      "mediaCount": 1627,
+      "createdAt": "2009-04-21T21:21:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/34047021/1404186895",
+      "profilePicture": "https://pbs.twimg.com/profile_images/659795610707476480/3XZg5tLu_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "WMUGradCollege": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "815696832",
+      "name": "WMU Graduate College",
+      "userName": "WMUGradCollege",
+      "location": "Kalamazoo, Michigan",
+      "url": "https://t.co/Fnn2pjCDKF",
+      "description": "Supporting graduate education, teaching, and research; providing professional resources and funding for WMU's grad students for over 60 years.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "wmich.edu/grad",
+              "expanded_url": "http://wmich.edu/grad",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Fnn2pjCDKF"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 972,
+      "following": 362,
+      "favouritesCount": 3624,
+      "statusesCount": 3927,
+      "mediaCount": 2253,
+      "createdAt": "2012-09-10T17:50:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/815696832/1641331616",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1443615975128006657/1lQW2PhC_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "WMUSoM": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "600975146",
+      "name": "WMU School of Music",
+      "userName": "WMUSoM",
+      "location": "Kalamazoo, MI",
+      "url": "http://t.co/xXew9gSxTp",
+      "description": "The School of Music at Western Michigan University is dedicated to music as an art form that elevates the lives of all who experience it. #wmumusic",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                138,
+                147
+              ],
+              "text": "wmumusic"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wmich.edu/music/",
+              "expanded_url": "http://wmich.edu/music/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/xXew9gSxTp"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 726,
+      "following": 476,
+      "favouritesCount": 2571,
+      "statusesCount": 1064,
+      "mediaCount": 152,
+      "createdAt": "2012-06-06T13:37:20.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/600975146/1606144014",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1330875928528896000/4wC5gBMV_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "edmartini3": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "50634610",
+      "name": "UWOProvost",
+      "userName": "edmartini3",
+      "location": "Oshkosh, WI",
+      "url": "",
+      "description": "father, husband, historian, and provost of @uwoshkosh",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                43,
+                53
+              ],
+              "name": "",
+              "screen_name": "uwoshkosh"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 426,
+      "following": 1447,
+      "favouritesCount": 1432,
+      "statusesCount": 2942,
+      "mediaCount": 192,
+      "createdAt": "2009-06-25T12:44:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/50634610/1737140553",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1121730950331867136/mYbrtbBe_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "LindaSMah": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "506432931",
+      "name": "Linda S. Mah",
+      "userName": "LindaSMah",
+      "location": "Kalamazoo",
+      "url": "",
+      "description": "Kalamazoo Public Schools communications specialist and Ava and Lena's mom.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1177,
+      "following": 496,
+      "favouritesCount": 3343,
+      "statusesCount": 7129,
+      "mediaCount": 445,
+      "createdAt": "2012-02-27T21:31:27.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1863693994/LindaMahB_normal.JPG",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

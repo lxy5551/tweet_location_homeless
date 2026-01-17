@@ -1,0 +1,24 @@
+{
+  "Phil_the_Alien": {
+    "id": "1726576934",
+    "name": "Phil Mickelson Alien",
+    "screen_name": "Phil_the_Alien",
+    "userName": "Phil_the_Alien",
+    "location": "",
+    "url": null,
+    "description": "Phil Mickelson?  Alien?  Both?  That's right, Phil Mickelson is an alien.  We have proof and facts to back up the popular claim.  We'll provide, you decide",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 75,
+    "following_count": 418,
+    "friends_count": 418,
+    "favourites_count": 0,
+    "statuses_count": 119,
+    "media_tweets_count": 2,
+    "created_at": "Tue Sep 03 20:30:39 +0000 2013",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000426801124/39e6c8e192129ee68a5b431fa341f782_normal.jpeg",
+    "can_dm": false
+  }
+}

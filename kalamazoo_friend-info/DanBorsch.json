@@ -1,0 +1,506 @@
+{
+  "Old502": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "499159296",
+      "name": "Old 502 Winery",
+      "userName": "Old502",
+      "location": "Louisville, KY",
+      "url": "https://t.co/pJa1im9vU0",
+      "description": "Located @ 915 E Liberty St. Louisville, KY 40204. Old 502 Winery is Kentucky's only Urban Winery. By following you agree that you are 21 or older.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "old502.com",
+              "expanded_url": "http://www.old502.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pJa1im9vU0"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 3346,
+      "following": 1857,
+      "favouritesCount": 4768,
+      "statusesCount": 4215,
+      "mediaCount": 1560,
+      "createdAt": "2012-02-21T20:52:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/499159296/1510700913",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1940064332013801472/7B1KexgM_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1649777819700928512"
+      ]
+    }
+  },
+  "DrugFreeSidewlk": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1884753905399316480",
+      "name": "Drug-Free Sidewalks San Francisco",
+      "userName": "DrugFreeSidewlk",
+      "location": "San Francisco, CA",
+      "url": "https://t.co/ipokC1kbvi",
+      "description": "Drug-Free Sidewalks invites collaboration and activism towards a coordinated strategy to end the phenomenon of public drug use in San Francisco.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "drugfreesidewalks.org",
+              "expanded_url": "https://www.drugfreesidewalks.org/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ipokC1kbvi"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 518,
+      "following": 452,
+      "favouritesCount": 481,
+      "statusesCount": 248,
+      "mediaCount": 54,
+      "createdAt": "2025-01-30T00:02:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1884753905399316480/1738195681",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1900798298149240832/Oqzl3IBn_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BourbonCityCFC": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "52214021",
+      "name": "Bourbon City Sports",
+      "userName": "BourbonCityCFC",
+      "location": "Kentucky, USA",
+      "url": "",
+      "description": "Enjoying bourbons, brews, & the sports we love. Bengals #WhoDey | Reds #ATOBTTR | UofL #GoCards | Chelsea FC #CFC  I follow ppl who follow & or engage with me.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                56,
+                63
+              ],
+              "text": "WhoDey"
+            },
+            {
+              "indices": [
+                71,
+                79
+              ],
+              "text": "ATOBTTR"
+            },
+            {
+              "indices": [
+                87,
+                95
+              ],
+              "text": "GoCards"
+            },
+            {
+              "indices": [
+                109,
+                113
+              ],
+              "text": "CFC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1071,
+      "following": 817,
+      "favouritesCount": 27079,
+      "statusesCount": 23840,
+      "mediaCount": 2058,
+      "createdAt": "2009-06-29T22:34:53.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/52214021/1756691871",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1965089011338235906/E18Ziniy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2008159510699839707"
+      ]
+    }
+  },
+  "Bourbonstay": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "822597553",
+      "name": "Bourbonstay",
+      "userName": "Bourbonstay",
+      "location": "Louisville, KY",
+      "url": "https://t.co/PyUAjch8Dm",
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bourbonstay.com",
+              "expanded_url": "http://www.bourbonstay.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PyUAjch8Dm"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 154,
+      "following": 694,
+      "favouritesCount": 579,
+      "statusesCount": 580,
+      "mediaCount": 122,
+      "createdAt": "2012-09-14T03:08:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/822597553/1740426858",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1894113597615157248/grXkvlIU_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "MillieFromKY": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "467136586",
+      "name": "Millie",
+      "userName": "MillieFromKY",
+      "location": "United States of America",
+      "url": "",
+      "description": "Chapter 52 Married mother of 3.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 720,
+      "following": 1462,
+      "favouritesCount": 114554,
+      "statusesCount": 67790,
+      "mediaCount": 2178,
+      "createdAt": "2012-01-18T04:43:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/467136586/1765609155",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1999736780593991686/jxlOrMA-_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "the_redbird7": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "196324001",
+      "name": "✋🏼🫶🏻✌🏼L’s UP",
+      "userName": "the_redbird7",
+      "location": "",
+      "url": "",
+      "description": "i paint my face -USA Today fan of the year 2016 -2020 honorary espy fan of the year -2021 Louisville twitter tourney champ we  “watching or nah” -corito",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 11332,
+      "following": 4288,
+      "favouritesCount": 5803,
+      "statusesCount": 75460,
+      "mediaCount": 3155,
+      "createdAt": "2010-09-28T21:28:38.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/196324001/1412897614",
+      "profilePicture": "https://pbs.twimg.com/profile_images/577303204141998080/8Vq90Plu_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "luckiestoftates": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1556440958752931844",
+      "name": "Tate :D",
+      "userName": "luckiestoftates",
+      "location": "",
+      "url": "https://t.co/bna1drstUe",
+      "description": "Louisville | @whas11 producer | smeep smop",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                13,
+                20
+              ],
+              "name": "",
+              "screen_name": "whas11"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Whas11.com",
+              "expanded_url": "http://Whas11.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bna1drstUe"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 78,
+      "following": 364,
+      "favouritesCount": 4267,
+      "statusesCount": 493,
+      "mediaCount": 27,
+      "createdAt": "2022-08-08T00:43:44.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1556440958752931844/1753565181",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1838597958394073088/reJXol5h_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "LiamGallagherKY": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3075884928",
+      "name": "Liam Gallagher",
+      "userName": "LiamGallagherKY",
+      "location": "",
+      "url": "",
+      "description": "@AFPKentucky|UofL Alum|Proud Kentuckian🐎🥃| I often enjoy talking #Politics at the dinner table. Opinions are my own.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                65,
+                74
+              ],
+              "text": "Politics"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "",
+              "screen_name": "AFPKentucky"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 2613,
+      "following": 2073,
+      "favouritesCount": 6996,
+      "statusesCount": 3620,
+      "mediaCount": 314,
+      "createdAt": "2015-03-13T03:38:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3075884928/1684654479",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1867408208144252928/dAzhHqUi_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1662531444403478528"
+      ]
+    }
+  },
+  "TropicsCards": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1830643115117494272",
+      "name": "Josh “Tropics” G",
+      "userName": "TropicsCards",
+      "location": "The Keys",
+      "url": "https://t.co/14efCx2kXF",
+      "description": "Faith, Family, Football. Allegedly known as Cards in the Tropics. @CardsCompanion",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                66,
+                81
+              ],
+              "name": "",
+              "screen_name": "CardsCompanion"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@cardinalcompa…",
+              "expanded_url": "https://youtube.com/@cardinalcompanion?si=bVgSLVjJo76IbqVJ",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/14efCx2kXF"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1270,
+      "following": 492,
+      "favouritesCount": 6938,
+      "statusesCount": 5962,
+      "mediaCount": 623,
+      "createdAt": "2024-09-02T16:25:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1830643115117494272/1766596018",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1990660134599598080/X454DFM1_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1961397492311831002"
+      ]
+    }
+  },
+  "flakerville": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1856380196485554177",
+      "name": "AFlaker",
+      "userName": "flakerville",
+      "location": "Louisville, KY",
+      "url": "",
+      "description": "Prould husband to Ashley; Dad to Braxton and Tyce; Head of Baseball Player Personnel @ Univ. of Louisville Baseball; Co-Owner, Athletx Sports Group",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 484,
+      "following": 340,
+      "favouritesCount": 2826,
+      "statusesCount": 37,
+      "mediaCount": 0,
+      "createdAt": "2024-11-12T16:55:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1856380196485554177/1762379753",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1932400823650091008/rqg-IBGP_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Clancy4Utah": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1608006573414305793",
+      "name": "Tyler Clancy",
+      "userName": "Clancy4Utah",
+      "location": "Provo, Utah",
+      "url": "",
+      "description": "State Representative for Utah’s 60th District🏔 (Provo) . Tackling the drug crisis & working to make our streets safer.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 2858,
+      "following": 3666,
+      "favouritesCount": 74980,
+      "statusesCount": 5764,
+      "mediaCount": 1290,
+      "createdAt": "2022-12-28T07:47:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1608006573414305793/1753478291",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1969526756559503363/ZE69CU6h_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

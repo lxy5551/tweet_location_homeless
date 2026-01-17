@@ -1,0 +1,1248 @@
+{
+  "A320ne0": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1818999684117008385",
+      "name": "a320neo 🚂☘️✈️🚄💙💛",
+      "userName": "A320ne0",
+      "location": "",
+      "url": "",
+      "description": "Jay Jones Democrat",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 146,
+      "following": 108,
+      "favouritesCount": 310850,
+      "statusesCount": 5315,
+      "mediaCount": 823,
+      "createdAt": "2024-08-01T13:18:28.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1818999684117008385/1743288563",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1819000888532365312/-5BFzYqH_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "mbrkhrdt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1827398862",
+      "name": "Michael Burkhardt",
+      "userName": "mbrkhrdt",
+      "location": "Brooklyn, NY",
+      "url": "https://t.co/czwCJ4yYBC",
+      "description": "20 | weekend editor, reviewer, and indie app spotlight guy @9to5mac",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                59,
+                67
+              ],
+              "name": "",
+              "screen_name": "9to5mac"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "michaelb.nyc",
+              "expanded_url": "http://michaelb.nyc",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/czwCJ4yYBC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 4876,
+      "following": 534,
+      "favouritesCount": 31666,
+      "statusesCount": 2190,
+      "mediaCount": 725,
+      "createdAt": "2013-09-08T11:03:09.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1827398862/1768495487",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1990591613727326208/zUweXSBG_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1849975167235023242"
+      ]
+    }
+  },
+  "themaestrodario": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1997788331598655488",
+      "name": "Darío Maestro",
+      "userName": "themaestrodario",
+      "location": "NY CLM ↔️ NYC NY",
+      "url": "",
+      "description": "Privacy, surveillance & technology lawyer at @STOPSpyingNY + @FordhamLaw. High-value target in a low-value body. Opinions my own.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                45,
+                58
+              ],
+              "name": "",
+              "screen_name": "STOPSpyingNY"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                61,
+                72
+              ],
+              "name": "",
+              "screen_name": "FordhamLaw"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 8,
+      "following": 212,
+      "favouritesCount": 393,
+      "statusesCount": 57,
+      "mediaCount": 4,
+      "createdAt": "2025-12-07T22:00:38.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1997788331598655488/1767087743",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2005739945072185344/tna6t326_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "arizvi0": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "266221802",
+      "name": "Ahad Rizvi🕵️",
+      "userName": "arizvi0",
+      "location": "NYC",
+      "url": "https://t.co/fzvvVlpxte",
+      "description": "Building software that destroys internet fraud // Outtake AI @outtake_ai\n\nin📍NYC 🌇",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                61,
+                72
+              ],
+              "name": "",
+              "screen_name": "outtake_ai"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "outtake.ai",
+              "expanded_url": "http://outtake.ai",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fzvvVlpxte"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 248,
+      "following": 1040,
+      "favouritesCount": 23457,
+      "statusesCount": 1929,
+      "mediaCount": 92,
+      "createdAt": "2011-03-14T21:52:35.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/266221802/1718344971",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1975743878293561344/EyefAMig_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1950621529877905658"
+      ]
+    }
+  },
+  "freemanjiangg": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1225217591037382664",
+      "name": "Freeman Jiang",
+      "userName": "freemanjiangg",
+      "location": "waterloo",
+      "url": "https://t.co/ru7V3GYTJt",
+      "description": "⁂ research engineer @sesame | cs @uwaterloo i make @beatsyncgg @gazooksapp @sevenariesmusic",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                20,
+                27
+              ],
+              "name": "",
+              "screen_name": "sesame"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                43
+              ],
+              "name": "",
+              "screen_name": "uwaterloo"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                51,
+                62
+              ],
+              "name": "",
+              "screen_name": "beatsyncgg"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                63,
+                74
+              ],
+              "name": "",
+              "screen_name": "gazooksapp"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                75,
+                91
+              ],
+              "name": "",
+              "screen_name": "sevenariesmusic"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "freemanjiang.com",
+              "expanded_url": "http://freemanjiang.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ru7V3GYTJt"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 5901,
+      "following": 2205,
+      "favouritesCount": 5404,
+      "statusesCount": 1180,
+      "mediaCount": 236,
+      "createdAt": "2020-02-06T00:40:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1225217591037382664/1764826620",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1982182412466466816/6xYewym6_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2008869280377668019"
+      ]
+    }
+  },
+  "KavanaghNYC": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1553923458614153217",
+      "name": "Laura Kavanagh",
+      "userName": "KavanaghNYC",
+      "location": "New York, NY",
+      "url": "https://t.co/bAve4giYwO",
+      "description": "Public Servant • New Yorker • Former FDNY Commissioner • Bad at short form and hot takes, find me on the parts of the internet where I can hear myself think",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "laurakavanagh.com",
+              "expanded_url": "https://www.laurakavanagh.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bAve4giYwO"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 33,
+      "following": 123,
+      "favouritesCount": 9,
+      "statusesCount": 0,
+      "mediaCount": 0,
+      "createdAt": "2022-08-01T02:00:17.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1553923458614153217/1727360880",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1839326987871277056/qPJ1Iqao_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "cfdonahue": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "104746380",
+      "name": "caroline donahue",
+      "userName": "cfdonahue",
+      "location": "new york new york",
+      "url": "",
+      "description": "Former CMO @intuit; board member @EmergeAmerica @Experian @Versapay @GoDaddy @Villagedems; champion of women, proud Mom,dog walker, city girl, English major",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                11,
+                18
+              ],
+              "name": "",
+              "screen_name": "intuit"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                47
+              ],
+              "name": "",
+              "screen_name": "EmergeAmerica"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                48,
+                57
+              ],
+              "name": "",
+              "screen_name": "Experian"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                58,
+                67
+              ],
+              "name": "",
+              "screen_name": "Versapay"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                68,
+                76
+              ],
+              "name": "",
+              "screen_name": "GoDaddy"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                77,
+                89
+              ],
+              "name": "",
+              "screen_name": "Villagedems"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1993,
+      "following": 1181,
+      "favouritesCount": 91088,
+      "statusesCount": 906,
+      "mediaCount": 191,
+      "createdAt": "2010-01-14T07:49:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/104746380/1383633222",
+      "profilePicture": "https://pbs.twimg.com/profile_images/486312359443447808/X2SFZMYp_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ctoliver": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "222416603",
+      "name": "Chris Toliver",
+      "userName": "ctoliver",
+      "location": "NYC - Reno",
+      "url": "",
+      "description": "Father, husband, Program/Project Manager, poker player. #HTTR. On #FIRE. Just trying to survive in this age of ignorance.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                56,
+                61
+              ],
+              "text": "HTTR"
+            },
+            {
+              "indices": [
+                66,
+                71
+              ],
+              "text": "FIRE"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 391,
+      "following": 1590,
+      "favouritesCount": 5386,
+      "statusesCount": 7997,
+      "mediaCount": 225,
+      "createdAt": "2010-12-03T10:49:17.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/222416603/1661000511",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1880840746330189825/yjpbLcKg_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CalebFurnas": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "441934229",
+      "name": "Caleb Furnas",
+      "userName": "CalebFurnas",
+      "location": "Philadelphia",
+      "url": "",
+      "description": "Working to improve and democratize education for caregivers with @osmosisMed. Proud spouse of @tesswilkry.",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                65,
+                76
+              ],
+              "name": "",
+              "screen_name": "osmosisMed"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                94,
+                105
+              ],
+              "name": "",
+              "screen_name": "tesswilkry"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 268,
+      "following": 2472,
+      "favouritesCount": 532,
+      "statusesCount": 173,
+      "mediaCount": 22,
+      "createdAt": "2011-12-20T15:37:01.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/441934229/1382986735",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1299382806695428096/fBp6IeDa_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "saalevine": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "789446922",
+      "name": "Samuel Levine",
+      "userName": "saalevine",
+      "location": "New York, NY",
+      "url": "",
+      "description": "Commissioner, @helloDCWP. Tweets are my own. Retweets, follows, & likes ≠ endorsements.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                14,
+                24
+              ],
+              "name": "",
+              "screen_name": "helloDCWP"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 3300,
+      "following": 1305,
+      "favouritesCount": 1538,
+      "statusesCount": 1306,
+      "mediaCount": 30,
+      "createdAt": "2012-08-29T14:25:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/789446922/1767283178",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1515030358831546371/-6gKmUUZ_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2003517188209279308"
+      ]
+    }
+  },
+  "defi_dua": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1357437895343153154",
+      "name": "Shubhan Dua",
+      "userName": "defi_dua",
+      "location": "San Francisco, CA",
+      "url": "",
+      "description": "Building @answersai_ai with 1.7 M users I Prev @artemis @ucberkeley 24 @dormroomfund Ilahi",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                9,
+                22
+              ],
+              "name": "",
+              "screen_name": "answersai_ai"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                47,
+                55
+              ],
+              "name": "",
+              "screen_name": "artemis"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                56,
+                67
+              ],
+              "name": "",
+              "screen_name": "ucberkeley"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                84
+              ],
+              "name": "",
+              "screen_name": "dormroomfund"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 4526,
+      "following": 3005,
+      "favouritesCount": 7884,
+      "statusesCount": 1439,
+      "mediaCount": 176,
+      "createdAt": "2021-02-04T21:16:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1357437895343153154/1755722684",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1925284890788110336/KWiRmOmY_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1924524434724962629"
+      ]
+    }
+  },
+  "Missy_dee811": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "709490892336402432",
+      "name": "Hello darkness my old friend 🌃",
+      "userName": "Missy_dee811",
+      "location": "Zohran's New York",
+      "url": "https://t.co/hOScEjb6op",
+      "description": "Dora. She/her, 34. ♌🇩🇴  Baking. Fandom. Feminism. Free 🇵🇸. Latine issues. Lingerie. ML. 🏳️‍🌈 issues 🚫 TERF/SWERF. Writing.\n\nMPH student 📚.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ko-fi.com/viudanegraaa",
+              "expanded_url": "https://ko-fi.com/viudanegraaa",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hOScEjb6op"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1066,
+      "following": 2644,
+      "favouritesCount": 374039,
+      "statusesCount": 281398,
+      "mediaCount": 3326,
+      "createdAt": "2016-03-14T21:26:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/709490892336402432/1728065381",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955103835707338752/7neEiyJj_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2005010828018548943"
+      ]
+    }
+  },
+  "V_Olivotto": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "476135868",
+      "name": "Veronica Olivotto",
+      "userName": "V_Olivotto",
+      "location": "NYC, USA/Piedmont, Italy",
+      "url": "https://t.co/20wOPZ2QJm",
+      "description": "passionate about climate adaptation and community voices in coastal landscapes, 🚴‍♀️ ❤️‍🔥 - @natura_project @USL_NYC + climate relocation @ZolbergInst",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                92,
+                107
+              ],
+              "name": "",
+              "screen_name": "natura_project"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                108,
+                116
+              ],
+              "name": "",
+              "screen_name": "USL_NYC"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                138,
+                150
+              ],
+              "name": "",
+              "screen_name": "ZolbergInst"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "boxd.it/9BA6b",
+              "expanded_url": "https://boxd.it/9BA6b",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/20wOPZ2QJm"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 328,
+      "following": 633,
+      "favouritesCount": 2038,
+      "statusesCount": 1175,
+      "mediaCount": 118,
+      "createdAt": "2012-01-27T20:18:15.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/476135868/1484518130",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1438535682738331649/KGGVgL3q_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1880290882915823750"
+      ]
+    }
+  },
+  "daniel_lefferts": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1532150097437503488",
+      "name": "Daniel Lefferts",
+      "userName": "daniel_lefferts",
+      "location": "",
+      "url": "https://t.co/ciTA6umxW2",
+      "description": "WAYS AND MEANS (2024); work in @parisreview, @gqmagazine, @thebafflermag, and elsewhere",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                31,
+                43
+              ],
+              "name": "",
+              "screen_name": "parisreview"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                45,
+                56
+              ],
+              "name": "",
+              "screen_name": "gqmagazine"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                58,
+                72
+              ],
+              "name": "",
+              "screen_name": "thebafflermag"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "daniellefferts.com",
+              "expanded_url": "http://daniellefferts.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ciTA6umxW2"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2045,
+      "following": 1125,
+      "favouritesCount": 5854,
+      "statusesCount": 1658,
+      "mediaCount": 431,
+      "createdAt": "2022-06-02T00:00:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1532150097437503488/1715652928",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1822081131598036992/kdlKvE0m_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1903103162858287266"
+      ]
+    }
+  },
+  "JasonFuhrman_": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3111797276",
+      "name": "Jason Fuhrman",
+      "userName": "JasonFuhrman_",
+      "location": "Brooklyn, NY",
+      "url": "",
+      "description": "Senior Advisor & Special Counsel @NewYorkStateAG. Disclaimers cannot save you from viral public opprobrium, job loss, or sick burns. Nevertheless, views my own.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                48
+              ],
+              "name": "",
+              "screen_name": "NewYorkStateAG"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 844,
+      "following": 831,
+      "favouritesCount": 18404,
+      "statusesCount": 4602,
+      "mediaCount": 622,
+      "createdAt": "2015-03-27T23:44:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3111797276/1662425952",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1564410829876887557/G_7zpStR_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1040441274501947397"
+      ]
+    }
+  },
+  "SarafinaChitika": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "759019224064937985",
+      "name": "Sarafina Chitika",
+      "userName": "SarafinaChitika",
+      "location": "Brooklyn, NY",
+      "url": "",
+      "description": "Communications Director @KathyHochul",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                24,
+                36
+              ],
+              "name": "",
+              "screen_name": "KathyHochul"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 8565,
+      "following": 2745,
+      "favouritesCount": 52229,
+      "statusesCount": 9364,
+      "mediaCount": 471,
+      "createdAt": "2016-07-29T13:34:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/759019224064937985/1723519369",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1996811354796167168/nCpjyGz4_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1986852548943470932"
+      ]
+    }
+  },
+  "Sack_Joshua": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "740527515089965056",
+      "name": "Josh Sack",
+      "userName": "Sack_Joshua",
+      "location": "Washington, DC",
+      "url": "https://t.co/OFoE7pz3Ek",
+      "description": "Econ PhD candidate @AmericanU. alum, @American_Bridge. All Views My Own, RT/Like != endorsement. Fast Macroeconomist. YNWA. Enthusiastically Liberal.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                19,
+                29
+              ],
+              "name": "",
+              "screen_name": "AmericanU"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                37,
+                53
+              ],
+              "name": "",
+              "screen_name": "American_Bridge"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "joshsack.xyz",
+              "expanded_url": "http://joshsack.xyz",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OFoE7pz3Ek"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 705,
+      "following": 2189,
+      "favouritesCount": 103916,
+      "statusesCount": 21141,
+      "mediaCount": 305,
+      "createdAt": "2016-06-08T12:54:52.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/740527515089965056/1731272491",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1620520405420081153/a4hVJADC_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1883000813792240053"
+      ]
+    }
+  },
+  "jengoodman75": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "954570218398986240",
+      "name": "Jen Goodman",
+      "userName": "jengoodman75",
+      "location": "New York",
+      "url": "",
+      "description": "professional yapper @GovKathyHochul",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                20,
+                35
+              ],
+              "name": "",
+              "screen_name": "GovKathyHochul"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1903,
+      "following": 789,
+      "favouritesCount": 3318,
+      "statusesCount": 1848,
+      "mediaCount": 218,
+      "createdAt": "2018-01-20T04:24:09.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/954570218398986240/1656555658",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1901481109587673088/FP_L3Za4_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jmaxmann": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "365187935",
+      "name": "Josh Mann",
+      "userName": "jmaxmann",
+      "location": "Essex County, NJ",
+      "url": "https://t.co/jGiZjy8GvZ",
+      "description": "Dad/husband, Real Estate Developer, recovering lawyer, Rutgers Adjunct Prof; 2021 NJBA President; Former Chair: NJ-BUILDPAC; Mostly real estate and policy.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ironoreproperties.com",
+              "expanded_url": "http://www.ironoreproperties.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jGiZjy8GvZ"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1997,
+      "following": 4716,
+      "favouritesCount": 46638,
+      "statusesCount": 42684,
+      "mediaCount": 1196,
+      "createdAt": "2011-08-31T00:40:30.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/365187935/1687137028",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1648696564498440192/7F_ZQlF5_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "russ_owl": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "960294514081566720",
+      "name": "Russell 🐟",
+      "userName": "russ_owl",
+      "location": "New York, USA",
+      "url": "https://t.co/YSZrhGLwra",
+      "description": "Writing about oceans, coastlines, urban ecology, natural history, chowder. Read me in slate, hell gate, and other places, including my newsletter Landlubber",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "waterways.substack.com",
+              "expanded_url": "http://waterways.substack.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YSZrhGLwra"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1477,
+      "following": 2348,
+      "favouritesCount": 42278,
+      "statusesCount": 6750,
+      "mediaCount": 1343,
+      "createdAt": "2018-02-04T23:30:28.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/960294514081566720/1719831087",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1882866276302802944/gZ44rLZ8_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1948814596602822814"
+      ]
+    }
+  },
+  "SJCizmar": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "742099490",
+      "name": "Stephan Cizmar",
+      "userName": "SJCizmar",
+      "location": "Brooklyn, NY",
+      "url": "https://t.co/2JkqIGVK0d",
+      "description": "Investor, entrepreneur, jam music aficionado, and slow food enthusiast @LorimerVentures @blackhornvc ex @yext @unqork #LongNYC",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                118,
+                126
+              ],
+              "text": "LongNYC"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                87
+              ],
+              "name": "",
+              "screen_name": "LorimerVentures"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                88,
+                100
+              ],
+              "name": "",
+              "screen_name": "blackhornvc"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                104,
+                109
+              ],
+              "name": "",
+              "screen_name": "yext"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                110,
+                117
+              ],
+              "name": "",
+              "screen_name": "unqork"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lorimerventures.com",
+              "expanded_url": "http://lorimerventures.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2JkqIGVK0d"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 552,
+      "following": 920,
+      "favouritesCount": 8731,
+      "statusesCount": 1036,
+      "mediaCount": 16,
+      "createdAt": "2012-08-07T04:00:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/742099490/1597891154",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1269815697372336129/FI-4Tb0D_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

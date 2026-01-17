@@ -1,0 +1,2910 @@
+[
+  {
+    "tweet": {
+      "id": "1871621177548120186",
+      "text": "@ntstrong57 So sad. Last I saw he was homeless in Fayetteville. I truly feel Chad Morris is partly blame.",
+      "created_at": "2024-12-24T18:17:16.000Z",
+      "author_id": "1200642343067672577",
+      "conversation_id": "1871600039140933787",
+      "in_reply_to_user_id": "54805756",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 3,
+      "like_count": 5,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 610
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 0,
+          "end": 11,
+          "username": "ntstrong57",
+          "id": "54805756"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 50,
+          "end": 61,
+          "probability": 0.9718,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 77,
+          "end": 87,
+          "probability": 0.9724,
+          "type": "Person",
+          "normalized_text": "Chad Morris"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "3",
+          "name": "TV Shows",
+          "description": "Television shows from around the world"
+        },
+        "entity": {
+          "id": "10000611558",
+          "name": "College Football",
+          "description": "All the action from NCAA college football."
+        }
+      },
+      {
+        "domain": {
+          "id": "10",
+          "name": "Person",
+          "description": "Named people in the world like Nelson Mandela"
+        },
+        "entity": {
+          "id": "902951398999859200",
+          "name": "Chad Morris",
+          "description": "Chad Morris"
+        }
+      },
+      {
+        "domain": {
+          "id": "11",
+          "name": "Sport",
+          "description": "Types of sports, like soccer and basketball"
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "id": "26",
+          "name": "Sports League",
+          "description": ""
+        },
+        "entity": {
+          "id": "892080380425125890",
+          "name": "NCAA Football",
+          "description": "NCAA Men's Football"
+        }
+      },
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues"
+        }
+      },
+      {
+        "domain": {
+          "id": "93",
+          "name": "Coach",
+          "description": "A Coach like 'Bill Belichick'"
+        },
+        "entity": {
+          "id": "902951398999859200",
+          "name": "Chad Morris",
+          "description": "Chad Morris"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "689566306014617600",
+          "name": "American football"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847900493514891265",
+          "name": "Sports",
+          "description": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "892080380425125890",
+          "name": "NCAA Football",
+          "description": "NCAA Men's Football"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "902951398999859200",
+          "name": "Chad Morris",
+          "description": "Chad Morris"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1285942425861545984",
+          "name": "Sports figures"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1871600039140933787",
+        "tweet_data": {
+          "lang": "en",
+          "author_id": "54805756",
+          "edit_history_tweet_ids": [
+            "1871600039140933787"
+          ],
+          "id": "1871600039140933787",
+          "created_at": "2024-12-24T16:53:16.000Z",
+          "text": "The best that never was man. He was so good and didn’t even scratch the surface.    Really a good dude too https://t.co/a9QBaIIG5C",
+          "reply_settings": "everyone",
+          "referenced_tweets": [
+            {
+              "type": "quoted",
+              "id": "1871281528472560031"
+            }
+          ],
+          "possibly_sensitive": false,
+          "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 5,
+            "like_count": 53,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14611
+          },
+          "entities": {
+            "urls": [
+              {
+                "start": 107,
+                "end": 130,
+                "url": "https://t.co/a9QBaIIG5C",
+                "expanded_url": "",
+                "display_url": ""
+              }
+            ]
+          },
+          "conversation_id": "1871600039140933787"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "1200642343067672577",
+      "username": "ChaseHogWhite",
+      "created_at": "2019-11-30T05:07:06.000Z",
+      "public_metrics": {
+        "followers_count": 425,
+        "following_count": 540,
+        "tweet_count": 7779,
+        "listed_count": 2,
+        "like_count": 12723,
+        "media_count": 615
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/HM3yWqDy3U",
+              "expanded_url": "http://nwacribs.com",
+              "display_url": "nwacribs.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/HM3yWqDy3U",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1507925392602152960/x8WWK2b-_normal.jpg",
+      "name": "Chase White",
+      "description": "Real estate agent in Northwest Arkansas, real estate investor, and huge 🐗 fan"
+    },
+    "author_metrics": {
+      "followers_count": 425,
+      "following_count": 540,
+      "tweet_count": 7779,
+      "listed_count": 2,
+      "like_count": 12723,
+      "media_count": 615
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.9718
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "ntstrong57",
+          "location": "Dallas, TX"
+        }
+      ],
+      "replied_to_user_location": "Dallas, TX",
+      "network_location_summary": {
+        "cities": {
+          "Dallas": 2
+        },
+        "countries": {
+          "TX": 2
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1870875532415668624",
+      "text": "RT @Tim_Tweeted: Police in Fayetteville, NC take a homeless man’s food away for sitting under a tree over a bullshit ordinance https://t.co…",
+      "created_at": "2024-12-22T16:54:20.000Z",
+      "author_id": "1783211844032692224",
+      "conversation_id": "1870875532415668624",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 947,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 0
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 3,
+          "end": 15,
+          "username": "Tim_Tweeted",
+          "id": "425298674"
+        }
+      ],
+      "urls": [
+        {
+          "start": 127,
+          "end": 139,
+          "url": "https://t.co",
+          "display_url": "t.co"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 27,
+          "end": 38,
+          "probability": 0.666,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 41,
+          "end": 42,
+          "probability": 0.9767,
+          "type": "Place",
+          "normalized_text": "NC"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "retweeted",
+        "id": "1686037064914010113",
+        "tweet_data": {
+          "lang": "en",
+          "author_id": "425298674",
+          "attachments": {
+            "media_keys": [
+              "7_1686036931019223040"
+            ]
+          },
+          "edit_history_tweet_ids": [
+            "1686037064914010113"
+          ],
+          "id": "1686037064914010113",
+          "created_at": "2023-07-31T15:32:15.000Z",
+          "text": "Police in Fayetteville, NC take a homeless man’s food away for sitting under a tree over a bullshit ordinance https://t.co/XbxiRWYspa",
+          "reply_settings": "everyone",
+          "possibly_sensitive": false,
+          "public_metrics": {
+            "retweet_count": 947,
+            "reply_count": 326,
+            "like_count": 2055,
+            "quote_count": 185,
+            "bookmark_count": 64,
+            "impression_count": 131121
+          },
+          "entities": {
+            "urls": [
+              {
+                "start": 110,
+                "end": 133,
+                "url": "https://t.co/XbxiRWYspa",
+                "expanded_url": "https://x.com/Tim_Tweeted/status/1686037064914010113/video/1",
+                "display_url": "pic.x.com/XbxiRWYspa",
+                "media_key": "7_1686036931019223040"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 10,
+                "end": 21,
+                "probability": 0.7813,
+                "type": "Place",
+                "normalized_text": "Fayetteville"
+              },
+              {
+                "start": 24,
+                "end": 25,
+                "probability": 0.9799,
+                "type": "Place",
+                "normalized_text": "NC"
+              }
+            ]
+          },
+          "conversation_id": "1686037064914010113"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "1783211844032692224",
+      "username": "alyssa_th0ughts",
+      "created_at": "2024-04-24T19:10:21.000Z",
+      "public_metrics": {
+        "followers_count": 130,
+        "following_count": 276,
+        "tweet_count": 487,
+        "listed_count": 0,
+        "like_count": 815,
+        "media_count": 19
+      },
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "start": 85,
+              "end": 91,
+              "tag": "shtwt"
+            },
+            {
+              "start": 92,
+              "end": 100,
+              "tag": "shedtwt"
+            },
+            {
+              "start": 101,
+              "end": 108,
+              "tag": "emotwt"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "pinned_tweet_id": "1997642703928975709",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1993215056742318080/XziVO4wa_normal.jpg",
+      "location": "Ur moms streched out pussy",
+      "name": "⋆🐾°𝓦𝓲𝓷𝓽𝓮𝓻𖤐⭒๋࣭ ⭑|shedtwt RECOVERY!!",
+      "description": "genderfluid/pansexual dni under 12 I LOVE 2HOLLIS     not new to shedtwt             #shtwt #shedtwt #emotwt"
+    },
+    "author_metrics": {
+      "followers_count": 130,
+      "following_count": 276,
+      "tweet_count": 487,
+      "listed_count": 0,
+      "like_count": 815,
+      "media_count": 19
+    },
+    "location_signals": {
+      "user_profile_location": "Ur moms streched out pussy",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.666
+        },
+        {
+          "text": "NC",
+          "probability": 0.9767
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "Tim_Tweeted",
+          "location": "NYC/LI"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "NYC/LI": 1
+        },
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1869395211723387109",
+      "text": "“The Vickers Land Company LLC wants to rezone nearly 10 acres of land along Fayetteville Street for as many as 220 multifamily residential units – at least 176 of which are expected to be income-restricted apartments.”\n\nSource: https://t.co/B3rRRDzzBZ https://t.co/aU3kYb0wr0",
+      "created_at": "2024-12-18T14:52:04.000Z",
+      "author_id": "1177246426197307398",
+      "conversation_id": "1869395211723387109",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 100
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 228,
+          "end": 251,
+          "url": "https://t.co/B3rRRDzzBZ",
+          "expanded_url": "http://southpointaccess.news",
+          "display_url": "southpointaccess.news",
+          "status": 200,
+          "unwound_url": "https://soduwelikelocal.news/"
+        },
+        {
+          "start": 252,
+          "end": 275,
+          "url": "https://t.co/aU3kYb0wr0",
+          "expanded_url": "https://share.newsbreak.com/afwy48rn?s=i2",
+          "display_url": "share.newsbreak.com/afwy48rn?s=i2",
+          "unwound_url": "https://www.newsbreak.com/share/3719676016015-affordable-housing-proposed-on-fayetteville-street?_f=app_share&pd=0C5dABiT&lang=en_US&send_time=1734533435&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.50.0.34%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_model_exp_25q1-v4%2Cns_push_exp_rt_bucketv12-v2%2Cns_foryou_recall_exp_24q4-v7%2Cns_foryou_blend_exp_25q1-v3%2Cns_local_strategy_24q4_exp-v7%2Cns_foryou_rank_exp_24q4-v3&s=i2"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 5,
+          "end": 28,
+          "probability": 0.5921,
+          "type": "Other",
+          "normalized_text": "Vickers Land Company LLC"
+        },
+        {
+          "start": 76,
+          "end": 94,
+          "probability": 0.6415,
+          "type": "Place",
+          "normalized_text": "Fayetteville Street"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "1177246426197307398",
+      "username": "law4community",
+      "created_at": "2019-09-26T15:40:12.000Z",
+      "public_metrics": {
+        "followers_count": 742,
+        "following_count": 534,
+        "tweet_count": 6937,
+        "listed_count": 8,
+        "like_count": 3992,
+        "media_count": 1189
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/nc79uf5FnQ",
+              "expanded_url": "http://www.lawandcommunity.com",
+              "display_url": "lawandcommunity.com"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/nc79uf5FnQ",
+      "pinned_tweet_id": "1752176864972448234",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1952539242841665536/djzadQI1_normal.jpg",
+      "name": "Yolanda Taylor",
+      "description": "Lawyer, Radio Personality, Speaker, and Advocate. I believe in the power of ordinary residents to change inequitable policies."
+    },
+    "author_metrics": {
+      "followers_count": 742,
+      "following_count": 534,
+      "tweet_count": 6937,
+      "listed_count": 8,
+      "like_count": 3992,
+      "media_count": 1189
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville Street",
+          "probability": 0.6415
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868903311383879897",
+      "text": "Affordable housing is a tough thing to come across in Northwest Arkansas. That's why a University of Arkansas alumnus turned a motel into an affordable housing complex …and it’s opening soon.\n\nRead more: https://t.co/cSEChsqHOc https://t.co/EhYRyTCm80",
+      "created_at": "2024-12-17T06:17:26.000Z",
+      "author_id": "1560486101390860289",
+      "conversation_id": "1868903311383879897",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 47
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 204,
+          "end": 227,
+          "url": "https://t.co/cSEChsqHOc",
+          "expanded_url": "https://www.5newsonline.com/article/news/local/affordable-housing-complex-nears-completion-fayetteville/527-89e03180-fd0b-4f9a-9c50-e0e16651ae39",
+          "display_url": "5newsonline.com/article/news/l…",
+          "status": 200,
+          "unwound_url": "https://www.5newsonline.com/article/news/local/affordable-housing-complex-nears-completion-fayetteville/527-89e03180-fd0b-4f9a-9c50-e0e16651ae39"
+        },
+        {
+          "start": 228,
+          "end": 251,
+          "url": "https://t.co/EhYRyTCm80",
+          "expanded_url": "https://x.com/Rachelreports__/status/1868903311383879897/video/1",
+          "display_url": "pic.x.com/EhYRyTCm80",
+          "media_key": "7_1868903185345036288"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 54,
+          "end": 71,
+          "probability": 0.7014,
+          "type": "Place",
+          "normalized_text": "Northwest Arkansas"
+        },
+        {
+          "start": 87,
+          "end": 108,
+          "probability": 0.9864,
+          "type": "Organization",
+          "normalized_text": "University of Arkansas"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004434802752217088",
+          "name": "Arkansas",
+          "description": "Arkansas"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {
+      "place_id": "e8ad2641c1cb666c"
+    },
+    "place": {
+      "country": "United States",
+      "place_type": "admin",
+      "country_code": "US",
+      "full_name": "Arkansas, USA",
+      "id": "e8ad2641c1cb666c",
+      "name": "Arkansas",
+      "geo": {
+        "type": "Feature",
+        "bbox": [
+          -94.61771,
+          33.004106,
+          -89.644838,
+          36.499767
+        ],
+        "properties": {}
+      }
+    },
+    "author": {
+      "protected": false,
+      "id": "1560486101390860289",
+      "username": "Rachelreports__",
+      "created_at": "2022-08-19T04:37:43.000Z",
+      "public_metrics": {
+        "followers_count": 71,
+        "following_count": 48,
+        "tweet_count": 92,
+        "listed_count": 2,
+        "like_count": 203,
+        "media_count": 32
+      },
+      "entities": {
+        "description": {
+          "mentions": [
+            {
+              "start": 10,
+              "end": 15,
+              "username": "WPBF"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1825272488256774144/bGvoFQf-_normal.jpg",
+      "location": "West Palm Beach, FL",
+      "name": "Rachel Williams M.A.",
+      "description": "Reporter🎥 @WPBF | Choose Joy☀️🙏🏽 | Texas-Native ❤️ | HBCU grad 🎓| 1908 🩷💚"
+    },
+    "author_metrics": {
+      "followers_count": 71,
+      "following_count": 48,
+      "tweet_count": 92,
+      "listed_count": 2,
+      "like_count": 203,
+      "media_count": 32
+    },
+    "location_signals": {
+      "user_profile_location": "West Palm Beach, FL",
+      "tweet_geo_tagged": true,
+      "tweet_place_name": "Arkansas, USA",
+      "tweet_place_country": "United States",
+      "tweet_place_country_code": "US",
+      "tweet_place_type": "admin",
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Arkansas"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Northwest Arkansas",
+          "probability": 0.7014
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868868773140197776",
+      "text": "\"Our whole mission is purpose over profit,\" Countdown Properties, LLC Manager Brandon Scallion said. \"We want to do as much as we can to help.\" https://t.co/JnRk18vzyV",
+      "created_at": "2024-12-17T04:00:12.000Z",
+      "author_id": "24778454",
+      "conversation_id": "1868868773140197776",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 663
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 144,
+          "end": 167,
+          "url": "https://t.co/JnRk18vzyV",
+          "expanded_url": "https://www.5newsonline.com/article/news/local/affordable-housing-complex-nears-completion-fayetteville/527-89e03180-fd0b-4f9a-9c50-e0e16651ae39",
+          "display_url": "5newsonline.com/article/news/l…",
+          "status": 200,
+          "unwound_url": "https://www.5newsonline.com/article/news/local/affordable-housing-complex-nears-completion-fayetteville/527-89e03180-fd0b-4f9a-9c50-e0e16651ae39"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 44,
+          "end": 52,
+          "probability": 0.5407,
+          "type": "Other",
+          "normalized_text": "Countdown"
+        },
+        {
+          "start": 78,
+          "end": 93,
+          "probability": 0.7364,
+          "type": "Person",
+          "normalized_text": "Brandon Scallion"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "47",
+          "name": "Brand",
+          "description": "Brands and Companies"
+        },
+        "entity": {
+          "id": "1575492091660054532",
+          "name": "Countdown"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1258146832229650432",
+          "name": "Arkansas"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1258146832229650432",
+          "name": "Arkansas"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "24778454",
+      "username": "5NEWS",
+      "created_at": "2009-03-16T21:55:12.000Z",
+      "public_metrics": {
+        "followers_count": 73274,
+        "following_count": 355,
+        "tweet_count": 126397,
+        "listed_count": 486,
+        "like_count": 1513,
+        "media_count": 33336
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/7yeUndCIMc",
+              "expanded_url": "http://www.5newsonline.com",
+              "display_url": "5newsonline.com"
+            }
+          ]
+        },
+        "description": {
+          "hashtags": [
+            {
+              "start": 71,
+              "end": 78,
+              "tag": "arnews"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/7yeUndCIMc",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1222575548507004929/Lb5U0GjO_normal.png",
+      "location": "Fort Smith - Fayetteville, AR",
+      "name": "5NEWS",
+      "description": "Covering news where you live— Northwest Arkansas and the River Valley. #arnews"
+    },
+    "author_metrics": {
+      "followers_count": 73274,
+      "following_count": 355,
+      "tweet_count": 126397,
+      "listed_count": 486,
+      "like_count": 1513,
+      "media_count": 33336
+    },
+    "location_signals": {
+      "user_profile_location": "Fort Smith - Fayetteville, AR",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": []
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868830234570584389",
+      "text": "Former motel in Fayetteville to open as affordable housing complex soon \nSource: 5NEWS https://t.co/1lPO75AOGO",
+      "created_at": "2024-12-17T01:27:03.000Z",
+      "author_id": "741517866",
+      "conversation_id": "1868830234570584389",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 7
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 87,
+          "end": 110,
+          "url": "https://t.co/1lPO75AOGO",
+          "expanded_url": "https://share.newsbreak.com/af2m63f6?s=i2",
+          "display_url": "share.newsbreak.com/af2m63f6?s=i2",
+          "unwound_url": "https://www.newsbreak.com/share/3718397659766-former-motel-in-fayetteville-to-open-as-affordable-housing-complex-soon?_f=app_share&pd=0Av6sfhw&lang=en_US&send_time=1734398818&trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2224.50.0.34%22%2C%22languages%22%3A%22en%22%7D&sep=ns_foryou_blend_exp_25q1-v8%2Cns_local_strategy_24q4_exp-v9%2Cns_push_exp_rt_bucketv12-v5%2Cns_foryou_model_exp_25q1-v9%2Cns_foryou_model_exp_24q4-v7%2Cns_foryou_rank_exp_24q4-control%2Cns_foryou_recall_exp_24q4-v5&s=i2"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 16,
+          "end": 27,
+          "probability": 0.9753,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "741517866",
+      "username": "YoungBryoung78",
+      "created_at": "2012-08-06T21:51:39.000Z",
+      "public_metrics": {
+        "followers_count": 216,
+        "following_count": 3363,
+        "tweet_count": 21494,
+        "listed_count": 4,
+        "like_count": 3132,
+        "media_count": 419
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2476529277/image_normal.jpg",
+      "name": "Reed jones",
+      "description": "If you want something go for it, because even if you go for something as big as the moon and miss, you land among the stars."
+    },
+    "author_metrics": {
+      "followers_count": 216,
+      "following_count": 3363,
+      "tweet_count": 21494,
+      "listed_count": 4,
+      "like_count": 3132,
+      "media_count": 419
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.9753
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1868431555691249881",
+      "text": "@Mr_DawgMan @cadesmith_3 @sip_central NWA is pretty with the Boston mountains but, Oxford is way better than Fayetteville if you are comparing towns! Oxford doesn’t have a bunch of homeless walking around! Fayetteville is getting messy!",
+      "created_at": "2024-12-15T23:02:51.000Z",
+      "author_id": "1832549695756865536",
+      "conversation_id": "1868001992108556517",
+      "in_reply_to_user_id": "1812257963697909760",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 111
+    },
+    "tweet_entities": {
+      "mentions": [
+        {
+          "start": 12,
+          "end": 24,
+          "username": "cadesmith_3",
+          "id": "701233224693907456"
+        },
+        {
+          "start": 25,
+          "end": 37,
+          "username": "sip_central",
+          "id": "1596247495633403909"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 38,
+          "end": 40,
+          "probability": 0.5787,
+          "type": "Place",
+          "normalized_text": "NWA"
+        },
+        {
+          "start": 61,
+          "end": 76,
+          "probability": 0.7979,
+          "type": "Place",
+          "normalized_text": "Boston mountains"
+        },
+        {
+          "start": 83,
+          "end": 88,
+          "probability": 0.9199,
+          "type": "Place",
+          "normalized_text": "Oxford"
+        },
+        {
+          "start": 109,
+          "end": 120,
+          "probability": 0.984,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 150,
+          "end": 155,
+          "probability": 0.863,
+          "type": "Place",
+          "normalized_text": "Oxford"
+        },
+        {
+          "start": 206,
+          "end": 217,
+          "probability": 0.9806,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "156",
+          "name": "Cities",
+          "description": "Cities around the world"
+        },
+        "entity": {
+          "id": "855431757247545346",
+          "name": "Boston",
+          "description": "Boston"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1868108854246133795",
+        "tweet_data": {}
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "1832549695756865536",
+      "username": "REBEL_1st",
+      "created_at": "2024-09-07T22:41:29.000Z",
+      "public_metrics": {
+        "followers_count": 214,
+        "following_count": 165,
+        "tweet_count": 3963,
+        "listed_count": 1,
+        "like_count": 21924,
+        "media_count": 315
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1961817122272694272/_67ZeB8G_normal.jpg",
+      "name": "Olemiss1st",
+      "description": "Rebel yell! !! Hotty  Toddy!"
+    },
+    "author_metrics": {
+      "followers_count": 214,
+      "following_count": 165,
+      "tweet_count": 3963,
+      "listed_count": 1,
+      "like_count": 21924,
+      "media_count": 315
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [
+        "Boston"
+      ],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "NWA",
+          "probability": 0.5787
+        },
+        {
+          "text": "Boston mountains",
+          "probability": 0.7979
+        },
+        {
+          "text": "Oxford",
+          "probability": 0.9199
+        },
+        {
+          "text": "Fayetteville",
+          "probability": 0.984
+        },
+        {
+          "text": "Oxford",
+          "probability": 0.863
+        },
+        {
+          "text": "Fayetteville",
+          "probability": 0.9806
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "cadesmith_3",
+          "location": "Atlanta, GA"
+        },
+        {
+          "username": "sip_central",
+          "location": "Oxford, MS"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Atlanta": 1,
+          "Oxford": 1
+        },
+        "countries": {
+          "GA": 1,
+          "MS": 1
+        }
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867688587057107092",
+      "text": "HOUSING CRISIS TIMELINE: Fayetteville ranked second most competitive small rental market in U.S. https://t.co/I2hUwYYZF0",
+      "created_at": "2024-12-13T21:50:33.000Z",
+      "author_id": "108352504",
+      "conversation_id": "1867688587057107092",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 759
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 97,
+          "end": 120,
+          "url": "https://t.co/I2hUwYYZF0",
+          "expanded_url": "https://trib.al/m2gEfwG",
+          "display_url": "trib.al/m2gEfwG",
+          "status": 200,
+          "unwound_url": "https://www.nwahomepage.com/news/housing-crisis-timeline-fayetteville-ranked-second-most-competitive-small-rental-market-in-u-s/?utm_medium=referral&utm_source=t.co&utm_campaign=socialflow"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 8,
+          "end": 13,
+          "probability": 0.3985,
+          "type": "Person",
+          "normalized_text": "CRISIS"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "probability": 0.8711,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 92,
+          "end": 95,
+          "probability": 0.9497,
+          "type": "Place",
+          "normalized_text": "U.S."
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "108352504",
+      "username": "KNWAFOX24",
+      "created_at": "2010-01-25T17:34:33.000Z",
+      "public_metrics": {
+        "followers_count": 50265,
+        "following_count": 3282,
+        "tweet_count": 181146,
+        "listed_count": 507,
+        "like_count": 8416,
+        "media_count": 24064
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1222538722022952966/ZpnPKfaq_normal.jpg",
+      "location": "Northwest Arkansas",
+      "name": "KNWA & FOX24 News",
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 50265,
+      "following_count": 3282,
+      "tweet_count": 181146,
+      "listed_count": 507,
+      "like_count": 8416,
+      "media_count": 24064
+    },
+    "location_signals": {
+      "user_profile_location": "Northwest Arkansas",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.8711
+        },
+        {
+          "text": "U.S.",
+          "probability": 0.9497
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867372390742630493",
+      "text": "Fayetteville leader, expert discuss proposed tariffs amid housing crisis https://t.co/r4gr5TTcFN",
+      "created_at": "2024-12-13T00:54:06.000Z",
+      "author_id": "108352504",
+      "conversation_id": "1867372390742630493",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 2,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 738
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 73,
+          "end": 96,
+          "url": "https://t.co/r4gr5TTcFN",
+          "expanded_url": "https://trib.al/25W09bG",
+          "display_url": "trib.al/25W09bG",
+          "status": 200,
+          "unwound_url": "https://www.nwahomepage.com/news/fayetteville-leader-expert-discuss-proposed-tariffs-amid-housing-crisis/?utm_source=t.co&utm_campaign=socialflow&utm_medium=referral"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 0,
+          "end": 11,
+          "probability": 0.8823,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "108352504",
+      "username": "KNWAFOX24",
+      "created_at": "2010-01-25T17:34:33.000Z",
+      "public_metrics": {
+        "followers_count": 50265,
+        "following_count": 3282,
+        "tweet_count": 181146,
+        "listed_count": 507,
+        "like_count": 8416,
+        "media_count": 24064
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1222538722022952966/ZpnPKfaq_normal.jpg",
+      "location": "Northwest Arkansas",
+      "name": "KNWA & FOX24 News",
+      "description": ""
+    },
+    "author_metrics": {
+      "followers_count": 50265,
+      "following_count": 3282,
+      "tweet_count": 181146,
+      "listed_count": 507,
+      "like_count": 8416,
+      "media_count": 24064
+    },
+    "location_signals": {
+      "user_profile_location": "Northwest Arkansas",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.8823
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1867343679557341488",
+      "text": "Join us Dec 13, at 9 a.m. in Conference Room A at the Department of Social Services (1225 Ramsey St., Fayetteville) to discuss workforce opportunities for underemployed, re-entering workers, and those facing homelessness.\n\nFor more info, visit: https://t.co/w7zTAgTmvB https://t.co/K0nuf3EmeV",
+      "created_at": "2024-12-12T23:00:01.000Z",
+      "author_id": "111591878",
+      "conversation_id": "1867343679557341488",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 108
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 245,
+          "end": 268,
+          "url": "https://t.co/w7zTAgTmvB",
+          "expanded_url": "https://bit.ly/49uCNhR",
+          "display_url": "bit.ly/49uCNhR",
+          "status": 200,
+          "unwound_url": "https://www.cumberlandcountync.gov/departments/public-information-group/public-information/news-releases/news-release-full-story/2024/12/04/workforce-development-meeting-for-cumberland-county-homeless-support-center-dec.-13-at-9-a.m"
+        },
+        {
+          "start": 269,
+          "end": 292,
+          "url": "https://t.co/K0nuf3EmeV",
+          "expanded_url": "https://x.com/CCNCGov/status/1867343679557341488/photo/1",
+          "display_url": "pic.x.com/K0nuf3EmeV",
+          "media_key": "3_1866132585375805441"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 90,
+          "end": 98,
+          "probability": 0.6151,
+          "type": "Other",
+          "normalized_text": "Ramsey St"
+        },
+        {
+          "start": 102,
+          "end": 113,
+          "probability": 0.935,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "111591878",
+      "username": "CCNCGov",
+      "created_at": "2010-02-05T13:27:53.000Z",
+      "public_metrics": {
+        "followers_count": 7809,
+        "following_count": 108,
+        "tweet_count": 8972,
+        "listed_count": 132,
+        "like_count": 96,
+        "media_count": 2876
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/2cHEoTy32H",
+              "expanded_url": "https://linktr.ee/ccncgov",
+              "display_url": "linktr.ee/ccncgov"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 99,
+              "end": 122,
+              "url": "https://t.co/MegPPuwHrM",
+              "expanded_url": "https://ow.ly/h7Yg50SxZk1",
+              "display_url": "ow.ly/h7Yg50SxZk1"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/2cHEoTy32H",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1742240954394845184/UYqQ8Ez1_normal.jpg",
+      "location": "117 Dick St, Fayetteville NC ",
+      "name": "Cumberland County, NC",
+      "description": "The official account for Cumberland County, North Carolina.\n\nView our social media comment policy: https://t.co/MegPPuwHrM"
+    },
+    "author_metrics": {
+      "followers_count": 7809,
+      "following_count": 108,
+      "tweet_count": 8972,
+      "listed_count": 132,
+      "like_count": 96,
+      "media_count": 2876
+    },
+    "location_signals": {
+      "user_profile_location": "117 Dick St, Fayetteville NC ",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.935
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1866350237151051976",
+      "text": "Getting fixed today or tommorow or next year. But with yall three men I know there a possibility. I worry what in the water in fayetteville nc the home of fort Bragg. Fayetteville nc need to be investigated for other reason as well. Trash laying everywhere and homeless bad and",
+      "created_at": "2024-12-10T05:12:26.000Z",
+      "author_id": "1056357089692581888",
+      "conversation_id": "1866350235657875733",
+      "in_reply_to_user_id": "1056357089692581888",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 21
+    },
+    "tweet_entities": {
+      "annotations": [
+        {
+          "start": 127,
+          "end": 138,
+          "probability": 0.6249,
+          "type": "Place",
+          "normalized_text": "fayetteville"
+        },
+        {
+          "start": 160,
+          "end": 164,
+          "probability": 0.4816,
+          "type": "Place",
+          "normalized_text": "Bragg"
+        },
+        {
+          "start": 167,
+          "end": 178,
+          "probability": 0.8896,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [],
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1866350235657875733",
+        "tweet_data": {
+          "lang": "en",
+          "author_id": "1056357089692581888",
+          "in_reply_to_user_id": "1542228578",
+          "edit_history_tweet_ids": [
+            "1866350235657875733"
+          ],
+          "entities": {
+            "mentions": [
+              {
+                "start": 0,
+                "end": 8,
+                "username": "JDVance",
+                "id": "1542228578"
+              },
+              {
+                "start": 9,
+                "end": 25,
+                "username": "realDonaldTrump",
+                "id": "25073877"
+              },
+              {
+                "start": 26,
+                "end": 42,
+                "username": "RobertKennedyJr",
+                "id": "337808606"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 52,
+                "end": 63,
+                "probability": 0.9721,
+                "type": "Place",
+                "normalized_text": "Fayetteville"
+              }
+            ]
+          },
+          "id": "1866350235657875733",
+          "created_at": "2024-12-10T05:12:25.000Z",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "1041996287510437888",
+                "name": "Robert Kennedy Jr.",
+                "description": "Candidate for Representative from Alabama, Robert Kennedy Jr."
+              }
+            },
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "1516097382118682624",
+                "name": "J. D. Vance"
+              }
+            },
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "1579862252601036800",
+                "name": "J.D. Vance"
+              }
+            },
+            {
+              "domain": {
+                "id": "10",
+                "name": "Person",
+                "description": "Named people in the world like Nelson Mandela"
+              },
+              "entity": {
+                "id": "1806696327381729280",
+                "name": "Robert F Kennedy Jr"
+              }
+            },
+            {
+              "domain": {
+                "id": "29",
+                "name": "Events [Entity Service]",
+                "description": "Real world events. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            },
+            {
+              "domain": {
+                "id": "29",
+                "name": "Events [Entity Service]",
+                "description": "Real world events. "
+              },
+              "entity": {
+                "id": "1848744575940091904",
+                "name": "NewsNation Town Hall with VP Candidate JD Vance",
+                "description": "TONIGHT: VP Candidate @JDVance answers your questions in a town hall moderated by Chris Cuomo from Michigan. Watch at 8pm ET/7pm CT via @NewsNation streaming exclusively on @X."
+              }
+            },
+            {
+              "domain": {
+                "id": "35",
+                "name": "Politician",
+                "description": "Politicians in the world, like Joe Biden"
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "35",
+                "name": "Politician",
+                "description": "Politicians in the world, like Joe Biden"
+              },
+              "entity": {
+                "id": "1041996287510437888",
+                "name": "Robert Kennedy Jr.",
+                "description": "Candidate for Representative from Alabama, Robert Kennedy Jr."
+              }
+            },
+            {
+              "domain": {
+                "id": "35",
+                "name": "Politician",
+                "description": "Politicians in the world, like Joe Biden"
+              },
+              "entity": {
+                "id": "1579862252601036800",
+                "name": "J.D. Vance"
+              }
+            },
+            {
+              "domain": {
+                "id": "35",
+                "name": "Politician",
+                "description": "Politicians in the world, like Joe Biden"
+              },
+              "entity": {
+                "id": "1806696327381729280",
+                "name": "Robert F Kennedy Jr"
+              }
+            },
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696888568045569",
+                "name": "Food & Beverage Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+              }
+            },
+            {
+              "domain": {
+                "id": "30",
+                "name": "Entities [Entity Service]",
+                "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+              },
+              "entity": {
+                "id": "825047692124442624",
+                "name": "Food",
+                "description": "Food"
+              }
+            },
+            {
+              "domain": {
+                "id": "65",
+                "name": "Interests and Hobbies Vertical",
+                "description": "Top level interests and hobbies groupings, like Food or Travel"
+              },
+              "entity": {
+                "id": "834828264786898945",
+                "name": "Drinks",
+                "description": "Drinks"
+              }
+            },
+            {
+              "domain": {
+                "id": "66",
+                "name": "Interests and Hobbies Category",
+                "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+              },
+              "entity": {
+                "id": "834828445238431744",
+                "name": "Generic Drinks",
+                "description": "Generic Drinks"
+              }
+            },
+            {
+              "domain": {
+                "id": "67",
+                "name": "Interests and Hobbies",
+                "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+              },
+              "entity": {
+                "id": "850146068683571201",
+                "name": "Water",
+                "description": "Water"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "799022225751871488",
+                "name": "Donald Trump",
+                "description": "45th US President, Donald Trump"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "834828264786898945",
+                "name": "Drinks",
+                "description": "Drinks"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "847878884917886977",
+                "name": "Politics",
+                "description": "Politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "850146068683571201",
+                "name": "Water",
+                "description": "Water"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1041996287510437888",
+                "name": "Robert Kennedy Jr.",
+                "description": "Candidate for Representative from Alabama, Robert Kennedy Jr."
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1070032753834438656",
+                "name": "Political figures",
+                "description": "Politician"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1291447199595782144",
+                "name": "United States politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1516097382118682624",
+                "name": "J. D. Vance"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1518653065976369153",
+                "name": "United States political figures"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1579862252601036800",
+                "name": "J.D. Vance"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            }
+          ],
+          "text": "@JDVance @realDonaldTrump @RobertKennedyJr \nHere in Fayetteville nc there is a major  issue of water contamination. It been going on for over three to four year they say there going to fix the contamination but they don't people is having to buy water or boil it. I don't see it",
+          "reply_settings": "everyone",
+          "possibly_sensitive": false,
+          "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 24
+          },
+          "conversation_id": "1866350235657875733"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "1056357089692581888",
+      "username": "makaylaspeer1",
+      "created_at": "2018-10-28T01:28:51.000Z",
+      "public_metrics": {
+        "followers_count": 22,
+        "following_count": 58,
+        "tweet_count": 2038,
+        "listed_count": 0,
+        "like_count": 10740,
+        "media_count": 251
+      },
+      "verified": false,
+      "pinned_tweet_id": "1254502061879803904",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1864714986703966208/b-Bcbt5j_normal.jpg",
+      "name": "makayla speer",
+      "description": "I love my positive family and baby’s (pets)   If you don’t like what I post or comment or share then just block me because It called freedom of speech! 🐘🐾🌹💐"
+    },
+    "author_metrics": {
+      "followers_count": 22,
+      "following_count": 58,
+      "tweet_count": 2038,
+      "listed_count": 0,
+      "like_count": 10740,
+      "media_count": 251
+    },
+    "location_signals": {
+      "user_profile_location": null,
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "fayetteville",
+          "probability": 0.6249
+        },
+        {
+          "text": "Bragg",
+          "probability": 0.4816
+        },
+        {
+          "text": "Fayetteville",
+          "probability": 0.8896
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1865018394497401226",
+      "text": "Construction of the future Cape Fear River Park in Fayetteville will have an impact to some of the city's unhoused residents. https://t.co/znXlDPp61j",
+      "created_at": "2024-12-06T13:00:10.000Z",
+      "author_id": "13210422",
+      "conversation_id": "1865018394497401226",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 177
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 126,
+          "end": 149,
+          "url": "https://t.co/znXlDPp61j",
+          "expanded_url": "https://www.fayobserver.com/story/news/local/2024/12/06/what-building-cape-fear-river-park-means-for-fayetteville-homeless/76626850007/?taid=6752f55ab8836e0001338213&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+          "display_url": "fayobserver.com/story/news/loc…",
+          "status": 200,
+          "unwound_url": "https://www.fayobserver.com/story/news/local/2024/12/06/what-building-cape-fear-river-park-means-for-fayetteville-homeless/76626850007/?taid=6752f55ab8836e0001338213&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 27,
+          "end": 46,
+          "probability": 0.8689,
+          "type": "Place",
+          "normalized_text": "Cape Fear River Park"
+        },
+        {
+          "start": 51,
+          "end": 62,
+          "probability": 0.9563,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1257006983510495232",
+          "name": "North Carolina"
+        }
+      },
+      {
+        "domain": {
+          "id": "171",
+          "name": "Local News",
+          "description": "For local-level news entities"
+        },
+        "entity": {
+          "id": "1257006983510495232",
+          "name": "North Carolina"
+        }
+      }
+    ],
+    "referenced_tweets": [],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "13210422",
+      "username": "fayobserver",
+      "created_at": "2008-02-07T16:41:29.000Z",
+      "public_metrics": {
+        "followers_count": 40749,
+        "following_count": 389,
+        "tweet_count": 112450,
+        "listed_count": 375,
+        "like_count": 1765,
+        "media_count": 17354
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/Gj7Zeaf0rD",
+              "expanded_url": "https://www.fayobserver.com",
+              "display_url": "fayobserver.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "start": 112,
+              "end": 135,
+              "url": "https://t.co/s3V1PHmWvl",
+              "expanded_url": "http://bit.ly/fostaff",
+              "display_url": "bit.ly/fostaff"
+            }
+          ],
+          "mentions": [
+            {
+              "start": 136,
+              "end": 148,
+              "username": "fayobserver"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/Gj7Zeaf0rD",
+      "pinned_tweet_id": "1524129280564903936",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1121037547893817346/Sc0TitT2_normal.png",
+      "location": "Fayetteville, NC",
+      "name": "The Fayetteville Observer",
+      "description": "The Fayetteville area's leading source for local news and info. Headlines from The Fayetteville Observer staff: https://t.co/s3V1PHmWvl\n@fayobserver on Threads"
+    },
+    "author_metrics": {
+      "followers_count": 40749,
+      "following_count": 389,
+      "tweet_count": 112450,
+      "listed_count": 375,
+      "like_count": 1765,
+      "media_count": 17354
+    },
+    "location_signals": {
+      "user_profile_location": "Fayetteville, NC",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Cape Fear River Park",
+          "probability": 0.8689
+        },
+        {
+          "text": "Fayetteville",
+          "probability": 0.9563
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864419402638127602",
+      "text": "Local presbyterian lady pastor who came to encampment in Rogers, AR straight up lied to my face about providing help. \nHer 501c3 used my info to help city breakup encampment after I refused to accept placement in a $200 p/month homeless shelter in Fayetteville, AR. https://t.co/SwLE78rjQ4",
+      "created_at": "2024-12-04T21:19:59.000Z",
+      "author_id": "2750947686",
+      "conversation_id": "1864419402638127602",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 79
+    },
+    "tweet_entities": {
+      "urls": [
+        {
+          "start": 266,
+          "end": 289,
+          "url": "https://t.co/SwLE78rjQ4",
+          "expanded_url": "https://twitter.com/ahouse4all/status/1864404404863906003",
+          "display_url": "x.com/ahouse4all/sta…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 57,
+          "end": 62,
+          "probability": 0.6387,
+          "type": "Place",
+          "normalized_text": "Rogers"
+        },
+        {
+          "start": 65,
+          "end": 66,
+          "probability": 0.9463,
+          "type": "Place",
+          "normalized_text": "AR"
+        },
+        {
+          "start": 248,
+          "end": 259,
+          "probability": 0.5664,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 262,
+          "end": 263,
+          "probability": 0.9113,
+          "type": "Place",
+          "normalized_text": "AR"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "46",
+          "name": "Business Taxonomy",
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+        },
+        "entity": {
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business",
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "825047692124442624",
+          "name": "Food",
+          "description": "Food"
+        }
+      },
+      {
+        "domain": {
+          "id": "30",
+          "name": "Entities [Entity Service]",
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+        },
+        "entity": {
+          "id": "1034860760093024257",
+          "name": "Meals",
+          "description": "Meals"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1864404404863906003",
+        "tweet_data": {
+          "lang": "en",
+          "author_id": "2385956106",
+          "in_reply_to_user_id": "2385956106",
+          "edit_history_tweet_ids": [
+            "1864404404863906003"
+          ],
+          "id": "1864404404863906003",
+          "created_at": "2024-12-04T20:20:23.000Z",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "46",
+                "name": "Business Taxonomy",
+                "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+              },
+              "entity": {
+                "id": "1557696888568045569",
+                "name": "Food & Beverage Business",
+                "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers."
+              }
+            },
+            {
+              "domain": {
+                "id": "30",
+                "name": "Entities [Entity Service]",
+                "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+              },
+              "entity": {
+                "id": "825047692124442624",
+                "name": "Food",
+                "description": "Food"
+              }
+            },
+            {
+              "domain": {
+                "id": "30",
+                "name": "Entities [Entity Service]",
+                "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+              },
+              "entity": {
+                "id": "1034860760093024257",
+                "name": "Meals",
+                "description": "Meals"
+              }
+            }
+          ],
+          "text": "As more and more elderly people become homeless for the first time ever I have to constantly break the news to them that this church based social safety net they think exists really doesn't. The good ones around here will give you a coat and a meal and that's about it.",
+          "reply_settings": "everyone",
+          "referenced_tweets": [
+            {
+              "type": "replied_to",
+              "id": "1864403630138257526"
+            }
+          ],
+          "possibly_sensitive": false,
+          "public_metrics": {
+            "retweet_count": 41,
+            "reply_count": 4,
+            "like_count": 172,
+            "quote_count": 3,
+            "bookmark_count": 3,
+            "impression_count": 1734
+          },
+          "conversation_id": "1864403630138257526"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "2750947686",
+      "username": "_Old2shoes",
+      "created_at": "2014-08-21T01:31:37.000Z",
+      "public_metrics": {
+        "followers_count": 123,
+        "following_count": 1798,
+        "tweet_count": 202527,
+        "listed_count": 0,
+        "like_count": 302725,
+        "media_count": 4050
+      },
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "start": 0,
+              "end": 23,
+              "url": "https://t.co/0VfGWw3vds",
+              "expanded_url": "https://linktr.ee/tams_markham",
+              "display_url": "linktr.ee/tams_markham"
+            }
+          ]
+        }
+      },
+      "verified": false,
+      "url": "https://t.co/0VfGWw3vds",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1996208733446455296/Hv2gLkmY_normal.jpg",
+      "location": "Stolen land, Imperial Core",
+      "name": "2shoes_𓅸𓅓",
+      "description": "Chronically ill queer elder further disabled by covid Feb 2020\nFled dv in a 30yo 🚐\nSSDI appeal hearing March 2026\nHumbly asking for continued help to live 🙏🏻"
+    },
+    "author_metrics": {
+      "followers_count": 123,
+      "following_count": 1798,
+      "tweet_count": 202527,
+      "listed_count": 0,
+      "like_count": 302725,
+      "media_count": 4050
+    },
+    "location_signals": {
+      "user_profile_location": "Stolen land, Imperial Core",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Rogers",
+          "probability": 0.6387
+        },
+        {
+          "text": "AR",
+          "probability": 0.9463
+        },
+        {
+          "text": "Fayetteville",
+          "probability": 0.5664
+        },
+        {
+          "text": "AR",
+          "probability": 0.9113
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {},
+        "countries": {}
+      }
+    }
+  },
+  {
+    "tweet": {
+      "id": "1864342650674954557",
+      "text": "Winds of change in Fayetteville: Molly Rawn ousts incumbent Lioneld Jordan in mayor's race on platform focused on the city's housing crisis, improving public transit. @fayflyer reports.\n#Arkansas #arpx #arnews https://t.co/daHsUoh7li",
+      "created_at": "2024-12-04T16:15:00.000Z",
+      "author_id": "2614352863",
+      "conversation_id": "1864342650674954557",
+      "in_reply_to_user_id": null,
+      "lang": "en",
+      "possibly_sensitive": false,
+      "reply_settings": "everyone",
+      "source": null,
+      "withheld": null
+    },
+    "tweet_metrics": {
+      "retweet_count": 1,
+      "reply_count": 0,
+      "like_count": 3,
+      "quote_count": 0,
+      "bookmark_count": 0,
+      "impression_count": 339
+    },
+    "tweet_entities": {
+      "hashtags": [
+        {
+          "start": 186,
+          "end": 195,
+          "tag": "Arkansas"
+        },
+        {
+          "start": 196,
+          "end": 201,
+          "tag": "arpx"
+        },
+        {
+          "start": 202,
+          "end": 209,
+          "tag": "arnews"
+        }
+      ],
+      "mentions": [
+        {
+          "start": 167,
+          "end": 176,
+          "username": "fayflyer",
+          "id": "11536512"
+        }
+      ],
+      "urls": [
+        {
+          "start": 210,
+          "end": 233,
+          "url": "https://t.co/daHsUoh7li",
+          "expanded_url": "https://twitter.com/fayflyer/status/1864142113354477741",
+          "display_url": "x.com/fayflyer/statu…"
+        }
+      ],
+      "annotations": [
+        {
+          "start": 19,
+          "end": 30,
+          "probability": 0.9473,
+          "type": "Place",
+          "normalized_text": "Fayetteville"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "probability": 0.6834,
+          "type": "Person",
+          "normalized_text": "Molly Rawn"
+        },
+        {
+          "start": 60,
+          "end": 73,
+          "probability": 0.8261,
+          "type": "Person",
+          "normalized_text": "Lioneld Jordan"
+        },
+        {
+          "start": 187,
+          "end": 194,
+          "probability": 0.9733,
+          "type": "Place",
+          "normalized_text": "Arkansas"
+        },
+        {
+          "start": 197,
+          "end": 200,
+          "probability": 0.7767,
+          "type": "Place",
+          "normalized_text": "arpx"
+        },
+        {
+          "start": 203,
+          "end": 208,
+          "probability": 0.471,
+          "type": "Place",
+          "normalized_text": "arnews"
+        }
+      ]
+    },
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "29",
+          "name": "Events [Entity Service]",
+          "description": "Real world events. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "847878884917886977",
+          "name": "Politics",
+          "description": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "id": "131",
+          "name": "Unified Twitter Taxonomy",
+          "description": "A taxonomy of user interests. "
+        },
+        "entity": {
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election",
+          "description": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "id": "159",
+          "name": "States",
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture"
+        },
+        "entity": {
+          "id": "1004434802752217088",
+          "name": "Arkansas",
+          "description": "Arkansas"
+        }
+      }
+    ],
+    "referenced_tweets": [
+      {
+        "type": "quoted",
+        "id": "1864142113354477741",
+        "tweet_data": {
+          "lang": "en",
+          "author_id": "11536512",
+          "edit_history_tweet_ids": [
+            "1864142113354477741"
+          ],
+          "id": "1864142113354477741",
+          "created_at": "2024-12-04T02:58:08.000Z",
+          "context_annotations": [
+            {
+              "domain": {
+                "id": "29",
+                "name": "Events [Entity Service]",
+                "description": "Real world events. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "847878884917886977",
+                "name": "Politics",
+                "description": "Politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1258146832229650432",
+                "name": "Arkansas"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1291447199595782144",
+                "name": "United States politics"
+              }
+            },
+            {
+              "domain": {
+                "id": "131",
+                "name": "Unified Twitter Taxonomy",
+                "description": "A taxonomy of user interests. "
+              },
+              "entity": {
+                "id": "1665772587467653121",
+                "name": "2024 US Presidential Election",
+                "description": "2024 US Presidential Election"
+              }
+            },
+            {
+              "domain": {
+                "id": "171",
+                "name": "Local News",
+                "description": "For local-level news entities"
+              },
+              "entity": {
+                "id": "1258146832229650432",
+                "name": "Arkansas"
+              }
+            }
+          ],
+          "text": "Molly Rawn has been elected as Fayetteville’s new mayor, defeating four-term incumbent Lioneld Jordan in Tuesday’s runoff election. https://t.co/EnMqVCk0wb",
+          "reply_settings": "everyone",
+          "possibly_sensitive": false,
+          "public_metrics": {
+            "retweet_count": 22,
+            "reply_count": 7,
+            "like_count": 70,
+            "quote_count": 14,
+            "bookmark_count": 2,
+            "impression_count": 14567
+          },
+          "entities": {
+            "urls": [
+              {
+                "start": 132,
+                "end": 155,
+                "url": "https://t.co/EnMqVCk0wb",
+                "expanded_url": "https://fayettevilleflyer.com/2024/12/03/molly-rawn-defeats-incumbent-mayor-lioneld-jordan-in-fayetteville-runoff/",
+                "display_url": "fayettevilleflyer.com/2024/12/03/mol…",
+                "status": 200,
+                "unwound_url": "https://fayettevilleflyer.com/2024/12/03/molly-rawn-defeats-incumbent-mayor-lioneld-jordan-in-fayetteville-runoff/"
+              }
+            ],
+            "annotations": [
+              {
+                "start": 0,
+                "end": 9,
+                "probability": 0.7751,
+                "type": "Person",
+                "normalized_text": "Molly Rawn"
+              },
+              {
+                "start": 31,
+                "end": 42,
+                "probability": 0.8217,
+                "type": "Place",
+                "normalized_text": "Fayetteville"
+              },
+              {
+                "start": 87,
+                "end": 100,
+                "probability": 0.8954,
+                "type": "Person",
+                "normalized_text": "Lioneld Jordan"
+              }
+            ]
+          },
+          "conversation_id": "1864142113354477741"
+        }
+      }
+    ],
+    "geo": {},
+    "place": {},
+    "author": {
+      "protected": false,
+      "id": "2614352863",
+      "username": "The_Shumater",
+      "created_at": "2014-07-09T22:29:18.000Z",
+      "public_metrics": {
+        "followers_count": 3794,
+        "following_count": 2937,
+        "tweet_count": 15411,
+        "listed_count": 29,
+        "like_count": 33017,
+        "media_count": 731
+      },
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1788303601204436992/DkblrDVT_normal.jpg",
+      "location": "Little Rock AR",
+      "name": "The Shumater",
+      "description": "Twitter raconteur posting about Arkansas politics, news & media. Educator, author, scholar. Radical centrist. Anti-vax, anti-trans get the block. 🇺🇦 🇺🇦 🇺🇦"
+    },
+    "author_metrics": {
+      "followers_count": 3794,
+      "following_count": 2937,
+      "tweet_count": 15411,
+      "listed_count": 29,
+      "like_count": 33017,
+      "media_count": 731
+    },
+    "location_signals": {
+      "user_profile_location": "Little Rock AR",
+      "tweet_geo_tagged": false,
+      "tweet_place_name": null,
+      "tweet_place_country": null,
+      "tweet_place_country_code": null,
+      "tweet_place_type": null,
+      "tweet_geo_coordinates": null,
+      "mentioned_cities": [],
+      "mentioned_states": [
+        "Arkansas"
+      ],
+      "mentioned_countries": [],
+      "text_annotated_places": [
+        {
+          "text": "Fayetteville",
+          "probability": 0.9473
+        },
+        {
+          "text": "Arkansas",
+          "probability": 0.9733
+        },
+        {
+          "text": "arpx",
+          "probability": 0.7767
+        },
+        {
+          "text": "arnews",
+          "probability": 0.471
+        }
+      ]
+    },
+    "network_locations": {
+      "mentioned_users_locations": [
+        {
+          "username": "fayflyer",
+          "location": "Fayetteville, Arkansas"
+        }
+      ],
+      "replied_to_user_location": null,
+      "network_location_summary": {
+        "cities": {
+          "Fayetteville": 1
+        },
+        "countries": {
+          "Arkansas": 1
+        }
+      }
+    }
+  }
+]

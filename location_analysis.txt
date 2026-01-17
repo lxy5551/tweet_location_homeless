@@ -1,0 +1,75 @@
+Analysis of Baltimore JSON file
+==================================================
+
+Total records: 428
+Records with location: 329 (76.9%)
+Records without location: 99 (23.1%)
+
+Top-level keys:
+['tweet', 'tweet_metrics', 'tweet_entities', 'context_annotations', 'referenced_tweets', 'geo', 'place', 'author', 'author_metrics', 'location_signals', 'network_locations']
+
+Author object keys:
+['location', 'name', 'public_metrics', 'created_at', 'verified', 'username', 'description', 'protected', 'profile_image_url', 'id']
+
+Sample locations (first 20 users):
+--------------------------------------------------
+1. @someguy9873 | Chris
+   Location: America 
+
+2. @emptietearslove | Rikki Ixi Pixi
+   Location: N/A
+
+3. @02031961pat | pat faulkner
+   Location: N/A
+
+4. @DougJoyce77 | Douglas Joyce
+   Location: Silver Spring, MD
+
+5. @dogs_dc | Rescue Dogs Rock, D.C. 🐾🐾🇺🇸
+   Location: Washington, DC area
+
+6. @cruzate_aura | 🐸FrogsAndFlags🇺🇸
+   Location: Atlanta, GA
+
+7. @kristabo_ | Krista Bo Polanco
+   Location: N/A
+
+8. @annaWmcM | wannA🇺🇸
+   Location: United States
+
+9. @kaygirl81 | KayKaysHouse
+   Location: N/A
+
+10. @NatlHCHCouncil | NatlHCHCouncil
+   Location: Nashville, TN
+
+11. @DONNAMACKEY2 | DLM22700@GMAIL.COM Independent Thinker Here!
+   Location: N/A
+
+12. @SailWozniak | Sail Wozniak (Linda)
+   Location: Tennessee
+
+13. @WingersSo | Still not dejected 💅🏿
+   Location: N/A
+
+14. @Clothingmogul2 | Kevin DatDamnIota
+   Location: the nati
+
+15. @kathleendailey | Kathleen Dailey
+   Location: Boston MA
+
+16. @Melohello | Geezus B. O'Phinse
+   Location: Mississippi ↔️ MEM
+
+17. @KerriRN73 | JAFO 🗳🗳🗳🪷⚖️🪷⚖️
+   Location: NJ
+
+18. @datGheeChiGul | Maaaaaaaaaaaa
+   Location: N/A
+
+19. @MRanglinVassell | 🇯🇲Marcia Ranglin-Vassell,M.Ed
+   Location: N/A
+
+20. @deray | deray
+   Location: Wakanda
+

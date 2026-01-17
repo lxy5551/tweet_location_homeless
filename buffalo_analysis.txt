@@ -1,0 +1,47 @@
+Total records in Buffalo: 638
+
+Records with location field: 404
+Records with location value: 404
+
+First 10 records - Author info:
+--------------------------------------------------------------------------------
+1. @J20391636 | Jason🇻🇦
+   Location: [NO LOCATION FIELD]
+   Author keys: ['created_at', 'description', 'id', 'name', 'pinned_tweet_id', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+
+2. @OURCITYbflo | Our City Buffalo
+   Location: Buffalo, NY
+   Author keys: ['created_at', 'description', 'entities', 'id', 'location', 'name', 'profile_image_url', 'protected', 'public_metrics', 'url', 'username', 'verified']
+
+3. @alexandrariostv | Alexandra Rios-Malviya
+   Location: Buffalo, NY
+   Author keys: ['created_at', 'description', 'entities', 'id', 'location', 'name', 'profile_image_url', 'protected', 'public_metrics', 'url', 'username', 'verified']
+
+4. @alexandrariostv | Alexandra Rios-Malviya
+   Location: Buffalo, NY
+   Author keys: ['created_at', 'description', 'entities', 'id', 'location', 'name', 'profile_image_url', 'protected', 'public_metrics', 'url', 'username', 'verified']
+
+5. @d_folmar | D Folmar
+   Location: [NO LOCATION FIELD]
+   Author keys: ['created_at', 'description', 'id', 'name', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+
+6. @Smoothsailin3 | Stephen Rokop
+   Location: [NO LOCATION FIELD]
+   Author keys: ['created_at', 'description', 'id', 'name', 'pinned_tweet_id', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+
+7. @JerseyVegas369 | 🛸 JerseyVegas 🛸
+   Location: E2W
+   Author keys: ['created_at', 'description', 'entities', 'id', 'location', 'name', 'pinned_tweet_id', 'profile_image_url', 'protected', 'public_metrics', 'url', 'username', 'verified']
+
+8. @tmvande_h2o | Tiffany Van Dewater
+   Location: [NO LOCATION FIELD]
+   Author keys: ['created_at', 'description', 'id', 'name', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+
+9. @DWF92997512 | Can We Talk About It ?
+   Location: Barbados
+   Author keys: ['created_at', 'description', 'id', 'location', 'name', 'pinned_tweet_id', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+
+10. @RortyWitt | RortyWitt
+   Location: Nonlocality
+   Author keys: ['created_at', 'description', 'id', 'location', 'name', 'pinned_tweet_id', 'profile_image_url', 'protected', 'public_metrics', 'username', 'verified']
+

@@ -1,0 +1,358 @@
+{
+  "MidmichiganW": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1168694515617714179",
+      "name": "MidMichigan News Wire",
+      "userName": "MidmichiganW",
+      "location": "United States",
+      "url": "",
+      "description": "Transparency, Accountability, and Enforcement. We report, We inform, together we can root out corruption. Everyone deserves a fair trial. 🇺🇸",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5211,
+      "following": 5069,
+      "favouritesCount": 38267,
+      "statusesCount": 47990,
+      "mediaCount": 9617,
+      "createdAt": "2019-09-03T01:17:52.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1168694515617714179/1611407746",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1812599055924543488/tk6LMVpx_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1291568149217849344"
+      ]
+    }
+  },
+  "FeedingBroncos": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1883610918455492608",
+      "name": "FeedingBroncos",
+      "userName": "FeedingBroncos",
+      "location": "Western Michigan University",
+      "url": "https://t.co/xpevGqrcYU",
+      "description": "A Free RSO Dinner Service for Food-Insecure Students at Western Michigan University.",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "feedingbroncos.org",
+              "expanded_url": "http://feedingbroncos.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xpevGqrcYU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 27,
+      "following": 139,
+      "favouritesCount": 405,
+      "statusesCount": 262,
+      "mediaCount": 97,
+      "createdAt": "2025-01-26T20:20:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1883610918455492608/1756918942",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1883611097132892160/xW9KD-g6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "haymes_joshua": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1443634224775323650",
+      "name": "Joshua Haymes",
+      "userName": "haymes_joshua",
+      "location": "JOIN MY COMMUNITY/BOOK CLUB👇 ",
+      "url": "https://t.co/L5uiJ6CkEA",
+      "description": "Patriarch of The Haymes Family | Dark Roast Reformed | PostMil | Host of The @refredpill Podcast",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                77,
+                88
+              ],
+              "name": "",
+              "screen_name": "refredpill"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "reformationredpill.com/products/refor…",
+              "expanded_url": "https://reformationredpill.com/products/reformation-red-pill-club-membership",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L5uiJ6CkEA"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 56221,
+      "following": 14920,
+      "favouritesCount": 38973,
+      "statusesCount": 17939,
+      "mediaCount": 2467,
+      "createdAt": "2021-09-30T17:50:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1443634224775323650/1691855460",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1961421871225683968/dqGliaoU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "sherylunderwood": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "34047021",
+      "name": "Sheryl Underwood",
+      "userName": "sherylunderwood",
+      "location": "where love is...",
+      "url": "http://t.co/f19yjEwLve",
+      "description": "Co-host:The Talk on CBS, host: Sheryl Underwood Radio, CEO of Pack Rat Production & Foundation Inc. & 23rd International President of Zeta Phi Beta Sorority.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "packratproductionsinc.com",
+              "expanded_url": "http://www.packratproductionsinc.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/f19yjEwLve"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1361603,
+      "following": 1404626,
+      "favouritesCount": 80,
+      "statusesCount": 141460,
+      "mediaCount": 1627,
+      "createdAt": "2009-04-21T21:21:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/34047021/1404186895",
+      "profilePicture": "https://pbs.twimg.com/profile_images/659795610707476480/3XZg5tLu_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "downi75": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1177192443076337665",
+      "name": "James David Dickson",
+      "userName": "downi75",
+      "location": "Michigan",
+      "url": "https://t.co/fwC5d63EuB",
+      "description": "Make Politics Local Again. I can explain anything in one minute.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.substack.com/pub/historyofm…",
+              "expanded_url": "https://open.substack.com/pub/historyofmichiganpolitics",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fwC5d63EuB"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 16990,
+      "following": 13667,
+      "favouritesCount": 200850,
+      "statusesCount": 91453,
+      "mediaCount": 4540,
+      "createdAt": "2019-09-26T12:05:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1177192443076337665/1764861372",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2006352254064832512/l3b5-yiF_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2010799901769416860"
+      ]
+    }
+  },
+  "krishformi": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1461155709903675394",
+      "name": "Krish Mathrani",
+      "userName": "krishformi",
+      "location": "Michigan, USA",
+      "url": "https://t.co/uW8RynFNwC",
+      "description": "Political Consultant and Youth Chair of @migop. Likes/RT ≠ Endorsements",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                40,
+                46
+              ],
+              "name": "",
+              "screen_name": "migop"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "krishformichigan.com",
+              "expanded_url": "http://krishformichigan.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uW8RynFNwC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 561,
+      "following": 948,
+      "favouritesCount": 4167,
+      "statusesCount": 1404,
+      "mediaCount": 86,
+      "createdAt": "2021-11-18T02:14:05.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1461155709903675394/1759369969",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955639391956697088/XOYouw0a_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1966374973695500741"
+      ]
+    }
+  },
+  "revwsteinkzoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1268385568435638273",
+      "name": "Rev. William Stein",
+      "userName": "revwsteinkzoo",
+      "location": "",
+      "url": "",
+      "description": "Reverend William Stein is the Founder and Pastor of Baptism USA Ministries, a church located in Kalamazoo, Michigan.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 87,
+      "following": 585,
+      "favouritesCount": 3804,
+      "statusesCount": 2408,
+      "mediaCount": 457,
+      "createdAt": "2020-06-04T03:34:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1268385568435638273/1591242215",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1268387901110390785/POGLIXSc_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "NancyEditor8": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3296894841",
+      "name": "Nancy the Retired Editor",
+      "userName": "NancyEditor8",
+      "location": "Grand Rapids, MI",
+      "url": "",
+      "description": "Retired Newsie, WOODTV- The next adventure begins.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1196,
+      "following": 1930,
+      "favouritesCount": 32646,
+      "statusesCount": 38913,
+      "mediaCount": 575,
+      "createdAt": "2015-05-24T19:18:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3296894841/1557444798",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1047648636014878720/AWkZRKLb_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

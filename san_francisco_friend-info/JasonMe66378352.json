@@ -1,0 +1,24 @@
+{
+  "XMemeMachine": {
+    "id": "1861523873734533120",
+    "name": "Meme Machine",
+    "screen_name": "XMemeMachine",
+    "userName": "XMemeMachine",
+    "location": "",
+    "url": null,
+    "description": "Viral memes, videos and more! \nEST 2024",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 5000,
+    "following_count": 5682,
+    "friends_count": 5682,
+    "favourites_count": 7138,
+    "statuses_count": 3936,
+    "media_tweets_count": 1559,
+    "created_at": "Tue Nov 26 21:34:24 +0000 2024",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861523873734533120/1749711696",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1896004020562509824/aHDJZPZw_normal.jpg",
+    "can_dm": false
+  }
+}

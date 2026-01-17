@@ -1,0 +1,474 @@
+{
+  "david_rees5": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3171820715",
+      "name": "David Rees",
+      "userName": "david_rees5",
+      "location": "Columbus, OH",
+      "url": "https://t.co/dyxyWAE4qX",
+      "description": "Digital @NBC4i | Alum @UofCincy",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                8,
+                14
+              ],
+              "name": "",
+              "screen_name": "NBC4i"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                22,
+                31
+              ],
+              "name": "",
+              "screen_name": "UofCincy"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NBC4i.com",
+              "expanded_url": "http://NBC4i.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dyxyWAE4qX"
+            }
+          ]
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 559,
+      "following": 1169,
+      "favouritesCount": 5126,
+      "statusesCount": 127,
+      "mediaCount": 3,
+      "createdAt": "2015-04-16T02:15:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3171820715/1727779775",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1929249271255085056/KxvjXQMy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "VWCF1925": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "859466074865242113",
+      "name": "Van Wert County Foundation",
+      "userName": "VWCF1925",
+      "location": "Van Wert, OH",
+      "url": "https://t.co/N4M84zlRS2",
+      "description": "Serving Van Wert County by stewarding philanthropic endeavors to create a well-resourced and thriving quality of life for our community.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "vanwertcountyfoundation.org",
+              "expanded_url": "http://vanwertcountyfoundation.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/N4M84zlRS2"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 153,
+      "following": 32,
+      "favouritesCount": 76,
+      "statusesCount": 543,
+      "mediaCount": 479,
+      "createdAt": "2017-05-02T17:54:15.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/859466074865242113/1683918522",
+      "profilePicture": "https://pbs.twimg.com/profile_images/907616582842679297/6vC_3IAB_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "OHMuniLeague": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "754068243086663680",
+      "name": "Ohio Municipal League",
+      "userName": "OHMuniLeague",
+      "location": "Ohio",
+      "url": "https://t.co/iirwJyzCh3",
+      "description": "Partnering for Stronger Cities and Villages | The primary connection point between municipal and state government in Ohio",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "omlohio.org",
+              "expanded_url": "https://www.omlohio.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iirwJyzCh3"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 455,
+      "following": 653,
+      "favouritesCount": 293,
+      "statusesCount": 774,
+      "mediaCount": 460,
+      "createdAt": "2016-07-15T21:40:53.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/754068243086663680/1682964389",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1882435004963123200/pUpFrmKc_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1859249488268788051"
+      ]
+    }
+  },
+  "WPCCA": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "147061672",
+      "name": "Weinland Park",
+      "userName": "WPCCA",
+      "location": "43201",
+      "url": "https://t.co/dfMYBlVief",
+      "description": "Weinland Park: A Neighborhood of the University, Short North & New Indianola Historic Districts",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "weinlandpark.org",
+              "expanded_url": "https://weinlandpark.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dfMYBlVief"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 938,
+      "following": 799,
+      "favouritesCount": 8615,
+      "statusesCount": 7507,
+      "mediaCount": 82,
+      "createdAt": "2010-05-23T03:30:24.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/147061672/1639578758",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1267558229350985728/w2Un3STR_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DC_DeWitt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "285676185",
+      "name": "David DeWitt",
+      "userName": "DC_DeWitt",
+      "location": "Ohio",
+      "url": "https://t.co/eQQz7ttzWN",
+      "description": "Editor-in-Chief and Opinion Columnist @OhioCapJournal. Raconteur, bon vivant, man of sport and leisure.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                53
+              ],
+              "name": "",
+              "screen_name": "OhioCapJournal"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ohiocapitaljournal.com",
+              "expanded_url": "http://www.ohiocapitaljournal.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eQQz7ttzWN"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 14913,
+      "following": 1811,
+      "favouritesCount": 16898,
+      "statusesCount": 53522,
+      "mediaCount": 706,
+      "createdAt": "2011-04-21T15:46:49.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/285676185/1568599963",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1895547864262004736/bsDel6RD_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009301617284104455"
+      ]
+    }
+  },
+  "smartgrowthorg": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "252622643",
+      "name": "Smart Growth Online",
+      "userName": "smartgrowthorg",
+      "location": "Baltimore, Maryland",
+      "url": "https://t.co/502dzZkt4t",
+      "description": "Supporting the development of vibrant, healthy communities.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "smartgrowth.org",
+              "expanded_url": "http://www.smartgrowth.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/502dzZkt4t"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1665,
+      "following": 2410,
+      "favouritesCount": 775,
+      "statusesCount": 3390,
+      "mediaCount": 2103,
+      "createdAt": "2011-02-15T15:34:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/252622643/1471354341",
+      "profilePicture": "https://pbs.twimg.com/profile_images/459432271825498112/HArAllPu_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jake_zuckerman": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1925661673",
+      "name": "Jake Zuckerman",
+      "userName": "jake_zuckerman",
+      "location": "Columbus, Ohio",
+      "url": "",
+      "description": "Writing about state politics for Signal Ohio. Runner. Biker. Swim coach. Former @clevelanddotcom @ohiocapjournal",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                80,
+                96
+              ],
+              "name": "",
+              "screen_name": "clevelanddotcom"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                97,
+                112
+              ],
+              "name": "",
+              "screen_name": "ohiocapjournal"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 11535,
+      "following": 6328,
+      "favouritesCount": 9321,
+      "statusesCount": 20024,
+      "mediaCount": 3581,
+      "createdAt": "2013-10-02T04:33:23.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1925661673/1761852914",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1390829566852272129/MZO8Mhfm_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1958541745278324891"
+      ]
+    }
+  },
+  "EGPacetti": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2501644740",
+      "name": "Emily Garr Pacetti",
+      "userName": "EGPacetti",
+      "location": "Cleveland, OH",
+      "url": "https://t.co/gjA3R3bWVs",
+      "description": "👀 Econ mobility in cities & regions. Formerly @clevelandfed @RockefellerFdn @thefundneo @brookingsmetro @FulbrightPrgrm @kennedy_school. Posts=my own.",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                46,
+                59
+              ],
+              "name": "",
+              "screen_name": "clevelandfed"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                60,
+                75
+              ],
+              "name": "",
+              "screen_name": "RockefellerFdn"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                76,
+                87
+              ],
+              "name": "",
+              "screen_name": "thefundneo"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                88,
+                103
+              ],
+              "name": "",
+              "screen_name": "brookingsmetro"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                104,
+                119
+              ],
+              "name": "",
+              "screen_name": "FulbrightPrgrm"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                120,
+                135
+              ],
+              "name": "",
+              "screen_name": "kennedy_school"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/egpacetti?u…",
+              "expanded_url": "https://www.linkedin.com/in/egpacetti?utm_source=share&utm_campaign=share_via&utm_content=profile&ut",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gjA3R3bWVs"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1000,
+      "following": 959,
+      "favouritesCount": 6368,
+      "statusesCount": 2853,
+      "mediaCount": 45,
+      "createdAt": "2014-05-17T14:09:13.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2501644740/1575372968",
+      "profilePicture": "https://pbs.twimg.com/profile_images/467689425787301891/rdFSuScI_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1981345305296851010"
+      ]
+    }
+  }
+}

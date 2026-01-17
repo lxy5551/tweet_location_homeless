@@ -1,0 +1,98 @@
+{
+  "CarterLWWMT": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1996597588640858112",
+      "name": "Carter Landis WWMT",
+      "userName": "CarterLWWMT",
+      "location": "Kalamazoo, MI",
+      "url": "",
+      "description": "Reporter at News Channel 3 - WWMT-TV | Got a story idea? Email me at cadlandis@sbgtv.com",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 6,
+      "following": 22,
+      "favouritesCount": 0,
+      "statusesCount": 4,
+      "mediaCount": 0,
+      "createdAt": "2025-12-04T15:09:57.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1996598027067297792/vVKthjWr_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TheDailyRem": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "548924762",
+      "name": "Remington Hernandez",
+      "userName": "TheDailyRem",
+      "location": "Lansing, Michigan",
+      "url": "",
+      "description": "Political Reporter at @WWMTNews, @UpNorthLive and @MidMichiganNOW. Starfleet Lt. Commander🖖🏽🏳️‍🌈",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                22,
+                31
+              ],
+              "name": "",
+              "screen_name": "WWMTNews"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                45
+              ],
+              "name": "",
+              "screen_name": "UpNorthLive"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                50,
+                65
+              ],
+              "name": "",
+              "screen_name": "MidMichiganNOW"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 752,
+      "following": 1241,
+      "favouritesCount": 1581,
+      "statusesCount": 851,
+      "mediaCount": 113,
+      "createdAt": "2012-04-09T04:03:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/548924762/1728316451",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1999712651568418816/Zx8tbLb8_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1982858535408153012"
+      ]
+    }
+  }
+}

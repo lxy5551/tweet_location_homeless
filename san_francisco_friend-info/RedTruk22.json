@@ -1,0 +1,24 @@
+{
+  "SanJosie276": {
+    "id": "1815116548245499904",
+    "name": "Ramblin Rose",
+    "screen_name": "SanJosie276",
+    "userName": "SanJosie276",
+    "location": "United States",
+    "url": null,
+    "description": "",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 4,
+    "following_count": 27,
+    "friends_count": 27,
+    "favourites_count": 495,
+    "statuses_count": 21,
+    "media_tweets_count": 0,
+    "created_at": "Sun Jul 21 20:08:33 +0000 2024",
+    "profile_banner_url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1815139230911479808/SLK9bGfl_normal.jpg",
+    "can_dm": false
+  }
+}

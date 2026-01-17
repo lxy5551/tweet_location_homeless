@@ -1,0 +1,680 @@
+{
+  "realChipEvans": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1586099037522038786",
+      "name": "chipper",
+      "userName": "realChipEvans",
+      "location": "Florida, USA",
+      "url": "",
+      "description": "entrepreneur/trader/The Ohio State University alumni /Million Dollar Smile/Thick Skin and a Sense of Humor ….politically speaking. 😁",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 6033,
+      "following": 1474,
+      "favouritesCount": 28231,
+      "statusesCount": 65144,
+      "mediaCount": 7303,
+      "createdAt": "2022-10-28T20:54:30.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1586099037522038786/1672427453",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2009605223057162241/vPRsATME_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1700206316592005334"
+      ]
+    }
+  },
+  "LJT1212": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "50028687",
+      "name": "chicago",
+      "userName": "LJT1212",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "Love my family and country 🇺🇸 Proud American Conservative!",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 5556,
+      "following": 6894,
+      "favouritesCount": 198321,
+      "statusesCount": 66524,
+      "mediaCount": 1453,
+      "createdAt": "2009-06-23T16:50:24.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/50028687/1720994929",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1821259276112875520/UBiHiaXj_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1516630194399985667"
+      ]
+    }
+  },
+  "ElodieR21": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1625318060",
+      "name": "Elodie Richards",
+      "userName": "ElodieR21",
+      "location": "Pennsylvania, USA",
+      "url": "",
+      "description": "Professional Digital Currency Broker,Senior Account manager,Proud mum ❤ #MAGA",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                72,
+                77
+              ],
+              "text": "MAGA"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 119,
+      "following": 1765,
+      "favouritesCount": 765,
+      "statusesCount": 274,
+      "mediaCount": 4,
+      "createdAt": "2013-07-27T11:59:10.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1625318060/1736479000",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1913456468684046336/SMVhOwRW_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "slygod02": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2456805698",
+      "name": "Sly",
+      "userName": "slygod02",
+      "location": "United States",
+      "url": "",
+      "description": "#MAGA / #Deplorable / #FamilyMan / #ObsessionGym / #AmericaFirst / #HappilyMarried / #Patriot / #Vet",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "MAGA"
+            },
+            {
+              "indices": [
+                8,
+                19
+              ],
+              "text": "Deplorable"
+            },
+            {
+              "indices": [
+                22,
+                32
+              ],
+              "text": "FamilyMan"
+            },
+            {
+              "indices": [
+                35,
+                48
+              ],
+              "text": "ObsessionGym"
+            },
+            {
+              "indices": [
+                51,
+                64
+              ],
+              "text": "AmericaFirst"
+            },
+            {
+              "indices": [
+                67,
+                82
+              ],
+              "text": "HappilyMarried"
+            },
+            {
+              "indices": [
+                85,
+                93
+              ],
+              "text": "Patriot"
+            },
+            {
+              "indices": [
+                96,
+                100
+              ],
+              "text": "Vet"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 4570,
+      "following": 4759,
+      "favouritesCount": 44370,
+      "statusesCount": 8404,
+      "mediaCount": 252,
+      "createdAt": "2014-04-21T16:02:17.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2456805698/1660495284",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1812940291017502720/6v_XPaw4_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "taminoling": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "71659451",
+      "name": "Tami Noling",
+      "userName": "taminoling",
+      "location": "Texas, USA",
+      "url": "",
+      "description": "Texas born & raised. MAGA!! 🇺🇸",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1880,
+      "following": 3078,
+      "favouritesCount": 131621,
+      "statusesCount": 66038,
+      "mediaCount": 5781,
+      "createdAt": "2009-09-04T22:37:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/71659451/1753550299",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1853124711091408896/1eO9oQpW_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "FaithLizliz": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1587864691618873344",
+      "name": "Faith",
+      "userName": "FaithLizliz",
+      "location": "USA",
+      "url": "",
+      "description": "Christian ✝️ ~ Patriot 🇺🇸 ~ MAGA 💯 🇺🇸 Fighting for a better world for my grandma 👵",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 258,
+      "following": 247,
+      "favouritesCount": 68,
+      "statusesCount": 151,
+      "mediaCount": 0,
+      "createdAt": "2022-11-02T17:50:27.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1587864691618873344/1751078520",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1938789945524563968/9spuoR8U_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "RbiTriples": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1676614058903044099",
+      "name": "Matt",
+      "userName": "RbiTriples",
+      "location": "Weimar Republic",
+      "url": "https://t.co/ncuLWZ9ElH",
+      "description": "Red Sox | Lakers | 49ers | #StayAwake ✝️",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                27,
+                37
+              ],
+              "text": "StayAwake"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "iFollowBack.com",
+              "expanded_url": "http://iFollowBack.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ncuLWZ9ElH"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5973,
+      "following": 4855,
+      "favouritesCount": 224456,
+      "statusesCount": 49505,
+      "mediaCount": 4933,
+      "createdAt": "2023-07-05T15:29:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1676614058903044099/1758230482",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1973796410689552384/fJQlNCxB_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1966295731200766190"
+      ]
+    }
+  },
+  "LindaHamlett19": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1559226521713270784",
+      "name": "Patriotic Girl",
+      "userName": "LindaHamlett19",
+      "location": "Maryland, USA",
+      "url": "",
+      "description": "Emergency Police Dispatcher Retired Paramedic Grateful for Trump. MAGA ALL THE WAY!! Literally saving the country!!!",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 9594,
+      "following": 9013,
+      "favouritesCount": 44229,
+      "statusesCount": 27287,
+      "mediaCount": 1136,
+      "createdAt": "2022-08-15T17:12:56.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1559226521713270784/1729933763",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1954278723403857920/KTxNvFJB_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009801888376774975"
+      ]
+    }
+  },
+  "ContrarilyMary": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "24785498",
+      "name": "꧁ 𝑀𝑎𝑟𝑦𝑊𝑒𝑠𝑡 ꧂",
+      "userName": "ContrarilyMary",
+      "location": "🌵",
+      "url": "",
+      "description": "🐱🐶✨🌵🇺🇸🌄⛈️☕️🌮🍜🍕 💜♈️ Experienced eye roller. Pluviophile. Purpleista. MAGA. 🚫DMs. Here for the laughs 😁",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1019,
+      "following": 2448,
+      "favouritesCount": 58815,
+      "statusesCount": 11510,
+      "mediaCount": 957,
+      "createdAt": "2009-03-16T22:34:42.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/24785498/1736210618",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1853184049512366080/oBGN30Nd_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DrStarboard": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1640464663765712902",
+      "name": "DrStarboard",
+      "userName": "DrStarboard",
+      "location": "The Atlantic Ocean ",
+      "url": "https://t.co/vCqKnNpz82",
+      "description": "Host of the Scott Starboard Show ☆ Alex Stein Chat Rat 👑 CHRIST IS KING † AMERICA ONLY 🇺🇸",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/scottstarboard",
+              "expanded_url": "https://linktr.ee/scottstarboard",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vCqKnNpz82"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 2148,
+      "following": 1564,
+      "favouritesCount": 135606,
+      "statusesCount": 23686,
+      "mediaCount": 1997,
+      "createdAt": "2023-03-27T21:24:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1640464663765712902/1705466924",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1640465182550786048/tUDMKcVp_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1902830339153920396"
+      ]
+    }
+  },
+  "12th_tim": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1329058162834489346",
+      "name": "Aggietim",
+      "userName": "12th_tim",
+      "location": "Texas",
+      "url": "",
+      "description": "I love everything science related. Texas A&M graduate. Aerospace Manufacturing Engineer, Aircraft, ISS Built & Launched\nConservative, NO DMs unless requested.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 59935,
+      "following": 64117,
+      "favouritesCount": 199217,
+      "statusesCount": 100598,
+      "mediaCount": 21291,
+      "createdAt": "2020-11-18T13:45:54.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1329058496873070592/uBQigQJs_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1678070908936945664"
+      ]
+    }
+  },
+  "Badgergrl90": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "4119392549",
+      "name": "KellyMac ❄️ ☃️❄️",
+      "userName": "Badgergrl90",
+      "location": "LancCo, PA",
+      "url": "",
+      "description": "MW - By the Light of the Moon | Bucky Badger, Cubs, Packers | WI,NY,OH,AZ,CO,FL,WI,IL,NC,PA | spinner #pelly4kelly | Independent 🚫 waves 🚫 trains",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                102,
+                114
+              ],
+              "text": "pelly4kelly"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1073,
+      "following": 2805,
+      "favouritesCount": 55404,
+      "statusesCount": 23352,
+      "mediaCount": 5383,
+      "createdAt": "2015-11-05T12:51:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/4119392549/1767540606",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1811922120856772610/0zgyVE3j_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1977429844821774356"
+      ]
+    }
+  },
+  "THELORDHASME": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1601032049862877184",
+      "name": "ladyk",
+      "userName": "THELORDHASME",
+      "location": "Philadelphia, PA",
+      "url": "",
+      "description": "2024Trump supporter! Play the hell out of the hand you’ve been dealt!! Life is too short, Our Government doesn’t care about AMERICANS",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2296,
+      "following": 4169,
+      "favouritesCount": 67505,
+      "statusesCount": 49665,
+      "mediaCount": 606,
+      "createdAt": "2022-12-09T01:53:02.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1601032049862877184/1685232577",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1815053965643362304/fLvFIKmT_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jane_turner10": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1747634331089051648",
+      "name": "Jane Turner",
+      "userName": "jane_turner10",
+      "location": "USA",
+      "url": "",
+      "description": "Semi-retired, I'm very pro-Trump, and I like to talk about piano, deep-sea fishing, working out, and so on.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 82,
+      "following": 797,
+      "favouritesCount": 111,
+      "statusesCount": 72,
+      "mediaCount": 23,
+      "createdAt": "2024-01-17T14:58:05.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1747634331089051648/1753363767",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1948374966082404353/PsO0rMuv_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Ginasassyass": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "246143562",
+      "name": "Gina Beana Fofina",
+      "userName": "Ginasassyass",
+      "location": "",
+      "url": "",
+      "description": "Proud #MAGA patriot🇺🇲 laughs a lot 🇺🇲 #AMERICAFIRST🇺🇲 \nMom's caregiver\nhttps://t.co/pp06OYKNXC",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                6,
+                11
+              ],
+              "text": "MAGA"
+            },
+            {
+              "indices": [
+                38,
+                51
+              ],
+              "text": "AMERICAFIRST"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "buymeacoffee.com/GinaBeanaFofina",
+              "expanded_url": "http://buymeacoffee.com/GinaBeanaFofina",
+              "indices": [
+                71,
+                94
+              ],
+              "url": "https://t.co/pp06OYKNXC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 26570,
+      "following": 15178,
+      "favouritesCount": 168011,
+      "statusesCount": 115056,
+      "mediaCount": 6185,
+      "createdAt": "2011-02-02T06:33:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/246143562/1758934351",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1835083250206744576/ZQKhCSL2_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2011126643713060943"
+      ]
+    }
+  },
+  "JeannieGiering": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1689653900",
+      "name": "OneofTrumpsDeplorables",
+      "userName": "JeannieGiering",
+      "location": "",
+      "url": "",
+      "description": "Trump supporter   MAGA/MAHA \nWe will get through this together!  America First !!\nIt has always been about the CHILDREN",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 155470,
+      "following": 112699,
+      "favouritesCount": 33639,
+      "statusesCount": 77848,
+      "mediaCount": 4859,
+      "createdAt": "2013-08-22T01:07:53.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1689653900/1593482507",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1684436149887021057/pUEh1_bm_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1817296170005282826"
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "NewNormalPod1": {
+    "id": "1576687170143899650",
+    "name": "TheNewNormalPodcast",
+    "screen_name": "NewNormalPod1",
+    "userName": "NewNormalPod1",
+    "location": "Birmingham, AL",
+    "url": null,
+    "description": "A place where we can talk about whatever!",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 84,
+    "following_count": 428,
+    "friends_count": 428,
+    "favourites_count": 74,
+    "statuses_count": 1284,
+    "media_tweets_count": 176,
+    "created_at": "Sun Oct 02 21:35:02 +0000 2022",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1576687170143899650/1665062992",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1578014419606552576/5mxHc9xN_normal.jpg",
+    "can_dm": false
+  }
+}

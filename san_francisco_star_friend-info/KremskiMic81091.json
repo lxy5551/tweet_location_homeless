@@ -1,0 +1,24 @@
+{
+  "GreatestEzel": {
+    "id": "1724137592617066496",
+    "name": "Ezel",
+    "screen_name": "GreatestEzel",
+    "userName": "GreatestEzel",
+    "location": "Dubai",
+    "url": null,
+    "description": "Greatest CEO of all times. I make video games in exile.",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 2551,
+    "following_count": 869,
+    "friends_count": 869,
+    "favourites_count": 25552,
+    "statuses_count": 3326,
+    "media_tweets_count": 429,
+    "created_at": "Mon Nov 13 18:50:25 +0000 2023",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1724137592617066496/1767799499",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2009348508986515456/a8nrdyb4_normal.jpg",
+    "can_dm": false
+  }
+}

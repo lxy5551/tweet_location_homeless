@@ -1,0 +1,109 @@
+SAN FRANCISCO OTHER CITIES - DATA CLEANING REPORT
+================================================================================
+
+STATISTICS:
+  Total unique locations processed: 1631
+  Successfully cleaned: 53 (3.2%)
+  Filtered as junk: 127 (7.8%)
+  Needs manual review: 1451 (89.0%)
+
+  Tweets from cleaned locations: 418
+  Tweets from filtered locations: 169
+  Tweets needing review: 1817
+
+================================================================================
+
+TOP 30 CLEANED LOCATIONS:
+--------------------------------------------------------------------------------
+  1. Chicago, IL                              ( 25 tweets)
+  2. Los Angeles, CA                          ( 24 tweets)
+     Original: Los Angeles
+  3. Sacramento, CA                           ( 20 tweets)
+  4. Dallas, TX                               ( 18 tweets)
+  5. Dallas, TX                               ( 16 tweets)
+     Original: Dallas
+  6. Las Vegas, NV                            ( 15 tweets)
+  7. Austin, TX                               ( 13 tweets)
+  8. Houston, TX                              ( 12 tweets)
+  9. Denver, CO                               ( 11 tweets)
+ 10. Portland, OR                             ( 10 tweets)
+ 11. Los Angeles, CA                          ( 10 tweets)
+     Original: Los Angeles
+ 12. South Gate, CA                           ( 10 tweets)
+     Original: Southern California
+ 13. Toronto, Canada                          ( 10 tweets)
+     Original: Toronto, Ontario
+ 14. Santa Cruz, CA                           ( 10 tweets)
+ 15. Phoenix, AZ                              (  9 tweets)
+ 16. San Jose, CA                             (  9 tweets)
+ 17. Seattle, WA                              (  8 tweets)
+ 18. New York, NY                             (  8 tweets)
+ 19. Atlanta, GA                              (  8 tweets)
+ 20. Washington, DC                           (  8 tweets)
+ 21. Chesnee, SC                              (  8 tweets)
+     Original: South Florida, U.S.A. 🌴🏖️🌊
+ 22. Philadelphia, PA                         (  8 tweets)
+ 23. Berkeley, CA                             (  8 tweets)
+ 24. Oakland, CA                              (  7 tweets)
+     Original: 1114 Peralta St, Oakland, CA
+ 25. New York, NY                             (  7 tweets)
+     Original: New York City
+ 26. New York, NY                             (  7 tweets)
+     Original: Manhattan, NY
+ 27. Napa County, CA                          (  7 tweets)
+     Original: Northern California
+ 28. Palo Alto, CA                            (  7 tweets)
+     Original: Silicon Valley
+ 29. Eagle, ID                                (  7 tweets)
+ 30. Soquel, CA                               (  7 tweets)
+     Original: Soquel, California, USA
+
+================================================================================
+
+FILTERED AS JUNK (Top 20 examples):
+--------------------------------------------------------------------------------
+  1. Gotham by the Bay                                  (11 tweets)
+  2. stolen land                                        ( 5 tweets)
+  3. 🪐                                                  ( 5 tweets)
+  4. Occupied Brentwood, CA                             ( 4 tweets)
+  5. Hell                                               ( 3 tweets)
+  6. Milky Way Galaxy                                   ( 3 tweets)
+  7. Stolen Land, Colorado                              ( 3 tweets)
+  8. Andromeda                                          ( 3 tweets)
+  9. Anywhere USA                                       ( 3 tweets)
+ 10. Earth, Solar System                                ( 2 tweets)
+ 11. Legal adult she/her                                ( 2 tweets)
+ 12. Lurking in your head                               ( 2 tweets)
+ 13. 🇺🇸                                                 ( 2 tweets)
+ 14. 🇺🇸🇬🇧🇬🇭                                             ( 2 tweets)
+ 15. Mars                                               ( 2 tweets)
+ 16. Dystopia USA                                       ( 2 tweets)
+ 17. Hamsterdam                                         ( 2 tweets)
+ 18. Here                                               ( 2 tweets)
+ 19. Pluto                                              ( 2 tweets)
+ 20. Occupied Yelamu Territory                          ( 2 tweets)
+
+================================================================================
+
+NEEDS MANUAL REVIEW (Top 20):
+--------------------------------------------------------------------------------
+  1. Catatonic State                                    ( 9 tweets)
+  2. United States of America                           ( 8 tweets)
+  3. Canada                                             ( 8 tweets)
+  4. 4th World Apokolips                                ( 6 tweets)
+  5. Utah                                               ( 5 tweets)
+  6. India                                              ( 5 tweets)
+  7. Oakland                                            ( 5 tweets)
+  8. Orange County, CA                                  ( 5 tweets)
+  9. San Antonio, TX                                    ( 5 tweets)
+ 10. Califórnia                                         ( 5 tweets)
+ 11. Newport Beach, CA                                  ( 5 tweets)
+ 12. Orange County, Ca.                                 ( 5 tweets)
+ 13. Brooklyn, NY                                       ( 5 tweets)
+ 14. New Orleans, LA                                    ( 5 tweets)
+ 15. Ontario, Canada                                    ( 5 tweets)
+ 16. Lincoln, NE                                        ( 5 tweets)
+ 17. Boise, ID                                          ( 5 tweets)
+ 18. Honolulu, HI                                       ( 5 tweets)
+ 19. The Lost Coast                                     ( 5 tweets)
+ 20. San Rafael, CA                                     ( 4 tweets)

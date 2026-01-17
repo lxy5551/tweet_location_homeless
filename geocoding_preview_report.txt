@@ -1,0 +1,257 @@
+SAN FRANCISCO OTHER CITIES - GEOCODING PROGRESS PREVIEW
+================================================================================
+STATUS: GEOCODING IN PROGRESS (32%+ complete)
+================================================================================
+
+OVERALL STATISTICS:
+  Total unique locations: 1631
+  Successfully geocoded: 991 (60.8%)
+  Filtered as junk: 127 (7.8%)
+  Failed/Not yet geocoded: 513 (31.5%)
+
+TWEET DISTRIBUTION:
+  Tweets from cleaned locations: 1608
+  Tweets from junk locations: 169
+  Tweets from failed/pending: 627
+  Total tweets: 2404
+
+================================================================================
+
+TOP 50 STANDARDIZED CITIES (Aggregated):
+--------------------------------------------------------------------------------
+  1. Los Angeles, CA                                      71 tweets
+  2. New York, NY                                         58 tweets
+  3. Dallas, TX                                           40 tweets
+  4. Chicago, IL                                          32 tweets
+  5. Sacramento, CA                                       30 tweets
+  6. Las Vegas, NV                                        27 tweets
+  7. Houston, TX                                          23 tweets
+  8. Austin, TX                                           19 tweets
+  9. San Diego, CA                                        19 tweets
+ 10. Palo Alto, CA                                        17 tweets
+ 11. Oakland, CA                                          16 tweets
+ 12. South Gate, CA                                       15 tweets
+ 13. Washington, DC                                       15 tweets
+ 14. Orange County, CA                                    15 tweets
+ 15. Denver, CO                                           14 tweets
+ 16. Toronto, Canada                                      14 tweets
+ 17. San Jose, CA                                         14 tweets
+ 18. Phoenix, AZ                                          13 tweets
+ 19. Philadelphia, PA                                     13 tweets
+ 20. Sydney, Australia                                    13 tweets
+ 21. Greater London, United Kingdom                       13 tweets
+ 22. San Francisco, CA                                    13 tweets
+ 23. Seattle, WA                                          12 tweets
+ 24. Singapore, Singapore                                 12 tweets
+ 25. Portland, OR                                         11 tweets
+ 26. Napa County, CA                                      11 tweets
+ 27. Santa Cruz, CA                                       10 tweets
+ 28. Berkeley, CA                                         10 tweets
+ 29. Atlanta, GA                                           9 tweets
+ 30. Vancouver, Canada                                     9 tweets
+ 31. Chesnee, SC                                           8 tweets
+ 32. Detroit, MI                                           8 tweets
+ 33. Eagle, ID                                             7 tweets
+ 34. Soquel, CA                                            7 tweets
+ 35. Irvine, CA                                            7 tweets
+ 36. Rancho Cucamonga, CA                                  7 tweets
+ 37. New Orleans, LA                                       7 tweets
+ 38. Boston, MA                                            7 tweets
+ 39. Miami, FL                                             7 tweets
+ 40. San Antonio, TX                                       6 tweets
+ 41. Boise, ID                                             6 tweets
+ 42. Honolulu, HI                                          6 tweets
+ 43. West Covina, CA                                       6 tweets
+ 44. Emeryville, CA                                        6 tweets
+ 45. Saint Louis, MO                                       6 tweets
+ 46. Lafayette, CA                                         5 tweets
+ 47. Warszawa, Polska                                      5 tweets
+ 48. Newport Beach, CA                                     5 tweets
+ 49. Lincoln, NE                                           5 tweets
+ 50. Shelter Cove, CA                                      5 tweets
+
+================================================================================
+
+GEOCODING EXAMPLES (First 30 cleaned entries):
+--------------------------------------------------------------------------------
+  1. Original: Chicago, IL                             
+     Cleaned:  Chicago, IL                             
+     Standard: Chicago, IL                              (25 tweets)
+     Type:     geocoded_us
+
+  2. Original: Los Angeles                             
+     Cleaned:  Los Angeles                             
+     Standard: Los Angeles, CA                          (24 tweets)
+     Type:     geocoded_us
+
+  3. Original: Sacramento, CA                          
+     Cleaned:  Sacramento, CA                          
+     Standard: Sacramento, CA                           (20 tweets)
+     Type:     geocoded_us
+
+  4. Original: Dallas, TX                              
+     Cleaned:  Dallas, TX                              
+     Standard: Dallas, TX                               (18 tweets)
+     Type:     geocoded_us
+
+  5. Original: Dallas                                  
+     Cleaned:  Dallas                                  
+     Standard: Dallas, TX                               (16 tweets)
+     Type:     geocoded_us
+
+  6. Original: Las Vegas, NV                           
+     Cleaned:  Las Vegas, NV                           
+     Standard: Las Vegas, NV                            (15 tweets)
+     Type:     geocoded_us
+
+  7. Original: Austin, TX                              
+     Cleaned:  Austin, TX                              
+     Standard: Austin, TX                               (13 tweets)
+     Type:     geocoded_us
+
+  8. Original: Houston, TX                             
+     Cleaned:  Houston, TX                             
+     Standard: Houston, TX                              (12 tweets)
+     Type:     geocoded_us
+
+  9. Original: Denver, CO                              
+     Cleaned:  Denver, CO                              
+     Standard: Denver, CO                               (11 tweets)
+     Type:     geocoded_us
+
+ 10. Original: Portland, OR                            
+     Cleaned:  Portland, OR                            
+     Standard: Portland, OR                             (10 tweets)
+     Type:     geocoded_us
+
+ 11. Original: Los Angeles                             
+     Cleaned:  Los Angeles                             
+     Standard: Los Angeles, CA                          (10 tweets)
+     Type:     geocoded_us
+
+ 12. Original: Southern California                     
+     Cleaned:  Southern California                     
+     Standard: South Gate, CA                           (10 tweets)
+     Type:     geocoded_us
+
+ 13. Original: Toronto, Ontario                        
+     Cleaned:  Toronto, Ontario                        
+     Standard: Toronto, Canada                          (10 tweets)
+     Type:     geocoded_international
+
+ 14. Original: Santa Cruz, CA                          
+     Cleaned:  Santa Cruz, CA                          
+     Standard: Santa Cruz, CA                           (10 tweets)
+     Type:     geocoded_us
+
+ 15. Original: Phoenix, AZ                             
+     Cleaned:  Phoenix, AZ                             
+     Standard: Phoenix, AZ                              (9 tweets)
+     Type:     geocoded_us
+
+ 16. Original: San Jose, CA                            
+     Cleaned:  San Jose, CA                            
+     Standard: San Jose, CA                             (9 tweets)
+     Type:     geocoded_us
+
+ 17. Original: Seattle, WA                             
+     Cleaned:  Seattle, WA                             
+     Standard: Seattle, WA                              (8 tweets)
+     Type:     geocoded_us
+
+ 18. Original: New York, NY                            
+     Cleaned:  New York, NY                            
+     Standard: New York, NY                             (8 tweets)
+     Type:     geocoded_us
+
+ 19. Original: Atlanta, GA                             
+     Cleaned:  Atlanta, GA                             
+     Standard: Atlanta, GA                              (8 tweets)
+     Type:     geocoded_us
+
+ 20. Original: Washington, DC                          
+     Cleaned:  Washington, DC                          
+     Standard: Washington, DC                           (8 tweets)
+     Type:     geocoded_us
+
+ 21. Original: South Florida, U.S.A. 🌴🏖️🌊              
+     Cleaned:  South Florida, U.S.A.                   
+     Standard: Chesnee, SC                              (8 tweets)
+     Type:     geocoded_us
+
+ 22. Original: Philadelphia, PA                        
+     Cleaned:  Philadelphia, PA                        
+     Standard: Philadelphia, PA                         (8 tweets)
+     Type:     geocoded_us
+
+ 23. Original: Berkeley, CA                            
+     Cleaned:  Berkeley, CA                            
+     Standard: Berkeley, CA                             (8 tweets)
+     Type:     geocoded_us
+
+ 24. Original: 1114 Peralta St, Oakland, CA            
+     Cleaned:  1114 Peralta St, Oakland, CA            
+     Standard: Oakland, CA                              (7 tweets)
+     Type:     geocoded_us
+
+ 25. Original: New York City                           
+     Cleaned:  New York City                           
+     Standard: New York, NY                             (7 tweets)
+     Type:     geocoded_us
+
+ 26. Original: Manhattan, NY                           
+     Cleaned:  Manhattan, NY                           
+     Standard: New York, NY                             (7 tweets)
+     Type:     geocoded_us
+
+ 27. Original: Northern California                     
+     Cleaned:  Northern California                     
+     Standard: Napa County, CA                          (7 tweets)
+     Type:     geocoded_us
+
+ 28. Original: Silicon Valley                          
+     Cleaned:  Silicon Valley                          
+     Standard: Palo Alto, CA                            (7 tweets)
+     Type:     geocoded_us
+
+ 29. Original: Eagle, ID                               
+     Cleaned:  Eagle, ID                               
+     Standard: Eagle, ID                                (7 tweets)
+     Type:     geocoded_us
+
+ 30. Original: Soquel, California, USA                 
+     Cleaned:  Soquel, California, USA                 
+     Standard: Soquel, CA                               (7 tweets)
+     Type:     geocoded_us
+
+================================================================================
+
+FILTERED AS JUNK (First 20):
+--------------------------------------------------------------------------------
+  1. Gotham by the Bay                                  (11 tweets)
+  2. stolen land                                        (5 tweets)
+  3. 🪐                                                  (5 tweets)
+  4. Occupied Brentwood, CA                             (4 tweets)
+  5. Hell                                               (3 tweets)
+  6. Milky Way Galaxy                                   (3 tweets)
+  7. Stolen Land, Colorado                              (3 tweets)
+  8. Andromeda                                          (3 tweets)
+  9. Anywhere USA                                       (3 tweets)
+ 10. Earth, Solar System                                (2 tweets)
+ 11. Legal adult she/her                                (2 tweets)
+ 12. Lurking in your head                               (2 tweets)
+ 13. 🇺🇸                                                 (2 tweets)
+ 14. 🇺🇸🇬🇧🇬🇭                                             (2 tweets)
+ 15. Mars                                               (2 tweets)
+ 16. Dystopia USA                                       (2 tweets)
+ 17. Hamsterdam                                         (2 tweets)
+ 18. Here                                               (2 tweets)
+ 19. Pluto                                              (2 tweets)
+ 20. Occupied Yelamu Territory                          (2 tweets)
+
+================================================================================
+
+GEOCODING STATISTICS BY TYPE:
+--------------------------------------------------------------------------------
+  geocoded_us                      741 locations
+  geocoded_international           250 locations

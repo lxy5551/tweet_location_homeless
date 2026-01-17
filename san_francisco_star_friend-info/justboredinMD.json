@@ -1,0 +1,24 @@
+{
+  "hoey_gerry": {
+    "id": "1053071409033945088",
+    "name": "Gerry Hoey",
+    "screen_name": "hoey_gerry",
+    "userName": "hoey_gerry",
+    "location": "Dublin ",
+    "url": null,
+    "description": "",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 318,
+    "following_count": 764,
+    "friends_count": 764,
+    "favourites_count": 16564,
+    "statuses_count": 14902,
+    "media_tweets_count": 359,
+    "created_at": "Thu Oct 18 23:52:43 +0000 2018",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1053071409033945088/1539946014",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053083358916423685/2tLeZ3KI_normal.jpg",
+    "can_dm": false
+  }
+}

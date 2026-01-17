@@ -1,0 +1,72 @@
+Complete JSON Structure
+============================================================
+
+Top-level keys:
+  - tweet
+  - tweet_metrics
+  - tweet_entities
+  - context_annotations
+  - referenced_tweets
+  - geo
+  - place
+  - author
+  - author_metrics
+  - location_signals
+  - network_locations
+
+============================================================
+
+AUTHOR object (User Profile):
+------------------------------------------------------------
+{
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1940584082800308224/3qx02OKJ_normal.jpg",
+  "description": "",
+  "username": "J20391636",
+  "public_metrics": {
+    "followers_count": 38,
+    "following_count": 134,
+    "tweet_count": 9357,
+    "listed_count": 0,
+    "like_count": 2420,
+    "media_count": 53
+  },
+  "created_at": "2024-08-12T14:40:51.000Z",
+  "name": "Jason🇻🇦",
+  "pinned_tweet_id": "1829704459288563842",
+  "verified": false,
+  "protected": false,
+  "id": "1823006696249417728"
+}
+
+============================================================
+
+Other important keys:
+
+TWEET object keys:
+  - id
+  - text
+  - created_at
+  - author_id
+  - conversation_id
+  - in_reply_to_user_id
+  - lang
+  - possibly_sensitive
+  - reply_settings
+  - source
+  - withheld
+
+TWEET_METRICS object keys:
+  - retweet_count
+  - reply_count
+  - like_count
+  - quote_count
+  - bookmark_count
+  - impression_count
+
+AUTHOR_METRICS object keys:
+  - followers_count
+  - following_count
+  - tweet_count
+  - listed_count
+  - like_count
+  - media_count

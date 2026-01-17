@@ -1,0 +1,24 @@
+{
+  "tank_sturnoss": {
+    "id": "1789321088348172288",
+    "name": "Tank",
+    "screen_name": "tank_sturnoss",
+    "userName": "tank_sturnoss",
+    "location": "Magadonia",
+    "url": null,
+    "description": "🇺🇸The Golden Age 🇺🇸3x Donald Trump Voter 🇺🇸",
+    "email": null,
+    "protected": false,
+    "verified": false,
+    "followers_count": 48145,
+    "following_count": 33618,
+    "friends_count": 33618,
+    "favourites_count": 47430,
+    "statuses_count": 30349,
+    "media_tweets_count": 1441,
+    "created_at": "Sat May 11 15:46:31 +0000 2024",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789321088348172288/1750656246",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1936995640556343296/mvuuqofd_normal.jpg",
+    "can_dm": false
+  }
+}

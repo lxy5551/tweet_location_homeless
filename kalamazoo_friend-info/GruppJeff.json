@@ -1,0 +1,62 @@
+{
+  "TK_Coleman": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "315527421",
+      "name": "T.K. Coleman",
+      "userName": "TK_Coleman",
+      "location": "",
+      "url": "",
+      "description": "Catholic first. Co-host @theminimalists. Author of #EmotionalClutter. Student of #TheHolyRosary",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                51,
+                68
+              ],
+              "text": "EmotionalClutter"
+            },
+            {
+              "indices": [
+                81,
+                95
+              ],
+              "text": "TheHolyRosary"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                24,
+                39
+              ],
+              "name": "",
+              "screen_name": "theminimalists"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 9381,
+      "following": 1281,
+      "favouritesCount": 28874,
+      "statusesCount": 17893,
+      "mediaCount": 1870,
+      "createdAt": "2011-06-12T01:17:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/315527421/1423522437",
+      "profilePicture": "https://pbs.twimg.com/profile_images/957365489554022400/b32mFwsR_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

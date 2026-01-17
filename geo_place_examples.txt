@@ -1,0 +1,119 @@
+EXAMPLES OF RECORDS WITH GEO/PLACE DATA
+================================================================================
+
+Example 1 (Baltimore record #28):
+--------------------------------------------------------------------------------
+Username: @KrugPaulman
+Tweet: @yhdistyminen Will was replying to the fact that homelessness increased 18%.
+
+Is that economic progr...
+
+GEO data:
+{
+  "place_id": "c0b8e8dc81930292"
+}
+
+PLACE data:
+{
+  "full_name": "Baltimore, MD",
+  "place_type": "city",
+  "id": "c0b8e8dc81930292",
+  "geo": {
+    "type": "Feature",
+    "bbox": [
+      -76.7115205,
+      39.197211,
+      -76.529443,
+      39.372215
+    ],
+    "properties": {}
+  },
+  "country_code": "US",
+  "country": "United States",
+  "name": "Baltimore"
+}
+
+LOCATION_SIGNALS:
+  tweet_geo_tagged: True
+  tweet_place_name: Baltimore, MD
+  tweet_place_country: United States
+  tweet_geo_coordinates: None
+
+================================================================================
+
+Example 2 (Baltimore record #40):
+--------------------------------------------------------------------------------
+Username: @brucereeb52
+Tweet: So admist our homeless problem instead of putting up more shelter they spend donations putting up a ...
+
+GEO data:
+{
+  "place_id": "c0b8e8dc81930292"
+}
+
+PLACE data:
+{
+  "full_name": "Baltimore, MD",
+  "place_type": "city",
+  "id": "c0b8e8dc81930292",
+  "geo": {
+    "type": "Feature",
+    "bbox": [
+      -76.7115205,
+      39.197211,
+      -76.529443,
+      39.372215
+    ],
+    "properties": {}
+  },
+  "country_code": "US",
+  "country": "United States",
+  "name": "Baltimore"
+}
+
+LOCATION_SIGNALS:
+  tweet_geo_tagged: True
+  tweet_place_name: Baltimore, MD
+  tweet_place_country: United States
+  tweet_geo_coordinates: None
+
+================================================================================
+
+Example 3 (Baltimore record #113):
+--------------------------------------------------------------------------------
+Username: @SoftSide1
+Tweet: … at the holidays? That’s virtually unheard of. To say it did our hearts good to see someone go to s...
+
+GEO data:
+{
+  "place_id": "c0b8e8dc81930292"
+}
+
+PLACE data:
+{
+  "country": "United States",
+  "place_type": "city",
+  "name": "Baltimore",
+  "id": "c0b8e8dc81930292",
+  "country_code": "US",
+  "geo": {
+    "type": "Feature",
+    "bbox": [
+      -76.7115205,
+      39.197211,
+      -76.529443,
+      39.372215
+    ],
+    "properties": {}
+  },
+  "full_name": "Baltimore, MD"
+}
+
+LOCATION_SIGNALS:
+  tweet_geo_tagged: True
+  tweet_place_name: Baltimore, MD
+  tweet_place_country: United States
+  tweet_geo_coordinates: None
+
+================================================================================
+

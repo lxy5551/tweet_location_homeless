@@ -1,0 +1,996 @@
+{
+  "YackZoung": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "827312853174595586",
+      "name": "Yack Zoung",
+      "userName": "YackZoung",
+      "location": "Michigan, USA",
+      "url": "",
+      "description": "I don't like tweeter. I don't get the point of sending out twits.",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 14,
+      "following": 74,
+      "favouritesCount": 0,
+      "statusesCount": 0,
+      "mediaCount": 0,
+      "createdAt": "2017-02-03T00:28:49.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/827371973827248130/XlvUrPxB_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "WatchMuskegon": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3196492453",
+      "name": "Watch Muskegon",
+      "userName": "WatchMuskegon",
+      "location": "Muskegon, MI",
+      "url": "http://t.co/jicNjQ5Tqy",
+      "description": "Watch. Us. Go. There’s momentum building and positive things happening in Muskegon County and we think it’s time people took notice. #ThisIsMuskegon",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                133,
+                148
+              ],
+              "text": "ThisIsMuskegon"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "watchmuskegon.com",
+              "expanded_url": "http://www.watchmuskegon.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/jicNjQ5Tqy"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1991,
+      "following": 722,
+      "favouritesCount": 1040,
+      "statusesCount": 1844,
+      "mediaCount": 947,
+      "createdAt": "2015-05-15T15:14:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3196492453/1605014311",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1326152254630531072/WuHCe2cG_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1249783223674195971"
+      ]
+    }
+  },
+  "dotene": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "27860997",
+      "name": "Dotene Stephens",
+      "userName": "dotene",
+      "location": "Atlanta, GA",
+      "url": "https://t.co/4QSNgkGI6A",
+      "description": "National Advisory Board, Berkshire Hathaway. 25 years in the commercial arena and haven't seen it all.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "dotenestephens.commercialga.com",
+              "expanded_url": "http://dotenestephens.commercialga.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4QSNgkGI6A"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 487,
+      "following": 592,
+      "favouritesCount": 4181,
+      "statusesCount": 7635,
+      "mediaCount": 1982,
+      "createdAt": "2009-03-31T12:40:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/27860997/1640660713",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1153736270423740421/yaDw6kQk_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BHHSpartners": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2666755795",
+      "name": "BHHSPartnersRealty",
+      "userName": "BHHSpartners",
+      "location": "2424 Airway Drive",
+      "url": "https://t.co/WMxB9olLj5",
+      "description": "Berkshire Hathaway HomeServices Partners Realty of Bowling Green, Kentucky. 270-783-4515",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhspr.com",
+              "expanded_url": "http://bhhspr.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WMxB9olLj5"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 330,
+      "following": 896,
+      "favouritesCount": 2,
+      "statusesCount": 2207,
+      "mediaCount": 1663,
+      "createdAt": "2014-07-21T18:16:16.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2666755795/1577998291",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1244718961780023297/q_AGhWTd_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TheLoftW": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "39517438",
+      "name": "The Loft Warehouse",
+      "userName": "TheLoftW",
+      "location": "Detroit, MI",
+      "url": "https://t.co/ovp1FZVjgS",
+      "description": "Berkshire Hathaway HomeServices The Loft Warehouse; Helping people find metro Detroit's coolest places to live! 313.658.6400 #GoodToKnow",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                125,
+                136
+              ],
+              "text": "GoodToKnow"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TheLoftWarehouse.com",
+              "expanded_url": "http://www.TheLoftWarehouse.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ovp1FZVjgS"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1371,
+      "following": 1475,
+      "favouritesCount": 264,
+      "statusesCount": 2339,
+      "mediaCount": 497,
+      "createdAt": "2009-05-12T15:03:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/39517438/1513273783",
+      "profilePicture": "https://pbs.twimg.com/profile_images/908407650798362624/kgHXjNbR_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CertaProGH": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2535204355",
+      "name": "CertaPro Painters Grand Haven Area",
+      "userName": "CertaProGH",
+      "location": "Grand Haven, MI",
+      "url": "https://t.co/p0WMY9eWYF",
+      "description": "We are a Locally Owned, Licensed, and Insured Residential and Commercial Painting Company. We offer Free Written Estimates. #GrandHaven #Holland #Muskegon",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                124,
+                135
+              ],
+              "text": "GrandHaven"
+            },
+            {
+              "indices": [
+                136,
+                144
+              ],
+              "text": "Holland"
+            },
+            {
+              "indices": [
+                145,
+                154
+              ],
+              "text": "Muskegon"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "grandhavencertapro.com",
+              "expanded_url": "http://grandhavencertapro.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0WMY9eWYF"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 80,
+      "following": 341,
+      "favouritesCount": 187,
+      "statusesCount": 447,
+      "mediaCount": 289,
+      "createdAt": "2014-05-30T14:26:49.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2535204355/1533077241",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1024426363367776259/pj4ir7BR_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "bhhsstouffer": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1040700866263703558",
+      "name": "Stouffer Realty",
+      "userName": "bhhsstouffer",
+      "location": "Ohio, USA",
+      "url": "https://t.co/fjl7tcn6O8",
+      "description": "Berkshire Hathaway HomeServices Stouffer Realty provides quality real estate services to the Ohio area.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "stoufferrealty.com",
+              "expanded_url": "https://www.stoufferrealty.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fjl7tcn6O8"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 55,
+      "following": 93,
+      "favouritesCount": 4,
+      "statusesCount": 237,
+      "mediaCount": 150,
+      "createdAt": "2018-09-14T20:36:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1040700866263703558/1632944621",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1349790520269271043/RdQR-OHa_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TamaraMcHugh": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "453416672",
+      "name": "Tamara McHugh",
+      "userName": "TamaraMcHugh",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "Sales and marketing leader. Media sales expert in real estate. Active outdoor enthusiast and travel fan.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 298,
+      "following": 1078,
+      "favouritesCount": 14,
+      "statusesCount": 124,
+      "mediaCount": 2,
+      "createdAt": "2012-01-02T22:20:42.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/667108142237528064/EQNoZDa6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AnthonybordinRE": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "44215740",
+      "name": "Santa Barbara's Trusted Real Estate Advisor",
+      "userName": "AnthonybordinRE",
+      "location": "Santa Barbara",
+      "url": "https://t.co/Xb2JhnnxqU",
+      "description": "As  Santa Barbara's Trusted Real Estate Advisor, you can always count on me to be on your side whether you are buying or selling real estate.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "anthonybordin.com",
+              "expanded_url": "https://www.anthonybordin.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Xb2JhnnxqU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 280,
+      "following": 202,
+      "favouritesCount": 1096,
+      "statusesCount": 24658,
+      "mediaCount": 11594,
+      "createdAt": "2009-06-02T21:41:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/44215740/1661891933",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1238227626407260165/5C15oxqe_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "sandigentry": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "39999106",
+      "name": "Sandi Gentry",
+      "userName": "sandigentry",
+      "location": "Grand Haven, Michigan",
+      "url": "https://t.co/3mUpZxiX8j",
+      "description": "Associate Broker with REMAX Grand Haven/The SANDI GENTRY Team, The Lakeshore's Real Estate Leader, The Best Customer Service for over 30 years!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "sandigentry.com",
+              "expanded_url": "http://sandigentry.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3mUpZxiX8j"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 248,
+      "following": 110,
+      "favouritesCount": 11,
+      "statusesCount": 1340,
+      "mediaCount": 925,
+      "createdAt": "2009-05-14T14:03:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/39999106/1426171368",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1371203976482422787/MNDsPb0__normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AnnArborHomes": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "18480965",
+      "name": "Berkshire Hathaway HomeServices Snyder & Company",
+      "userName": "AnnArborHomes",
+      "location": "Berkshire Hathaway HomeServices Snyder & Company, Realtors        2655 Plymouth Road, Ann Arbor, Michigan 48105",
+      "url": "https://t.co/ub6kXnkjQc",
+      "description": "Ann Arbor fanatics and realtors too - we help find/sell homes, condos, foreclosures, rentals, vacation properties, etc. -  Let's get you home!\n(734) 747-7500",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhssnyder.com",
+              "expanded_url": "http://www.bhhssnyder.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ub6kXnkjQc"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1224,
+      "following": 1154,
+      "favouritesCount": 443,
+      "statusesCount": 6554,
+      "mediaCount": 2657,
+      "createdAt": "2008-12-30T16:35:57.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/18480965/1458239677",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1669364518328074240/FAt1cl-i_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BHHSOrendaIndia": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1437674525601132553",
+      "name": "Berkshire Hathaway HomeServices Orenda India",
+      "userName": "BHHSOrendaIndia",
+      "location": "Gurgaon, India",
+      "url": "https://t.co/7UzT2ZxMQ9",
+      "description": "We are local experts with global exposure, all set to guide you on your journey to becoming a #propertyowner.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                94,
+                108
+              ],
+              "text": "propertyowner"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhsorendaindia.com",
+              "expanded_url": "https://www.bhhsorendaindia.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7UzT2ZxMQ9"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 45,
+      "following": 83,
+      "favouritesCount": 3,
+      "statusesCount": 130,
+      "mediaCount": 126,
+      "createdAt": "2021-09-14T07:08:26.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1437674525601132553/1657716797",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1533021825432944640/BCPKK-d6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BHHSBlakeQbyLG": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "4003203515",
+      "name": "BHHSBlake - Qby / LG",
+      "userName": "BHHSBlakeQbyLG",
+      "location": "Queensbury, NY",
+      "url": "https://t.co/3M42TAqwpd",
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhsblake.com",
+              "expanded_url": "http://www.bhhsblake.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3M42TAqwpd"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 266,
+      "following": 166,
+      "favouritesCount": 125,
+      "statusesCount": 11143,
+      "mediaCount": 3310,
+      "createdAt": "2015-10-20T16:23:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/4003203515/1466531912",
+      "profilePicture": "https://pbs.twimg.com/profile_images/745314771361206272/W1nS_st5_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "996459320370851840"
+      ]
+    }
+  },
+  "BHHSPP": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "958437007017021442",
+      "name": "Berkshire Hathaway PrimeProperties",
+      "userName": "BHHSPP",
+      "location": "Greenville, NC",
+      "url": "https://t.co/f9QTTv7EB6",
+      "description": "Commitment to our home buyers and sellers makes our firm the BEST Greenville area real estate choice.   252-321-1990 Or visit https://t.co/f9QTTv7EB6",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bhhs-primeproperties.com",
+              "expanded_url": "http://bhhs-primeproperties.com",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/f9QTTv7EB6"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhs-primeproperties.com",
+              "expanded_url": "http://bhhs-primeproperties.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/f9QTTv7EB6"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 54,
+      "following": 329,
+      "favouritesCount": 97,
+      "statusesCount": 7914,
+      "mediaCount": 4085,
+      "createdAt": "2018-01-30T20:29:24.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/958437007017021442/1761054773",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1920115000607199232/ueL7gFXQ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1778151324430807326"
+      ]
+    }
+  },
+  "KathyCookRealt1": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1213667262185369600",
+      "name": "Kathy Cook, Realtor",
+      "userName": "KathyCookRealt1",
+      "location": "Michigan",
+      "url": "https://t.co/UHZdN7daHc",
+      "description": "30+ years in Real Estate as the CEO of an Association, Salesperson & the Daughter of two Brokers. Former Chamber of Commerce VP & Political Lobbyist.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "kathyanncook.com",
+              "expanded_url": "http://kathyanncook.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UHZdN7daHc"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 36,
+      "following": 203,
+      "favouritesCount": 12,
+      "statusesCount": 4,
+      "mediaCount": 0,
+      "createdAt": "2020-01-05T03:43:41.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1213791395212857344/gJasTIza_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "istormalong": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "748670338670661634",
+      "name": "Karen Storms",
+      "userName": "istormalong",
+      "location": "Hudsonville, MI",
+      "url": "",
+      "description": "Realtor",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 6,
+      "following": 86,
+      "favouritesCount": 2,
+      "statusesCount": 12,
+      "mediaCount": 4,
+      "createdAt": "2016-07-01T00:11:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/748670338670661634/1555877884",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1120058618517295110/rjgROh-9_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KimberlyDutmers": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "429867913",
+      "name": "Kimberly A Dutmers",
+      "userName": "KimberlyDutmers",
+      "location": "Grand Haven, Michigan",
+      "url": "",
+      "description": "Midwestern Artsy Girl living by the beaches of Lake MI, @EIU graduate, Graphic designer. You will find me gardening, walking or playing pickleball!",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                56,
+                60
+              ],
+              "name": "",
+              "screen_name": "EIU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 218,
+      "following": 535,
+      "favouritesCount": 3081,
+      "statusesCount": 653,
+      "mediaCount": 65,
+      "createdAt": "2011-12-06T13:53:51.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/429867913/1578105345",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1703812172319469569/4G2Isf8m_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BhhsLuxury": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1476638041758330894",
+      "name": "BHHS Luxury Collection",
+      "userName": "BhhsLuxury",
+      "location": "Global",
+      "url": "https://t.co/UqhOJ4WwFO",
+      "description": "@bhhsrealestate Luxury Collection\n\nLocal expertise, global connections.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                15
+              ],
+              "name": "",
+              "screen_name": "bhhsrealestate"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhs.com/luxury-collect…",
+              "expanded_url": "https://www.bhhs.com/luxury-collection",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UqhOJ4WwFO"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 139,
+      "following": 167,
+      "favouritesCount": 86,
+      "statusesCount": 193,
+      "mediaCount": 128,
+      "createdAt": "2021-12-30T19:35:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1476638041758330894/1675188339",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1620571508291796992/DEumgm6o_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "MoxiWorks": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2255723862",
+      "name": "MoxiWorks",
+      "userName": "MoxiWorks",
+      "location": "Seattle, WA",
+      "url": "https://t.co/loP7acHQsF",
+      "description": "Get ready to close more deals.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "moxiworks.com",
+              "expanded_url": "http://moxiworks.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/loP7acHQsF"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1365,
+      "following": 1955,
+      "favouritesCount": 2781,
+      "statusesCount": 2856,
+      "mediaCount": 969,
+      "createdAt": "2013-12-21T00:11:28.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2255723862/1752706177",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1943822124323373056/-2JQHR-F_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BHHSSpain": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1184060051964792833",
+      "name": "Berkshire Hathaway HomeServices Spain",
+      "userName": "BHHSSpain",
+      "location": "Barcelona / Madrid / Marbella",
+      "url": "https://t.co/Y3NbdKPrqG",
+      "description": "Berkshire Hathaway HomeServices Spain es una consultora inmobiliaria especializada en el asesoramiento y comercialización de viviendas de lujo.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bhhsspain.com",
+              "expanded_url": "http://www.bhhsspain.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Y3NbdKPrqG"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 227,
+      "following": 84,
+      "favouritesCount": 641,
+      "statusesCount": 951,
+      "mediaCount": 513,
+      "createdAt": "2019-10-15T10:55:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1184060051964792833/1680686058",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1643542561716412416/irru0tUw_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "StateTinsley": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1205209011496214528",
+      "name": "Jennifer Tinsley State Farm",
+      "userName": "StateTinsley",
+      "location": "Parker, CO",
+      "url": "https://t.co/f9R3ElCAzM",
+      "description": "I am a mom, Parker resident, foodie, book lover, tennis player, snow skier and State Farm agent.  I opened my agency to protect the families & community I love!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "jennifertinsley.com",
+              "expanded_url": "http://www.jennifertinsley.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/f9R3ElCAzM"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5,
+      "following": 27,
+      "favouritesCount": 0,
+      "statusesCount": 8,
+      "mediaCount": 5,
+      "createdAt": "2019-12-12T19:33:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1205209011496214528/1576181457",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1205218947802357760/9XvP9V0k_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

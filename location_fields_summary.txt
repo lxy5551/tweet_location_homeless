@@ -1,0 +1,98 @@
+LOCATION FIELDS COVERAGE - ALL CITIES
+==========================================================================================
+
+BALTIMORE
+  Total records: 428
+  1. author.location:   329 ( 76.87%)
+  2. text_annotated_places:   278 ( 64.95%)
+  3. network_locations (any):   285 ( 66.59%)
+     - mentioned_users_locations:   275 ( 64.25%)
+     - replied_to_user_location:    59 ( 13.79%)
+
+BUFFALO
+  Total records: 638
+  1. author.location:   404 ( 63.32%)
+  2. text_annotated_places:    80 ( 12.54%)
+  3. network_locations (any):   559 ( 87.62%)
+     - mentioned_users_locations:   554 ( 86.83%)
+     - replied_to_user_location:    31 (  4.86%)
+
+EL PASO
+  Total records: 79
+  1. author.location:    65 ( 82.28%)
+  2. text_annotated_places:    67 ( 84.81%)
+  3. network_locations (any):    47 ( 59.49%)
+     - mentioned_users_locations:    45 ( 56.96%)
+     - replied_to_user_location:     8 ( 10.13%)
+
+FAYETTEVILLE
+  Total records: 14
+  1. author.location:     9 ( 64.29%)
+  2. text_annotated_places:    13 ( 92.86%)
+  3. network_locations (any):     4 ( 28.57%)
+     - mentioned_users_locations:     4 ( 28.57%)
+     - replied_to_user_location:     1 (  7.14%)
+
+KALAMAZOO
+  Total records: 24
+  1. author.location:    21 ( 87.50%)
+  2. text_annotated_places:     6 ( 25.00%)
+  3. network_locations (any):    13 ( 54.17%)
+     - mentioned_users_locations:    13 ( 54.17%)
+     - replied_to_user_location:     2 (  8.33%)
+
+PORTLAND
+  Total records: 5406
+  1. author.location:  3245 ( 60.03%)
+  2. text_annotated_places:  4994 ( 92.38%)
+  3. network_locations (any):  4531 ( 83.81%)
+     - mentioned_users_locations:  4484 ( 82.94%)
+     - replied_to_user_location:   570 ( 10.54%)
+
+ROCKFORD
+  Total records: 24
+  1. author.location:    21 ( 87.50%)
+  2. text_annotated_places:    14 ( 58.33%)
+  3. network_locations (any):     5 ( 20.83%)
+     - mentioned_users_locations:     5 ( 20.83%)
+     - replied_to_user_location:     1 (  4.17%)
+
+SAN_FRANCISCO
+  Total records: 7168
+  1. author.location:  4320 ( 60.27%)
+  2. text_annotated_places:  4747 ( 66.22%)
+  3. network_locations (any):  6169 ( 86.06%)
+     - mentioned_users_locations:  6107 ( 85.20%)
+     - replied_to_user_location:   767 ( 10.70%)
+
+SCRANTON
+  Total records: 14
+  1. author.location:     6 ( 42.86%)
+  2. text_annotated_places:     6 ( 42.86%)
+  3. network_locations (any):     8 ( 57.14%)
+     - mentioned_users_locations:     8 ( 57.14%)
+     - replied_to_user_location:     4 ( 28.57%)
+
+SOUTHBEND
+  Total records: 43
+  1. author.location:    30 ( 69.77%)
+  2. text_annotated_places:    29 ( 67.44%)
+  3. network_locations (any):    17 ( 39.53%)
+     - mentioned_users_locations:    17 ( 39.53%)
+     - replied_to_user_location:     7 ( 16.28%)
+
+==========================================================================================
+OVERALL SUMMARY (All 10 cities)
+==========================================================================================
+Total records: 13838
+
+1. author.location (user profile):
+     8450 records ( 61.06%)
+
+2. text_annotated_places (mentioned in tweet text):
+    10234 records ( 73.96%)
+
+3. network_locations (from social network):
+    11638 records ( 84.10%)
+   - mentioned_users_locations:  11512 ( 83.19%)
+   - replied_to_user_location:   1450 ( 10.48%)

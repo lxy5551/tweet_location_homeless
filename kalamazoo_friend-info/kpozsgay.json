@@ -1,0 +1,1271 @@
+{
+  "DickensGreenway": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1578015314138341376",
+      "name": "Dickens Avenue Greenway",
+      "userName": "DickensGreenway",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "Great place to ride bikes with your family and hang out on a beautiful day!",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 157,
+      "following": 114,
+      "favouritesCount": 231,
+      "statusesCount": 110,
+      "mediaCount": 1,
+      "createdAt": "2022-10-06T13:32:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1578015314138341376/1708463038",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1760047618518863872/aYd-FDe8_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1836067000705003599"
+      ]
+    }
+  },
+  "ACannon_3": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "851845614",
+      "name": "Alex C",
+      "userName": "ACannon_3",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "OSHA certified. Ride your bike.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 415,
+      "following": 253,
+      "favouritesCount": 7041,
+      "statusesCount": 712,
+      "mediaCount": 129,
+      "createdAt": "2012-09-28T22:43:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/851845614/1677602714",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1697677031754911744/OMLGSVxM_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "HeenaSriv": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "950965506735071232",
+      "name": "Heena Srivastava",
+      "userName": "HeenaSriv",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "podcast producer || recent homes @npr @waitwait @WBEZ",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                37
+              ],
+              "name": "",
+              "screen_name": "npr"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                47
+              ],
+              "name": "",
+              "screen_name": "waitwait"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                48,
+                53
+              ],
+              "name": "",
+              "screen_name": "WBEZ"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 525,
+      "following": 663,
+      "favouritesCount": 3540,
+      "statusesCount": 848,
+      "mediaCount": 23,
+      "createdAt": "2018-01-10T05:40:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/950965506735071232/1722875087",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1453043850423975937/QXxhKugW_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jessedelapena": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "38943177",
+      "name": "Jesse De La Pena",
+      "userName": "jessedelapena",
+      "location": "Chicago",
+      "url": "https://t.co/6c1tqPegue",
+      "description": "Music man from the city of wind.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/jessedelapena",
+              "expanded_url": "https://linktr.ee/jessedelapena",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6c1tqPegue"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2668,
+      "following": 1477,
+      "favouritesCount": 5031,
+      "statusesCount": 15951,
+      "mediaCount": 4027,
+      "createdAt": "2009-05-09T22:37:42.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/475826157/jesse_dela_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "PersonWithPants": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "930253003474468864",
+      "name": "Good Morning",
+      "userName": "PersonWithPants",
+      "location": "",
+      "url": "",
+      "description": "Sometimes shorts. Former Environmental Scientist, current law student. Green urbanism, #bikechi, sports #LFGM, and everything in between.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                87,
+                95
+              ],
+              "text": "bikechi"
+            },
+            {
+              "indices": [
+                104,
+                109
+              ],
+              "text": "LFGM"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 228,
+      "following": 1273,
+      "favouritesCount": 75626,
+      "statusesCount": 6357,
+      "mediaCount": 309,
+      "createdAt": "2017-11-14T01:56:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/930253003474468864/1674782030",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1851429090995159040/vTZcSaMM_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ChicagoNewLibs": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1229952622859313160",
+      "name": "Chicago New Liberals",
+      "userName": "ChicagoNewLibs",
+      "location": "Chicago, IL",
+      "url": "https://t.co/or4fMVsdn8",
+      "description": "Deep Dish and Tacos • 🌭🍕🌮 • Contested Birthplace of Neoliberalism • No Ketchup • @CNLiberalism",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                81,
+                94
+              ],
+              "name": "",
+              "screen_name": "CNLiberalism"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cnliberalism.org/chicago-new-li…",
+              "expanded_url": "https://cnliberalism.org/chicago-new-liberals",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/or4fMVsdn8"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2142,
+      "following": 1528,
+      "favouritesCount": 109452,
+      "statusesCount": 1680,
+      "mediaCount": 241,
+      "createdAt": "2020-02-19T02:15:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1229952622859313160/1747264876",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1696587321225728000/dlyXZyxa_normal.png",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2009052734872514688"
+      ]
+    }
+  },
+  "SouthportBikeLn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1199049084071485442",
+      "name": "Southport Bike Lane",
+      "userName": "SouthportBikeLn",
+      "location": "Lake View, Chicago",
+      "url": "",
+      "description": "Proudly serving SUVs, @FedEX, and @UPS along the Southport Corridor in #bikeLakeview",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                71,
+                84
+              ],
+              "text": "bikeLakeview"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                22,
+                28
+              ],
+              "name": "",
+              "screen_name": "FedEX"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                34,
+                38
+              ],
+              "name": "",
+              "screen_name": "UPS"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 136,
+      "following": 154,
+      "favouritesCount": 285,
+      "statusesCount": 125,
+      "mediaCount": 8,
+      "createdAt": "2019-11-25T19:36:40.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1199049084071485442/1574724559",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1199150015647797248/3oZ4vOdy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1759110976731857013"
+      ]
+    }
+  },
+  "KilledByATE": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1795850029195825152",
+      "name": "Killed By A Traffic Engineer",
+      "userName": "KilledByATE",
+      "location": "Almost Everywhere",
+      "url": "https://t.co/nD3CdtJUH3",
+      "description": "not a cult",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "kbate.org",
+              "expanded_url": "http://www.kbate.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nD3CdtJUH3"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 109,
+      "following": 89,
+      "favouritesCount": 0,
+      "statusesCount": 147,
+      "mediaCount": 19,
+      "createdAt": "2024-05-29T16:09:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1795850029195825152/1716999344",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1795851525694050304/4VSixc0D_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "pasta_nachos": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1134145648071196674",
+      "name": "Streeterville Socialist",
+      "userName": "pasta_nachos",
+      "location": "✶ ✶ ✶ ✶",
+      "url": "",
+      "description": "🏳️‍🌈🇬🇷🏴󠁧󠁢󠁳󠁣󠁴󠁿 \nI build robots, complain about Chicago’s mass transit, and do gay stuff. Sometimes all three at once",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1672,
+      "following": 1159,
+      "favouritesCount": 86752,
+      "statusesCount": 9973,
+      "mediaCount": 422,
+      "createdAt": "2019-05-30T17:12:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1134145648071196674/1731096221",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1854747072689250311/KUhspupV_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1962671765299101765"
+      ]
+    }
+  },
+  "Lexmurphy7": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1545612341856845827",
+      "name": "Alexandra Murphy",
+      "userName": "Lexmurphy7",
+      "location": "Chicago, Ill.",
+      "url": "",
+      "description": "DePaul ’23 + MA’ 24 | @depauljournalism | current: reporter @BeckersHR past: investigative intern @blockclubchi & Special Projects Editor @14eastmag",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                22,
+                39
+              ],
+              "name": "",
+              "screen_name": "depauljournalism"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                60,
+                70
+              ],
+              "name": "",
+              "screen_name": "BeckersHR"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                98,
+                111
+              ],
+              "name": "",
+              "screen_name": "blockclubchi"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                138,
+                148
+              ],
+              "name": "",
+              "screen_name": "14eastmag"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 167,
+      "following": 227,
+      "favouritesCount": 468,
+      "statusesCount": 396,
+      "mediaCount": 43,
+      "createdAt": "2022-07-09T03:34:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1545612341856845827/1715367430",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1794898011841081344/eZjO3hYg_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1830953397568065577"
+      ]
+    }
+  },
+  "ThePatWhalen": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1368980006811164672",
+      "name": "Pat Whalen is blocked by @libs_ofchicago et al. 🌻",
+      "userName": "ThePatWhalen",
+      "location": "Urbs In Horto",
+      "url": "https://t.co/KiivZMMTd0",
+      "description": "Centrist. Civic minded people person. Part-time talk show host @besteveningever. Buffalonian in Chicago. Retweets = data, tweets my own. Best idea wins. He/Him",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                63,
+                79
+              ],
+              "name": "",
+              "screen_name": "besteveningever"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goodeveningchicago.com",
+              "expanded_url": "http://goodeveningchicago.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KiivZMMTd0"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1744,
+      "following": 2469,
+      "favouritesCount": 95814,
+      "statusesCount": 88829,
+      "mediaCount": 5583,
+      "createdAt": "2021-03-08T17:42:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1368980006811164672/1733712707",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1975720629090344960/mTtTDizv_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1718467031752683854"
+      ]
+    }
+  },
+  "JuniperFolly": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "943315863188508677",
+      "name": "Jenn🌲",
+      "userName": "JuniperFolly",
+      "location": "HTX → Chicago, IL",
+      "url": "",
+      "description": "Consultant, leftcath, bike lane defender, deeply unserious, autistic shawty ♈︎ ♋︎ ♈︎",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 6252,
+      "following": 2286,
+      "favouritesCount": 167929,
+      "statusesCount": 6147,
+      "mediaCount": 284,
+      "createdAt": "2017-12-20T03:03:22.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/943315863188508677/1759024317",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2009815650970087424/-xUYzU7O_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1968308161552720145"
+      ]
+    }
+  },
+  "jmisci": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1576604467",
+      "name": "Joseph Miscimarra 🇺🇸",
+      "userName": "jmisci",
+      "location": "Chicago",
+      "url": "",
+      "description": "I work in the energy efficiency industry and love walkable neighborhoods. Here to stay updated on climate, energy, urbanism, and weather",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2050,
+      "following": 973,
+      "favouritesCount": 52484,
+      "statusesCount": 3525,
+      "mediaCount": 981,
+      "createdAt": "2013-07-08T02:53:01.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1576604467/1664842848",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1503548091827253249/y8OGelfp_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1821206399008784776"
+      ]
+    }
+  },
+  "musharbash_b": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1244046282894737410",
+      "name": "Basel Musharbash",
+      "userName": "musharbash_b",
+      "location": "Paris, TX",
+      "url": "https://t.co/3NIaNvZig4",
+      "description": "Lawyer helping small towns build community wealth & fight monopoly power | Principal @AntimonopolyUS | Hannah Arendt & John Dewey stan | views mine",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                85,
+                100
+              ],
+              "name": "",
+              "screen_name": "AntimonopolyUS"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "antimonopoly.us",
+              "expanded_url": "http://antimonopoly.us",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3NIaNvZig4"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10711,
+      "following": 8201,
+      "favouritesCount": 224261,
+      "statusesCount": 80950,
+      "mediaCount": 2926,
+      "createdAt": "2020-03-28T23:39:06.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1244046282894737410/1644387091",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1848437549028515841/Bu4qkJ8O_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1834282799894863919"
+      ]
+    }
+  },
+  "single_spacer": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "191211938",
+      "name": "rie 🇩🇰🐾",
+      "userName": "single_spacer",
+      "location": "around",
+      "url": "",
+      "description": "➥ street art ➥ #TaxTheChurch ➥ #StandForWolves ➥ Pretend it's a City ➥ #ChiCity ✦ @ https://t.co/JlHC8Q6tBR",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                15,
+                28
+              ],
+              "text": "TaxTheChurch"
+            },
+            {
+              "indices": [
+                31,
+                46
+              ],
+              "text": "StandForWolves"
+            },
+            {
+              "indices": [
+                71,
+                79
+              ],
+              "text": "ChiCity"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "therie.bsky.social",
+              "expanded_url": "http://therie.bsky.social",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/JlHC8Q6tBR"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4107,
+      "following": 4680,
+      "favouritesCount": 219154,
+      "statusesCount": 93051,
+      "mediaCount": 5477,
+      "createdAt": "2010-09-15T21:51:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/191211938/1571895991",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1976680585859919872/01OJkff7_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1495557262290657286"
+      ]
+    }
+  },
+  "LeighGiangreco": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "220911060",
+      "name": "Leigh Giangreco",
+      "userName": "LeighGiangreco",
+      "location": "Chicago, IL",
+      "url": "https://t.co/z38qucjrhq",
+      "description": "Pronounced Lee John-Greko. Buffalonian in Chicago. Words in @BlockClubChi @Guardian @SouthSideWeekly @AFP @nytimes @CityCastChicago\nDM for Signal. On Blue🦋",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                60,
+                73
+              ],
+              "name": "",
+              "screen_name": "BlockClubChi"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                74,
+                83
+              ],
+              "name": "",
+              "screen_name": "Guardian"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                84,
+                100
+              ],
+              "name": "",
+              "screen_name": "SouthSideWeekly"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                101,
+                105
+              ],
+              "name": "",
+              "screen_name": "AFP"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                106,
+                114
+              ],
+              "name": "",
+              "screen_name": "nytimes"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                115,
+                131
+              ],
+              "name": "",
+              "screen_name": "CityCastChicago"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "leighgiangreco.com",
+              "expanded_url": "https://www.leighgiangreco.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/z38qucjrhq"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 14057,
+      "following": 12046,
+      "favouritesCount": 122099,
+      "statusesCount": 48450,
+      "mediaCount": 4877,
+      "createdAt": "2010-11-29T05:45:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/220911060/1401848006",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1580659104388898816/MASKZtj2_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Silber_Lining": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2470551904",
+      "name": "Christopher Silber",
+      "userName": "Silber_Lining",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "We Mappin | Researcher for @CookCountyTreas | UIC | DePaul | geography, journalism, etc. | mostly on Bluesky now: https://t.co/2Lb5OqXMQK || Views = my own",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "csilber.bsky.social",
+              "expanded_url": "http://csilber.bsky.social",
+              "indices": [
+                114,
+                137
+              ],
+              "url": "https://t.co/2Lb5OqXMQK"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                27,
+                43
+              ],
+              "name": "",
+              "screen_name": "CookCountyTreas"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 629,
+      "following": 573,
+      "favouritesCount": 28696,
+      "statusesCount": 7239,
+      "mediaCount": 1215,
+      "createdAt": "2014-04-09T00:46:08.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2470551904/1578631362",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1345405999377764355/XNBAP4Qx_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1172242333372506112"
+      ]
+    }
+  },
+  "mindsitenews": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1411070176653549574",
+      "name": "MindSite News",
+      "userName": "mindsitenews",
+      "location": "United States",
+      "url": "https://t.co/Lgi8v1eH09",
+      "description": "This account has been archived. Follow us on https://t.co/oB8tjMtAhJ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "mindsitenews.org",
+              "expanded_url": "http://www.mindsitenews.org",
+              "indices": [
+                45,
+                68
+              ],
+              "url": "https://t.co/oB8tjMtAhJ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/mindsitenews",
+              "expanded_url": "https://linktr.ee/mindsitenews",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Lgi8v1eH09"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2207,
+      "following": 1456,
+      "favouritesCount": 4160,
+      "statusesCount": 3709,
+      "mediaCount": 568,
+      "createdAt": "2021-07-02T21:12:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1411070176653549574/1636072143",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1432438393565155328/hJrzvfUf_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1859026142558384505"
+      ]
+    }
+  },
+  "JennaPro": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "883424646",
+      "name": "Jenna Prochaska",
+      "userName": "JennaPro",
+      "location": "Chicago, Illinois",
+      "url": "",
+      "description": "Assistant Professor @UICLaw. Formerly @HealthJusticePC @LoyolaLaw.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                20,
+                27
+              ],
+              "name": "",
+              "screen_name": "UICLaw"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                54
+              ],
+              "name": "",
+              "screen_name": "HealthJusticePC"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                55,
+                65
+              ],
+              "name": "",
+              "screen_name": "LoyolaLaw"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 244,
+      "following": 798,
+      "favouritesCount": 515,
+      "statusesCount": 203,
+      "mediaCount": 19,
+      "createdAt": "2012-10-16T01:21:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/883424646/1615388428",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1682417635290411011/LCrKej_Z_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "patchcorcoran": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "484086043",
+      "name": "P",
+      "userName": "patchcorcoran",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 287,
+      "following": 3090,
+      "favouritesCount": 11407,
+      "statusesCount": 11,
+      "mediaCount": 0,
+      "createdAt": "2012-02-05T18:27:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/484086043/1508118809",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1253775082931081217/vu8uBhpJ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "PatrickBrosnan2": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1613786606",
+      "name": "Patrick Brosnan",
+      "userName": "PatrickBrosnan2",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "Father, husband, and concerned about all things Chicago (esp. SW side).  It seems like Twitter is my only hobby...and all tweets are my own!",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1356,
+      "following": 1796,
+      "favouritesCount": 141388,
+      "statusesCount": 153713,
+      "mediaCount": 196,
+      "createdAt": "2013-07-22T22:23:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1613786606/1454192982",
+      "profilePicture": "https://pbs.twimg.com/profile_images/693561583000129536/Dk6T5129_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TomBamonte": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "48346591",
+      "name": "Thomas Bamonte",
+      "userName": "TomBamonte",
+      "location": "Chicago",
+      "url": "https://t.co/DRFXj3xjUd",
+      "description": "Transportation law, policy, and technology. Senior Advisor, Metropolitan Planning Council. Opinions my own. Emigrating to: @thomasbamonte.bsky.social",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                123,
+                137
+              ],
+              "name": "",
+              "screen_name": "thomasbamonte"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/thomasjbamo…",
+              "expanded_url": "https://www.linkedin.com/in/thomasjbamonte",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DRFXj3xjUd"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5287,
+      "following": 2939,
+      "favouritesCount": 2276,
+      "statusesCount": 32449,
+      "mediaCount": 1258,
+      "createdAt": "2009-06-18T13:20:58.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1353438420412981248/Kh8VhrTT_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "mattlindner": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "35160578",
+      "name": "Matt Lindner",
+      "userName": "mattlindner",
+      "location": "Chicago",
+      "url": "",
+      "description": "Chicago dad. 7x marathoner. Former professional mascot. Long live the neighborhood.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10999,
+      "following": 3367,
+      "favouritesCount": 55662,
+      "statusesCount": 220027,
+      "mediaCount": 14068,
+      "createdAt": "2009-04-25T05:57:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/35160578/1682224478",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1924859605865086976/T2EeylgC_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "alyssaedes": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "15859333",
+      "name": "alyssa edes 🍉",
+      "userName": "alyssaedes",
+      "location": "✶ ✶ ✶ ✶",
+      "url": "https://t.co/hfrHjbuMDy",
+      "description": "bikes, urbanism, & journalism 🌱\nnot on here 👻",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/alyssa-edes",
+              "expanded_url": "https://linkedin.com/in/alyssa-edes",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hfrHjbuMDy"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 4018,
+      "following": 3417,
+      "favouritesCount": 42541,
+      "statusesCount": 14734,
+      "mediaCount": 988,
+      "createdAt": "2008-08-15T03:18:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/15859333/1653763660",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1859142768154583040/rrExOq3B_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1789189047962767774"
+      ]
+    }
+  },
+  "culturecanceler": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1453386009413046288",
+      "name": "walter",
+      "userName": "culturecanceler",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "ragebaiting a better chicago",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1999,
+      "following": 2864,
+      "favouritesCount": 109564,
+      "statusesCount": 51274,
+      "mediaCount": 6499,
+      "createdAt": "2021-10-27T15:41:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1453386009413046288/1702522997",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1627324859146465282/nEKcY9sL_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

@@ -1,0 +1,1910 @@
+{
+  "chandlerbingsx": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "377925880",
+      "name": "Chandler Bing",
+      "userName": "chandlerbingsx",
+      "location": "",
+      "url": "https://t.co/8mIbVU03nx",
+      "description": "can i interest you in a sarcastic comment? | chandler bing parody account | fan account | not affiliated with Friends in any way |",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/friendscomedy",
+              "expanded_url": "http://instagram.com/friendscomedy",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8mIbVU03nx"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 79475,
+      "following": 69324,
+      "favouritesCount": 1353,
+      "statusesCount": 2650,
+      "mediaCount": 1839,
+      "createdAt": "2011-09-22T10:40:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/377925880/1588596813",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1257292276209979392/ELX3_1oY_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Mkrafcik": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "40996723",
+      "name": "Mike Krafcik",
+      "userName": "Mkrafcik",
+      "location": "Kalamazoo, MI",
+      "url": "",
+      "description": "Communications- Michigan Department of Labor and Economic Opportunity. Former TV News Reporter. \n\n@NewhouseSU alum",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                98,
+                109
+              ],
+              "name": "",
+              "screen_name": "NewhouseSU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1538,
+      "following": 4093,
+      "favouritesCount": 792,
+      "statusesCount": 3321,
+      "mediaCount": 1370,
+      "createdAt": "2009-05-18T23:17:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/40996723/1698434314",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1717984194238783489/Ry5G2HLt_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "jaheeres": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "22053451",
+      "name": "Jason Heeres🎥",
+      "userName": "jaheeres",
+      "location": "Allegan, MI",
+      "url": "https://t.co/5DPwKSMzGH",
+      "description": "God fearing, loving husband, father of 4. Freelance broadcast camera/replay op.  Award winning videographer, and former news junkie of 14 years.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "jaheeres.wixsite.com/mysite",
+              "expanded_url": "https://jaheeres.wixsite.com/mysite",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5DPwKSMzGH"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1200,
+      "following": 2776,
+      "favouritesCount": 11015,
+      "statusesCount": 23123,
+      "mediaCount": 5363,
+      "createdAt": "2009-02-26T20:00:44.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/22053451/1729183750",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1846956626592346112/keA08kLe_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1777798060724101326"
+      ]
+    }
+  },
+  "MichiganDMVA": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1384490372295020546",
+      "name": "Michigan DMVA",
+      "userName": "MichiganDMVA",
+      "location": "Michigan, USA",
+      "url": "https://t.co/GDShSGpWOE",
+      "description": "The Michigan Department of Military & Veterans Affairs (DMVA) consists of State Operations, @MiVeteranHomes, @MiVeteran, @MINationalGuard & the @MIArmyGuard.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                92,
+                107
+              ],
+              "name": "",
+              "screen_name": "MiVeteranHomes"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                109,
+                119
+              ],
+              "name": "",
+              "screen_name": "MiVeteran"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                121,
+                137
+              ],
+              "name": "",
+              "screen_name": "MINationalGuard"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                144,
+                156
+              ],
+              "name": "",
+              "screen_name": "MIArmyGuard"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Michigan.gov/DMVA",
+              "expanded_url": "https://www.Michigan.gov/DMVA",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GDShSGpWOE"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 493,
+      "following": 522,
+      "favouritesCount": 2229,
+      "statusesCount": 1580,
+      "mediaCount": 170,
+      "createdAt": "2021-04-20T12:57:15.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1384490372295020546/1632773111",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1409858649267265541/OAWS33HJ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "MetroKzoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2409393025",
+      "name": "MetroKzoo",
+      "userName": "MetroKzoo",
+      "location": "Kalamazoo, Michigan",
+      "url": "https://t.co/zujngL7po1",
+      "description": "Public transportation serving Kalamazoo County.  Facebook @ Metro Transit.  Bus passes to your phone https://t.co/fNjw7ldYo3.\nTrack Your Bus myStop Mobile",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "TokenTransit.com",
+              "expanded_url": "http://www.TokenTransit.com",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/fNjw7ldYo3"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kmetro.com",
+              "expanded_url": "http://kmetro.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zujngL7po1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 314,
+      "following": 209,
+      "favouritesCount": 352,
+      "statusesCount": 1379,
+      "mediaCount": 367,
+      "createdAt": "2014-03-24T18:23:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2409393025/1719927376",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1808132579272396800/iiGD5XiG_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CALTRANMichigan": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1133010968068448257",
+      "name": "CALTRAN Michigan",
+      "userName": "CALTRANMichigan",
+      "location": "Kalamazoo, MI",
+      "url": "https://t.co/eotAWKwPyn",
+      "description": "CALTRAN is a 501(c)(3) nonprofit hunger-relief charity located in Michigan.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/CALTRANMichigan",
+              "expanded_url": "http://www.facebook.com/CALTRANMichigan",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eotAWKwPyn"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 29,
+      "following": 257,
+      "favouritesCount": 82,
+      "statusesCount": 66,
+      "mediaCount": 13,
+      "createdAt": "2019-05-27T14:03:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1133010968068448257/1560224833",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1138291911628906497/G38YF4V5_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "PastramiJoes": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "99985329",
+      "name": "Pastrami Joe's",
+      "userName": "PastramiJoes",
+      "location": "Marshall, MI",
+      "url": "https://t.co/Ok16cztR7N",
+      "description": "Real, Honest Deli Food | Award-Winning Homemade Chili | Full Menu & Order Online on website",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "pastramijoes.com",
+              "expanded_url": "http://www.pastramijoes.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ok16cztR7N"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 334,
+      "following": 216,
+      "favouritesCount": 127,
+      "statusesCount": 835,
+      "mediaCount": 444,
+      "createdAt": "2009-12-28T16:09:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/99985329/1611767704",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1354478035798544385/mMKXQkxN_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CJ_H_12": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "809450856",
+      "name": "CJ Hurley",
+      "userName": "CJ_H_12",
+      "location": "U.S.A.",
+      "url": "",
+      "description": "CFG Bank Arena! Ohio University ‘20",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 542,
+      "following": 1638,
+      "favouritesCount": 8008,
+      "statusesCount": 4974,
+      "mediaCount": 184,
+      "createdAt": "2012-09-07T19:28:07.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/809450856/1513288857",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1995873069810819072/SBljYnhC_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "914889505739608064"
+      ]
+    }
+  },
+  "MattLongjohn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "887300653940432897",
+      "name": "Matt Longjohn",
+      "userName": "MattLongjohn",
+      "location": "",
+      "url": "https://t.co/5PNrfR82lo",
+      "description": "In 2024, I am running for a seat in the Michigan House of Representatives. I am running to improve the health and quality of life of all MIchiganders.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "mattlongjohn.com",
+              "expanded_url": "https://mattlongjohn.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5PNrfR82lo"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2004,
+      "following": 3133,
+      "favouritesCount": 23,
+      "statusesCount": 335,
+      "mediaCount": 57,
+      "createdAt": "2017-07-18T13:18:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/887300653940432897/1500384056",
+      "profilePicture": "https://pbs.twimg.com/profile_images/887300892759687168/rkjdO7zQ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "VelocityBandits": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "918290800878014466",
+      "name": "Truth Bandits",
+      "userName": "VelocityBandits",
+      "location": "Marshall, MI",
+      "url": "",
+      "description": "U13 travel baseball team.  We have kids from Jackson, Branch, Calhoun, Kalamazoo, and Eaton county  areas.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 87,
+      "following": 667,
+      "favouritesCount": 295,
+      "statusesCount": 45,
+      "mediaCount": 5,
+      "createdAt": "2017-10-12T01:42:42.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/918290800878014466/1508373946",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1289364896606564352/tczW_VkP_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "SamLam3485": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "46476868",
+      "name": "Samantha Lambert",
+      "userName": "SamLam3485",
+      "location": "Marshall, MI",
+      "url": "",
+      "description": "Nanny to 👧🏻👧🏼👶🏻 by day...Shipt Shopper by night...Michigan State 🏈 Philadelphia Phillies ⚾️",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 107,
+      "following": 915,
+      "favouritesCount": 57,
+      "statusesCount": 727,
+      "mediaCount": 27,
+      "createdAt": "2009-06-11T20:06:46.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/46476868/1379457599",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1122345476492341253/PczQd5ir_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DogsMumm": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "21608493",
+      "name": "Theresa Brandt",
+      "userName": "DogsMumm",
+      "location": "Anesthesia Work Room",
+      "url": "",
+      "description": "Coffee Drinker/CRNA (retired)/DogTrainer/Equestrian/Farmer/Gardener/Ham/Hoya/Imago Dei/USA&USAFR•Veteran",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 322,
+      "following": 1289,
+      "favouritesCount": 14020,
+      "statusesCount": 12624,
+      "mediaCount": 1066,
+      "createdAt": "2009-02-22T23:02:26.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/21608493/1618493161",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1271772623077281792/JGpD-f6U_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "795680492196691968"
+      ]
+    }
+  },
+  "SolutionPascal": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1590644587374288897",
+      "name": "supreme launch",
+      "userName": "SolutionPascal",
+      "location": "Johannesburg, South Africa",
+      "url": "https://t.co/BUFtbUaXNL",
+      "description": "what we do \n1. campaign optimisation \n2. targeted leads capturing \n3. SEO Optimization",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "alvinrobert779.wixsite.com/supremelauchorg",
+              "expanded_url": "https://alvinrobert779.wixsite.com/supremelauchorg",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BUFtbUaXNL"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1308,
+      "following": 6973,
+      "favouritesCount": 25047,
+      "statusesCount": 23233,
+      "mediaCount": 26,
+      "createdAt": "2022-11-10T09:57:10.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1942862599634173952/2F6Kpqs1_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "SaveWMU": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1261426388277571591",
+      "name": "Save Western Michigan University",
+      "userName": "SaveWMU",
+      "location": "Kalamazoo, MI",
+      "url": "",
+      "description": "We are faculty, staff, students, alumni, retirees, and friends of Western Michigan University resisting permanent solutions to temporary problems. Join us!",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 695,
+      "following": 955,
+      "favouritesCount": 3365,
+      "statusesCount": 2107,
+      "mediaCount": 30,
+      "createdAt": "2020-05-15T22:41:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1261426388277571591/1589584750",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1261426508591255557/Ec_cSFE-_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1430920268873179143"
+      ]
+    }
+  },
+  "feedingwestmich": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "118447237",
+      "name": "Feeding America West Michigan",
+      "userName": "feedingwestmich",
+      "location": "Comstock Park",
+      "url": "https://t.co/hVQJtQyfgo",
+      "description": "Working together to nourish 40 counties for over 40 years! #FeedingWestMich",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                59,
+                75
+              ],
+              "text": "FeedingWestMich"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "feedwm.org",
+              "expanded_url": "http://www.feedwm.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hVQJtQyfgo"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 3181,
+      "following": 1731,
+      "favouritesCount": 6756,
+      "statusesCount": 13154,
+      "mediaCount": 1806,
+      "createdAt": "2010-02-28T18:35:26.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/118447237/1680715095",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1643664309149396992/WZdZ91kl_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "kyd_network": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1313500370409336832",
+      "name": "KYD Network",
+      "userName": "kyd_network",
+      "location": "Kalamazoo ",
+      "url": "",
+      "description": "KYD Network is the intermediary for the out-of-school time sector. We ensure that all youth are college, career, and community ready by age 21. #readyyouth",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                144,
+                155
+              ],
+              "text": "readyyouth"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 33,
+      "following": 205,
+      "favouritesCount": 1,
+      "statusesCount": 10,
+      "mediaCount": 9,
+      "createdAt": "2020-10-06T15:24:37.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1313500370409336832/1602604499",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1313500539859148800/dhHxu6xU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "h2hfeedkids": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2401863481",
+      "name": "Hand2Hand",
+      "userName": "h2hfeedkids",
+      "location": "Jenison, MI ",
+      "url": "https://t.co/Pfi8uoA52I",
+      "description": "Hand2Hand delivers hope to hungry children by mobilizing schools and churches to provide nutritious food over the weekends. #WeAreHand2Hand",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                124,
+                139
+              ],
+              "text": "WeAreHand2Hand"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "h2hkids.org",
+              "expanded_url": "http://h2hkids.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Pfi8uoA52I"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 545,
+      "following": 925,
+      "favouritesCount": 128,
+      "statusesCount": 1615,
+      "mediaCount": 1156,
+      "createdAt": "2014-03-21T16:58:17.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2401863481/1693251252",
+      "profilePicture": "https://pbs.twimg.com/profile_images/983171835218071552/6gYTmpdC_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "GODISNU": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "98217411",
+      "name": "Robert Louis",
+      "userName": "GODISNU",
+      "location": "Detroit, Michigan. ",
+      "url": "",
+      "description": "I simply...LOVE! Instagram @roberthenrylouisll Cash App $2ROBLOU",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                27,
+                46
+              ],
+              "name": "",
+              "screen_name": "roberthenrylouisll"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 971,
+      "following": 7459,
+      "favouritesCount": 48093,
+      "statusesCount": 42949,
+      "mediaCount": 3163,
+      "createdAt": "2009-12-20T22:19:52.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1902419789848436736/tyJ7-17b_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TheAmandaAbsher": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1306244059665702912",
+      "name": "Amanda Absher",
+      "userName": "TheAmandaAbsher",
+      "location": "Michigan",
+      "url": "",
+      "description": "tweets about #mileg, #DisabilityTwitter, @DetDocumenters, mental health/institutional rights, current events",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                13,
+                19
+              ],
+              "text": "mileg"
+            },
+            {
+              "indices": [
+                21,
+                39
+              ],
+              "text": "DisabilityTwitter"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                41,
+                56
+              ],
+              "name": "",
+              "screen_name": "DetDocumenters"
+            }
+          ]
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 896,
+      "following": 4379,
+      "favouritesCount": 8050,
+      "statusesCount": 5989,
+      "mediaCount": 290,
+      "createdAt": "2020-09-16T14:50:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1306244059665702912/1601224893",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1508055477044789249/WN6tARC8_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1878128493608771885"
+      ]
+    }
+  },
+  "CrispinAla79679": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1926547673533833216",
+      "name": "Promise Digital",
+      "userName": "CrispinAla79679",
+      "location": "",
+      "url": "",
+      "description": "I help missions inspire action and create lasting impact through purpose-driven strategy and storytelling #MakeADifference #SupportTheCause",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                106,
+                122
+              ],
+              "text": "MakeADifference"
+            },
+            {
+              "indices": [
+                123,
+                139
+              ],
+              "text": "SupportTheCause"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 324,
+      "following": 2621,
+      "favouritesCount": 4794,
+      "statusesCount": 4650,
+      "mediaCount": 9,
+      "createdAt": "2025-05-25T07:57:51.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1926547673533833216/1749744582",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1992602258614145024/AZMkTdeL_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1956515065542131862"
+      ]
+    }
+  },
+  "MIChriscoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "355928613",
+      "name": "Chris Cooper",
+      "userName": "MIChriscoo",
+      "location": "Michigan, USA",
+      "url": "",
+      "description": "Chris Cooper is a writer and poet, an everyday cool guy. Runner. University of Michigan alum.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1802,
+      "following": 4854,
+      "favouritesCount": 114695,
+      "statusesCount": 21844,
+      "mediaCount": 785,
+      "createdAt": "2011-08-16T02:56:14.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1890801690267312128/HUmlX7vc_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BaptismUSA": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1819288297232834560",
+      "name": "Baptism USA Ministries",
+      "userName": "BaptismUSA",
+      "location": "Kalamazoo, Michigan",
+      "url": "",
+      "description": "Baptism USA Ministries is a Baptist church based in Kalamazoo, Michigan. Our mission is to teach the gospel of God and Jesus Christ according to the Holy Bible.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 49,
+      "following": 234,
+      "favouritesCount": 1445,
+      "statusesCount": 1032,
+      "mediaCount": 135,
+      "createdAt": "2024-08-02T08:25:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1819288297232834560/1756943549",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1819288881348386817/S9pL9FJy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "trans_siberian": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "29989813",
+      "name": "Trans-Siberian Orchestra",
+      "userName": "trans_siberian",
+      "location": "New York, NY",
+      "url": "https://t.co/OcRSwF6S5Z",
+      "description": "The Ghosts of Christmas Eve: The Best of TSO & More Pre-Sale Tickets Live Starting September 4th! 🎟️🔥",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "beacons.ai/transsiberiano…",
+              "expanded_url": "http://beacons.ai/transsiberianorchestra",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OcRSwF6S5Z"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 31964,
+      "following": 281,
+      "favouritesCount": 1331,
+      "statusesCount": 1683,
+      "mediaCount": 375,
+      "createdAt": "2009-04-09T14:06:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/29989813/1756393442",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1191082136029270024/0-2CzvZ0_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1961067082432360589"
+      ]
+    }
+  },
+  "FeedingBroncos": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1883610918455492608",
+      "name": "FeedingBroncos",
+      "userName": "FeedingBroncos",
+      "location": "Western Michigan University",
+      "url": "https://t.co/xpevGqrcYU",
+      "description": "A Free RSO Dinner Service for Food-Insecure Students at Western Michigan University.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "feedingbroncos.org",
+              "expanded_url": "http://feedingbroncos.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xpevGqrcYU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 27,
+      "following": 139,
+      "favouritesCount": 405,
+      "statusesCount": 262,
+      "mediaCount": 97,
+      "createdAt": "2025-01-26T20:20:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1883610918455492608/1756918942",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1883611097132892160/xW9KD-g6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KICLC": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "586757353",
+      "name": "West Michigan Area Labor Council",
+      "userName": "KICLC",
+      "location": "Grand Rapids, MI",
+      "url": "",
+      "description": "The voice for Working Famlies in Kent and Ionia Counties in the great state of Michigan.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1951,
+      "following": 2624,
+      "favouritesCount": 953,
+      "statusesCount": 4404,
+      "mediaCount": 91,
+      "createdAt": "2012-05-21T18:22:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/586757353/1429907211",
+      "profilePicture": "https://pbs.twimg.com/profile_images/739829382252875777/YgEYEsnk_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "wedplanner316": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "744397931021742080",
+      "name": "Kelly Perian",
+      "userName": "wedplanner316",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 15,
+      "following": 37,
+      "favouritesCount": 2,
+      "statusesCount": 0,
+      "mediaCount": 0,
+      "createdAt": "2016-06-19T05:14:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/744397931021742080/1468979395",
+      "profilePicture": "https://pbs.twimg.com/profile_images/755580540816805888/_pjagqcg_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "HisGripProd": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1485426576212828166",
+      "name": "His Grip Productions",
+      "userName": "HisGripProd",
+      "location": "Allegan, MI",
+      "url": "",
+      "description": "Videographer, creator,storyteller, FAA Part 107 drone licensed pilot.",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 10,
+      "following": 23,
+      "favouritesCount": 9,
+      "statusesCount": 6,
+      "mediaCount": 5,
+      "createdAt": "2022-01-24T01:37:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1485426576212828166/1643219209",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1486395207121874950/nJ11jsg6_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1487135279148376075"
+      ]
+    }
+  },
+  "leadfwdnow": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "736773775765557249",
+      "name": "LEADFORWARD",
+      "userName": "leadfwdnow",
+      "location": "",
+      "url": "https://t.co/Nsn5dzCEAi",
+      "description": "LeadForward is a national media platform connecting leadership, talent, and business while spotlighting bold ideas and emerging leaders.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "leadforwardnow.net",
+              "expanded_url": "http://www.leadforwardnow.net/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Nsn5dzCEAi"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 9535,
+      "following": 17498,
+      "favouritesCount": 7508,
+      "statusesCount": 7870,
+      "mediaCount": 1928,
+      "createdAt": "2016-05-29T04:18:51.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/736773775765557249/1767637260",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2006820568209698816/I1oG2TS8_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "catspaw79": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2494660272",
+      "name": "Cat's Crafting Connections And Gaming",
+      "userName": "catspaw79",
+      "location": "Kalamazoo, Michigan",
+      "url": "https://t.co/Ef4jnUntDB",
+      "description": "A woman in her fabulous 40s living her best life, married, animal obsessed, coffee dependent, and forever enchanted by the joy of gaming and meeting new souls.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "catscraftingconnections.shop",
+              "expanded_url": "http://www.catscraftingconnections.shop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ef4jnUntDB"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 160,
+      "following": 457,
+      "favouritesCount": 156,
+      "statusesCount": 1265,
+      "mediaCount": 214,
+      "createdAt": "2014-05-14T19:14:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2494660272/1767481871",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2007590589370441729/iCZ8E_zr_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DanBoers": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "14776260",
+      "name": "Dan Boers",
+      "userName": "DanBoers",
+      "location": "Grand Rapids, Michigan",
+      "url": "",
+      "description": "Spent 25+ years in TV newsroom leadership. West Michigan is home.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2077,
+      "following": 1914,
+      "favouritesCount": 4799,
+      "statusesCount": 8849,
+      "mediaCount": 719,
+      "createdAt": "2008-05-14T18:06:47.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/14776260/1718838830",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1810068569918701568/-gtk9v2v_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "kenlanphear": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "23071943",
+      "name": "Ken Lanphear",
+      "userName": "kenlanphear",
+      "location": "Kalamazoo, Michigan",
+      "url": "https://t.co/YGnTpS7QKX",
+      "description": "Kalamazoo Mornings with Ken Lanphear, weekday mornings 6-10, AM 590 and FM 106.9 WKZO. 56th year on the radio in my hometown.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "wkzo.com",
+              "expanded_url": "http://www.wkzo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YGnTpS7QKX"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 709,
+      "following": 765,
+      "favouritesCount": 4033,
+      "statusesCount": 5139,
+      "mediaCount": 286,
+      "createdAt": "2009-03-06T14:50:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/23071943/1530042024",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1721942034355798017/y0POWJeJ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CTSTelecom": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "117843404",
+      "name": "CTS",
+      "userName": "CTSTelecom",
+      "location": "Galesburg, MI",
+      "url": "https://t.co/vqTLB38WSz",
+      "description": "Connecting your business or organization to the world of data and voice through Southwest Michigan’s most powerful fiber-optic network.  We Answer the Call.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ctstelecom.com",
+              "expanded_url": "http://www.ctstelecom.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vqTLB38WSz"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 147,
+      "following": 637,
+      "favouritesCount": 168,
+      "statusesCount": 164,
+      "mediaCount": 61,
+      "createdAt": "2010-02-26T20:12:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/117843404/1616778818",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1500869877481017351/A8Txa-OH_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "LakersKitchen": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1472613305831280644",
+      "name": "Lakers Kitchen",
+      "userName": "LakersKitchen",
+      "location": "Allendale, Michigan",
+      "url": "",
+      "description": "Lakers Kitchen is a nonprofit charity that provides free dinners to food-insecure students attending Grand Valley State University. Not affiliated with GVSU.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 7,
+      "following": 138,
+      "favouritesCount": 12,
+      "statusesCount": 8,
+      "mediaCount": 2,
+      "createdAt": "2021-12-19T17:02:46.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1472613305831280644/1639935619",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1472613505018875907/oXTEDYIU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "revwsteinkzoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1268385568435638273",
+      "name": "Rev. William Stein",
+      "userName": "revwsteinkzoo",
+      "location": "",
+      "url": "",
+      "description": "Reverend William Stein is the Founder and Pastor of Baptism USA Ministries, a church located in Kalamazoo, Michigan.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 87,
+      "following": 585,
+      "favouritesCount": 3804,
+      "statusesCount": 2408,
+      "mediaCount": 457,
+      "createdAt": "2020-06-04T03:34:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1268385568435638273/1591242215",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1268387901110390785/POGLIXSc_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AllieJennerjahn": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1384500497801961473",
+      "name": "Allie Jennerjahn",
+      "userName": "AllieJennerjahn",
+      "location": "",
+      "url": "https://t.co/KaCE65T8Xe",
+      "description": "Reporter @denverchannel • Crime junkie • Serial napper @newhousesu ‘20 • @asucollegeoflaw ‘23",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                9,
+                23
+              ],
+              "name": "",
+              "screen_name": "denverchannel"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                55,
+                66
+              ],
+              "name": "",
+              "screen_name": "newhousesu"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                73,
+                89
+              ],
+              "name": "",
+              "screen_name": "asucollegeoflaw"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "denver7.com/allie-jennerja…",
+              "expanded_url": "https://www.denver7.com/allie-jennerjahn",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KaCE65T8Xe"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 966,
+      "following": 1214,
+      "favouritesCount": 1047,
+      "statusesCount": 1046,
+      "mediaCount": 301,
+      "createdAt": "2021-04-20T13:33:49.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1384500497801961473/1633010665",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1774764727278702592/iICoVIrZ_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "BroncosKitFound": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1427605515182518277",
+      "name": "Broncos Kitchen Foundation",
+      "userName": "BroncosKitFound",
+      "location": "Kalamazoo, Michigan",
+      "url": "https://t.co/RIoERNSI6V",
+      "description": "Broncos Kitchen Foundation is a 501(c)(3) nonprofit corporation providing financial support to food-insecure college students.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "broncoskitchen.org",
+              "expanded_url": "http://www.broncoskitchen.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RIoERNSI6V"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 78,
+      "following": 292,
+      "favouritesCount": 807,
+      "statusesCount": 489,
+      "mediaCount": 151,
+      "createdAt": "2021-08-17T12:17:46.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1427605515182518277/1629203599",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1427605667284668417/7sAVDK-r_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "KCC_StudentLife": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "902168852313890817",
+      "name": "KCC_Student_Life",
+      "userName": "KCC_StudentLife",
+      "location": "Battle Creek, MI",
+      "url": "https://t.co/GomDdJH3Aj",
+      "description": "The Student Life office of KCC supports the College’s academic goals by engaging students in programs designed to enhance their college experience.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "kellogg.edu/student-life/",
+              "expanded_url": "http://www.kellogg.edu/student-life/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GomDdJH3Aj"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 44,
+      "following": 94,
+      "favouritesCount": 2,
+      "statusesCount": 8,
+      "mediaCount": 5,
+      "createdAt": "2017-08-28T13:59:50.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/902169540552933376/EQXZkU2C_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "923888017084964864"
+      ]
+    }
+  },
+  "brianbellware": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2785319177",
+      "name": "Brian Bellware",
+      "userName": "brianbellware",
+      "location": "Kalamazoo, MI",
+      "url": "https://t.co/huAqhxdQqH",
+      "description": "I help leaders broaden their scope beyond insurance to produce sustainable, long-term results.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/bbellware",
+              "expanded_url": "http://linkedin.com/in/bbellware",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/huAqhxdQqH"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 140,
+      "following": 315,
+      "favouritesCount": 769,
+      "statusesCount": 1431,
+      "mediaCount": 107,
+      "createdAt": "2014-09-26T12:04:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2785319177/1515189572",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1721335631324774400/NLXs4azm_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Micalhoundems": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "867798917810987008",
+      "name": "Calhoun County Democrats",
+      "userName": "Micalhoundems",
+      "location": "Calhoun County, Michigan",
+      "url": "https://t.co/uKptrTeszc",
+      "description": "Working to elect Democrats to every level of government in Calhoun County.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "micalhoundems.com",
+              "expanded_url": "http://www.micalhoundems.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uKptrTeszc"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 471,
+      "following": 1595,
+      "favouritesCount": 251,
+      "statusesCount": 804,
+      "mediaCount": 193,
+      "createdAt": "2017-05-25T17:45:59.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/867798917810987008/1625611454",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1532004971587182592/BvXx70nv_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CStores1": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "116480956",
+      "name": "Davis Oil C-Stores",
+      "userName": "CStores1",
+      "location": "Battle Creek, MI",
+      "url": "https://t.co/W7W452Pnjv",
+      "description": "​Davis Oil C-Stores are family owned & operated with 20+ locations across West Michigan. We are on a mission to bring you the best in convenience everyday!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "davisoil.net",
+              "expanded_url": "http://www.davisoil.net",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/W7W452Pnjv"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 55,
+      "following": 170,
+      "favouritesCount": 11,
+      "statusesCount": 72,
+      "mediaCount": 7,
+      "createdAt": "2010-02-22T16:19:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/116480956/1606755669",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1333456201552629760/JaoT1FBT_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "marquistrillx": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "33923443",
+      "name": "MarQuis Trill | Youtuber, Streamer and Management",
+      "userName": "marquistrillx",
+      "location": "Las Vegas, NV",
+      "url": "https://t.co/iUSf1qGENI",
+      "description": "Bitcoin Class of 2017 | Crypto Trader of The Year 2018 | Binance Top 50 Influencers | I help creators & businesses with content, monetization and followers",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@marquistrill",
+              "expanded_url": "https://youtube.com/@marquistrill",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iUSf1qGENI"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1886717,
+      "following": 3698585,
+      "favouritesCount": 8204,
+      "statusesCount": 72224,
+      "mediaCount": 2003,
+      "createdAt": "2009-04-21T14:43:32.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/33923443/1765477341",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1999182936957157379/6hovcFrC_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1959828352304550237"
+      ]
+    }
+  },
+  "NowKalamazoo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "967047884083429377",
+      "name": "NowKalamazoo",
+      "userName": "NowKalamazoo",
+      "location": "Kalamazoo County, MI",
+      "url": "https://t.co/AJWjUL8TQe",
+      "description": "News 2 live/work/play in Kalamazoo County: from public policy & key community issues 2 entrepreneurs, restaurants/chefs, culture-makers. Independent & Local.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "nowkalamazoo.com/newsletter",
+              "expanded_url": "http://www.nowkalamazoo.com/newsletter",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AJWjUL8TQe"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 665,
+      "following": 880,
+      "favouritesCount": 107,
+      "statusesCount": 2972,
+      "mediaCount": 100,
+      "createdAt": "2018-02-23T14:45:57.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/967047884083429377/1692795928",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1694335093186150400/bwoCRpZI_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1642917687851450368"
+      ]
+    }
+  },
+  "MarshallCommCU": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2543512578",
+      "name": "MarshallCommCU",
+      "userName": "MarshallCommCU",
+      "location": "Michigan, USA",
+      "url": "https://t.co/zbra61p4jE",
+      "description": "Partnering with Members for financial success through service, solutions, and education.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "marshallcommunitycu.com",
+              "expanded_url": "https://www.marshallcommunitycu.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zbra61p4jE"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 378,
+      "following": 506,
+      "favouritesCount": 357,
+      "statusesCount": 1880,
+      "mediaCount": 1558,
+      "createdAt": "2014-06-03T13:32:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2543512578/1581972215",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1544352709876359174/JUlpYGSm_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  }
+}

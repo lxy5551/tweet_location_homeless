@@ -1,0 +1,397 @@
+{
+  "CommanderEagle": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1313604785384427520",
+      "name": "RedWhite&Right",
+      "userName": "CommanderEagle",
+      "location": "🦅 Eagle’s Nest 🪹 ",
+      "url": "",
+      "description": "MAGA | Viral Clips & Politics | Satire | Teresa ❤️",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 63713,
+      "following": 24721,
+      "favouritesCount": 159185,
+      "statusesCount": 69631,
+      "mediaCount": 3160,
+      "createdAt": "2020-10-06T22:19:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1313604785384427520/1763718713",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2005177624918908928/PWdtjTxA_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2010319178419642754"
+      ]
+    }
+  },
+  "keating_jo367": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1751527063058857984",
+      "name": "Josh Keating",
+      "userName": "keating_jo367",
+      "location": "Seattle, WA",
+      "url": "",
+      "description": "Official Account 🚨 🪖 🇺🇸Army Veteran | 👨‍👧 Proud Girl Dad Walking with honor, raising with heart. Service shaped me. Fatherhood refines me. .",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 1909,
+      "following": 3073,
+      "favouritesCount": 227,
+      "statusesCount": 14,
+      "mediaCount": 3,
+      "createdAt": "2024-01-28T08:46:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1751527063058857984/1752578220",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1751527350112825344/I_mQXHL9_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "prognostikater": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1656302916419096576",
+      "name": "Prognostikater",
+      "userName": "prognostikater",
+      "location": "United States",
+      "url": "",
+      "description": "Undaunted by those who wanna destroy America. 🇺🇸We’re the media now🎤#patriot #conservative #2A #UW #golf #49ers #canecorsos",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                68,
+                76
+              ],
+              "text": "patriot"
+            },
+            {
+              "indices": [
+                77,
+                90
+              ],
+              "text": "conservative"
+            },
+            {
+              "indices": [
+                91,
+                94
+              ],
+              "text": "2A"
+            },
+            {
+              "indices": [
+                95,
+                98
+              ],
+              "text": "UW"
+            },
+            {
+              "indices": [
+                99,
+                104
+              ],
+              "text": "golf"
+            },
+            {
+              "indices": [
+                105,
+                111
+              ],
+              "text": "49ers"
+            },
+            {
+              "indices": [
+                112,
+                123
+              ],
+              "text": "canecorsos"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 29211,
+      "following": 28162,
+      "favouritesCount": 54469,
+      "statusesCount": 36497,
+      "mediaCount": 211,
+      "createdAt": "2023-05-10T14:19:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1656302916419096576/1767126492",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1946780737853681664/Kq2r1S3-_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1915517835906081238"
+      ]
+    }
+  },
+  "JerseytoAsia": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2268735733",
+      "name": "𝕁𝕖𝕣𝕤𝕖𝕪𝔹𝕠𝕪",
+      "userName": "JerseytoAsia",
+      "location": "Florida",
+      "url": "",
+      "description": "Where you are shouldn't change who you are-Family-Honor-Loyalty.\n Fluent in Sarcasm & Innuendo - MAGA  IFBAP $DEBT GFOD",
+      "entities": {
+        "description": {
+          "symbols": [
+            {
+              "indices": [
+                109,
+                114
+              ],
+              "text": "DEBT"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 15881,
+      "following": 10244,
+      "favouritesCount": 156061,
+      "statusesCount": 132764,
+      "mediaCount": 897,
+      "createdAt": "2013-12-30T11:29:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2268735733/1755987168",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2011163253125120000/cVFkWaaM_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "2011913652232675575"
+      ]
+    }
+  },
+  "DIDIMARINOV": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1643693096570347539",
+      "name": "🇺🇸Didi🇺🇸 🎄",
+      "userName": "DIDIMARINOV",
+      "location": "USA🇺🇸 ",
+      "url": "",
+      "description": "NO DMs 👈🏻 SOME PPL LOOK UP TO THEIR HEROES,I RAISED MINE #MomOfUSAFVeteran🇺🇸❤️.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                57,
+                74
+              ],
+              "text": "MomOfUSAFVeteran"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 15299,
+      "following": 11680,
+      "favouritesCount": 120276,
+      "statusesCount": 97289,
+      "mediaCount": 54663,
+      "createdAt": "2023-04-05T19:13:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1643693096570347539/1737398380",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2005646183880904704/UjHAcxyk_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1729512606208061516"
+      ]
+    }
+  },
+  "JerrettKos31159": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1950234827938041856",
+      "name": "ellana kelley",
+      "userName": "JerrettKos31159",
+      "location": "Charleston, WV",
+      "url": "",
+      "description": "For Trump since and before he ever ran for office. \"We have to get our house in order.\" DJT #MAGA LE ELON WILL SAVE AMERICA FRAUD VITIATES EVERYTHING! O",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                92,
+                97
+              ],
+              "text": "MAGA"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 139,
+      "following": 1302,
+      "favouritesCount": 10,
+      "statusesCount": 12,
+      "mediaCount": 0,
+      "createdAt": "2025-07-29T16:39:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1950234827938041856/1761387930",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1982030141757726720/oa715Cbb_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "thandar324": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1518889089084370944",
+      "name": "Lord Thandar",
+      "userName": "thandar324",
+      "location": "Free State of Florida",
+      "url": "",
+      "description": "USAF Retired, Happily Married, Loves America and Freedom, Critical Thinker, History buff, Gamer, News Junkie. #MAGA #MAHA 🇺🇲🇨🇦🇬🇧",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                110,
+                115
+              ],
+              "text": "MAGA"
+            },
+            {
+              "indices": [
+                116,
+                121
+              ],
+              "text": "MAHA"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 102358,
+      "following": 58263,
+      "favouritesCount": 127071,
+      "statusesCount": 535072,
+      "mediaCount": 38825,
+      "createdAt": "2022-04-26T09:46:02.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1518889089084370944/1651240070",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1785594725392658432/tcqA_y6z_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1898760335399551040"
+      ]
+    }
+  },
+  "gman5180": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "3622507753",
+      "name": "Gary M",
+      "userName": "gman5180",
+      "location": "California, USA",
+      "url": "",
+      "description": "#MAGA. Proud Son of WW2, Korean wars vet.🇺🇲 Not here to hook up. 🚫 lists. Just a pissed off Patriot. 🇺🇲 Hubby to @janninereid1 aka #MagaMemeQueen 🇺🇸",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "MAGA"
+            },
+            {
+              "indices": [
+                131,
+                145
+              ],
+              "text": "MagaMemeQueen"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                113,
+                126
+              ],
+              "name": "",
+              "screen_name": "janninereid1"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 50001,
+      "following": 10583,
+      "favouritesCount": 61007,
+      "statusesCount": 176014,
+      "mediaCount": 3816,
+      "createdAt": "2015-09-20T02:57:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/3622507753/1512787182",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1898096894330724352/PBPEcPSX_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1949754345622548548"
+      ]
+    }
+  }
+}

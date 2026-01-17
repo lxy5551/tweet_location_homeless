@@ -1,0 +1,90 @@
+{
+  "BalikanouYarga": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "BaptismUSA": {
+    "category": "City-level",
+    "estimated_location": "Kalamazoo, MI"
+  },
+  "BattleCreekVAMC": {
+    "category": "Inferred from username",
+    "estimated_location": "Battle Creek, MI"
+  },
+  "BroncosKitFound": {
+    "category": "City-level",
+    "estimated_location": "Kalamazoo, MI"
+  },
+  "DanBorsch": {
+    "category": "City-level",
+    "estimated_location": "Louisville, KY"
+  },
+  "GodsKitchenofMI": {
+    "category": "City-level",
+    "estimated_location": "Kalamazoo, MI"
+  },
+  "GreaterOhio": {
+    "category": "City-level",
+    "estimated_location": "Columbus, OH"
+  },
+  "GruppJeff": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "KampHotMeat17": {
+    "category": "State-level",
+    "estimated_location": "Pennsylvania"
+  },
+  "KingsmenPsc": {
+    "category": "State-level",
+    "estimated_location": "Texas"
+  },
+  "Kzoo_Gazette": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "NewUrbanism": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "RS_Tweets123": {
+    "category": "City-level",
+    "estimated_location": "Chicago, IL"
+  },
+  "TiaraxNicole": {
+    "category": "City-level",
+    "estimated_location": "Chicago, IL"
+  },
+  "bfurnas": {
+    "category": "City-level",
+    "estimated_location": "New York, NY"
+  },
+  "bhhsHendrick": {
+    "category": "City-level",
+    "estimated_location": "Grand Haven, MI"
+  },
+  "jmsbadkittybeer": {
+    "category": "State-level",
+    "estimated_location": "Michigan"
+  },
+  "kpozsgay": {
+    "category": "City-level",
+    "estimated_location": "Chicago, IL"
+  },
+  "martincynthia": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "michigannews": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "stevemouzon": {
+    "category": "Bot",
+    "estimated_location": null
+  },
+  "wwmtnews": {
+    "category": "City-level",
+    "estimated_location": "Kalamazoo, MI"
+  }
+}

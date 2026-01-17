@@ -1,0 +1,2913 @@
+{
+  "OcheMyers": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2316425202",
+      "name": "Oché Mufasa",
+      "userName": "OcheMyers",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 96,
+      "following": 162,
+      "favouritesCount": 1358,
+      "statusesCount": 3194,
+      "mediaCount": 74,
+      "createdAt": "2014-01-29T03:14:24.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/605208513967583234/PE_Wnzli_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "MelaaO5": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "506941783",
+      "name": "Herms",
+      "userName": "MelaaO5",
+      "location": "",
+      "url": "",
+      "description": "🇪🇷",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 268,
+      "following": 265,
+      "favouritesCount": 5711,
+      "statusesCount": 13204,
+      "mediaCount": 560,
+      "createdAt": "2012-02-28T05:38:36.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/506941783/1500191246",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1039708008274571264/tjX0hhed_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ashleyy_n_lee": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1258433731",
+      "name": "ashley lee",
+      "userName": "ashleyy_n_lee",
+      "location": "",
+      "url": "",
+      "description": "ａｚ » u t a h v a l l e y",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 179,
+      "following": 230,
+      "favouritesCount": 2742,
+      "statusesCount": 2177,
+      "mediaCount": 143,
+      "createdAt": "2013-03-11T02:33:42.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1258433731/1480700030",
+      "profilePicture": "https://pbs.twimg.com/profile_images/804740364460404736/vkREVrqF_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "xanderpmusic": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "240946209",
+      "name": "xander p",
+      "userName": "xanderpmusic",
+      "location": "",
+      "url": "https://t.co/JDJOe0RKFv",
+      "description": "go listen to my music dawg",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkin.bio/xanderpmusic",
+              "expanded_url": "http://linkin.bio/xanderpmusic",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JDJOe0RKFv"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 341,
+      "following": 636,
+      "favouritesCount": 5184,
+      "statusesCount": 1874,
+      "mediaCount": 133,
+      "createdAt": "2011-01-21T02:59:00.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/240946209/1747348442",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1923144872573403136/cZ9lix8r_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Rager_Paigerr": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "271763060",
+      "name": "P Diddy",
+      "userName": "Rager_Paigerr",
+      "location": "Nunyafuckinbusiness",
+      "url": "",
+      "description": "ⓥegan/ 26 ♎️ / long legs to strangle you with",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 91,
+      "following": 578,
+      "favouritesCount": 4019,
+      "statusesCount": 4079,
+      "mediaCount": 489,
+      "createdAt": "2011-03-25T04:08:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/271763060/1633373993",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1405624633135562752/53AfS6mh_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "804722405755105280"
+      ]
+    }
+  },
+  "Official_IzZzy": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2198244799",
+      "name": "#KingIzZzyKa$h #CBE",
+      "userName": "Official_IzZzy",
+      "location": "416 - 647 TORONTO",
+      "url": "https://t.co/ricU6ONngr",
+      "description": "Recording Artist Send Raw Beats| My Email isaiahjjanelle@outlook.com King IzZzy Ka$h - Live It Up",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=kgBDLC…",
+              "expanded_url": "https://www.youtube.com/watch?v=kgBDLC30mjY&sns=tw",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ricU6ONngr"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 3382,
+      "following": 1774,
+      "favouritesCount": 378,
+      "statusesCount": 7146,
+      "mediaCount": 3665,
+      "createdAt": "2013-11-16T18:58:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2198244799/1480302062",
+      "profilePicture": "https://pbs.twimg.com/profile_images/800157541644824576/Mi2bqAEq_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ivon400": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1302010638",
+      "name": "FFK",
+      "userName": "ivon400",
+      "location": "",
+      "url": "",
+      "description": "Snapchat : Ivon1800",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 320,
+      "following": 389,
+      "favouritesCount": 4306,
+      "statusesCount": 12015,
+      "mediaCount": 307,
+      "createdAt": "2013-03-26T02:16:50.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/549289805704491009/vcxJeelM_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Biancacelaya3": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1244178440",
+      "name": "calypso",
+      "userName": "Biancacelaya3",
+      "location": "",
+      "url": "",
+      "description": "may you rest at easy Tata Amaranto celaya celaya 7/18/15. 😇 Ben",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 270,
+      "following": 626,
+      "favouritesCount": 6254,
+      "statusesCount": 27226,
+      "mediaCount": 1553,
+      "createdAt": "2013-03-05T17:00:29.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1244178440/1520430162",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1129938487455539200/RmyY2TlU_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "880083923652313088"
+      ]
+    }
+  },
+  "Trueline_Lead": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2458014531",
+      "name": "Trueline Leadership",
+      "userName": "Trueline_Lead",
+      "location": "Johannesburg, South Africa",
+      "url": "https://t.co/qu5plVotEb",
+      "description": "We are a 100% true value principle management consulting and training services business in South Africa",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "trueline.co.za",
+              "expanded_url": "https://www.trueline.co.za",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qu5plVotEb"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 607,
+      "following": 4497,
+      "favouritesCount": 5548,
+      "statusesCount": 1749,
+      "mediaCount": 18,
+      "createdAt": "2014-04-03T18:44:45.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2458014531/1510696461",
+      "profilePicture": "https://pbs.twimg.com/profile_images/930531014899888128/N8A69nn4_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "JonesResidence": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "317425924",
+      "name": "✊🏾.. JDQ",
+      "userName": "JonesResidence",
+      "location": "im just a charming asshole..",
+      "url": "",
+      "description": "Why TF you ain't eat it cold ...",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 410,
+      "following": 333,
+      "favouritesCount": 237,
+      "statusesCount": 95116,
+      "mediaCount": 10829,
+      "createdAt": "2011-06-14T22:39:00.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/317425924/1480645879",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1623387957033074688/Q5YgDYyT_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "MikeNotez": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2208870817",
+      "name": "MikeNotez",
+      "userName": "MikeNotez",
+      "location": "Chicago, IL ",
+      "url": "https://t.co/UPC69bNFuu",
+      "description": "Independent Recording Artist & Singer/Songwriter 🎙✍️ For all business inquiries, send an email to Contact@MikeNotez.Com 📧 Credits: Twista",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "MikeNotez.Com",
+              "expanded_url": "http://MikeNotez.Com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UPC69bNFuu"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 512,
+      "following": 269,
+      "favouritesCount": 224,
+      "statusesCount": 2818,
+      "mediaCount": 283,
+      "createdAt": "2013-11-22T12:09:37.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2208870817/1511890392",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1491911156725956616/2TPUPRXw_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1378181589977403394"
+      ]
+    }
+  },
+  "DeboisJr": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "352746925",
+      "name": "Debo❗️❗️",
+      "userName": "DeboisJr",
+      "location": "",
+      "url": "https://t.co/4cqC1qjR38",
+      "description": "Cali✈AZ #NotDone #Rise&Grind",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                8,
+                16
+              ],
+              "text": "NotDone"
+            },
+            {
+              "indices": [
+                17,
+                22
+              ],
+              "text": "Rise"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "azfinestmixtapes.com",
+              "expanded_url": "http://azfinestmixtapes.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4cqC1qjR38"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 355,
+      "following": 416,
+      "favouritesCount": 478,
+      "statusesCount": 1998,
+      "mediaCount": 19,
+      "createdAt": "2011-08-11T01:31:17.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/352746925/1535894912",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1036244479206809600/BaxmyD_h_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "petalorso": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1586292904783388672",
+      "name": "daimon",
+      "userName": "petalorso",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 21,
+      "following": 461,
+      "favouritesCount": 2675,
+      "statusesCount": 56,
+      "mediaCount": 6,
+      "createdAt": "2022-10-29T09:45:10.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1723696466902827008/4RTOEGcD_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "kayveetrey_5": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "978535356",
+      "name": "Jesus Shuttlesworth 🏀🎯",
+      "userName": "kayveetrey_5",
+      "location": "Makin a porno with yo girl ; )",
+      "url": "",
+      "description": "Kayveee, Lakers fan, Started In Compton on 400 Spruce Street, Professional Bucket Getter! #Prolific",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                90,
+                99
+              ],
+              "text": "Prolific"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 470,
+      "following": 2345,
+      "favouritesCount": 10196,
+      "statusesCount": 14365,
+      "mediaCount": 324,
+      "createdAt": "2012-11-29T15:14:28.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/978535356/1447036793",
+      "profilePicture": "https://pbs.twimg.com/profile_images/922352756563705856/oSUFsd0s_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1507934393494478851"
+      ]
+    }
+  },
+  "Aye_YounginWild": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "193118989",
+      "name": "✈ C-low Guwaaaap✈",
+      "userName": "Aye_YounginWild",
+      "location": "",
+      "url": "",
+      "description": "Bankss Niggah",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 336,
+      "following": 642,
+      "favouritesCount": 129,
+      "statusesCount": 16376,
+      "mediaCount": 137,
+      "createdAt": "2010-09-21T00:52:27.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/193118989/1700940134",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1771671590113071104/QyzdItrq_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1361822494810927104"
+      ]
+    }
+  },
+  "RaydeoActive": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "145830401",
+      "name": "baddie badu 𓂀 ✨",
+      "userName": "RaydeoActive",
+      "location": "Indy📍",
+      "url": "",
+      "description": "Raven Nicole • ig:raydeotheegemini 𓋹 • womanist ♡ • #Gemini♊️ • Twin: @KashKelez",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                52,
+                59
+              ],
+              "text": "Gemini"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                70,
+                80
+              ],
+              "name": "",
+              "screen_name": "KashKelez"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1028,
+      "following": 1124,
+      "favouritesCount": 9062,
+      "statusesCount": 115074,
+      "mediaCount": 1765,
+      "createdAt": "2010-05-20T00:18:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/145830401/1404837540",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1983062421510987776/JtEG96G0_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "DITHEGOAT": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "443108733",
+      "name": "Isaiah",
+      "userName": "DITHEGOAT",
+      "location": "St Louis, MO",
+      "url": "https://t.co/me16aAgXJY",
+      "description": "6’3",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/isaiah.itl",
+              "expanded_url": "https://linktr.ee/isaiah.itl",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/me16aAgXJY"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1213,
+      "following": 2583,
+      "favouritesCount": 9104,
+      "statusesCount": 24434,
+      "mediaCount": 1711,
+      "createdAt": "2011-12-21T20:36:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/443108733/1619629146",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1452793052343513090/kB9GO8af_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1448053321164546050"
+      ]
+    }
+  },
+  "aalysiajerilyee": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2388576538",
+      "name": "Aalysiaaa",
+      "userName": "aalysiajerilyee",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 69,
+      "following": 180,
+      "favouritesCount": 978,
+      "statusesCount": 1016,
+      "mediaCount": 28,
+      "createdAt": "2014-03-06T15:33:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2388576538/1417311496",
+      "profilePicture": "https://pbs.twimg.com/profile_images/524715643829252096/S1r__gH8_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "PabloCreed": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "316245731",
+      "name": "Chico",
+      "userName": "PabloCreed",
+      "location": "New Orleans",
+      "url": "https://t.co/mNSIZWe8ux",
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "Wolfdynasty.com",
+              "expanded_url": "http://Wolfdynasty.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mNSIZWe8ux"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 76,
+      "following": 242,
+      "favouritesCount": 530,
+      "statusesCount": 2876,
+      "mediaCount": 7,
+      "createdAt": "2011-06-13T04:46:00.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/316245731/1411598512",
+      "profilePicture": "https://pbs.twimg.com/profile_images/916120229985554434/4k4lW882_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "xilm1596sk": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1767464330226794496",
+      "name": "SK FAIZAN AHMED",
+      "userName": "xilm1596sk",
+      "location": "",
+      "url": "",
+      "description": "I  am student",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 2,
+      "following": 67,
+      "favouritesCount": 2,
+      "statusesCount": 6,
+      "mediaCount": 0,
+      "createdAt": "2024-03-12T08:15:37.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1767464452520079360/NDicb4Xj_normal.png",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "vickyyceballos": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1597219765",
+      "name": "Vickyy",
+      "userName": "vickyyceballos",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 248,
+      "following": 155,
+      "favouritesCount": 2661,
+      "statusesCount": 8327,
+      "mediaCount": 91,
+      "createdAt": "2013-07-16T01:21:07.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1597219765/1394988511",
+      "profilePicture": "https://pbs.twimg.com/profile_images/649112859381641216/KOEg6spk_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "its_nashee": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "313574155",
+      "name": "nashee",
+      "userName": "its_nashee",
+      "location": "NJ to AZ to FL to AZ again",
+      "url": "",
+      "description": "jersey bred,i travel alot and shit. dont pass me entourages. young black film student.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 610,
+      "following": 672,
+      "favouritesCount": 5138,
+      "statusesCount": 106628,
+      "mediaCount": 3904,
+      "createdAt": "2011-06-08T21:34:52.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/313574155/1390457720",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1262537866409766912/NGO2flyZ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1196318596550389762"
+      ]
+    }
+  },
+  "Sincerly_Sweet": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "706122914",
+      "name": "Judah 👑",
+      "userName": "Sincerly_Sweet",
+      "location": "",
+      "url": "",
+      "description": "Est. 96’ | IG: Truly_lala #TMC🏁",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                26,
+                30
+              ],
+              "text": "TMC"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 605,
+      "following": 564,
+      "favouritesCount": 18398,
+      "statusesCount": 15280,
+      "mediaCount": 68,
+      "createdAt": "2012-07-20T01:05:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/706122914/1619543805",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1566961673453576192/tMW7N3GC_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "tooturntbabyt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "219844924",
+      "name": "TT",
+      "userName": "tooturntbabyt",
+      "location": "Texas",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 5395,
+      "following": 531,
+      "favouritesCount": 30213,
+      "statusesCount": 98044,
+      "mediaCount": 7836,
+      "createdAt": "2010-11-26T01:38:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/219844924/1755814324",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1967384119874322432/Vlub2Pcy_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "J_CoolDude": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1080727825",
+      "name": "JCooL",
+      "userName": "J_CoolDude",
+      "location": "Houston, TX",
+      "url": "",
+      "description": "⚜️Houston Living🤘",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 12433,
+      "following": 11948,
+      "favouritesCount": 5053,
+      "statusesCount": 13906,
+      "mediaCount": 160,
+      "createdAt": "2013-01-11T19:37:39.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1080727825/1517983052",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1274814635347267584/XCx3fxPy_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "EvMovement": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2372341578",
+      "name": "Elevated Vibes",
+      "userName": "EvMovement",
+      "location": "Live Thru Your Speakers",
+      "url": "",
+      "description": "E.V.《We The New Movement》 Follow: @ElevatedVibes @Jazzy_EV",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                34,
+                48
+              ],
+              "name": "",
+              "screen_name": "ElevatedVibes"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                49,
+                58
+              ],
+              "name": "",
+              "screen_name": "Jazzy_EV"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 207,
+      "following": 1205,
+      "favouritesCount": 24,
+      "statusesCount": 33,
+      "mediaCount": 2,
+      "createdAt": "2014-03-04T20:18:27.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2372341578/1393964744",
+      "profilePicture": "https://pbs.twimg.com/profile_images/440949270024183809/EsfhuFE__normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "_keishayyy": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "240445005",
+      "name": "keish🌸",
+      "userName": "_keishayyy",
+      "location": "",
+      "url": "",
+      "description": "RIP Daddy🕊💙 Instagram: janetkeishay",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 157,
+      "following": 142,
+      "favouritesCount": 13660,
+      "statusesCount": 15206,
+      "mediaCount": 219,
+      "createdAt": "2011-01-19T23:22:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/240445005/1566888783",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1637118736640663552/QL4FmIMp_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "junior_stacks": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "177341244",
+      "name": "none",
+      "userName": "junior_stacks",
+      "location": "phx az",
+      "url": "",
+      "description": "love",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 179,
+      "following": 219,
+      "favouritesCount": 1214,
+      "statusesCount": 3075,
+      "mediaCount": 149,
+      "createdAt": "2010-08-11T22:04:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/177341244/1415724355",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1255387877640482819/cXnXVDCS_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "icolasNay": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1597654880",
+      "name": "It's Nic 💁‍♂️",
+      "userName": "icolasNay",
+      "location": "2/3/14 💚",
+      "url": "",
+      "description": "I'm not a mother fucker, I'm a daddy fucker.",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 250,
+      "following": 264,
+      "favouritesCount": 8780,
+      "statusesCount": 9479,
+      "mediaCount": 449,
+      "createdAt": "2013-07-16T06:03:23.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1597654880/1514064916",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1416114886770237440/yYWMEnca_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Rashhaaad_": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "398429044",
+      "name": "_Rashaad‼️",
+      "userName": "Rashhaaad_",
+      "location": "",
+      "url": "",
+      "description": "Mind of a Real Nigga😈 ATL 🚀- ILL✈️️ sc: cold_nigga2x STL Bound📍",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 941,
+      "following": 742,
+      "favouritesCount": 7933,
+      "statusesCount": 41197,
+      "mediaCount": 814,
+      "createdAt": "2011-10-26T01:44:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/398429044/1483303119",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1248723145864945664/IDiyQMCB_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1137394326533750789"
+      ]
+    }
+  },
+  "DaijahDonecia": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "438936760",
+      "name": "Daijah 🩷",
+      "userName": "DaijahDonecia",
+      "location": "",
+      "url": "",
+      "description": "RN/BSN 👩🏽‍⚕️ #SlightlyCrazy",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                13,
+                27
+              ],
+              "text": "SlightlyCrazy"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 324,
+      "following": 348,
+      "favouritesCount": 4258,
+      "statusesCount": 10372,
+      "mediaCount": 147,
+      "createdAt": "2011-12-17T05:41:35.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/438936760/1434387170",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1922148101025894400/kgw74OkD_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "omg_its_Faby": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1515619760",
+      "name": "Lil Cane",
+      "userName": "omg_its_Faby",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 177,
+      "following": 284,
+      "favouritesCount": 605,
+      "statusesCount": 3007,
+      "mediaCount": 134,
+      "createdAt": "2013-06-14T07:19:14.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1515619760/1452122998",
+      "profilePicture": "https://pbs.twimg.com/profile_images/868132740717309952/3_vaq4mG_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "SBakulama": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1564969234995810305",
+      "name": "Samuel Bakulama",
+      "userName": "SBakulama",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 555,
+      "following": 2504,
+      "favouritesCount": 74884,
+      "statusesCount": 2421,
+      "mediaCount": 15,
+      "createdAt": "2022-08-31T13:32:21.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1564969682330914817/Pnl6nEV5_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "OuMelaniDatBody": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "336395992",
+      "name": "Melani",
+      "userName": "OuMelaniDatBody",
+      "location": "",
+      "url": "",
+      "description": "Private & Mutual Funds Management (Melani Equity Management) 💼 ⚖️💰📈🥰",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 13972,
+      "following": 10995,
+      "favouritesCount": 5511,
+      "statusesCount": 16237,
+      "mediaCount": 527,
+      "createdAt": "2011-07-16T06:47:13.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/336395992/1701463382",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1730661239393517568/WLV7ZIj__normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "504367897230458880"
+      ]
+    }
+  },
+  "_ItsTym53": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "212819837",
+      "name": "Qing Tym",
+      "userName": "_ItsTym53",
+      "location": "New Orleans, LA",
+      "url": "https://t.co/JqVHQo7iwx",
+      "description": "Louisiana Tech University | Graphic Designer ΩΨΦ | ΑΔΔ Made | Tre Dawg |",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/watch?v=f_N2qR…",
+              "expanded_url": "https://www.youtube.com/watch?v=f_N2qR-g2AM&feature=share",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JqVHQo7iwx"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 174,
+      "following": 158,
+      "favouritesCount": 69,
+      "statusesCount": 4246,
+      "mediaCount": 230,
+      "createdAt": "2010-11-07T04:14:21.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/212819837/1566118419",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1163011057859932160/klavrUzE_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "_MemeAmor": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "484378906",
+      "name": "💋",
+      "userName": "_MemeAmor",
+      "location": "Chicago ✈️",
+      "url": "",
+      "description": "IG 📸 Memeaamor",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 12573,
+      "following": 2148,
+      "favouritesCount": 7725,
+      "statusesCount": 46785,
+      "mediaCount": 211,
+      "createdAt": "2012-02-06T01:41:23.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/484378906/1548729565",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2009079841585311744/vZnXCls9_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1418937447837274132"
+      ]
+    }
+  },
+  "SBSIII": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "437785972",
+      "name": "HomeMadeSam",
+      "userName": "SBSIII",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 451,
+      "following": 556,
+      "favouritesCount": 808,
+      "statusesCount": 16334,
+      "mediaCount": 317,
+      "createdAt": "2011-12-15T20:50:12.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/437785972/1539174940",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1719024930035990528/unUSZVce_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1047861393188433920"
+      ]
+    }
+  },
+  "desibyers": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "239459490",
+      "name": "desiree",
+      "userName": "desibyers",
+      "location": "",
+      "url": "",
+      "description": "désordonnée",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 433,
+      "following": 356,
+      "favouritesCount": 25245,
+      "statusesCount": 33856,
+      "mediaCount": 1918,
+      "createdAt": "2011-01-17T17:37:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/239459490/1723175343",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1984641187052244992/41yjDAIL_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "GeorgeJr_Flexin": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1194454188",
+      "name": "G$WORLD",
+      "userName": "GeorgeJr_Flexin",
+      "location": "From Omaha to Arizona ",
+      "url": "",
+      "description": "Keep it classy. insta:g_tha_king100",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 168,
+      "following": 284,
+      "favouritesCount": 3652,
+      "statusesCount": 2872,
+      "mediaCount": 21,
+      "createdAt": "2013-02-18T19:01:15.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1194454188/1393398821",
+      "profilePicture": "https://pbs.twimg.com/profile_images/438572144809615360/S-CGHQdq_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "ImKing_NoJames": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "304152485",
+      "name": "La'Flare",
+      "userName": "ImKing_NoJames",
+      "location": "Djibouti, Africa",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 488,
+      "following": 562,
+      "favouritesCount": 91,
+      "statusesCount": 16339,
+      "mediaCount": 192,
+      "createdAt": "2011-05-24T01:14:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/304152485/1421132713",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1229440194253815810/R7ec99HU_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "XavierEnoch": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1132083361",
+      "name": "Xavier enoch",
+      "userName": "XavierEnoch",
+      "location": "Surprise AZ ",
+      "url": "",
+      "description": "IG bigenoch70 Snapchat freshx2012",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 279,
+      "following": 966,
+      "favouritesCount": 36807,
+      "statusesCount": 2762,
+      "mediaCount": 46,
+      "createdAt": "2013-01-29T20:39:29.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1194508907806224384/3N0vh3bS_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "RaphHrtbrkBritt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "17357018",
+      "name": "Raphael Britt",
+      "userName": "RaphHrtbrkBritt",
+      "location": "",
+      "url": "https://t.co/rLIIAFNQf6",
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/raphaelbritt24",
+              "expanded_url": "https://linktr.ee/raphaelbritt24",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rLIIAFNQf6"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 137856,
+      "following": 136898,
+      "favouritesCount": 159,
+      "statusesCount": 58983,
+      "mediaCount": 429,
+      "createdAt": "2008-11-13T04:10:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/17357018/1705538787",
+      "profilePicture": "https://pbs.twimg.com/profile_images/2009311720183873537/palkjGD4_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "SIRBoomin_99": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "125814841",
+      "name": "BJ Sheppard",
+      "userName": "SIRBoomin_99",
+      "location": "Glendale,AZ",
+      "url": "",
+      "description": "99 x Vlone x Trill",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 493,
+      "following": 327,
+      "favouritesCount": 2249,
+      "statusesCount": 17874,
+      "mediaCount": 60,
+      "createdAt": "2010-03-23T23:39:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/125814841/1601302308",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1338112356593725440/tex5cTHv_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1094368634787356672"
+      ]
+    }
+  },
+  "_Veeenissa": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1008082230",
+      "name": "Vee.",
+      "userName": "_Veeenissa",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 94,
+      "following": 223,
+      "favouritesCount": 24673,
+      "statusesCount": 5492,
+      "mediaCount": 94,
+      "createdAt": "2012-12-13T05:44:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1008082230/1442207602",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1299876056598327297/XeX5VfEr_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "FutureNumber1_": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "38093067",
+      "name": "Follow New Account!",
+      "userName": "FutureNumber1_",
+      "location": "",
+      "url": "",
+      "description": "Christian - R&B Vocalist/FuturePGAGolfer/Entrepreneur (Endangered Species) IG: ChristianTaylor_CT #Faith #Family #Future",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                98,
+                104
+              ],
+              "text": "Faith"
+            },
+            {
+              "indices": [
+                105,
+                112
+              ],
+              "text": "Family"
+            },
+            {
+              "indices": [
+                113,
+                120
+              ],
+              "text": "Future"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 236,
+      "following": 284,
+      "favouritesCount": 845,
+      "statusesCount": 14638,
+      "mediaCount": 380,
+      "createdAt": "2009-05-06T02:37:11.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/38093067/1405920066",
+      "profilePicture": "https://pbs.twimg.com/profile_images/606003959317159936/2UxKF97X_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "dreee32": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "701246231",
+      "name": "drizzzzyyy",
+      "userName": "dreee32",
+      "location": "",
+      "url": "",
+      "description": "Thank God and Stay Humble.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 655,
+      "following": 924,
+      "favouritesCount": 3253,
+      "statusesCount": 6238,
+      "mediaCount": 24,
+      "createdAt": "2013-10-04T13:39:58.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/701246231/1671127981",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1620084830112292865/I22-YCpj_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "CJack502": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "482633057",
+      "name": "CJack",
+      "userName": "CJack502",
+      "location": "",
+      "url": "",
+      "description": "Louisville, Kentucky Ig Corey_1 snapchat jj_jack",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 978,
+      "following": 1034,
+      "favouritesCount": 4526,
+      "statusesCount": 39160,
+      "mediaCount": 89,
+      "createdAt": "2012-02-04T04:17:19.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/958873617214959617/7NqVO5Aj_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "staiboy_west": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "459706337",
+      "name": "we$t",
+      "userName": "staiboy_west",
+      "location": "Chicago, to AZ ",
+      "url": "",
+      "description": "boss up or get bossed around ! (Chicago to AZ ) snap me staiboywest25 IG staiboywest",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 425,
+      "following": 379,
+      "favouritesCount": 236,
+      "statusesCount": 25919,
+      "mediaCount": 130,
+      "createdAt": "2012-01-09T23:45:27.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/459706337/1443573012",
+      "profilePicture": "https://pbs.twimg.com/profile_images/765381724545003521/N3Wddl_y_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "NickR300": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "55066275",
+      "name": "NICK Reed",
+      "userName": "NickR300",
+      "location": "Austin TX",
+      "url": "",
+      "description": "I’m a Israelite 🤴🏾🤴🏾🤴🏾the real JEW SnapChat: NICKR300👻 / 📸IG: NICKR300",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1164,
+      "following": 1199,
+      "favouritesCount": 1111,
+      "statusesCount": 33595,
+      "mediaCount": 531,
+      "createdAt": "2009-07-08T23:22:20.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/55066275/1640232320",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1806381712512884736/CaaF5esm_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "AbriannaMorris": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1141925965",
+      "name": "❤️abriannaaa❤️",
+      "userName": "AbriannaMorris",
+      "location": "",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 60,
+      "following": 79,
+      "favouritesCount": 196,
+      "statusesCount": 1335,
+      "mediaCount": 32,
+      "createdAt": "2013-02-02T08:51:25.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1141925965/1378946772",
+      "profilePicture": "https://pbs.twimg.com/profile_images/890448506934120448/5OsoEl9U_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "_Reggieeee_": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "249948008",
+      "name": "reg",
+      "userName": "_Reggieeee_",
+      "location": "Avondale, AZ",
+      "url": "",
+      "description": "NJ- AZ @rcadichee_",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                7,
+                18
+              ],
+              "name": "",
+              "screen_name": "rcadichee_"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 958,
+      "following": 818,
+      "favouritesCount": 6122,
+      "statusesCount": 31814,
+      "mediaCount": 1322,
+      "createdAt": "2011-02-10T03:07:41.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/249948008/1637671942",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1654547604053848066/B0FK4PqQ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TourLifeEXP": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "346878282",
+      "name": "Tour Life Exp",
+      "userName": "TourLifeEXP",
+      "location": "South Florida ",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 54528,
+      "following": 47441,
+      "favouritesCount": 1327,
+      "statusesCount": 25425,
+      "mediaCount": 271,
+      "createdAt": "2011-08-01T23:54:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/346878282/1488318547",
+      "profilePicture": "https://pbs.twimg.com/profile_images/836694619240869888/QDCzCLW3_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "838597151227772930"
+      ]
+    }
+  },
+  "sierram_mcguire": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2374723093",
+      "name": "Sierra McGuire",
+      "userName": "sierram_mcguire",
+      "location": "Prescott Valley, AZ",
+      "url": "",
+      "description": "27 • Aquarius • 13 Scion Frs • Taken",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 51,
+      "following": 151,
+      "favouritesCount": 163,
+      "statusesCount": 306,
+      "mediaCount": 17,
+      "createdAt": "2014-03-06T03:08:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2374723093/1720992723",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1010212162046836736/krMiPnA7_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Drea_Bee_Gomez": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "794701856",
+      "name": "Andrea G",
+      "userName": "Drea_Bee_Gomez",
+      "location": "Arizona",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 106,
+      "following": 137,
+      "favouritesCount": 1374,
+      "statusesCount": 3334,
+      "mediaCount": 121,
+      "createdAt": "2012-08-31T21:22:31.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/794701856/1446687216",
+      "profilePicture": "https://pbs.twimg.com/profile_images/662080289162723328/UJSZvel5_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "Tobin_Frostt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "393100506",
+      "name": "Moyo",
+      "userName": "Tobin_Frostt",
+      "location": "",
+      "url": "",
+      "description": "Texas Tech Alumni . HTX/DTX Born winner IG:tobin_frostt Engineer/Real Estate",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 858,
+      "following": 752,
+      "favouritesCount": 6380,
+      "statusesCount": 15844,
+      "mediaCount": 63,
+      "createdAt": "2011-10-18T01:10:52.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/393100506/1512311206",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1830503675137024001/uTQnRT6R_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "937401485134106624"
+      ]
+    }
+  },
+  "APTonight": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2440660687",
+      "name": "Az Parties Tonight! ",
+      "userName": "APTonight",
+      "location": "D.M. Party Info 4 Promo",
+      "url": "",
+      "description": "The Latest Parties In Arizona",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 191,
+      "following": 1344,
+      "favouritesCount": 330,
+      "statusesCount": 130,
+      "mediaCount": 14,
+      "createdAt": "2014-04-12T22:11:43.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2440660687/1397341388",
+      "profilePicture": "https://pbs.twimg.com/profile_images/455109456720707584/lheDGYag_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "GGBreezo": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "488111401",
+      "name": "ZO",
+      "userName": "GGBreezo",
+      "location": "Chicago, IL",
+      "url": "",
+      "description": "",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 74086,
+      "following": 70198,
+      "favouritesCount": 3122,
+      "statusesCount": 12308,
+      "mediaCount": 533,
+      "createdAt": "2012-02-10T03:01:54.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/488111401/1654062537",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1866661294679506945/x5R9i7_t_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "624364134256259074"
+      ]
+    }
+  },
+  "kmgkid": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2250534129",
+      "name": "KMG Kid 🔥",
+      "userName": "kmgkid",
+      "location": "Charlotte, NC",
+      "url": "https://t.co/YU2aAW8SEI",
+      "description": "4ever heartless 💔",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtu.be/l05wCJ2Taks",
+              "expanded_url": "https://youtu.be/l05wCJ2Taks",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YU2aAW8SEI"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 11987,
+      "following": 10863,
+      "favouritesCount": 3032,
+      "statusesCount": 15528,
+      "mediaCount": 1052,
+      "createdAt": "2013-12-29T18:04:49.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2250534129/1505320721",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1369064019303235586/HExJDjLP_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "987508668873797633"
+      ]
+    }
+  },
+  "KevBeenWavy": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "449650447",
+      "name": "🌴🌊KevBeenWavy🌊🌴",
+      "userName": "KevBeenWavy",
+      "location": "Buffalo, NY",
+      "url": "https://t.co/LyVmyxQGIG",
+      "description": "#Travel  #Knicks & #Billsmafia / follow me on TikTok👇",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                7
+              ],
+              "text": "Travel"
+            },
+            {
+              "indices": [
+                9,
+                16
+              ],
+              "text": "Knicks"
+            },
+            {
+              "indices": [
+                19,
+                30
+              ],
+              "text": "Billsmafia"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tiktok.com/@kevbeenwavy?_…",
+              "expanded_url": "https://www.tiktok.com/@kevbeenwavy?_t=8p3mB9ySLDb&_r=1",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LyVmyxQGIG"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 162809,
+      "following": 129484,
+      "favouritesCount": 1600,
+      "statusesCount": 133343,
+      "mediaCount": 10166,
+      "createdAt": "2011-12-29T10:15:50.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/449650447/1760320035",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1762283610948698112/pTSV4tdD_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1655464423656439813"
+      ]
+    }
+  },
+  "Ron_0523": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "347012547",
+      "name": "ThereGoRon",
+      "userName": "Ron_0523",
+      "location": "Dallas,Tx Huntsville,Tx",
+      "url": "",
+      "description": "Young OG 2️⃣1️⃣ Im Top Top Flight Security of the World ..Not just tha City, The World.",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 496,
+      "following": 826,
+      "favouritesCount": 250,
+      "statusesCount": 4135,
+      "mediaCount": 151,
+      "createdAt": "2011-08-02T04:39:18.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/347012547/1585712438",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1281464120689270786/Qz6S-TkF_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "734794125816500226"
+      ]
+    }
+  },
+  "EasyGuwop": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2177101604",
+      "name": "foolie",
+      "userName": "EasyGuwop",
+      "location": "",
+      "url": "",
+      "description": "Dear God, please show me the way!! & if u kant show me the way please forgive me 4 being Lost!!! #CBE",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                97,
+                101
+              ],
+              "text": "CBE"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 136,
+      "following": 162,
+      "favouritesCount": 903,
+      "statusesCount": 9012,
+      "mediaCount": 230,
+      "createdAt": "2013-11-06T01:07:51.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2177101604/1461123775",
+      "profilePicture": "https://pbs.twimg.com/profile_images/722631405037965315/DBCfzWg7_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "FuckThaFame": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "207154640",
+      "name": "The ex plug",
+      "userName": "FuckThaFame",
+      "location": "Far Far away ",
+      "url": "",
+      "description": "Yesterday's price isn't the same today.\nKevin Durant is the GOAT and it's not up for debate 🖕🏾 #RIPStress #RIPRowdyWoo",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                95,
+                105
+              ],
+              "text": "RIPStress"
+            },
+            {
+              "indices": [
+                106,
+                118
+              ],
+              "text": "RIPRowdyWoo"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 959,
+      "following": 854,
+      "favouritesCount": 4443,
+      "statusesCount": 83342,
+      "mediaCount": 1582,
+      "createdAt": "2010-10-24T17:17:00.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/207154640/1417076038",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1080684295298023424/z1OQ5Aw0_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "QuisBeenTrill": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "154968190",
+      "name": "Quis",
+      "userName": "QuisBeenTrill",
+      "location": "Phoenix, AZ",
+      "url": "https://t.co/dZv3zg4BRU",
+      "description": "IG:QuisBeenTrill Snap:QuisBeenTrill. Owner of Blackandboominpodcast/Owner of Trill Care Mobile Detailing",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/Blackandboomin",
+              "expanded_url": "https://linktr.ee/Blackandboomin",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dZv3zg4BRU"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1955,
+      "following": 975,
+      "favouritesCount": 4660,
+      "statusesCount": 45968,
+      "mediaCount": 1372,
+      "createdAt": "2010-06-12T18:45:51.000000Z",
+      "coverPicture": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1545672123758170113/fVH1N-Qn_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1805260465775550949"
+      ]
+    }
+  },
+  "igetbuckets_inc": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "956754900",
+      "name": "Milik Wallace",
+      "userName": "igetbuckets_inc",
+      "location": "",
+      "url": "",
+      "description": "|Pro| |Regis College Alum| SC:igetbuckets_inc #InDueTime|ig:Milik_w7 TikTok @Milikw_7",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                46,
+                56
+              ],
+              "text": "InDueTime"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                76,
+                85
+              ],
+              "name": "",
+              "screen_name": "Milikw_7"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 526,
+      "following": 479,
+      "favouritesCount": 44410,
+      "statusesCount": 2524,
+      "mediaCount": 47,
+      "createdAt": "2012-11-19T04:53:03.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/956754900/1637858664",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1463911451689721865/0_8PWhhP_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "1299108513503997953"
+      ]
+    }
+  },
+  "champagnermg": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "192771786",
+      "name": "Raquel!",
+      "userName": "champagnermg",
+      "location": "",
+      "url": "",
+      "description": "im Raquel, 21, RMG.CHECK OUT MY YOUTUBE THERMGTV",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1904,
+      "following": 2333,
+      "favouritesCount": 9348,
+      "statusesCount": 74325,
+      "mediaCount": 4024,
+      "createdAt": "2010-09-20T03:02:33.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/192771786/1480779817",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1103291376752459777/eJ7Q2pVQ_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "stephaniejoyy20": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1479063691",
+      "name": "Stephanie Giguere",
+      "userName": "stephaniejoyy20",
+      "location": "Phoenix, AZ",
+      "url": "",
+      "description": "Memories are forever🌙",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 249,
+      "following": 206,
+      "favouritesCount": 7121,
+      "statusesCount": 5820,
+      "mediaCount": 199,
+      "createdAt": "2013-06-03T06:57:19.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1479063691/1486521677",
+      "profilePicture": "https://pbs.twimg.com/profile_images/846254538801631232/uY7QBYlE_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "_kushingt0n": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "352802035",
+      "name": "RawZo",
+      "userName": "_kushingt0n",
+      "location": "LansingMI✈TampaFL",
+      "url": "",
+      "description": "Ar'Reylle Gomez has my ❤️... Ball Like Im Curry #GMSL #JB",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                48,
+                53
+              ],
+              "text": "GMSL"
+            },
+            {
+              "indices": [
+                54,
+                57
+              ],
+              "text": "JB"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 894,
+      "following": 766,
+      "favouritesCount": 3854,
+      "statusesCount": 32821,
+      "mediaCount": 98,
+      "createdAt": "2011-08-11T03:10:35.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/352802035/1490067602",
+      "profilePicture": "https://pbs.twimg.com/profile_images/833446936527196161/0OYP9uuX_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "YMCMBboss": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "268637326",
+      "name": "Jake Marsteen",
+      "userName": "YMCMBboss",
+      "location": "Surprise, AZ",
+      "url": "",
+      "description": "\\GCC/EMCC/🏈🔴PATRIOTS🔵🏈AZFL Predators🏈",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 41,
+      "following": 65,
+      "favouritesCount": 161,
+      "statusesCount": 377,
+      "mediaCount": 27,
+      "createdAt": "2011-03-19T05:01:07.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/268637326/1468177013",
+      "profilePicture": "https://pbs.twimg.com/profile_images/960238954690719744/HBSIReZR_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "kkeeyyaaiirraa": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "344403489",
+      "name": "keyaairaaaaaaa",
+      "userName": "kkeeyyaaiirraa",
+      "location": "",
+      "url": "",
+      "description": "Shine bright everyday ✨",
+      "entities": {
+        "description": {}
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 262,
+      "following": 364,
+      "favouritesCount": 1793,
+      "statusesCount": 18497,
+      "mediaCount": 207,
+      "createdAt": "2011-07-29T00:56:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/344403489/1626499771",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1416268802979942402/tVjSdca4_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "TheHumbleRookie": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "1316055836",
+      "name": "Wendell",
+      "userName": "TheHumbleRookie",
+      "location": "",
+      "url": "https://t.co/4q48meOQih",
+      "description": "M 🫶🏽",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "curiouscat.me/Wendell",
+              "expanded_url": "https://curiouscat.me/Wendell",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4q48meOQih"
+            }
+          ]
+        }
+      },
+      "protected": true,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 347,
+      "following": 435,
+      "favouritesCount": 93380,
+      "statusesCount": 20798,
+      "mediaCount": 351,
+      "createdAt": "2013-03-30T08:46:34.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1316055836/1591287788",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1494782785164353544/d1AbeF50_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "GerardLilVert": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2258299190",
+      "name": "RARDI RARD",
+      "userName": "GerardLilVert",
+      "location": "The Bronx",
+      "url": "https://t.co/MY4ypZDFlm",
+      "description": "Album Drops Soon!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "Youtube.com/GerardGerardTv",
+              "expanded_url": "http://Youtube.com/GerardGerardTv",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MY4ypZDFlm"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 1248,
+      "following": 415,
+      "favouritesCount": 1766,
+      "statusesCount": 156272,
+      "mediaCount": 152528,
+      "createdAt": "2013-12-23T01:06:48.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2258299190/1478579457",
+      "profilePicture": "https://pbs.twimg.com/profile_images/985971898134745088/ow6e08Id_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "676432421353574400"
+      ]
+    }
+  },
+  "chief_savage300": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "2250992907",
+      "name": "_gloryboyshxt_",
+      "userName": "chief_savage300",
+      "location": "",
+      "url": "",
+      "description": "Im that nigga , im that nigga had to say it twice #OTG #OTF #FMG #BBE",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                50,
+                54
+              ],
+              "text": "OTG"
+            },
+            {
+              "indices": [
+                55,
+                59
+              ],
+              "text": "OTF"
+            },
+            {
+              "indices": [
+                60,
+                64
+              ],
+              "text": "FMG"
+            },
+            {
+              "indices": [
+                65,
+                69
+              ],
+              "text": "BBE"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 64,
+      "following": 72,
+      "favouritesCount": 3,
+      "statusesCount": 93,
+      "mediaCount": 0,
+      "createdAt": "2013-12-29T23:12:57.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/2250992907/1407394698",
+      "profilePicture": "https://pbs.twimg.com/profile_images/497279799849943040/_tAyQJ6h_normal.jpeg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "bubbagmp0296": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "962827645",
+      "name": "Joe Joe",
+      "userName": "bubbagmp0296",
+      "location": "",
+      "url": "",
+      "description": "24 I'm my mothers child 05/20/74-09/02/15 02/01/90-01/01/18. 08/11/71-03/30/20",
+      "entities": {
+        "description": {}
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "followers": 179,
+      "following": 369,
+      "favouritesCount": 13664,
+      "statusesCount": 5685,
+      "mediaCount": 202,
+      "createdAt": "2012-11-21T18:00:55.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/962827645/1403167268",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1483542128571473923/dwMoazqx_normal.jpg",
+      "canDm": false,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": []
+    }
+  },
+  "broadwatermgmt": {
+    "status": "success",
+    "msg": "success",
+    "data": {
+      "id": "382296252",
+      "name": "Maliachi.sol",
+      "userName": "broadwatermgmt",
+      "location": "Los Angeles, CA",
+      "url": "https://t.co/FRso7MQzIT",
+      "description": "@howardu alum networking 6”5 co founder @thug_nugz on @solana @magiceden let’s work",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                8
+              ],
+              "name": "",
+              "screen_name": "howardu"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                40,
+                50
+              ],
+              "name": "",
+              "screen_name": "thug_nugz"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                54,
+                61
+              ],
+              "name": "",
+              "screen_name": "solana"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                62,
+                72
+              ],
+              "name": "",
+              "screen_name": "magiceden"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hoo.be/maliachibroadw…",
+              "expanded_url": "http://hoo.be/maliachibroadwater",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/FRso7MQzIT"
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "followers": 72152,
+      "following": 72170,
+      "favouritesCount": 2756,
+      "statusesCount": 49918,
+      "mediaCount": 369,
+      "createdAt": "2011-09-29T20:36:10.000000Z",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/382296252/1724569550",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1839179959216058368/n_Fdp7Uo_normal.jpg",
+      "canDm": true,
+      "affiliatesHighlightedLabel": {},
+      "isAutomated": false,
+      "automatedBy": null,
+      "pinnedTweetIds": [
+        "516103667674800128"
+      ]
+    }
+  }
+}
