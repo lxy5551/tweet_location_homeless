@@ -12,7 +12,7 @@
 #   ./run_pipeline.sh 3s --range 1-5         (run step 3 for star users)
 #   ./run_pipeline.sh 3.1s --range 1-5       (run step 3.1 for star users)
 #   ./run_pipeline.sh 4 --range 1-5          (run step 4: merge all results)
-#   ./run_pipeline.sh 5 --range 1-5          (run step 5: export CSV)
+#   ./run_pipeline.sh 5          (run step 5: export CSV)
 #   ./run_pipeline.sh all --range 1-5        (run all steps)
 #
 # Multi-threading (for step 3.1/3.1s - fetch followers/followings):
